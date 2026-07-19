@@ -1,0 +1,222 @@
+[
+  {
+    "id": "dest-jodhpur",
+    "slug": "jodhpur",
+    "name": "Jodhpur",
+    "state": "Rajasthan",
+    "country": "India",
+    "category": "Heritage",
+    "budget": "Medium",
+    "rating": 4.6,
+    "coverImage": "https://images.unsplash.com/photo-1599661555358-0ea15104be99?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": "dest-andaman",
+    "slug": "andaman-islands",
+    "name": "Andaman Islands",
+    "state": "AndamanNicobar",
+    "country": "India",
+    "category": "Islands & Beaches",
+    "budget": "High",
+    "rating": 4.8,
+    "coverImage": "https://images.unsplash.com/photo-1616128479592-7486e9690d5f?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": "dest-lakshadweep",
+    "slug": "lakshadweep",
+    "name": "Lakshadweep",
+    "state": "Lakshadweep",
+    "country": "India",
+    "category": "Islands & Beaches",
+    "budget": "High",
+    "rating": 4.7,
+    "coverImage": "https://images.unsplash.com/photo-1596701389599-281b6c0b39be?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": "dest-rishikesh",
+    "slug": "rishikesh",
+    "name": "Rishikesh",
+    "state": "Uttarakhand",
+    "country": "India",
+    "category": "Spiritual & Adventure",
+    "budget": "Low",
+    "rating": 4.8,
+    "coverImage": "https://images.unsplash.com/photo-1598585449909-0f04c637fa9d?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": "dest-varanasi",
+    "slug": "varanasi",
+    "name": "Varanasi",
+    "state": "UttarPradesh",
+    "country": "India",
+    "category": "Spiritual",
+    "budget": "Medium",
+    "rating": 4.7,
+    "coverImage": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?q=80&w=2076&auto=format&fit=crop"
+  },
+  {
+    "id": "dest-amritsar",
+    "slug": "amritsar",
+    "name": "Amritsar",
+    "state": "Punjab",
+    "country": "India",
+    "category": "Culture & Heritage",
+    "budget": "Medium",
+    "rating": 4.8,
+    "coverImage": "https://images.unsplash.com/photo-1586521995568-39abaa0c2311?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": "dest-nainital",
+    "slug": "nainital",
+    "name": "Nainital",
+    "state": "Uttarakhand",
+    "country": "India",
+    "category": "Hill Station",
+    "budget": "Medium",
+    "rating": 4.5,
+    "coverImage": "https://images.unsplash.com/photo-1596701389599-281b6c0b39be?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": "dest-mussoorie",
+    "slug": "mussoorie",
+    "name": "Mussoorie",
+    "state": "Uttarakhand",
+    "country": "India",
+    "category": "Hill Station",
+    "budget": "Medium",
+    "rating": 4.4,
+    "coverImage": "https://images.unsplash.com/photo-1627961918349-f00e9647242d?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": "dest-auli",
+    "slug": "auli",
+    "name": "Auli",
+    "state": "Uttarakhand",
+    "country": "India",
+    "category": "Adventure & Skiing",
+    "budget": "Medium",
+    "rating": 4.6,
+    "coverImage": "https://images.unsplash.com/photo-1627961918349-f00e9647242d?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": "dest-dehradun",
+    "slug": "dehradun",
+    "name": "Dehradun",
+    "state": "Uttarakhand",
+    "country": "India",
+    "category": "City & Nature",
+    "budget": "Medium",
+    "rating": 4.3,
+    "coverImage": "https://images.unsplash.com/photo-1627961918349-f00e9647242d?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": "dest-ajmer",
+    "slug": "ajmer",
+    "name": "Ajmer",
+    "state": "Rajasthan",
+    "country": "India",
+    "category": "Spiritual & Heritage",
+    "budget": "Low",
+    "rating": 4.2,
+    "coverImage": "https://images.unsplash.com/photo-1595844730298-b960fad99667?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": "dest-bikaner",
+    "slug": "bikaner",
+    "name": "Bikaner",
+    "state": "Rajasthan",
+    "country": "India",
+    "category": "Heritage & Desert",
+    "budget": "Medium",
+    "rating": 4.5,
+    "coverImage": "https://images.unsplash.com/photo-1599661555358-0ea15104be99?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": "dest-chittorgarh",
+    "slug": "chittorgarh",
+    "name": "Chittorgarh",
+    "state": "Rajasthan",
+    "country": "India",
+    "category": "Heritage & History",
+    "budget": "Medium",
+    "rating": 4.6,
+    "coverImage": "https://images.unsplash.com/photo-1595844730298-b960fad99667?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": "dest-mount-abu",
+    "slug": "mount-abu",
+    "name": "Mount Abu",
+    "state": "Rajasthan",
+    "country": "India",
+    "category": "Hill Station",
+    "budget": "Medium",
+    "rating": 4.4,
+    "coverImage": "https://images.unsplash.com/photo-1627961918349-f00e9647242d?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": "dest-chandigarh",
+    "slug": "chandigarh",
+    "name": "Chandigarh",
+    "state": "Chandigarh",
+    "country": "India",
+    "category": "City & Architecture",
+    "budget": "Medium",
+    "rating": 4.5,
+    "coverImage": "https://images.unsplash.com/photo-1596701389599-281b6c0b39be?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": "dest-ahmedabad",
+    "slug": "ahmedabad",
+    "name": "Ahmedabad",
+    "state": "Gujarat",
+    "country": "India",
+    "category": "Heritage & Culture",
+    "budget": "Medium",
+    "rating": 4.5,
+    "coverImage": "https://images.unsplash.com/photo-1596701389599-281b6c0b39be?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": "dest-hyderabad",
+    "slug": "hyderabad",
+    "name": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "category": "Heritage & Modern City",
+    "budget": "Medium",
+    "rating": 4.6,
+    "coverImage": "https://images.unsplash.com/photo-1588612140409-906d2091410d?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": "dest-kanyakumari",
+    "slug": "kanyakumari",
+    "name": "Kanyakumari",
+    "state": "TamilNadu",
+    "country": "India",
+    "category": "Spiritual & Coastal",
+    "budget": "Medium",
+    "rating": 4.4,
+    "coverImage": "https://images.unsplash.com/photo-1627961918349-f00e9647242d?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": "dest-madurai",
+    "slug": "madurai",
+    "name": "Madurai",
+    "state": "TamilNadu",
+    "country": "India",
+    "category": "Heritage & Temple City",
+    "budget": "Medium",
+    "rating": 4.6,
+    "coverImage": "https://images.unsplash.com/photo-1596701389599-281b6c0b39be?q=80&w=2070&auto=format&fit=crop"
+  },
+  {
+    "id": "dest-chennai",
+    "slug": "chennai",
+    "name": "Chennai",
+    "state": "TamilNadu",
+    "country": "India",
+    "category": "Metro & Coastal",
+    "budget": "Medium",
+    "rating": 4.3,
+    "coverImage": "https://images.unsplash.com/photo-1588612140409-906d2091410d?q=80&w=2070&auto=format&fit=crop"
+  }
+]

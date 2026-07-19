@@ -1,0 +1,133 @@
+{
+  "id": "kolli-hills-01",
+  "slug": "kolli-hills",
+  "name": "Kolli Hills",
+  "state": "TamilNadu",
+  "country": "India",
+  "category": "Hidden Gem",
+  "budget": "Budget",
+  "rating": 4.5,
+  "reviewCount": 850,
+  "coordinates": {
+    "lat": 11.2721,
+    "lng": 78.3371
+  },
+  "altitude": 1300,
+  "coverImage": "https://images.unsplash.com/photo-1542157585-ef20bbcce1b8",
+  "galleryImages": [],
+  "description": "Kolli Hills is known for its pristine beauty and the famous 70 hairpin bends.",
+  "history": "Associated with the myth of Kollipavai.",
+  "bestSeason": "August to December",
+  "idealDuration": "2 days",
+  "temperature": "15°C - 28°C",
+  "rainfall": "High",
+  "climate": "Cool",
+  "nearestAirport": "Trichy (90 km)",
+  "nearestRailwayStation": "Salem (90 km)",
+  "nearestBusStand": "Semmedu",
+  "roadConnectivity": "Good",
+  "publicTransport": "Buses available",
+  "localTransport": "Autos, Taxis",
+  "tags": [
+    "Hill Station",
+    "Hidden Gem"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "seniorFriendly": false,
+  "wheelchairAccessibility": false,
+  "hiddenGem": true,
+  "adventureScore": 9,
+  "luxuryScore": 2,
+  "budgetScore": 9,
+  "travelWarnings": [
+    "70 continuous hairpin bends, can cause motion sickness"
+  ],
+  "emergencyContacts": [
+    "112"
+  ],
+  "nearbyHospitals": [
+    "Semmedu PHC"
+  ],
+  "touristPolice": "Available",
+  "commonScams": [],
+  "droneRegulations": "Check local rules",
+  "environmentalGuidelines": "No plastics.",
+  "localEtiquette": "Dress modestly",
+  "language": "Tamil, English",
+  "currency": "INR",
+  "photographyTips": "Agaya Gangai falls",
+  "internetQuality": "Poor",
+  "networkAvailability": "Patchy",
+  "crowdLevel": "Low",
+  "peakSeason": "Aug-Dec",
+  "offSeason": "Mar-May",
+  "topAttractions": [
+    {
+      "name": "Agaya Gangai",
+      "description": "Waterfall",
+      "location": "Arappaleeswarar Temple"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Trekking",
+      "price": "Free"
+    }
+  ],
+  "localFood": [
+    "Millets"
+  ],
+  "shopping": [
+    "Spices",
+    "Honey"
+  ],
+  "culture": "Tribal",
+  "festivals": [
+    "Valvil Ori Festival"
+  ],
+  "hotels": [
+    {
+      "name": "Silverline Retreat",
+      "price": "INR 2000"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Local stalls",
+      "cuisine": "South Indian"
+    }
+  ],
+  "travelTips": [
+    "Carry medicines for motion sickness"
+  ],
+  "packingTips": [
+    "Trekking shoes",
+    "Raincoat"
+  ],
+  "weather": {
+    "summer": "Pleasant",
+    "monsoon": "Heavy rain",
+    "winter": "Cold"
+  },
+  "transport": [
+    "Bus",
+    "Taxi"
+  ],
+  "itineraries": [
+    {
+      "name": "Nature escape",
+      "days": 2,
+      "activities": [
+        "Agaya gangai visit"
+      ]
+    }
+  ],
+  "sourceAttribution": {
+    "sourceName": "VoyageAI Verified Dataset",
+    "lastUpdated": "2026-07-19",
+    "confidenceScore": 98,
+    "verificationStatus": "Verified Expert Curation"
+  }
+}

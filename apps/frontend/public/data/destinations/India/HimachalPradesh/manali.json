@@ -1,0 +1,571 @@
+{
+  "id": "manali-01",
+  "slug": "manali",
+  "name": "Manali",
+  "state": "Himachal Pradesh",
+  "country": "India",
+  "category": "Adventure",
+  "budget": "Mid-range",
+  "rating": 4.7,
+  "reviewCount": 48350,
+  "coordinates": {
+    "lat": 32.2396,
+    "lng": 77.1887
+  },
+  "altitude": 2050,
+  "coverImage": "https://images.unsplash.com/photo-1613395877344-13d4a8e0d49e?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1627894483216-2138af692e32?w=800&q=80",
+    "https://images.unsplash.com/photo-1579380838085-ecc32f3c6f04?w=800&q=80",
+    "https://images.unsplash.com/photo-1593693411515-c20261bcad6e?w=800&q=80",
+    "https://images.unsplash.com/photo-1586016413664-864c0dd76f53?w=800&q=80"
+  ],
+  "description": "Manali is a high-altitude Himalayan resort town nestled in the Kullu Valley of Himachal Pradesh at an elevation of 2,050 metres. Framed by soaring snow-capped peaks, lush deodar forests, and the rushing Beas River, it is one of India's most beloved mountain destinations. The town uniquely blends the spiritual calm of Old Manali's apple orchards and ancient temples with a thriving adventure tourism scene offering skiing, paragliding, trekking, and river rafting.",
+  "history": "Manali derives its name from \"Manu-Alaya\" (abode of Manu), the mythical Hindu sage who is believed to have meditated here after the great deluge. The region has been a significant trade route between India and Central Asia via the Rohtang Pass for centuries. The British established it as a rest-and-recreation hill station in the colonial era.",
+  "bestSeason": "October to June (Snow: Dec–Mar, Pleasant: Apr–Jun & Sep–Oct)",
+  "idealDuration": "4–6 days",
+  "temperature": "−1°C to 25°C (Winter to Summer)",
+  "nearestAirport": "Bhuntar Airport (Kullu–Manali Airport), 50 km — code KUU",
+  "nearestRailwayStation": "Joginder Nagar Railway Station, 165 km (narrow gauge)",
+  "nearestBusStand": "Manali HRTC Bus Stand, Mall Road",
+  "tags": [
+    "Snow",
+    "Adventure",
+    "Trekking",
+    "Honeymoon",
+    "Mountains",
+    "Skiing"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 9,
+  "luxuryScore": 6,
+  "budgetScore": 7,
+  "topAttractions": [
+    {
+      "name": "Rohtang Pass",
+      "description": "A breathtaking mountain pass at 3,978 m on the Kullu–Lahaul border, offering spectacular glacier views, snow even in summer, and access to Lahaul & Spiti. Requires online permit (₹500 per vehicle). Best visited May–June and Sep–Oct.",
+      "location": "51 km from Manali, Rohtang La"
+    },
+    {
+      "name": "Solang Valley (Snow Point)",
+      "description": "A 14 km long valley famous for skiing in winter and paragliding, zorbing, and horse-riding in summer. Cable car ride (₹800 return) offers panoramic views of surrounding peaks.",
+      "location": "14 km from Manali"
+    },
+    {
+      "name": "Hadimba Devi Temple",
+      "description": "A 16th-century cave shrine dedicated to Hadimba, wife of Bhima of the Mahabharata. Built in 1553, it features a four-tiered pagoda roof of wooden carvings — a unique example of Himachali architecture. Open 8 AM–6 PM, free entry.",
+      "location": "Old Manali, near Dhungri Forest"
+    },
+    {
+      "name": "Jogini Waterfall",
+      "description": "A stunning 160-ft multi-tiered waterfall accessible via a scenic 2 km trek from Vashisht village. The trail passes through terraced fields and pine forests. Best in monsoon (July–Aug) and post-monsoon.",
+      "location": "4 km from Manali, near Vashisht"
+    },
+    {
+      "name": "Vashisht Hot Springs",
+      "description": "Natural sulfur hot springs near the ancient Vashisht temple complex with separate bathing areas for men and women. The mineral-rich waters are said to have therapeutic properties. Free entry; temple complex is historically significant.",
+      "location": "3 km from Manali, Vashisht village"
+    },
+    {
+      "name": "Naggar Castle",
+      "description": "A 15th-century stone-and-wood castle-hotel overlooking the Kullu Valley. Once the capital of Kullu, now partly a heritage hotel and partly a museum. Nicholas Roerich Art Gallery is adjacent. Offers stunning valley views.",
+      "location": "21 km south of Manali"
+    },
+    {
+      "name": "Beas Kund Trek",
+      "description": "A 3-day trek (22 km round trip) to the glacial source of the Beas River at 3,700 m. A perfect beginner trek offering views of Hanuman Tibba and Friendship Peak. Best July–September.",
+      "location": "Starts from Dhundi, 15 km from Manali"
+    }
+  ],
+  "activities": [
+    "Skiing at Rohtang (Dec–Mar)",
+    "Paragliding in Solang Valley (₹2,500)",
+    "White-water rafting on Beas River (₹600–1,200)",
+    "Hampta Pass Trek (4 days)",
+    "Mountain biking on Kullu–Manali road",
+    "Snow scooter at Rohtang (₹1,500)",
+    "Camping at Solang or Hampta",
+    "Ziplining at Solang Valley"
+  ],
+  "localFood": [
+    "Siddu (steamed wheat bread stuffed with poppy seeds or walnuts)",
+    "Babru (black gram flour flatbread served with tamarind chutney)",
+    "Trout Fish (grilled or fried, from the Beas River)",
+    "Kullu Trout",
+    "Aktori (buckwheat pancakes)",
+    "Chha Gosht (marinated lamb)",
+    "Aloo Palda (potato yogurt curry)",
+    "Kahwah tea"
+  ],
+  "shopping": [
+    "Kullu shawls and pattus at Bhuttico (₹800–8,000)",
+    "Tibetan handicrafts at Tibetan Market",
+    "Woolen socks and caps at Mall Road shops",
+    "Local honey and jams at Old Manali",
+    "Wooden artifacts and thangka paintings",
+    "Silver jewelry at Tibetan stalls"
+  ],
+  "culture": "Manali is a cultural mosaic of Kullu's Hindu traditions and Tibetan Buddhist influences. The Dussehra of Kullu Valley (October) is one of India's largest fairs, when the deity of Raghunath is paraded through the streets. Old Manali retains its hippie-trail charm from the 1970s when it was a stop on the \"hippie trail\" to Kathmandu.",
+  "festivals": [
+    "Kullu Dussehra (October — 7-day festival, one of the most vibrant in India)",
+    "Hadimba Devi Jayanti (May)",
+    "Doongri Forest Festival (May)",
+    "Winter Carnival (January — skiing, cultural shows)",
+    "Shivratri Fair"
+  ],
+  "hotels": [
+    "The Himalayan Hotel & Spa (4-star, ₹6,000–12,000/night, Mall Road)",
+    "Span Resort & Spa (5-star, ₹12,000–25,000, 15 km from town)",
+    "Solang Valley Resort (3-star, ₹3,500–6,000)",
+    "Apple Country Resort (3-star, ₹2,500–5,000, Naggar)",
+    "Hotel Piccadily (Budget, ₹800–1,500, near bus stand)",
+    "Banjara Camp & Retreat (Luxury tents, ₹8,000+, Kullu Valley)"
+  ],
+  "restaurants": [
+    "Johnson Bar & Restaurant (Continental + Indian, ₹600–1,500, near Circuit House)",
+    "Café 1947 (Bakery + Indian, ₹300–800, Old Manali)",
+    "The Lazy Dog Lounge (Multi-cuisine, ₹500–1,200, Old Manali)",
+    "Drifter's Inn (Budget-friendly, ₹200–500, Old Manali)",
+    "Mayur Restaurant (Himachali cuisine, ₹300–700, Mall Road)"
+  ],
+  "travelTips": [
+    "Book Rohtang Pass permit (max 1,200 vehicles/day) online at hptdc.in at least 24 hrs in advance.",
+    "Carry cash — ATMs can run dry in peak season. SBI, PNB ATMs near Mall Road.",
+    "Avoid July–August monsoon due to landslides on Manali–Rohtang road.",
+    "Altitude acclimatization: rest on day 1, avoid alcohol, stay hydrated.",
+    "BSNL has best network coverage in remote areas. Airtel works in town.",
+    "Taxis are metered — negotiate from HRTC taxi stand for best rates.",
+    "Rohtang Pass closes Nov–April. Access only via special tunnels.",
+    "Atal Tunnel (Rohtang) is now open year-round for Lahaul access."
+  ],
+  "packingTips": [
+    "Heavy winter jacket and thermal inners (even in May)",
+    "Waterproof trekking boots",
+    "Sunscreen SPF 50+ and UV sunglasses (high UV at altitude)",
+    "Rain poncho (monsoon visits)",
+    "Power bank (electricity cuts frequent)",
+    "Altitude sickness tablets (Diamox — consult doctor)",
+    "Warm gloves and woolen cap",
+    "Lip balm and moisturizer"
+  ],
+  "weather": "Winter (Dec–Feb): −10°C to 5°C, heavy snowfall, roads often blocked. Spring (Mar–Apr): 5–15°C, snow begins melting, good for skiing. Summer (May–Jun): 15–25°C, perfect weather, peak tourist season. Monsoon (Jul–Aug): 10–20°C, heavy rain and landslides — not recommended. Autumn (Sep–Oct): 10–20°C, post-monsoon clarity, excellent views.",
+  "transport": "HRTC Volvo buses from Delhi ISBT Kashmiri Gate daily (₹1,200–1,800, 14 hrs). Private taxis from Delhi ~₹8,000–12,000. Nearest airport at Bhuntar (Kullu), 50 km. From Bhuntar, taxi to Manali costs ₹1,200–1,500. Within Manali: autos, e-rickshaws, and cycle rentals on Mall Road.",
+  "itineraries": [
+    {
+      "type": "3 Day",
+      "durationDays": 3,
+      "estimatedCost": 9000,
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "10:00 AM",
+              "activity": "Arrive at Manali & Check-in",
+              "description": "After a night bus from Delhi, freshen up at your hotel. Take it easy to acclimatize.",
+              "costEstimate": 0
+            },
+            {
+              "time": "12:30 PM",
+              "activity": "Lunch at Café 1947 (Old Manali)",
+              "description": "Try local thali with rajma-chawal, himachali dal and stuffed paratha.",
+              "costEstimate": 350
+            },
+            {
+              "time": "02:30 PM",
+              "activity": "Hadimba Devi Temple",
+              "description": "16th-century pagoda shrine in Dhungri Forest. Spend 45 minutes.",
+              "costEstimate": 50
+            },
+            {
+              "time": "04:00 PM",
+              "activity": "Old Manali Walk & Van Vihar",
+              "description": "Walk through the apple orchard trails, cross the Manalsu Bridge to Old Manali cafes.",
+              "costEstimate": 0
+            },
+            {
+              "time": "06:30 PM",
+              "activity": "Mall Road Evening Walk",
+              "description": "Browse Tibetan market stalls, try momos and kachori from street vendors.",
+              "costEstimate": 200
+            },
+            {
+              "time": "08:00 PM",
+              "activity": "Dinner at Johnson Bar",
+              "description": "Famous for continental food and live music. Grilled trout recommended.",
+              "costEstimate": 800
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            {
+              "time": "07:00 AM",
+              "activity": "Depart for Rohtang Pass",
+              "description": "Start early — road gets congested by 9 AM. Carry your e-permit. Shared taxi from Mall Road ₹350 each.",
+              "costEstimate": 700
+            },
+            {
+              "time": "10:00 AM",
+              "activity": "Rohtang Pass (3,978 m)",
+              "description": "Snow play, photography, stunning views of Lahaul valley. Hire snow gear on site.",
+              "costEstimate": 800
+            },
+            {
+              "time": "01:00 PM",
+              "activity": "Lunch at Dhaba on Rohtang road",
+              "description": "Hot Maggi noodles and chai at roadside dhabas — essential Rohtang experience.",
+              "costEstimate": 150
+            },
+            {
+              "time": "03:00 PM",
+              "activity": "Solang Valley",
+              "description": "Stop on the way back. Try zorbing (₹300) or cable car (₹800 return). Allow 2 hours.",
+              "costEstimate": 1000
+            },
+            {
+              "time": "06:00 PM",
+              "activity": "Vashisht Hot Springs",
+              "description": "Soak tired muscles in the natural sulfur baths. Separate men/women pools.",
+              "costEstimate": 0
+            },
+            {
+              "time": "08:00 PM",
+              "activity": "Dinner at The Lazy Dog Lounge",
+              "description": "Try the himachali trout and chocolate brownie.",
+              "costEstimate": 700
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "activities": [
+            {
+              "time": "09:00 AM",
+              "activity": "Paragliding at Solang Valley",
+              "description": "Tandem paragliding with trained pilots. 1,500 m flight above the valley. Advance booking recommended.",
+              "costEstimate": 2500
+            },
+            {
+              "time": "12:00 PM",
+              "activity": "Kullu Valley Craft Shopping",
+              "description": "Buy Kullu shawls at Bhuttico co-operative (fixed price, best quality), Tibetan artifacts.",
+              "costEstimate": 1500
+            },
+            {
+              "time": "02:30 PM",
+              "activity": "Lunch + Departure",
+              "description": "Quick lunch at Chopsticks Restaurant, then board the HRTC Volvo bus back to Delhi.",
+              "costEstimate": 400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "5 Day",
+      "durationDays": 5,
+      "estimatedCost": 18000,
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "10:00 AM",
+              "activity": "Arrive & Acclimatize",
+              "description": "Check in, short rest. Walk to Hadimba Temple (15 min). Evening at Mall Road.",
+              "costEstimate": 200
+            },
+            {
+              "time": "08:00 PM",
+              "activity": "Dinner at Johnson Bar",
+              "description": "Welcome dinner with local cuisine and live music.",
+              "costEstimate": 900
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            {
+              "time": "07:00 AM",
+              "activity": "Rohtang Pass full day",
+              "description": "Early departure for maximum time at the pass. Snow activities, photography.",
+              "costEstimate": 2000
+            },
+            {
+              "time": "04:00 PM",
+              "activity": "Solang Valley",
+              "description": "Cable car and adventure sports on the way back.",
+              "costEstimate": 1200
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "activities": [
+            {
+              "time": "09:00 AM",
+              "activity": "Naggar Castle & Roerich Museum",
+              "description": "Drive 21 km to the historic castle. Visit the Nicholas Roerich Art Gallery adjacent.",
+              "costEstimate": 500
+            },
+            {
+              "time": "01:00 PM",
+              "activity": "Kullu Valley Rafting",
+              "description": "White-water rafting on Beas River near Pirdi (14 km rapids, Grade II–III). ₹600–1,200 per person.",
+              "costEstimate": 1200
+            },
+            {
+              "time": "05:00 PM",
+              "activity": "Vashisht Hot Springs",
+              "description": "Therapeutic soak after the rafting adventure.",
+              "costEstimate": 0
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "activities": [
+            {
+              "time": "08:00 AM",
+              "activity": "Hampta Pass Day Hike (Jobra)",
+              "description": "Drive to Jobra (10 km), trek through alpine meadows. 8 km round trip, moderate difficulty.",
+              "costEstimate": 800
+            },
+            {
+              "time": "03:00 PM",
+              "activity": "Paragliding at Solang",
+              "description": "Tandem flight with panoramic Himalayan views.",
+              "costEstimate": 2500
+            },
+            {
+              "time": "07:00 PM",
+              "activity": "Bonfire Camp Dinner",
+              "description": "Arrange a bonfire at your camp or hotel garden. Traditional Himachali food.",
+              "costEstimate": 600
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "activities": [
+            {
+              "time": "09:00 AM",
+              "activity": "Shoppingat Tibetan Market & Mall Road",
+              "description": "Last morning for souvenir shopping. Kullu shawls, honey jams, carved wooden items.",
+              "costEstimate": 2000
+            },
+            {
+              "time": "01:00 PM",
+              "activity": "Lunch & Departure",
+              "description": "Lunch at local dhaba, then begin the bus/cab journey back.",
+              "costEstimate": 400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Family",
+      "durationDays": 4,
+      "estimatedCost": 22000,
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "11:00 AM",
+              "activity": "Arrive & Hotel",
+              "description": "Check in to a family-friendly resort with lawn area.",
+              "costEstimate": 0
+            },
+            {
+              "time": "03:00 PM",
+              "activity": "Hadimba Temple & Van Vihar",
+              "description": "Easy stroll through the forest temple and national park — great for kids.",
+              "costEstimate": 100
+            },
+            {
+              "time": "06:00 PM",
+              "activity": "Mall Road & Ice cream",
+              "description": "Kids love the Tibetan street food and ice cream shops.",
+              "costEstimate": 400
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            {
+              "time": "09:00 AM",
+              "activity": "Solang Valley snow play",
+              "description": "Kids can build snowmen and ride snow scooters. Very safe and fun.",
+              "costEstimate": 3000
+            },
+            {
+              "time": "02:00 PM",
+              "activity": "Zorbing & Horse riding",
+              "description": "Gentle slopes for zorbing, Solang valley pony rides for children.",
+              "costEstimate": 1500
+            },
+            {
+              "time": "05:00 PM",
+              "activity": "Apple Orchard Walk (Old Manali)",
+              "description": "Walk through apple orchards — kids love picking seasonal apples (May–Sep).",
+              "costEstimate": 0
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "activities": [
+            {
+              "time": "08:00 AM",
+              "activity": "Rohtang Pass family trip",
+              "description": "Book a cab for full family. Dress in rented snow gear and enjoy.",
+              "costEstimate": 4000
+            },
+            {
+              "time": "04:00 PM",
+              "activity": "Kullu Valley Craft Village",
+              "description": "Visit shawl weaving cooperative at Mohal — educational for kids.",
+              "costEstimate": 0
+            },
+            {
+              "time": "07:00 PM",
+              "activity": "Family dinner at Hotel Piccadily",
+              "description": "Good multi-cuisine menu, kid-friendly.",
+              "costEstimate": 1200
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "activities": [
+            {
+              "time": "09:00 AM",
+              "activity": "Vashisht Hot Springs & Jogini Waterfall",
+              "description": "Short hike (2 km) to the waterfall — very manageable for families with older kids.",
+              "costEstimate": 200
+            },
+            {
+              "time": "12:00 PM",
+              "activity": "Souvenir Shopping",
+              "description": "Kullu shawls, woolen caps, snow globe souvenirs for kids.",
+              "costEstimate": 2500
+            },
+            {
+              "time": "03:00 PM",
+              "activity": "Depart",
+              "description": "Drive to Bhuntar Airport or Chandigarh.",
+              "costEstimate": 2000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Adventure",
+      "durationDays": 5,
+      "estimatedCost": 25000,
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "10:00 AM",
+              "activity": "Arrive & gear up",
+              "description": "Acclimatize, rent trekking gear at Manali market.",
+              "costEstimate": 800
+            },
+            {
+              "time": "04:00 PM",
+              "activity": "Beas River scouting",
+              "description": "Walk along the river, identify rafting put-in points.",
+              "costEstimate": 0
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            {
+              "time": "08:00 AM",
+              "activity": "Grade III–IV Beas River Rafting",
+              "description": "14 km stretch from Pirdi to Jhiri. Rapids: Blackhole, Cross Fire. Thrilling class III–IV.",
+              "costEstimate": 1500
+            },
+            {
+              "time": "02:00 PM",
+              "activity": "Paragliding at Solang (45 min flight)",
+              "description": "Extended tandem flight with experienced pilot. Aerial photography included.",
+              "costEstimate": 3500
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "activities": [
+            {
+              "time": "06:00 AM",
+              "activity": "Hampta Pass Day 1 Trek",
+              "description": "Drive to Jobra. Begin trek to Chika campsite (2 km, 3 hrs). Setting up in alpine meadows.",
+              "costEstimate": 2500
+            },
+            {
+              "time": "04:00 PM",
+              "activity": "Camp at Chika (2,900 m)",
+              "description": "Campfire, stargazing, Himalayan views from your tent.",
+              "costEstimate": 0
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "activities": [
+            {
+              "time": "07:00 AM",
+              "activity": "Hampta Pass Summit (4,270 m)",
+              "description": "Trek 8 km to the pass. Stunning views of Spiti Valley on the other side. Return to Shea Goru.",
+              "costEstimate": 0
+            },
+            {
+              "time": "04:00 PM",
+              "activity": "Camp at Shea Goru",
+              "description": "Camp by the glacial stream. Full Himalayan wilderness immersion.",
+              "costEstimate": 0
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "activities": [
+            {
+              "time": "07:00 AM",
+              "activity": "Return trek to Jobra",
+              "description": "Descend via Chika back to Jobra. Drive to Manali.",
+              "costEstimate": 0
+            },
+            {
+              "time": "02:00 PM",
+              "activity": "Recovery at Vashisht Hot Springs",
+              "description": "Soak tired muscles in the natural thermal springs.",
+              "costEstimate": 0
+            },
+            {
+              "time": "05:00 PM",
+              "activity": "Celebrate and depart",
+              "description": "Celebratory dinner at Johnson Bar Restaurant.",
+              "costEstimate": 1000
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

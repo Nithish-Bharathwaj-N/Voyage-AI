@@ -1,0 +1,151 @@
+{
+  "id": "tharangambadi-01",
+  "slug": "tharangambadi",
+  "name": "Tharangambadi",
+  "state": "TamilNadu",
+  "country": "India",
+  "category": "Heritage & Beach",
+  "budget": "Mid-range",
+  "rating": 4.5,
+  "reviewCount": 2100,
+  "coordinates": {
+    "lat": 11.0313,
+    "lng": 79.8491
+  },
+  "altitude": 0,
+  "coverImage": "https://images.unsplash.com/photo-1596766418469-8049580b0ef8",
+  "galleryImages": [],
+  "description": "Also known as Tranquebar, this tranquil coastal town was a Danish colony from 1620 to 1845. It boasts historic forts, old churches, and colonial architecture right on the Coromandel coast.",
+  "history": "The Danish East India Company established a settlement here in 1620, building Fort Dansborg. The town later came under British control before Indian independence.",
+  "bestSeason": "November to March",
+  "idealDuration": "1-2 days",
+  "temperature": "24°C - 32°C",
+  "rainfall": "Moderate to High during NE Monsoon",
+  "climate": "Tropical Coastal",
+  "nearestAirport": "Tiruchirappalli International Airport (145 km)",
+  "nearestRailwayStation": "Nagapattinam (35 km) or Mayiladuthurai (30 km)",
+  "nearestBusStand": "Tharangambadi Bus Stand",
+  "roadConnectivity": "Well connected to Chennai and Pondicherry via ECR.",
+  "publicTransport": "Buses from major nearby towns like Mayiladuthurai and Karaikal.",
+  "localTransport": "Walking, Autos",
+  "tags": [
+    "Heritage",
+    "Beach",
+    "Colonial",
+    "Quiet"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "seniorFriendly": true,
+  "wheelchairAccessibility": false,
+  "hiddenGem": true,
+  "adventureScore": 2,
+  "luxuryScore": 6,
+  "budgetScore": 7,
+  "travelWarnings": [
+    "The sea can be rough, swimming is not recommended everywhere"
+  ],
+  "emergencyContacts": [
+    "Police: 100",
+    "Ambulance: 108"
+  ],
+  "nearbyHospitals": [
+    "Government Hospital, Porayar"
+  ],
+  "touristPolice": "Available near the Fort area",
+  "commonScams": [],
+  "droneRegulations": "General rules apply. Exercise caution near heritage structures.",
+  "environmentalGuidelines": "Keep the beaches clean. Do not litter.",
+  "localEtiquette": "Respect the tranquility of the town. Dress modestly when visiting churches and temples.",
+  "language": "Tamil, English",
+  "currency": "INR",
+  "photographyTips": "Great for architectural photography and sunrise shots by the fort.",
+  "internetQuality": "Good",
+  "networkAvailability": "All major networks available",
+  "crowdLevel": "Low to Moderate",
+  "peakSeason": "December to January",
+  "offSeason": "April to July",
+  "topAttractions": [
+    {
+      "name": "Fort Dansborg",
+      "description": "17th-century Danish fort facing the sea.",
+      "location": "Beachfront"
+    },
+    {
+      "name": "New Jerusalem Church",
+      "description": "Built in 1718, a beautiful mix of Indian and European architecture.",
+      "location": "King Street"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Heritage Walk",
+      "price": "Free"
+    },
+    {
+      "name": "Beach Stroll",
+      "price": "Free"
+    }
+  ],
+  "localFood": [
+    "Seafood",
+    "South Indian thali"
+  ],
+  "shopping": [
+    "Handicrafts",
+    "Souvenirs"
+  ],
+  "culture": "A unique blend of Tamil and Danish colonial culture.",
+  "festivals": [
+    "Christmas",
+    "New Year"
+  ],
+  "hotels": [
+    {
+      "name": "Bungalow on the Beach (Neemrana)",
+      "price": "INR 6000+"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "The Bungalow on the Beach Restaurant",
+      "cuisine": "Continental, Indian"
+    }
+  ],
+  "travelTips": [
+    "Book accommodation in advance if planning to stay at heritage properties."
+  ],
+  "packingTips": [
+    "Cotton clothes",
+    "Sunscreen",
+    "Camera"
+  ],
+  "weather": {
+    "summer": "Hot and humid",
+    "monsoon": "Heavy rainfall",
+    "winter": "Pleasant, cool evenings"
+  },
+  "transport": [
+    "Buses",
+    "Taxis"
+  ],
+  "itineraries": [
+    {
+      "name": "Heritage Weekend",
+      "days": 2,
+      "activities": [
+        "Visit Fort Dansborg",
+        "Walk along King Street",
+        "Sunset at the beach",
+        "Visit Danish Cemetery"
+      ]
+    }
+  ],
+  "sourceAttribution": {
+    "sourceName": "VoyageAI Verified Dataset",
+    "lastUpdated": "2026-07-19",
+    "confidenceScore": 98,
+    "verificationStatus": "Verified Expert Curation"
+  }
+}

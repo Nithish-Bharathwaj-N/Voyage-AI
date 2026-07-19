@@ -1,0 +1,204 @@
+{
+  "id": "nainital-01",
+  "slug": "nainital",
+  "name": "Nainital",
+  "state": "Uttarakhand",
+  "country": "India",
+  "category": "Nature",
+  "budget": "Mid-range",
+  "rating": 4.5,
+  "reviewCount": 45000,
+  "coordinates": {
+    "lat": 29.3919,
+    "lng": 79.4542
+  },
+  "altitude": 2084,
+  "coverImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1627894483216-2138af692e32?w=800&q=80"
+  ],
+  "description": "Nainital is a charming hill resort in the Kumaon Himalayas of Uttarakhand, centered around the pear-shaped Naini Lake at 2,084 m. The town sits in a horseshoe-shaped valley with forested hills rising steeply on three sides. Famous for its boating on the lake, the Naina Devi Temple on its northern shore, Snow View Point accessible by cable car, and as the base for Jim Corbett National Park. The Mall Road rings the lake, lined with Victorian-era hotels, shops, and restaurants.",
+  "history": "Nainital was \"discovered\" by the British sugar merchant P. Barron in 1841 who was enchanted by the lake. It became a popular summer retreat for the British Indian government and was made the summer capital of the United Provinces. Several prestigious schools established by the British — St. Joseph's College, Sherwood College, Birla Vidya Mandir — still stand. The Naina Devi Temple, said to be where the eye (nayana) of Sati fell during Shiva's cosmic dance, has existed for thousands of years.",
+  "bestSeason": "March to June (summer). October to November (post-monsoon clear views). Avoid monsoon (July-September — landslides). Christmas-New Year is very crowded.",
+  "idealDuration": "2-3 days",
+  "temperature": "4°C (winter) to 27°C (summer)",
+  "nearestAirport": "Pantnagar Airport (PGH) 65km from Nainital",
+  "nearestRailwayStation": "Kathgodam Railway Station (34km) — trains from Delhi (Shatabdi 5 hrs)",
+  "nearestBusStand": "Nainital Bus Stand (Tallital)",
+  "tags": [
+    "Lake",
+    "Boating",
+    "Hill Station",
+    "Kumaon",
+    "Trekking",
+    "Snow View"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 5,
+  "luxuryScore": 5,
+  "budgetScore": 6,
+  "topAttractions": [
+    {
+      "name": "Naini Lake & Boating",
+      "description": "The defining feature of Nainital — a 1.4 km × 0.5 km natural lake surrounded by hills. Rowing and pedal boats available from both Mallital and Tallital boating clubs (₹150-250 for 30 minutes). Early morning rows before 8 AM are magical — mist over the water, birds calling.",
+      "location": "Central Nainital"
+    },
+    {
+      "name": "Snow View Point",
+      "description": "At 2270m — the highest easily accessible viewpoint offering spectacular views of the Himalayan ranges including Nanda Devi (7817m), Trisul (7120m), and Panchachuli peaks on clear days. Accessible by ropeway (₹150 return, 3 minutes) or 2.5km trek.",
+      "location": "2.5 km from Mall Road via ropeway or trek"
+    },
+    {
+      "name": "Tiffin Top (Dorothy's Seat)",
+      "description": "A 2292m summit reached by 4km trek or horse ride (₹400 return) through oak and rhododendron forest. Named after Dorothy Kellett who died here in a plane crash. Offers panoramic views of Nainital lake and the Himalayan panorama.",
+      "location": "4 km from Nainital town"
+    },
+    {
+      "name": "Naina Devi Temple",
+      "description": "One of 51 Shakti Peethas — built on the northern shore of Naini Lake where, according to legend, the eye of Goddess Sati fell when Shiva carried her body. The current temple was rebuilt after a massive landslide in 1880. Always busy; most crowded during Navratri.",
+      "location": "Mallital, northern shore of Naini Lake"
+    },
+    {
+      "name": "Bhimtal & Sat Tal (Day Trip)",
+      "description": "A cluster of lakes 22km from Nainital. Bhimtal (1370m) has an island in the middle with a restaurant and an aquarium. Sat Tal (Seven Lakes) is a peaceful forest circuit of interconnected lakes — excellent birding, kayaking (₹200/hr), and nature walks.",
+      "location": "22-27 km from Nainital"
+    }
+  ],
+  "activities": [
+    "Boating on Naini Lake (₹150-250/30 min)",
+    "Ropeway to Snow View Point (₹150 return)",
+    "Horse ride to Tiffin Top (₹400 return)",
+    "Day trip to Bhimtal and Sat Tal (₹800-1200 taxi)",
+    "Jim Corbett National Park safari (65km, ₹3000-6000)",
+    "Mukteshwar temple and orchard visit (51km, 2200m)",
+    "Rock climbing near Nainital (₹500-800 guided)",
+    "Photography walk at dawn on Mall Road"
+  ],
+  "localFood": [
+    "Bal Mithai (fudge-like chocolate sweet coated with white sugar balls — Uttarakhand's signature, buy at Thaguni's or Sanjay's shop)",
+    "Singori (cone of malu leaves filled with khoya sweet)",
+    "Aloo Ke Gutke (spiced potatoes cooked Kumaoni style)",
+    "Kumaoni Thali (with bhatt ki churkani, jholi, aloo tamatar)",
+    "Trout fish from Bhimtal",
+    "Momos and Tibetan food (large Tibetan community)"
+  ],
+  "shopping": [
+    "Tibetan Market (woolen caps, jackets, jewelry ₹200-2000)",
+    "Mall Road shops (candles, woolen items, toys)",
+    "Nainital bee honey (from local apiaries ₹300-600/kg)",
+    "Handmade candles (Nainital is famous for these)",
+    "Books at local secondhand bookshops"
+  ],
+  "culture": "Nainital has a strong colonial legacy visible in its architecture, schools (Sherwood College founded 1869, St. Joseph's 1888), and the annual flower show at the Flats (May). The Kumaoni people have their own rich cultural tradition of Jhora folk dances and the Holi of Kumaon is uniquely celebrated with folk songs.",
+  "festivals": [
+    "Nainital Mahotsav (February/March — cultural fair at the Flats)",
+    "Sheetla Mata Fair (March-April)",
+    "Summer Festival (May-June — flower show)",
+    "Uttarayani/Makar Sankranti (January — kite flying)"
+  ],
+  "hotels": [
+    "The Naini Retreat (4-star, ₹8000-15000, lake view)",
+    "Manu Maharani Hotel (Heritage, ₹5000-10000)",
+    "The Pavilion Hotel (Mid-range, ₹3000-6000)",
+    "Hotel Evelyn (Budget, ₹1500-3000, near lake)",
+    "KMVN Tourist Rest House (Government, ₹1200-2500)"
+  ],
+  "restaurants": [
+    "Sakley's Restaurant (European + Indian, a Nainital institution since 1936, ₹300-700)",
+    "Embassy Restaurant (Multicuisine, ₹300-600, Mall Road)",
+    "Café Retreat (Coffee and snacks, ₹150-400)",
+    "Momo's Café (Tibetan, ₹150-300, Mallital)"
+  ],
+  "travelTips": [
+    "Nainital gets extremely crowded in May-June and October-November weekends — book hotels well in advance.",
+    "Mall Road is one-way and traffic-heavy. Walk instead.",
+    "Monkeys steal food — keep bags closed at Snow View Point.",
+    "Avoid Naini Lake boat rides on rainy days — rough water.",
+    "Jim Corbett safari should be booked 30-90 days in advance through the official portal."
+  ],
+  "packingTips": [
+    "Warm jacket (evenings are cold)",
+    "Comfortable walking shoes",
+    "Rain poncho (monsoon)",
+    "Sunscreen",
+    "Camera"
+  ],
+  "weather": "Winter (Nov-Feb): 4-12°C, some frost. Spring (Mar-Apr): 12-22°C. Summer (May-Jun): 15-27°C — peak season. Monsoon (Jul-Sep): 15-22°C, heavy landslides. Autumn (Oct): 12-22°C, best clarity.",
+  "transport": "By Rail: Kathgodam (34km) — Shatabdi from Delhi (5 hrs, ₹800-1200), or Ranikhet Express. By Bus: UPSRTC from Delhi Anand Vihar (8 hrs, ₹400-700). By Road: Taxi from Kathgodam to Nainital ₹700-1000. Within Nainital: Walk (1.5km lakefront circuit), e-rickshaws, horse rides.",
+  "itineraries": [
+    {
+      "type": "2 Day",
+      "durationDays": 2,
+      "estimatedCost": 5000,
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "10:00 AM",
+              "activity": "Naini Lake boating",
+              "description": "Rent a rowing boat for 30-45 min on the lake.",
+              "costEstimate": 250
+            },
+            {
+              "time": "11:30 AM",
+              "activity": "Naina Devi Temple",
+              "description": "Visit the lakeside temple.",
+              "costEstimate": 0
+            },
+            {
+              "time": "01:00 PM",
+              "activity": "Lunch at Sakley's",
+              "description": "Classic Nainital dining experience.",
+              "costEstimate": 500
+            },
+            {
+              "time": "03:00 PM",
+              "activity": "Ropeway to Snow View Point",
+              "description": "Cable car, Himalayan panorama.",
+              "costEstimate": 150
+            },
+            {
+              "time": "05:30 PM",
+              "activity": "Mall Road stroll",
+              "description": "Buy Bal Mithai and woolen souvenirs.",
+              "costEstimate": 500
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            {
+              "time": "08:00 AM",
+              "activity": "Tiffin Top horse ride or trek",
+              "description": "4km to Dorothy's Seat for panoramic views.",
+              "costEstimate": 400
+            },
+            {
+              "time": "11:00 AM",
+              "activity": "Bhimtal day trip",
+              "description": "Visit the lake with island aquarium.",
+              "costEstimate": 1000
+            },
+            {
+              "time": "02:00 PM",
+              "activity": "Sat Tal kayaking",
+              "description": "2 hours kayaking in peaceful forest lakes.",
+              "costEstimate": 400
+            },
+            {
+              "time": "05:00 PM",
+              "activity": "Depart",
+              "description": "Bus or taxi to Kathgodam railway station.",
+              "costEstimate": 700
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

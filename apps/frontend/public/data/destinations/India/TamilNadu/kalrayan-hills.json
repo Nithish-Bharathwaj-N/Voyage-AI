@@ -1,0 +1,131 @@
+{
+  "id": "kalrayan-hills-01",
+  "slug": "kalrayan-hills",
+  "name": "Kalrayan Hills",
+  "state": "TamilNadu",
+  "country": "India",
+  "category": "Hidden Gem",
+  "budget": "Budget",
+  "rating": 4,
+  "reviewCount": 200,
+  "coordinates": {
+    "lat": 11.8354,
+    "lng": 78.7188
+  },
+  "altitude": 1000,
+  "coverImage": "https://images.unsplash.com/photo-1542157585-ef20bbcce1b8",
+  "galleryImages": [],
+  "description": "Kalrayan Hills are part of the Eastern Ghats, famous for botanical reserves.",
+  "history": "Ancient tribal heritage.",
+  "bestSeason": "September to March",
+  "idealDuration": "1-2 days",
+  "temperature": "18°C - 30°C",
+  "rainfall": "Moderate",
+  "climate": "Cool",
+  "nearestAirport": "Trichy (150 km)",
+  "nearestRailwayStation": "Salem (70 km)",
+  "nearestBusStand": "Kallakurichi",
+  "roadConnectivity": "Moderate",
+  "publicTransport": "Buses available",
+  "localTransport": "Taxis",
+  "tags": [
+    "Nature",
+    "Hidden Gem"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "seniorFriendly": false,
+  "wheelchairAccessibility": false,
+  "hiddenGem": true,
+  "adventureScore": 7,
+  "luxuryScore": 2,
+  "budgetScore": 9,
+  "travelWarnings": [
+    "Limited cellular network"
+  ],
+  "emergencyContacts": [
+    "112"
+  ],
+  "nearbyHospitals": [
+    "Kallakurichi GH"
+  ],
+  "touristPolice": "None",
+  "commonScams": [],
+  "droneRegulations": "Check rules",
+  "environmentalGuidelines": "Don't litter",
+  "localEtiquette": "Polite behavior",
+  "language": "Tamil",
+  "currency": "INR",
+  "photographyTips": "Waterfalls",
+  "internetQuality": "Poor",
+  "networkAvailability": "Patchy",
+  "crowdLevel": "Very Low",
+  "peakSeason": "Nov-Jan",
+  "offSeason": "Summer",
+  "topAttractions": [
+    {
+      "name": "Megam Falls",
+      "description": "Waterfall",
+      "location": "Hills"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Trekking",
+      "price": "Free"
+    }
+  ],
+  "localFood": [
+    "South Indian"
+  ],
+  "shopping": [
+    "Forest produce"
+  ],
+  "culture": "Tribal",
+  "festivals": [
+    "Summer fest"
+  ],
+  "hotels": [
+    {
+      "name": "Basic lodges",
+      "price": "INR 800"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Small eateries",
+      "cuisine": "Tamil"
+    }
+  ],
+  "travelTips": [
+    "Carry food and water"
+  ],
+  "packingTips": [
+    "Trekking gear"
+  ],
+  "weather": {
+    "summer": "Warm",
+    "monsoon": "Green",
+    "winter": "Cool"
+  },
+  "transport": [
+    "Car",
+    "Bus"
+  ],
+  "itineraries": [
+    {
+      "name": "Day Trip",
+      "days": 1,
+      "activities": [
+        "Visit waterfalls"
+      ]
+    }
+  ],
+  "sourceAttribution": {
+    "sourceName": "VoyageAI Verified Dataset",
+    "lastUpdated": "2026-07-19",
+    "confidenceScore": 98,
+    "verificationStatus": "Verified Expert Curation"
+  }
+}

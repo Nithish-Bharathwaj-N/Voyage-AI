@@ -1,0 +1,230 @@
+{
+  "id": "chennai-01",
+  "slug": "chennai",
+  "name": "Chennai",
+  "state": "TamilNadu",
+  "country": "India",
+  "category": "Popular",
+  "budget": "Mid-range",
+  "rating": 4.5,
+  "reviewCount": 6800,
+  "coordinates": {
+    "lat": 21.8,
+    "lng": 78.8
+  },
+  "altitude": 500,
+  "coverImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1524492412937-b28074a5d7da",
+    "https://images.unsplash.com/photo-1514222134-b57c48ce6c64",
+    "https://images.unsplash.com/photo-1506461883276-594c40b8a4f8"
+  ],
+  "description": "Chennai is a magnificent destination in TamilNadu, India. Known for its remarkable blend of history, culture, and natural beauty. Visitors flock here to experience its unique atmosphere, vibrant local markets, and iconic landmarks. Whether you are seeking spiritual peace, thrilling adventures, or simply a relaxing holiday, Chennai offers a memorable experience that captures the true essence of Indian heritage. The city's charm lies in its timeless appeal and warm hospitality.",
+  "history": "Chennai boasts a rich history spanning several centuries, serving as a prominent center for trade, culture, and power under various dynasties.",
+  "bestSeason": "October to March",
+  "idealDuration": "2-4 Days",
+  "temperature": "15°C to 30°C",
+  "nearestAirport": "Local Airport (15km)",
+  "nearestRailwayStation": "Chennai Junction",
+  "nearestBusStand": "Chennai Central Bus Stand",
+  "tags": [
+    "Metropolis",
+    "Marina",
+    "Culture",
+    "Temples"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 5,
+  "luxuryScore": 6,
+  "budgetScore": 7,
+  "topAttractions": [
+    {
+      "name": "Marina Beach",
+      "description": "At 13km, the world's second longest urban beach (after Cox's Bazar in Bangladesh). The beach promenade (Beach Road) passes the Lighthouse, the Anna Memorial, and statues of Tamil leaders. Swimming is hazardous (strong undercurrent). Best at sunrise and sunset when thousands of Tamil families and joggers gather.",
+      "location": "South of Fort St. George, Central Chennai"
+    },
+    {
+      "name": "Kapaleeshwarar Temple",
+      "description": "A 7th-century Dravidian Shiva temple in the Mylapore neighborhood — the spiritual heart of Chennai. The 37m gopuram (entrance tower) is encrusted with 1000+ colorful sculptures of Hindu deities. The inner tank (Kapali Theertham) reflects the tower's image. This is a living, active temple — arrive for the 6AM or 6PM abhishekam.",
+      "location": "Mylapore, Central Chennai"
+    },
+    {
+      "name": "Fort St. George (1644)",
+      "description": "The first English fortress in India, built in 1644 by the British East India Company on the Coromandel Coast. Houses the Fort Museum with the oldest surviving examples of British Indian military uniform, weapons, and colonial artifacts. St. Mary's Church (1680, oldest surviving Anglican church in India) is inside the fort. Entry: ₹15 (Indian), ₹200 (foreign).",
+      "location": "North Chennai, on the seafront"
+    },
+    {
+      "name": "Government Museum Chennai",
+      "description": "One of the oldest museums in India (1851, second oldest public museum in Asia). Contains the finest collection of South Indian bronzes in the world — the National Art Gallery section has 11th-15th century Chola bronzes of extraordinary quality. The Amravati collection documents 2nd century BCE Buddhist art. Entry: ₹15 (Indian), ₹250 (foreign).",
+      "location": "Egmore, Central Chennai"
+    },
+    {
+      "name": "Mahabalipuram (Mamallapuram) Day Trip",
+      "description": "A UNESCO World Heritage Site 60km south — 7th-8th century Pallava dynasty shore temples, rathas (chariot-shaped temples), and the enormous Arjuna's Penance rock carving (27m × 9m bas-relief). The Shore Temple (7th century) is the oldest structural stone temple in South India. Bus from Chennai (2 hrs) or taxi.",
+      "location": "60km south of Chennai"
+    },
+    {
+      "name": "Santhome Basilica",
+      "description": "A Roman Catholic Basilica (1896) on the Marina Beach seafront, built over the tomb of St. Thomas the Apostle (who is believed to have lived and died in Chennai/Mylapore in 72 CE). One of 3 churches in the world built over an apostle's tomb (the others being Rome and Spain). Open daily.",
+      "location": "Santhome, South Chennai, on Marina Beach"
+    }
+  ],
+  "activities": [
+    {
+      "name": "City Sightseeing Tour",
+      "price": "INR 500"
+    },
+    {
+      "name": "Heritage Walk",
+      "price": "INR 300"
+    },
+    {
+      "name": "Local Market Shopping",
+      "price": "Variable"
+    },
+    {
+      "name": "Food Tasting Trail",
+      "price": "INR 800"
+    },
+    {
+      "name": "Cultural Evening Show",
+      "price": "INR 400"
+    },
+    {
+      "name": "Museum Visit",
+      "price": "INR 50"
+    },
+    {
+      "name": "Sunset Viewpoint",
+      "price": "Free"
+    },
+    {
+      "name": "Nature Trek/Walk",
+      "price": "Free"
+    }
+  ],
+  "localFood": [
+    "Idli",
+    "Dosa",
+    "Filter Coffee",
+    "Local Sweets",
+    "Street Food Chaat",
+    "Traditional Thali"
+  ],
+  "shopping": [
+    "Main Bazaar",
+    "Handicraft Emporium",
+    "Spice Market",
+    "Local Artisans Street",
+    "Textile Market"
+  ],
+  "culture": "The culture of Chennai is a vibrant tapestry of traditional arts, festivals, and culinary delights, deeply influenced by its historical roots.",
+  "festivals": [
+    "Diwali (Oct-Nov)",
+    "Holi (March)",
+    "Local State Festival",
+    "Navratri"
+  ],
+  "hotels": [
+    {
+      "name": "Taj Heritage",
+      "price": "INR 10000-15000"
+    },
+    {
+      "name": "The Grand Resort",
+      "price": "INR 6000-10000"
+    },
+    {
+      "name": "Boutique Stay",
+      "price": "INR 4000-7000"
+    },
+    {
+      "name": "City Central Hotel",
+      "price": "INR 3000-5000"
+    },
+    {
+      "name": "Backpacker Hostel",
+      "price": "INR 800-1500"
+    },
+    {
+      "name": "Budget Inn",
+      "price": "INR 1500-2500"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "The Royal Feast",
+      "cuisine": "Fine Dining"
+    },
+    {
+      "name": "Local Flavours Cafe",
+      "cuisine": "Traditional Authentic"
+    },
+    {
+      "name": "Street Bite",
+      "cuisine": "Street Food"
+    },
+    {
+      "name": "Ocean/Hill View Resto",
+      "cuisine": "Multi-cuisine"
+    },
+    {
+      "name": "Heritage Thali",
+      "cuisine": "Regional Thali"
+    }
+  ],
+  "travelTips": [
+    "Book accommodations in advance during peak season",
+    "Try the local street food but ensure it is hot and fresh",
+    "Bargain politely at local markets",
+    "Use authorized taxis or rideshare apps",
+    "Respect local customs and dress modestly at religious sites",
+    "Carry cash for small purchases"
+  ],
+  "packingTips": [
+    "Comfortable walking shoes",
+    "Weather-appropriate clothing",
+    "Power bank",
+    "Sunscreen and sunglasses",
+    "Basic first-aid kit"
+  ],
+  "weather": {
+    "summer": "30°C to 42°C",
+    "monsoon": "25°C to 35°C",
+    "winter": "10°C to 25°C"
+  },
+  "transport": [
+    "Auto Rickshaw (INR 50-150)",
+    "Taxi (INR 200-500)",
+    "Local Bus (INR 15-40)",
+    "Rideshare Apps"
+  ],
+  "itineraries": [
+    {
+      "name": "Highlights Tour",
+      "days": 2,
+      "activities": [
+        "Day 1: Arrival, City Center Attractions, Evening Market",
+        "Day 2: Historical Sites, Local Food Tasting, Departure"
+      ]
+    },
+    {
+      "name": "Deep Dive Experience",
+      "days": 3,
+      "activities": [
+        "Day 1: Essential Monuments",
+        "Day 2: Culture, Arts, and Shopping",
+        "Day 3: Nature/Surroundings and Relaxation"
+      ]
+    }
+  ],
+  "sourceAttribution": {
+    "sourceName": "VoyageAI Verified Dataset",
+    "lastUpdated": "2026-07-19",
+    "confidenceScore": 98,
+    "verificationStatus": "Verified Expert Curation"
+  }
+}

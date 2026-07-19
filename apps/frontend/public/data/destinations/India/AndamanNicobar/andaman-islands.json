@@ -1,0 +1,245 @@
+{
+  "id": "dest-andaman",
+  "slug": "andaman-islands",
+  "name": "Andaman Islands",
+  "state": "AndamanNicobar",
+  "country": "India",
+  "category": "Islands & Beaches",
+  "budget": "High",
+  "rating": 4.8,
+  "reviewCount": 5100,
+  "coordinates": {
+    "lat": 11.6234,
+    "lng": 92.7265
+  },
+  "altitude": "10m",
+  "coverImage": "https://images.unsplash.com/photo-1616128479592-7486e9690d5f?q=80&w=2070&auto=format&fit=crop",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1596701389599-281b6c0b39be?q=80&w=2070&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1632731518386-bf5ecfdf6328?q=80&w=2070&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1588612140409-906d2091410d?q=80&w=2070&auto=format&fit=crop"
+  ],
+  "description": "An archipelago of 572 islands in the Bay of Bengal (37 inhabited), the Andaman Islands offer pristine beaches, incredible coral reefs, and a rich colonial history. From the world-famous Radhanagar Beach on Swaraj Dweep to the historic Cellular Jail in Port Blair, it's a tropical paradise perfect for water sports and relaxation.",
+  "history": "Used as a penal colony by the British, the infamous Cellular Jail (Kala Pani) housed Indian freedom fighters. The islands were occupied by the Japanese during WWII before becoming an Indian Union Territory.",
+  "bestSeason": "October to May",
+  "idealDuration": "6-8 days",
+  "temperature": "23°C to 30°C",
+  "nearestAirport": "Veer Savarkar International Airport, Port Blair (IXZ) - 0km",
+  "nearestRailwayStation": "None",
+  "nearestBusStand": "Port Blair Bus Terminus",
+  "tags": [
+    "Beaches",
+    "Scuba Diving",
+    "History",
+    "Nature",
+    "Islands",
+    "Water Sports"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 9,
+  "luxuryScore": 8,
+  "budgetScore": 4,
+  "topAttractions": [
+    {
+      "name": "Cellular Jail",
+      "description": "1906, 7-wing radial prison where Indian freedom fighters were imprisoned. Features an evening Sound & Light show.",
+      "location": "Port Blair"
+    },
+    {
+      "name": "Radhanagar Beach",
+      "description": "Located on Havelock/Swaraj Dweep, often rated as Asia's best beach with pristine white sand and clear waters.",
+      "location": "Havelock Island"
+    },
+    {
+      "name": "Neil Island (Shaheed Dweep)",
+      "description": "Known for Bharatpur Beach and the Natural Bridge/Howrah Bridge rock formation.",
+      "location": "Neil Island"
+    },
+    {
+      "name": "Baratang Island",
+      "description": "Famous for natural Limestone caves and mud volcanoes. Reached via a journey through dense forests.",
+      "location": "Baratang"
+    },
+    {
+      "name": "Mahatma Gandhi Marine National Park",
+      "description": "Located at Wandoor, offering glass-bottom boat rides to view coral reefs and marine life.",
+      "location": "Wandoor"
+    },
+    {
+      "name": "Corbyn's Cove Beach",
+      "description": "A crescent-shaped coconut palm-fringed beach close to Port Blair.",
+      "location": "Port Blair"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Scuba Diving at Havelock",
+      "price": 4000
+    },
+    {
+      "name": "Snorkeling at Elephant Beach",
+      "price": 1000
+    },
+    {
+      "name": "Sea Walk at North Bay",
+      "price": 3500
+    },
+    {
+      "name": "Glass Bottom Boat Ride",
+      "price": 800
+    },
+    {
+      "name": "Cellular Jail Sound & Light Show",
+      "price": 300
+    },
+    {
+      "name": "Ferry Ride to Islands",
+      "price": 1500
+    },
+    {
+      "name": "Kayaking in Mangroves",
+      "price": 2500
+    },
+    {
+      "name": "Trekking to Elephant Beach",
+      "price": 500
+    }
+  ],
+  "localFood": [
+    "Freshly grilled seafood",
+    "Coconut-based curries",
+    "Fish Curry",
+    "Lobster dishes",
+    "Crab Masala",
+    "Amritsari Kulcha (local variant)"
+  ],
+  "shopping": [
+    "Shell jewelry",
+    "Pearl ornaments",
+    "Coconut shell handicrafts",
+    "Spices",
+    "Timber crafts"
+  ],
+  "culture": "A melting pot of cultures from mainland India (Bengali, Tamil, Telugu) with unique indigenous tribes in restricted areas.",
+  "festivals": [
+    "Island Tourism Festival (January)",
+    "Subhash Mela (January)",
+    "Monsoon Festival (August)"
+  ],
+  "hotels": [
+    {
+      "name": "Taj Exotica Resort & Spa, Havelock",
+      "priceRange": "₹25,000 - ₹50,000+"
+    },
+    {
+      "name": "Barefoot at Havelock",
+      "priceRange": "₹12,000 - ₹25,000"
+    },
+    {
+      "name": "Symphony Palms Beach Resort",
+      "priceRange": "₹6,000 - ₹12,000"
+    },
+    {
+      "name": "Sea Shell, Port Blair",
+      "priceRange": "₹5,000 - ₹10,000"
+    },
+    {
+      "name": "Sinclairs Bayview",
+      "priceRange": "₹7,000 - ₹14,000"
+    },
+    {
+      "name": "Budget Guesthouses in Port Blair",
+      "priceRange": "₹1,500 - ₹3,000"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Something Different (Havelock)",
+      "type": "Multi-cuisine, Seafood"
+    },
+    {
+      "name": "Full Moon Cafe (Havelock)",
+      "type": "Cafe, Seafood"
+    },
+    {
+      "name": "Lighthouse Residency (Port Blair)",
+      "type": "Seafood"
+    },
+    {
+      "name": "Amaya (Port Blair)",
+      "type": "Rooftop Dining"
+    },
+    {
+      "name": "Anju Coco Resto",
+      "type": "Multi-cuisine"
+    }
+  ],
+  "travelTips": [
+    "Book ferries between islands well in advance.",
+    "Carry ample cash as ATMs on islands like Havelock and Neil can be unreliable.",
+    "Do not collect or buy corals, it's illegal.",
+    "Pack light, breathable cotton clothes and good swimwear.",
+    "Respect tribal areas and do not take photos where prohibited."
+  ],
+  "packingTips": [
+    "Swimwear and beach towels",
+    "High SPF Sunscreen",
+    "Mosquito repellent",
+    "Waterproof bags for electronics",
+    "Light cotton clothing",
+    "Flip-flops and comfortable walking shoes"
+  ],
+  "weather": {
+    "January": "Pleasant, 23-29°C",
+    "May": "Hot and humid, 26-32°C",
+    "August": "Heavy monsoons, 24-29°C"
+  },
+  "transport": [
+    {
+      "mode": "Government Ferry",
+      "price": "₹600 - ₹1000 per sector"
+    },
+    {
+      "mode": "Private Cruise (Makruzz/Green Ocean)",
+      "price": "₹1500 - ₹2500 per sector"
+    },
+    {
+      "mode": "Rental Scooter",
+      "price": "₹500 - ₹800 per day"
+    }
+  ],
+  "itineraries": [
+    {
+      "name": "Andaman Highlights in 6 Days",
+      "days": [
+        {
+          "day": 1,
+          "description": "Arrive in Port Blair, visit Cellular Jail and attend the Sound & Light show."
+        },
+        {
+          "day": 2,
+          "description": "Take a ferry to Havelock Island. Relax at Radhanagar Beach in the evening."
+        },
+        {
+          "day": 3,
+          "description": "Scuba diving in the morning, visit Elephant Beach for water sports."
+        },
+        {
+          "day": 4,
+          "description": "Ferry to Neil Island. Visit Bharatpur Beach and the Natural Bridge."
+        },
+        {
+          "day": 5,
+          "description": "Return ferry to Port Blair. Half-day city tour or shopping."
+        },
+        {
+          "day": 6,
+          "description": "Departure from Port Blair."
+        }
+      ]
+    }
+  ]
+}

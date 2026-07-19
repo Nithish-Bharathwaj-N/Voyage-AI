@@ -1,0 +1,144 @@
+{
+  "id": "manapad-01",
+  "slug": "manapad",
+  "name": "Manapad",
+  "state": "TamilNadu",
+  "country": "India",
+  "category": "Beach & Adventure",
+  "budget": "Budget",
+  "rating": 4.6,
+  "reviewCount": 850,
+  "coordinates": {
+    "lat": 8.3802,
+    "lng": 78.0558
+  },
+  "altitude": 10,
+  "coverImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+  "galleryImages": [],
+  "description": "Manapad is a picturesque coastal village in Thoothukudi district, known for its pristine beaches, surfing points, and historic Holy Cross Church. The unique coastline formation provides excellent waves for water sports.",
+  "history": "St. Francis Xavier is said to have visited Manapad in 1542 and initiated missionary activities. The Holy Cross Church contains a relic of the True Cross.",
+  "bestSeason": "October to March (Year-round for surfing)",
+  "idealDuration": "2 days",
+  "temperature": "25°C - 33°C",
+  "rainfall": "Low to Moderate",
+  "climate": "Tropical Coastal",
+  "nearestAirport": "Tuticorin Airport (60 km)",
+  "nearestRailwayStation": "Tiruchendur Railway Station (18 km)",
+  "nearestBusStand": "Tiruchendur Bus Stand",
+  "roadConnectivity": "Connected by road from Tiruchendur and Tuticorin.",
+  "publicTransport": "Buses available from Tiruchendur.",
+  "localTransport": "Walking, Autos",
+  "tags": [
+    "Surfing",
+    "Beach",
+    "Pilgrimage",
+    "Coastal"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "seniorFriendly": true,
+  "wheelchairAccessibility": false,
+  "hiddenGem": true,
+  "adventureScore": 9,
+  "luxuryScore": 2,
+  "budgetScore": 8,
+  "travelWarnings": [
+    "Sea can be rough, surf only if experienced or with a guide"
+  ],
+  "emergencyContacts": [
+    "Police: 100",
+    "Ambulance: 108"
+  ],
+  "nearbyHospitals": [
+    "Hospitals in Tiruchendur"
+  ],
+  "touristPolice": "Local police in Tiruchendur jurisdiction",
+  "commonScams": [],
+  "droneRegulations": "Allowed, great for capturing the unique point break and coastline.",
+  "environmentalGuidelines": "Keep the pristine beach clean. No plastics.",
+  "localEtiquette": "It's a religious village; dress modestly when visiting the church.",
+  "language": "Tamil, English",
+  "currency": "INR",
+  "photographyTips": "Capture the sunset from the church hill.",
+  "internetQuality": "Moderate",
+  "networkAvailability": "Major networks work, but can be spotty near the beach",
+  "crowdLevel": "Low",
+  "peakSeason": "December to January (for tourism)",
+  "offSeason": "April to June",
+  "topAttractions": [
+    {
+      "name": "Holy Cross Church",
+      "description": "Historic church located on a cliff overlooking the sea.",
+      "location": "Manapad Point"
+    },
+    {
+      "name": "Manapad Point Break",
+      "description": "Famous surfing spot.",
+      "location": "Manapad Beach"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Surfing / Kitesurfing",
+      "price": "Varies by operator"
+    }
+  ],
+  "localFood": [
+    "Seafood",
+    "Macaroons from nearby Tuticorin"
+  ],
+  "shopping": [
+    "Palm leaf articles"
+  ],
+  "culture": "Strong Catholic heritage blended with traditional Tamil fishing culture.",
+  "festivals": [
+    "Feast of the Holy Cross (September)"
+  ],
+  "hotels": [
+    {
+      "name": "Villa de Ocean",
+      "price": "INR 2500"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Local homestays provide food",
+      "cuisine": "Tamil Coastal"
+    }
+  ],
+  "travelTips": [
+    "Pre-book water sports and stay as options are limited."
+  ],
+  "packingTips": [
+    "Swimwear",
+    "Sunscreen",
+    "Modest clothes for church"
+  ],
+  "weather": {
+    "summer": "Hot",
+    "monsoon": "Humid",
+    "winter": "Pleasant with good breeze"
+  },
+  "transport": [
+    "Taxis",
+    "Autos"
+  ],
+  "itineraries": [
+    {
+      "name": "Surf & Serenity",
+      "days": 2,
+      "activities": [
+        "Surfing lesson in the morning",
+        "Visit Holy Cross Church",
+        "Sunset beach walk"
+      ]
+    }
+  ],
+  "sourceAttribution": {
+    "sourceName": "VoyageAI Verified Dataset",
+    "lastUpdated": "2026-07-19",
+    "confidenceScore": 98,
+    "verificationStatus": "Verified Expert Curation"
+  }
+}

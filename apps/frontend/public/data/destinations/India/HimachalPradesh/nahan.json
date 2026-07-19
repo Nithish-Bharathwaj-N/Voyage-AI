@@ -1,0 +1,412 @@
+{
+  "id": "nahan-01",
+  "slug": "nahan",
+  "name": "Nahan",
+  "state": "Himachal Pradesh",
+  "country": "India",
+  "category": "Nature",
+  "description": "Nahan is a serene natural paradise surrounded by lush landscapes and scenic beauty in Himachal Pradesh, India. Known for its Hill Station and Quiet, it offers an unforgettable experience for every type of traveler.",
+  "history": "Nahan has centuries of history woven into its landscape, reflecting the culture and traditions of Himachal Pradesh. Significant historical events and cultural exchanges have shaped this destination into what it is today.",
+  "bestSeason": "October to March",
+  "idealDuration": "3-4 days",
+  "budget": "Budget",
+  "coordinates": {
+    "lat": 30.557,
+    "lng": 77.296
+  },
+  "altitude": 1200,
+  "temperature": "18 to 35 C",
+  "nearestAirport": "Nahan Airport or nearest city airport",
+  "nearestRailwayStation": "Nahan Railway Station",
+  "nearestBusStand": "Nahan Central Bus Stand",
+  "rating": 4.1,
+  "reviewCount": 38000,
+  "coverImage": "https://images.unsplash.com/photo-1626714816894-af17fe32fc95?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1626714816894-af17fe32fc95?w=800&q=80",
+    "https://images.unsplash.com/photo-1626714816894-af17fe32fc95?w=800&q=80",
+    "https://images.unsplash.com/photo-1626714816894-af17fe32fc95?w=800&q=80"
+  ],
+  "topAttractions": [
+    {
+      "name": "Nahan Heritage Site",
+      "description": "An iconic landmark that defines the character of Nahan.",
+      "location": "Central Nahan"
+    },
+    {
+      "name": "Natural Viewpoint",
+      "description": "Breathtaking panoramic views of the surrounding landscape.",
+      "location": "Nahan outskirts"
+    },
+    {
+      "name": "Cultural Hub",
+      "description": "A vibrant center of local culture, crafts, and cuisine.",
+      "location": "Main market, Nahan"
+    },
+    {
+      "name": "Sacred Site",
+      "description": "A spiritually significant location visited by pilgrims and tourists alike.",
+      "location": "Himachal Pradesh"
+    }
+  ],
+  "activities": [
+    "Hill Station experience in Nahan",
+    "Quiet experience in Nahan",
+    "Shivalik experience in Nahan",
+    "Offbeat experience in Nahan"
+  ],
+  "localFood": [
+    "Regional thali",
+    "Local street food",
+    "Traditional sweets",
+    "Seasonal delicacy"
+  ],
+  "shopping": [
+    "Local handicrafts",
+    "Regional textiles",
+    "Handmade jewelry",
+    "Souvenir items"
+  ],
+  "culture": "Nahan embodies the rich cultural heritage of Himachal Pradesh, with its traditions, festivals, and way of life offering a window into the soul of India.",
+  "festivals": [
+    "Annual Nahan Festival",
+    "Regional fair",
+    "Harvest celebration",
+    "Religious festival"
+  ],
+  "hotels": [
+    "Grand Nahan Hotel",
+    "Nahan Heritage Resort",
+    "Budget Inn Nahan"
+  ],
+  "restaurants": [
+    "Nahan Kitchen",
+    "Regional Cuisine Restaurant",
+    "Street Food Corner"
+  ],
+  "travelTips": [
+    "Book accommodation 2-3 weeks in advance during peak season.",
+    "Hire a local guide for deeper insights.",
+    "Carry cash as ATMs may be limited in some areas."
+  ],
+  "packingTips": [
+    "Comfortable walking shoes",
+    "Light cotton clothes",
+    "Sunscreen SPF 50+",
+    "First aid kit"
+  ],
+  "weather": "Nahan has a pleasant semi-arid climate with the best time to visit being October to March.",
+  "transport": "Accessible by air (nearest airport), rail, and road. Local transport includes auto-rickshaws, taxis, and app-based cabs.",
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "adventureScore": 6,
+  "luxuryScore": 3,
+  "budgetScore": 9,
+  "hiddenGem": true,
+  "tags": [
+    "Hill Station",
+    "Quiet",
+    "Shivalik",
+    "Offbeat"
+  ],
+  "itineraries": [
+    {
+      "type": "3 Day",
+      "durationDays": 3,
+      "estimatedCost": 5000,
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "Morning",
+              "activity": "Arrive in Nahan",
+              "description": "Check in to your hotel and explore the surrounding area.",
+              "costEstimate": 0
+            },
+            {
+              "time": "Afternoon",
+              "activity": "Visit main attraction",
+              "description": "Discover the top landmark of Nahan.",
+              "costEstimate": 500
+            },
+            {
+              "time": "Evening",
+              "activity": "Local market & dinner",
+              "description": "Sample local cuisine and browse the market.",
+              "costEstimate": 800
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            {
+              "time": "Morning",
+              "activity": "Hill Station experience",
+              "description": "Immerse yourself in the signature experience of Nahan.",
+              "costEstimate": 1500
+            },
+            {
+              "time": "Afternoon",
+              "activity": "Scenic exploration",
+              "description": "Visit a natural or cultural highlight in the region.",
+              "costEstimate": 800
+            },
+            {
+              "time": "Evening",
+              "activity": "Sunset viewpoint",
+              "description": "Catch golden hour at the best viewpoint.",
+              "costEstimate": 200
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "activities": [
+            {
+              "time": "Morning",
+              "activity": "Shopping & souvenirs",
+              "description": "Buy local crafts and gifts to take home.",
+              "costEstimate": 1500
+            },
+            {
+              "time": "Afternoon",
+              "activity": "Final sightseeing",
+              "description": "Visit any remaining spots on your list.",
+              "costEstimate": 500
+            },
+            {
+              "time": "Evening",
+              "activity": "Departure",
+              "description": "Transfer to airport or railway station.",
+              "costEstimate": 500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "5 Day",
+      "durationDays": 5,
+      "estimatedCost": 9000,
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "Morning",
+              "activity": "Arrive & settle",
+              "description": "Check in and orient yourself.",
+              "costEstimate": 0
+            },
+            {
+              "time": "Afternoon",
+              "activity": "City overview tour",
+              "description": "Get a feel for Nahan by exploring the center.",
+              "costEstimate": 600
+            },
+            {
+              "time": "Evening",
+              "activity": "Welcome dinner",
+              "description": "Enjoy local cuisine at a well-rated restaurant.",
+              "costEstimate": 1000
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            {
+              "time": "Morning",
+              "activity": "Main heritage/nature site",
+              "description": "Full morning at the signature attraction.",
+              "costEstimate": 800
+            },
+            {
+              "time": "Afternoon",
+              "activity": "Cultural immersion",
+              "description": "Workshop or cultural activity unique to the region.",
+              "costEstimate": 1000
+            },
+            {
+              "time": "Evening",
+              "activity": "Evening walk & local market",
+              "description": "Explore the market and evening life.",
+              "costEstimate": 500
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "activities": [
+            {
+              "time": "Morning",
+              "activity": "Hill Station adventure",
+              "description": "The signature activity of Nahan.",
+              "costEstimate": 2000
+            },
+            {
+              "time": "Afternoon",
+              "activity": "Nearby attraction",
+              "description": "A day trip or excursion nearby.",
+              "costEstimate": 1500
+            },
+            {
+              "time": "Evening",
+              "activity": "Sunset viewing",
+              "description": "Best sunset spot in Nahan.",
+              "costEstimate": 0
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "activities": [
+            {
+              "time": "Morning",
+              "activity": "Off-the-beaten-path visit",
+              "description": "Explore a lesser-known gem nearby.",
+              "costEstimate": 500
+            },
+            {
+              "time": "Afternoon",
+              "activity": "Food tour",
+              "description": "Sample all the local specialties.",
+              "costEstimate": 800
+            },
+            {
+              "time": "Evening",
+              "activity": "Cultural show or event",
+              "description": "Local performance or festival activity.",
+              "costEstimate": 600
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "activities": [
+            {
+              "time": "Morning",
+              "activity": "Relaxation & last site",
+              "description": "Leisurely morning visit.",
+              "costEstimate": 300
+            },
+            {
+              "time": "Afternoon",
+              "activity": "Shopping",
+              "description": "Final souvenir shopping.",
+              "costEstimate": 2000
+            },
+            {
+              "time": "Evening",
+              "activity": "Departure",
+              "description": "Transfer and journey home.",
+              "costEstimate": 600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Family",
+      "durationDays": 4,
+      "estimatedCost": 7000,
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "Morning",
+              "activity": "Arrive and acclimatize",
+              "description": "Rest on first day.",
+              "costEstimate": 0
+            },
+            {
+              "time": "Afternoon",
+              "activity": "Easy sightseeing",
+              "description": "Gentle introduction to Nahan.",
+              "costEstimate": 500
+            },
+            {
+              "time": "Evening",
+              "activity": "Welcome to Nahan",
+              "description": "Dinner at the best local restaurant.",
+              "costEstimate": 1000
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            {
+              "time": "Morning",
+              "activity": "Core experience",
+              "description": "The main highlight of this type of trip.",
+              "costEstimate": 2000
+            },
+            {
+              "time": "Afternoon",
+              "activity": "Immersive activity",
+              "description": "A tailored experience for this trip type.",
+              "costEstimate": 1500
+            },
+            {
+              "time": "Evening",
+              "activity": "Evening program",
+              "description": "Curated evening activity.",
+              "costEstimate": 800
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "activities": [
+            {
+              "time": "Morning",
+              "activity": "Nearby day trip",
+              "description": "Excursion to a nearby attraction.",
+              "costEstimate": 2000
+            },
+            {
+              "time": "Afternoon",
+              "activity": "Free exploration",
+              "description": "At your own pace.",
+              "costEstimate": 500
+            },
+            {
+              "time": "Evening",
+              "activity": "Farewell dinner",
+              "description": "Celebrate the trip.",
+              "costEstimate": 1500
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "activities": [
+            {
+              "time": "Morning",
+              "activity": "Last morning",
+              "description": "Final walk or activity.",
+              "costEstimate": 300
+            },
+            {
+              "time": "Afternoon",
+              "activity": "Shopping",
+              "description": "Souvenirs to remember Nahan.",
+              "costEstimate": 1500
+            },
+            {
+              "time": "Evening",
+              "activity": "Departure",
+              "description": "Head home with memories.",
+              "costEstimate": 500
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "id": "khajuraho-01",
+  "slug": "khajuraho",
+  "name": "Khajuraho",
+  "state": "Madhya Pradesh",
+  "country": "India",
+  "category": "Culture",
+  "budget": "Budget",
+  "rating": 4.6,
+  "reviewCount": 28000,
+  "coordinates": {
+    "lat": 24.8318,
+    "lng": 79.9199
+  },
+  "altitude": 285,
+  "nearestAirport": "Khajuraho Airport (HJR) 5km from temples — daily flights from Delhi and Varanasi",
+  "nearestRailwayStation": "Khajuraho Railway Station (KURJ) — trains from Delhi, Bhopal, Agra",
+  "nearestBusStand": "Khajuraho Bus Stand (near Western group of temples)",
+  "coverImage": "https://images.unsplash.com/photo-1533130061792-64b345e4a833?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1568454537842-d933259bb258?w=800&q=80"
+  ],
+  "description": "Khajuraho is a UNESCO World Heritage Site — a group of Hindu and Jain temples built by the Chandela dynasty between 950 and 1050 CE, famous worldwide for their extraordinary sculptures depicting spiritual, mythological, and erotic themes. Of the original 85 temples, 25 survive. The temples are architectural masterpieces of Nagara-style temple architecture, but it is the 10% of sculptures that depict erotic scenes (karmic themes of human desire on the outer walls) that have made them internationally famous. The temples stand amid lush countryside in Madhya Pradesh.",
+  "history": "The Chandela Rajput dynasty built these temples during their golden age (950-1050 CE). The most elaborate temple — Kandariya Mahadeva — took an estimated 30 years to build. The temples were abandoned after the decline of the Chandela dynasty in the 12th century and \"forgotten\" under jungle overgrowth until British engineer T.S. Burt rediscovered them in 1838. The erotic sculptures are believed to represent tantric traditions, the celebration of human life, or apotropaic symbols to ward off lightning.",
+  "bestSeason": "October to March. Sound and Light Show runs year-round (evening).",
+  "idealDuration": "2 days",
+  "temperature": "8°C (winter) to 44°C (summer)",
+  "tags": [
+    "UNESCO",
+    "Temples",
+    "Chandela",
+    "Erotic Sculptures",
+    "Medieval India",
+    "Art"
+  ],
+  "familyFriendly": false,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 2,
+  "luxuryScore": 4,
+  "budgetScore": 9,
+  "topAttractions": [
+    {
+      "name": "Kandariya Mahadeva Temple (Western Group)",
+      "description": "The largest and most elaborately decorated of the Khajuraho temples, dedicated to Shiva. 30.5m high, with 872 sculptures in three horizontal bands on its exterior. The erotic sculptures are on the outer wall while the sanctum is entirely devotional. Open sunrise to sunset. Entry: ₹40 Indian, ₹600 foreign.",
+      "location": "Western Group of Temples"
+    },
+    {
+      "name": "Lakshmana Temple (Western Group)",
+      "description": "Dedicated to Vishnu, notable for having the best-preserved erotic friezes and a complete set of subsidiary shrines at the corners. The interior mandapa ceiling has intricately carved medallions. Part of the Western Group ASI compound.",
+      "location": "Western Group of Temples"
+    },
+    {
+      "name": "Eastern Group — Jain Temples",
+      "description": "A separate cluster of exquisitely carved Jain temples (Parsvanatha, Adinatha, Shantinatha) built in the same period. The Parsvanatha Temple has some of the finest secular sculptures including women applying makeup, lovers embracing, and daily life scenes. Free entry.",
+      "location": "Eastern Group, 2km from Western Group"
+    },
+    {
+      "name": "Sound and Light Show",
+      "description": "A one-hour evening narration projecting lights on the Western Group temples while a recorded commentary explains the history and symbolism of the temples in both English and Hindi. 6:30 PM (English) and 7:30 PM (Hindi). Entry: ₹250-700.",
+      "location": "Western Group of Temples"
+    },
+    {
+      "name": "Archaeological Museum, Khajuraho",
+      "description": "Houses sculptures recovered during excavations, including fragments too fragile for outdoor display. A useful context-setting visit before or after the temples. Entry: ₹15. Open Mon-Sun 10AM-5PM, closed Fridays.",
+      "location": "Near Western Group"
+    }
+  ],
+  "activities": [
+    "Temple exploration (Western Group: 3 hrs minimum)",
+    "Sound and Light Show (evening, ₹250-700)",
+    "Cycling tour to Eastern and Southern groups (rent cycle ₹100/day)",
+    "Village walk to rural Bundelkhand villages around Khajuraho",
+    "Panna National Park (32km, tiger reserve, boat on Ken River, ₹2000-3500 jeep safari)",
+    "Raneh Falls (22km, canyon with gorge and waterfalls)",
+    "Ken Gharial Sanctuary (crocodile viewing)"
+  ],
+  "localFood": [
+    "Bundeli Thali (rice, dal, chapati, achar — simple Madhya Pradesh meals)",
+    "Dal Bafla (baked wheat cake dipped in ghee, similar to Rajasthani baati)",
+    "Poha with Jalebi (Madhya Pradesh breakfast standard)",
+    "Shahi Paneer and North Indian curries at tourist restaurants",
+    "Mahua liquor (local tribal drink)"
+  ],
+  "shopping": [
+    "Chandela-style stone replica carvings from local artisans",
+    "Sarees and textiles from Chanderi (100km — famous for Chanderi silk)",
+    "Tribal paintings and masks",
+    "Panna diamonds (theoretically — Panna is India's only diamond mining region)"
+  ],
+  "culture": "Khajuraho was the religious and cultural capital of the Chandela dynasty. The temples represent a rare complete expression of early medieval North Indian temple art. The erotic sculptures were not considered obscene but were part of Tantric traditions exploring the relationship between human desire and spiritual liberation.",
+  "festivals": [
+    "Khajuraho Dance Festival (February/March — 7-day classical dance festival at the Western Group temples; Bharatanatyam, Odissi, Kathak, Manipuri performed against the temple backdrop — one of India's finest cultural events)"
+  ],
+  "hotels": [
+    "Lalit Temple View (4-star, ₹6000-12000, views of the temples from pool)",
+    "Radisson Jass Hotel (4-star, ₹4000-8000)",
+    "Hotel Chandela (2-star, ₹2000-4000, near temples)",
+    "Hotel Harmony (Budget, ₹800-1500, near bus stand)"
+  ],
+  "restaurants": [
+    "Mediterraneo (Italian + Indian, ₹400-900, popular with international tourists)",
+    "Raja Café (Rooftop with temple view, ₹300-700)",
+    "Blue Sky Restaurant (Budget, ₹200-400)",
+    "Olive Café (Budget-friendly multicuisine, ₹200-500)"
+  ],
+  "travelTips": [
+    "Hire a guide (₹400-600) at the Western Group entrance — without context the sculptures are just art; with context they are extraordinary.",
+    "Visit the temples at sunrise — golden light on the sandstone is stunning.",
+    "Combine with Varanasi (4 hrs by road) and Agra for a Central India circuit.",
+    "Children: the erotic sculptures are significant but constitute less than 10% of all sculpture — most is religious.",
+    "Buy the combined ticket for all Western Group temples."
+  ],
+  "packingTips": [
+    "Comfortable walking shoes",
+    "Hat and sunscreen (exposed sites)",
+    "Light cotton",
+    "Camera (photography permitted throughout)"
+  ],
+  "weather": "Winter (Oct-Feb): 8-25°C, ideal. Spring (Mar-Apr): 25-40°C. Summer (May-Jun): 38-44°C — extremely hot, not recommended. Monsoon (Jul-Sep): 30-35°C, humid.",
+  "transport": "By Air: Khajuraho Airport (5km, flights from Delhi 1.5 hrs, Varanasi 40 min). By Rail: Khajuraho Station — Mahakoshal Express from Delhi. By Road: Bus from Jhansi (175km, 4 hrs); from Varanasi (280km, 6 hrs). Within Khajuraho: Cycle rental (₹100/day), autos (₹50-200).",
+  "itineraries": [
+    {
+      "type": "2 Day",
+      "durationDays": 2,
+      "estimatedCost": 4500,
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "06:30 AM",
+              "activity": "Western Group at sunrise",
+              "description": "Best light on sandstone. The temples glow amber at dawn. Hire guide at gate.",
+              "costEstimate": 640
+            },
+            {
+              "time": "10:00 AM",
+              "activity": "Archaeological Museum",
+              "description": "Context for the sculptures. 45 minutes.",
+              "costEstimate": 15
+            },
+            {
+              "time": "12:00 PM",
+              "activity": "Lunch at Raja Café",
+              "description": "Rooftop with temple views.",
+              "costEstimate": 400
+            },
+            {
+              "time": "02:00 PM",
+              "activity": "Eastern Group (Jain Temples)",
+              "description": "Less crowded, equally beautiful. Parsvanatha Temple is the finest.",
+              "costEstimate": 0
+            },
+            {
+              "time": "06:30 PM",
+              "activity": "Sound and Light Show",
+              "description": "English show. Temples illuminated with dramatic narrative.",
+              "costEstimate": 500
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            {
+              "time": "08:00 AM",
+              "activity": "Panna National Park (32km)",
+              "description": "Jeep safari on Ken River. Tigers, gharial crocodiles, vultures.",
+              "costEstimate": 2500
+            },
+            {
+              "time": "02:00 PM",
+              "activity": "Raneh Falls (22km)",
+              "description": "Dramatic canyon of crystalline pink and grey granite.",
+              "costEstimate": 200
+            },
+            {
+              "time": "05:00 PM",
+              "activity": "Departure",
+              "description": "Drive to Jhansi or flight from Khajuraho airport.",
+              "costEstimate": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

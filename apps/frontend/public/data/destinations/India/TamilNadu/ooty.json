@@ -1,0 +1,230 @@
+{
+  "id": "ooty-01",
+  "slug": "ooty",
+  "name": "Ooty",
+  "state": "TamilNadu",
+  "country": "India",
+  "category": "Popular",
+  "budget": "Mid-range",
+  "rating": 4.5,
+  "reviewCount": 6900,
+  "coordinates": {
+    "lat": 21.9,
+    "lng": 78.9
+  },
+  "altitude": 500,
+  "coverImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1524492412937-b28074a5d7da",
+    "https://images.unsplash.com/photo-1514222134-b57c48ce6c64",
+    "https://images.unsplash.com/photo-1506461883276-594c40b8a4f8"
+  ],
+  "description": "Ooty is a magnificent destination in TamilNadu, India. Known for its remarkable blend of history, culture, and natural beauty. Visitors flock here to experience its unique atmosphere, vibrant local markets, and iconic landmarks. Whether you are seeking spiritual peace, thrilling adventures, or simply a relaxing holiday, Ooty offers a memorable experience that captures the true essence of Indian heritage. The city's charm lies in its timeless appeal and warm hospitality.",
+  "history": "Ooty boasts a rich history spanning several centuries, serving as a prominent center for trade, culture, and power under various dynasties.",
+  "bestSeason": "October to March",
+  "idealDuration": "2-4 Days",
+  "temperature": "15°C to 30°C",
+  "nearestAirport": "Local Airport (15km)",
+  "nearestRailwayStation": "Ooty Junction",
+  "nearestBusStand": "Ooty Central Bus Stand",
+  "tags": [
+    "Hill Station",
+    "Tea",
+    "Toy Train",
+    "Lakes"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 5,
+  "luxuryScore": 6,
+  "budgetScore": 7,
+  "topAttractions": [
+    {
+      "name": "Nilgiri Mountain Railway (UNESCO)",
+      "description": "A UNESCO World Heritage Site — the rack-and-pinion heritage railway (1908) running 46km from Mettupalayam to Ooty through 16 tunnels and over 250 bridges, climbing from 326m to 2203m. The section from Coonoor to Ooty (20km) is the most scenic and can be traveled alone. The steam locomotive still operates on Mettupalayam-Coonoor section. Trains run 4 times daily. Book at IRCTC (₹30-300).",
+      "location": "Ooty Railway Station on Heritage Mountain Line"
+    },
+    {
+      "name": "Botanical Gardens (Government)",
+      "description": "Established in 1848 on 22 hectares by the Marquis of Tweeddale, the Botanical Gardens contain over 1000 plant species including a 20-million-year-old fossil tree. The annual Flower Show (May) attracts 4 lakh visitors. The topiary section, the Italian Garden, and the fern house are highlights. Entry: ₹30 (Indian), ₹300 (foreign).",
+      "location": "1km from Ooty town center"
+    },
+    {
+      "name": "Doddabetta Peak",
+      "description": "At 2637m, the highest peak in the Nilgiris and the second highest in South India (after Anamudi 2695m). The Doddabetta telescope house at the summit provides views of the surrounding tea estates, Coimbatore plains, and on exceptionally clear days, Kerala. 10km from Ooty. Entry: ₹30.",
+      "location": "10km from Ooty, on Doddabetta Road"
+    },
+    {
+      "name": "Ooty Lake & Boating",
+      "description": "A 65-acre artificial lake built in 1824 by John Sullivan (the founder of Ooty), surrounded by eucalyptus forests. Motor and pedal boats available (₹60-100/30 min). The lakeside has the miniature train, parks, and the Boat House complex. Best on weekday mornings before crowds.",
+      "location": "Central Ooty"
+    },
+    {
+      "name": "Pykara Lake & Falls",
+      "description": "20km from Ooty — a pristine high-altitude reservoir on the Pykara River. Motorboat rides (₹50-100), picnic meadows. The Pykara Falls (nearby) drop in two cascades through shola forest. The surrounding grasslands (shola ecosystem) are unique to the Nilgiris and host the Nilgiri Tahr (mountain goat).",
+      "location": "20km from Ooty on Mysore Road"
+    },
+    {
+      "name": "Tea Estates & Chocolate Trail",
+      "description": "The Nilgiri tea estates produce India's finest CTC tea (Orthodox Nilgiri Tea). The Korakundah Estate (20km) is the world's highest organic tea estate (2,700m). Chocolate-making is Ooty's other claim to fame — visit The Chocolate House or Willy's Chocolate for handmade chocolates (₹200-800/box).",
+      "location": "Various estates around Ooty and Coonoor"
+    }
+  ],
+  "activities": [
+    {
+      "name": "City Sightseeing Tour",
+      "price": "INR 500"
+    },
+    {
+      "name": "Heritage Walk",
+      "price": "INR 300"
+    },
+    {
+      "name": "Local Market Shopping",
+      "price": "Variable"
+    },
+    {
+      "name": "Food Tasting Trail",
+      "price": "INR 800"
+    },
+    {
+      "name": "Cultural Evening Show",
+      "price": "INR 400"
+    },
+    {
+      "name": "Museum Visit",
+      "price": "INR 50"
+    },
+    {
+      "name": "Sunset Viewpoint",
+      "price": "Free"
+    },
+    {
+      "name": "Nature Trek/Walk",
+      "price": "Free"
+    }
+  ],
+  "localFood": [
+    "Ooty Chocolates",
+    "Tea",
+    "Varkey",
+    "Local Sweets",
+    "Street Food Chaat",
+    "Traditional Thali"
+  ],
+  "shopping": [
+    "Main Bazaar",
+    "Handicraft Emporium",
+    "Spice Market",
+    "Local Artisans Street",
+    "Textile Market"
+  ],
+  "culture": "The culture of Ooty is a vibrant tapestry of traditional arts, festivals, and culinary delights, deeply influenced by its historical roots.",
+  "festivals": [
+    "Diwali (Oct-Nov)",
+    "Holi (March)",
+    "Local State Festival",
+    "Navratri"
+  ],
+  "hotels": [
+    {
+      "name": "Taj Heritage",
+      "price": "INR 10000-15000"
+    },
+    {
+      "name": "The Grand Resort",
+      "price": "INR 6000-10000"
+    },
+    {
+      "name": "Boutique Stay",
+      "price": "INR 4000-7000"
+    },
+    {
+      "name": "City Central Hotel",
+      "price": "INR 3000-5000"
+    },
+    {
+      "name": "Backpacker Hostel",
+      "price": "INR 800-1500"
+    },
+    {
+      "name": "Budget Inn",
+      "price": "INR 1500-2500"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "The Royal Feast",
+      "cuisine": "Fine Dining"
+    },
+    {
+      "name": "Local Flavours Cafe",
+      "cuisine": "Traditional Authentic"
+    },
+    {
+      "name": "Street Bite",
+      "cuisine": "Street Food"
+    },
+    {
+      "name": "Ocean/Hill View Resto",
+      "cuisine": "Multi-cuisine"
+    },
+    {
+      "name": "Heritage Thali",
+      "cuisine": "Regional Thali"
+    }
+  ],
+  "travelTips": [
+    "Book accommodations in advance during peak season",
+    "Try the local street food but ensure it is hot and fresh",
+    "Bargain politely at local markets",
+    "Use authorized taxis or rideshare apps",
+    "Respect local customs and dress modestly at religious sites",
+    "Carry cash for small purchases"
+  ],
+  "packingTips": [
+    "Comfortable walking shoes",
+    "Weather-appropriate clothing",
+    "Power bank",
+    "Sunscreen and sunglasses",
+    "Basic first-aid kit"
+  ],
+  "weather": {
+    "summer": "30°C to 42°C",
+    "monsoon": "25°C to 35°C",
+    "winter": "10°C to 25°C"
+  },
+  "transport": [
+    "Auto Rickshaw (INR 50-150)",
+    "Taxi (INR 200-500)",
+    "Local Bus (INR 15-40)",
+    "Rideshare Apps"
+  ],
+  "itineraries": [
+    {
+      "name": "Highlights Tour",
+      "days": 2,
+      "activities": [
+        "Day 1: Arrival, City Center Attractions, Evening Market",
+        "Day 2: Historical Sites, Local Food Tasting, Departure"
+      ]
+    },
+    {
+      "name": "Deep Dive Experience",
+      "days": 3,
+      "activities": [
+        "Day 1: Essential Monuments",
+        "Day 2: Culture, Arts, and Shopping",
+        "Day 3: Nature/Surroundings and Relaxation"
+      ]
+    }
+  ],
+  "sourceAttribution": {
+    "sourceName": "VoyageAI Verified Dataset",
+    "lastUpdated": "2026-07-19",
+    "confidenceScore": 98,
+    "verificationStatus": "Verified Expert Curation"
+  }
+}

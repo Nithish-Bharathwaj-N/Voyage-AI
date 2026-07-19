@@ -1,0 +1,225 @@
+{
+  "id": "jodhpur-01",
+  "slug": "jodhpur",
+  "name": "Jodhpur",
+  "state": "Rajasthan",
+  "country": "India",
+  "category": "Culture",
+  "budget": "Mid-range",
+  "rating": 4.6,
+  "reviewCount": 55000,
+  "coordinates": {
+    "lat": 26.2389,
+    "lng": 73.0243
+  },
+  "altitude": 231,
+  "coverImage": "https://images.unsplash.com/photo-1524781289445-ddf8d5695861?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1586791138989-9a6e6e95c0cf?w=800&q=80",
+    "https://images.unsplash.com/photo-1586791138989-9a6e6e95c0cf?w=800&q=80"
+  ],
+  "description": "Jodhpur — the Blue City — is Rajasthan's second largest city, famed for the vast indigo-painted houses of the Brahmin quarter below the colossal Mehrangarh Fort, the world's most spectacular fort perched 122m above the city on a volcanic rock. Jodhpur is the gateway to the Thar Desert, the center of Marwari merchant culture, and home to the Umaid Bhawan Palace — one of the world's largest private residences, still home to the Jodhpur royal family. The city radiates an electric energy: spice markets, blue lanes, camel caravans, and a sky that seems bluer than anywhere else.",
+  "history": "Jodhpur was founded in 1459 by Rao Jodha of the Rathore Rajput clan. He chose Chittar Hill (122m) for his fortress and built Mehrangarh. The city has never been conquered despite multiple sieges. The Rathore Rajputs allied with the Mughals under Akbar, providing military commanders and administrators. The blue color of Brahmin houses spread throughout the old city, now painting the entire old quarter in shades of indigo and azure.",
+  "bestSeason": "October to March. Avoid May-June (42°C+). Desert Festival: February.",
+  "idealDuration": "2-3 days",
+  "temperature": "5°C (winter nights) to 42°C (summer)",
+  "nearestAirport": "Jodhpur Airport (JDH) 5km from Mehrangarh Fort",
+  "nearestRailwayStation": "Jodhpur Junction (JU) — trains from Delhi (8 hrs overnight)",
+  "nearestBusStand": "Jodhpur Central Bus Stand (near clock tower)",
+  "tags": [
+    "Blue City",
+    "Mehrangarh Fort",
+    "Marwari",
+    "Thar Desert",
+    "Royal",
+    "Rajasthan"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 4,
+  "luxuryScore": 8,
+  "budgetScore": 6,
+  "topAttractions": [
+    {
+      "name": "Mehrangarh Fort",
+      "description": "Widely considered India's finest fort — built from 1459 on a 122m rock above the Blue City. The 36m-high walls and seven imposing gates (Jai Pol, Fateh Pol, Loha Pol with cannonball impact marks) lead to opulent palaces: Moti Mahal, Phool Mahal, Sheesh Mahal — all displaying extraordinary craftsmanship. The Zenana Deori (women's quarter) views over the Blue City are breathtaking. Entry: ₹100 (Indian), ₹600 (foreign). Audio guide ₹100. Open 9AM-5PM.",
+      "location": "Mehrangarh Hill, Jodhpur city"
+    },
+    {
+      "name": "Umaid Bhawan Palace",
+      "description": "One of the world's largest private residences (347 rooms) built 1929-1943 of warm-golden Chittar limestone by Maharaja Umaid Singh to provide employment during a famine (3,000 workers for 15 years). Now divided between the royal family's residence, the Taj Hotels luxury section, and a museum. Entry: ₹30 (museum). The Taj hotel section open to hotel guests.",
+      "location": "Circuit House Road, Jodhpur"
+    },
+    {
+      "name": "Jaswant Thada",
+      "description": "A delicate white marble cenotaph (1899) built for Maharaja Jaswant Singh II — called the Taj Mahal of Marwar. The thin marble sheets are so fine the light passes through them. Surrounding gardens with portraits of Jodhpur rulers and peacocks. Spectacular views of the Blue City with Mehrangarh as backdrop. Entry: ₹30. Open 9AM-5PM.",
+      "location": "Adjacent to Mehrangarh Fort, below"
+    },
+    {
+      "name": "Clock Tower & Sardar Market",
+      "description": "The 1880 clock tower is the focal point of old Jodhpur's bazaar. Sardar Market surrounds it — 5 distinct bazaars selling spices (the most fragrant market in Rajasthan), textiles, handicrafts, antiques, and Jodhpur's famous jodhpurs (equestrian trousers). The spice section is overwhelming — mountains of turmeric, chili, dried rose petals.",
+      "location": "Sardar Market, Old City center"
+    },
+    {
+      "name": "Rao Jodha Desert Rock Park",
+      "description": "A 72-hectare park of volcanic rock at the base of Mehrangarh, recently restored to its natural landscape of desert flora — dry rivers, rocky outcrops, native trees and shrubs. The best sunset photography spot for Mehrangarh Fort above and Blue City below.",
+      "location": "Base of Mehrangarh Fort hill"
+    },
+    {
+      "name": "Toorji Ka Jhalra (Step Well)",
+      "description": "A beautifully restored 18th-century step well surrounded by blue-painted houses — Jodhpur's most photogenic spot beyond the fort. The 200-year-old stepwell was restored by the same family that founded RAAS Hotel. Best photographed in morning light.",
+      "location": "Old City, near Clock Tower, 10-min walk"
+    }
+  ],
+  "activities": [
+    "Mehrangarh Fort with ziplining (₹100 entry + ₹1500 Flying Fox zipline)",
+    "Blue City heritage walk with guide (₹500-800)",
+    "Umaid Bhawan Palace Museum + lunch (museum ₹30, lunch ₹2000-5000 Taj)",
+    "Desert camping near Rohet Garh (40km, ₹3000-6000)",
+    "Day trip to Osian (65km, cluster of 8th century temples + desert)",
+    "Sunset photography at Rao Jodha Rock Park (free)",
+    "Makhaniya Lassi tasting trail (visit 5 famous lassi shops)",
+    "Puppet show and folk dance in a haveli (₹500-1000)"
+  ],
+  "localFood": [
+    "Makhaniya Lassi (thick, creamy, saffron-tinged sweet lassi — Jodhpur's most famous drink, ₹60-120, at Mishrilal Hotel on Station Road)",
+    "Mirchi Bada (large green chili fritter stuffed with spiced potato — a uniquely Jodhpur street snack, ₹20-30)",
+    "Mawa Kachori (rich fried pastry stuffed with sweetened mawa, ₹30-50)",
+    "Rajasthani Thali (Jodhpur style with ker sangri, gatte, dal baati, churma)",
+    "Dal Baati Churma (best in Rajasthan at rooftop restaurants)",
+    "Pyaaz ki Kachori (onion-filled puff pastry breakfast)",
+    "Lassi at Om Sweet Corner (₹60-80, original location)"
+  ],
+  "shopping": [
+    "Antiques at Mochi Bazar and surrounding lanes (genuine antiques, furniture, brassware)",
+    "Jodhpurs (equestrian trousers, the clothing that bears the city's name — custom-tailored in the clock tower bazaar)",
+    "Mojri (leather shoes, ₹300-1500) in Sardar Market",
+    "Handicrafts: wrought iron lamps, mirror work, lacquerware",
+    "Textiles: bandhani, leheriya, block-printed fabrics at Kapda Bazaar",
+    "Rajasthani silver and gemstone jewelry"
+  ],
+  "culture": "Jodhpur is the heartland of Marwari merchant culture — one of India's most entrepreneurially dynamic communities, known for global trading from Calcutta and Singapore to New York. The city's blue houses were historically painted to denote Brahmin households, though the color later spread throughout the old city. Marwari folk music and dance — especially the Ghoomar and Kalbelia — are spectacular.",
+  "festivals": [
+    "Marwar Festival (October — 2-day festival of music and dance at Umaid Bhawan)",
+    "Desert Festival (February, at Osian 65km — camel races, folk music, cultural events)",
+    "RIFF (Rajasthan International Folk Festival, October — world music festival at Mehrangarh)",
+    "Nag Panchami (July/August)"
+  ],
+  "hotels": [
+    "RAAS Jodhpur (Boutique luxury, ₹18000-40000 — best hotel in Jodhpur, built into old city havelis with Mehrangarh view)",
+    "Umaid Bhawan Palace Taj (5-star, ₹25000-60000 — stay in the Maharaja's palace)",
+    "Indra Vilas (Heritage boutique, ₹8000-15000)",
+    "Singhvi Haveli (Heritage, ₹3000-6000, authentic old city haveli)",
+    "Blue House (Budget, ₹800-2000, old city with fort view from rooftop)"
+  ],
+  "restaurants": [
+    "Indique (Rooftop, best Mehrangarh view, ₹500-1200, Pal Haveli)",
+    "Darikhana at RAAS (Rajasthani fine dining, ₹1500-3500, lovely courtyard)",
+    "Janta Sweet Home (Local Rajasthani, ₹150-350, near clock tower)",
+    "Mishrilal Hotel (Makhaniya Lassi and Mawa Kachori, ₹50-150)",
+    "On the Rocks (Garden restaurant, ₹400-900, near Circuit House)"
+  ],
+  "travelTips": [
+    "Mehrangarh is best at opening (9 AM) or 2-3 hours before sunset.",
+    "The Blue City is best explored on foot — hire a local guide from the fort entrance.",
+    "Flying Fox zipline at Mehrangarh is incredible (₹1500, 6 lines over the old city).",
+    "Combine with Jaisalmer (5 hrs west) and Udaipur (5 hrs south) for a Rajasthan circuit.",
+    "In Clock Tower market: buy spices in sealed original packaging for best quality."
+  ],
+  "packingTips": [
+    "Light cotton (daytime desert heat)",
+    "Warm layers (winter nights)",
+    "Sun hat",
+    "Comfortable walking shoes (old city is cobbled)",
+    "Sunscreen"
+  ],
+  "weather": "Winter (Oct-Feb): 5-28°C, ideal. Summer (Mar-May): 30-42°C. Monsoon (Jul-Sep): 28-35°C, light rain — the fort looks dramatic in the rain.",
+  "transport": "By Air: Jodhpur Airport (5km, flights from Delhi). By Rail: Jodhpur Junction — overnight trains from Delhi (8 hrs). By Bus: RSRTC from Jaisalmer (5 hrs), Jaipur (6 hrs), Udaipur (5 hrs). Within city: Autos (₹50-200), Ola/Uber.",
+  "itineraries": [
+    {
+      "type": "2 Day",
+      "durationDays": 2,
+      "estimatedCost": 7000,
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "09:00 AM",
+              "activity": "Mehrangarh Fort",
+              "description": "India's finest fort. Audio guide and 2-3 hours in the palace museums.",
+              "costEstimate": 700
+            },
+            {
+              "time": "12:00 PM",
+              "activity": "Jaswant Thada",
+              "description": "Marble cenotaph. Beautiful views of the Blue City.",
+              "costEstimate": 30
+            },
+            {
+              "time": "01:30 PM",
+              "activity": "Makhaniya Lassi at Mishrilal",
+              "description": "The most famous lassi in Rajasthan.",
+              "costEstimate": 120
+            },
+            {
+              "time": "03:00 PM",
+              "activity": "Clock Tower & Sardar Market",
+              "description": "Spice bazaar, antiques, jodhpurs, handicrafts.",
+              "costEstimate": 1500
+            },
+            {
+              "time": "05:30 PM",
+              "activity": "Rao Jodha Rock Park sunset",
+              "description": "Volcanic rock park with fort views in golden hour.",
+              "costEstimate": 0
+            },
+            {
+              "time": "08:00 PM",
+              "activity": "Dinner at Indique",
+              "description": "Rooftop restaurant with fort view and Rajasthani cuisine.",
+              "costEstimate": 1000
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            {
+              "time": "09:00 AM",
+              "activity": "Blue City old lanes walk",
+              "description": "Explore the indigo lanes with a local guide.",
+              "costEstimate": 600
+            },
+            {
+              "time": "11:00 AM",
+              "activity": "Toorji Ka Jhalra stepwell",
+              "description": "The most photogenic stepwell in Rajasthan.",
+              "costEstimate": 0
+            },
+            {
+              "time": "12:30 PM",
+              "activity": "Mirchi Bada + Mawa Kachori",
+              "description": "Uniquely Jodhpur street snacks near clock tower.",
+              "costEstimate": 100
+            },
+            {
+              "time": "02:00 PM",
+              "activity": "Umaid Bhawan Palace",
+              "description": "Museum of Jodhpur royalty. 347-room palace.",
+              "costEstimate": 30
+            },
+            {
+              "time": "04:00 PM",
+              "activity": "Depart for Jaisalmer or Udaipur",
+              "description": "5-hour road journey.",
+              "costEstimate": 1500
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

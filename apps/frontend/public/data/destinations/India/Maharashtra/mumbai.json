@@ -1,0 +1,176 @@
+{
+  "id": "mumbai-01",
+  "slug": "mumbai",
+  "name": "Mumbai",
+  "state": "Maharashtra",
+  "country": "India",
+  "category": "Culture",
+  "budget": "Mid-range",
+  "rating": 4.4,
+  "reviewCount": 105000,
+  "coordinates": {
+    "lat": 19.076,
+    "lng": 72.8777
+  },
+  "altitude": 14,
+  "coverImage": "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1566552881560-0be862a7c445?w=800&q=80",
+    "https://images.unsplash.com/photo-1529253355930-ddbe423a2ac7?w=800&q=80",
+    "https://images.unsplash.com/photo-1567157577867-05ccb1388e66?w=800&q=80"
+  ],
+  "description": "Mumbai — India's Maximum City — is the financial capital, the entertainment capital (Bollywood), and the most diverse urban experience in the country. Built on 7 former islands joined by land reclamation over 150 years, this city of 20 million never sleeps. The Gateway of India, the Taj Mahal Palace Hotel, Chhatrapati Shivaji Maharaj Terminus (UNESCO), Marine Drive's Queen's Necklace, the UNESCO-listed Elephanta Caves, the chaos of Dharavi, and the glamour of Bandra coexist in a single city. Mumbai simultaneously represents every stratum of India: incredible wealth and intense poverty, ancient traditions and cutting-edge modernity.",
+  "history": "Mumbai (formerly Bombay) was a cluster of 7 fishing islands under Koli tribal communities. The Portuguese occupied it from 1534. In 1661 it was given to England as part of the dowry of Catherine of Braganza. The British East India Company developed it into their premier west-coast port, and it became the British India presidency capital. The city grew rapidly with the cotton industry, then as a financial center, and became the center of the Indian independence movement — Gandhi organized many campaigns from here.",
+  "bestSeason": "November to February. Monsoon (June-September) — dramatic but flooding.",
+  "idealDuration": "3-4 days",
+  "temperature": "17°C (winter) to 35°C (summer)",
+  "nearestAirport": "Chhatrapati Shivaji Maharaj International Airport (BOM) T2 — 28km from Gateway of India",
+  "nearestRailwayStation": "Chhatrapati Shivaji Maharaj Terminus (CSMT) and Mumbai Central — major inter-city stations",
+  "nearestBusStand": "Mumbai Central Bus Depot (MSRTC)",
+  "tags": [
+    "Bollywood",
+    "Gateway of India",
+    "Elephanta Caves",
+    "Dharavi",
+    "Marine Drive",
+    "UNESCO"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 4,
+  "luxuryScore": 9,
+  "budgetScore": 7,
+  "topAttractions": [
+    {
+      "name": "Gateway of India",
+      "description": "A 26-metre basalt arch monument (1924) on the Apollo Bunder waterfront, built to commemorate the 1911 visit of King George V and Queen Mary. The last British troops left India through this gateway in 1948. Overlooking the Arabian Sea, with the Taj Mahal Palace Hotel behind — one of India's most iconic images. Ferry point for Elephanta Caves.",
+      "location": "Apollo Bunder, Colaba"
+    },
+    {
+      "name": "Elephanta Caves (UNESCO)",
+      "description": "A UNESCO World Heritage Site — a cluster of 5th-8th century CE rock-cut cave temples on Elephanta Island, 9km from the Gateway. Accessible by ferry (₹200 return, 1 hour). The main cave houses a 6-metre trimurti (three-headed Shiva) — one of the finest sculptures in Indian art. Entry: ₹40 (Indian), ₹600 (foreign). Ferries run 9AM-2:30PM.",
+      "location": "Elephanta Island, 9km offshore"
+    },
+    {
+      "name": "CST / Chhatrapati Shivaji Maharaj Terminus (UNESCO)",
+      "description": "A UNESCO World Heritage Site — the Victoria Terminus (completed 1888) is a Gothic Revival masterpiece blending Victorian Gothic and Indian styles. Still a fully functioning railway station (3 million passengers daily), its turrets, stone carvings, and stained glass are extraordinary. Best photographed at night when illuminated.",
+      "location": "Fort, South Mumbai"
+    },
+    {
+      "name": "Marine Drive (Queen's Necklace)",
+      "description": "A 3.6km C-shaped promenade along the Arabian Sea from Nariman Point to Girgaum Chowpatty. At night, the arc of street lights seen from Malabar Hill resembles a necklace — the origin of the Queen's Necklace nickname. The best free sunset experience in Mumbai. Also home to the Mumbai skyline photo.",
+      "location": "South Mumbai seafront"
+    },
+    {
+      "name": "Dharavi",
+      "description": "Asia's largest slum (popularly, though not technically — Orangi Town in Karachi is larger) — 1 million people in 2.1 square km. A massive informal economy producing leather goods, recycled plastics, pottery, and textiles worth over ₹5,000 crore annually. Several social enterprises run sensitively-guided tours (₹750-1500, Reality Tours) that challenge the poverty-tourism criticism.",
+      "location": "Dharavi, Central Mumbai"
+    },
+    {
+      "name": "Juhu Beach & Versova",
+      "description": "The most popular beach in Mumbai — 6km of seafront in the Western suburbs with Bollywood celebrity residences behind it. Famous for Juhu Chowpatty's street food (pav bhaji, bhel puri, gola ice). Celebrity spotting is common. Sunsets are golden.",
+      "location": "Juhu, Western Suburbs"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Elephanta Caves Tour",
+      "price": "INR 1000"
+    },
+    {
+      "name": "Dharavi Slum Tour",
+      "price": "INR 800"
+    },
+    {
+      "name": "Bollywood Studio Tour",
+      "price": "INR 2000"
+    },
+    {
+      "name": "South Mumbai Heritage Walk",
+      "price": "INR 900"
+    },
+    {
+      "name": "Marine Drive Evening Walk",
+      "price": "Free"
+    }
+  ],
+  "localFood": [
+    "Vada Pav",
+    "Pav Bhaji",
+    "Bhel Puri",
+    "Bombay Sandwich",
+    "Keema Pav",
+    "Modak"
+  ],
+  "shopping": [
+    "Colaba Causeway",
+    "Linking Road",
+    "Crawford Market",
+    "Fashion Street",
+    "Chor Bazaar"
+  ],
+  "culture": "The financial and entertainment capital of India, known for its fast-paced lifestyle, Bollywood glitz, and historic Victorian Gothic architecture.",
+  "festivals": [
+    "Ganesh Chaturthi (Aug-Sep)",
+    "Gudi Padwa",
+    "Kala Ghoda Arts Festival (Feb)",
+    "Mt. Mary Fair"
+  ],
+  "hotels": [
+    "Taj Mahal Palace Hotel (Iconic 5-star, ₹25000-80000, Gateway of India — India's most celebrated hotel, opened 1903)",
+    "The Oberoi Mumbai (5-star, ₹18000-40000, Marine Drive)",
+    "ITC Grand Central (5-star, ₹10000-20000, Parel)",
+    "Abode Boutique Hotel (Boutique, ₹5000-9000, Colaba)",
+    "Hotel Harbour View (Budget, ₹2000-4500, Colaba)",
+    "Hotel City Palace (Budget, ₹1200-2500, Nariman Point area)"
+  ],
+  "restaurants": [
+    {
+      "name": "Britannia & Co",
+      "cuisine": "Parsi / Irani"
+    },
+    {
+      "name": "Leopold Cafe",
+      "cuisine": "Continental / Indian"
+    },
+    {
+      "name": "Bademiya",
+      "cuisine": "Kebabs / Street Food"
+    },
+    {
+      "name": "The Bombay Canteen",
+      "cuisine": "Modern Regional Indian"
+    },
+    {
+      "name": "Trishna",
+      "cuisine": "Mangalorean Seafood"
+    }
+  ],
+  "travelTips": [
+    "Use local trains outside peak hours (avoid 8-11 AM and 6-9 PM)",
+    "Uber and Ola are reliable",
+    "Autos go by meter in suburbs but are not allowed in South Mumbai",
+    "Experience the monsoon cautiously (July-August)"
+  ],
+  "packingTips": [
+    "Umbrella or raincoat (monsoon)",
+    "Cotton and linen clothes",
+    "Comfortable walking shoes",
+    "Deodorant and wipes (high humidity)"
+  ],
+  "weather": "Winter (Nov-Feb): 17-30°C, pleasant. Spring (Mar-May): 28-38°C, humid. Monsoon (Jun-Sep): 24-32°C, extreme rain (2500mm in 4 months). Autumn (Oct): 26-32°C, post-monsoon perfect.",
+  "transport": "By Air: BOM T2 (28km, Airport Metro Line T1 operational, taxi ₹400-700). By Rail: CSMT and Dadar for most South India trains. Mumbai Local Train (best for intra-city). Metro Lines 1,2,7 operational. By Bus: BEST buses (₹5-25). Taxis: ₹30 flag fall + meter.",
+  "itineraries": [
+    {
+      "name": "City of Dreams",
+      "days": 3,
+      "activities": [
+        "Day 1: Gateway of India, Colaba, Elephanta Caves",
+        "Day 2: CST Station, Crawford Market, Marine Drive",
+        "Day 3: Bandra street art, Bollywood tour, Juhu Beach"
+      ]
+    }
+  ]
+}

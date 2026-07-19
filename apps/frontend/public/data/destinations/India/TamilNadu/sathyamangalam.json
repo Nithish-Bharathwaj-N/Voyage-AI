@@ -1,0 +1,133 @@
+{
+  "id": "sathyamangalam-01",
+  "slug": "sathyamangalam",
+  "name": "Sathyamangalam",
+  "state": "TamilNadu",
+  "country": "India",
+  "category": "Wildlife & Nature",
+  "budget": "Mid-range",
+  "rating": 4.6,
+  "reviewCount": 150,
+  "coordinates": {
+    "lat": 11.5034,
+    "lng": 77.2392
+  },
+  "altitude": 400,
+  "coverImage": "https://images.unsplash.com/photo-1549474775-81206f7bbab3?w=800",
+  "galleryImages": [],
+  "description": "Sathyamangalam Tiger Reserve is a protected area and tiger reserve situated along the Western Ghats.",
+  "history": "Declared a tiger reserve in 2013.",
+  "bestSeason": "October to March",
+  "idealDuration": "2-3 Days",
+  "temperature": "20-30°C",
+  "rainfall": "Moderate",
+  "climate": "Tropical",
+  "nearestAirport": "Coimbatore (70km)",
+  "nearestRailwayStation": "Erode (65km)",
+  "nearestBusStand": "Sathyamangalam",
+  "roadConnectivity": "Good",
+  "publicTransport": "Available",
+  "localTransport": "Jeeps, Taxis",
+  "tags": [
+    "Wildlife",
+    "Nature",
+    "Forest"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "seniorFriendly": false,
+  "wheelchairAccessibility": false,
+  "hiddenGem": true,
+  "adventureScore": 9,
+  "luxuryScore": 2,
+  "budgetScore": 8,
+  "travelWarnings": [
+    "Forest entry requires permission"
+  ],
+  "emergencyContacts": [
+    "112"
+  ],
+  "nearbyHospitals": [
+    "Sathyamangalam GH"
+  ],
+  "touristPolice": "Available",
+  "commonScams": [],
+  "droneRegulations": "Strictly Prohibited",
+  "environmentalGuidelines": "No plastics, do not disturb wildlife",
+  "localEtiquette": "Respect forest rules",
+  "language": "Tamil, English",
+  "currency": "INR",
+  "photographyTips": "Carry telephoto lenses",
+  "internetQuality": "Poor",
+  "networkAvailability": "Patchy",
+  "crowdLevel": "Low",
+  "peakSeason": "Winter",
+  "offSeason": "Monsoon",
+  "topAttractions": [
+    {
+      "name": "Bhavanisagar Dam",
+      "description": "Large earthen dam",
+      "location": "Near Sathyamangalam"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Wildlife Safari",
+      "price": "₹1500"
+    }
+  ],
+  "localFood": [
+    "South Indian Meals"
+  ],
+  "shopping": [
+    "Forest Honey"
+  ],
+  "culture": "Tribal culture",
+  "festivals": [
+    "Maasi Magam"
+  ],
+  "hotels": [
+    {
+      "name": "Forest Guest House",
+      "price": "₹1000"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Local Mess",
+      "cuisine": "South Indian"
+    }
+  ],
+  "travelTips": [
+    "Book safaris in advance"
+  ],
+  "packingTips": [
+    "Neutral colored clothes, binoculars"
+  ],
+  "weather": {
+    "summer": "Hot",
+    "monsoon": "Heavy Rain",
+    "winter": "Pleasant"
+  },
+  "transport": [
+    "Bus",
+    "Car"
+  ],
+  "itineraries": [
+    {
+      "name": "Wildlife Weekend",
+      "days": 2,
+      "activities": [
+        "Safari",
+        "Dam visit"
+      ]
+    }
+  ],
+  "sourceAttribution": {
+    "sourceName": "VoyageAI Verified Dataset",
+    "lastUpdated": "2026-07-19",
+    "confidenceScore": 98,
+    "verificationStatus": "Verified Expert Curation"
+  }
+}

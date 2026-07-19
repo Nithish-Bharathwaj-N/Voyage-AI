@@ -1,0 +1,129 @@
+{
+  "id": "topslip-01",
+  "slug": "topslip",
+  "name": "Topslip",
+  "state": "TamilNadu",
+  "country": "India",
+  "category": "Wildlife",
+  "budget": "Mid-range",
+  "rating": 4.6,
+  "reviewCount": 1100,
+  "coordinates": {
+    "lat": 10.4578,
+    "lng": 76.8152
+  },
+  "altitude": 800,
+  "coverImage": "https://images.unsplash.com/photo-1542157585-ef20bbcce1b8",
+  "galleryImages": [],
+  "description": "Topslip is a popular tourist destination in the Anamalai Tiger Reserve.",
+  "history": "Named after the practice of slipping timber logs down the hills.",
+  "bestSeason": "November to April",
+  "idealDuration": "2 days",
+  "temperature": "15°C - 30°C",
+  "rainfall": "High",
+  "climate": "Tropical forest",
+  "nearestAirport": "Coimbatore (80 km)",
+  "nearestRailwayStation": "Pollachi (35 km)",
+  "nearestBusStand": "Pollachi",
+  "roadConnectivity": "Good",
+  "publicTransport": "Buses from Pollachi",
+  "localTransport": "Forest department vehicles",
+  "tags": [
+    "Wildlife",
+    "Nature"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "seniorFriendly": false,
+  "wheelchairAccessibility": false,
+  "hiddenGem": false,
+  "adventureScore": 8,
+  "luxuryScore": 3,
+  "budgetScore": 7,
+  "travelWarnings": [
+    "Wildlife encounters possible, follow rules"
+  ],
+  "emergencyContacts": [
+    "112"
+  ],
+  "nearbyHospitals": [
+    "Pollachi GH"
+  ],
+  "touristPolice": "Forest Guards",
+  "commonScams": [],
+  "droneRegulations": "Strictly prohibited",
+  "environmentalGuidelines": "No plastics, keep quiet.",
+  "localEtiquette": "Don't disturb wildlife",
+  "language": "Tamil, English",
+  "currency": "INR",
+  "photographyTips": "Telephoto lens for wildlife",
+  "internetQuality": "Poor",
+  "networkAvailability": "Patchy",
+  "crowdLevel": "Moderate",
+  "peakSeason": "Dec-Jan",
+  "offSeason": "Monsoon",
+  "topAttractions": [
+    {
+      "name": "Elephant Camp",
+      "description": "Training camp for elephants",
+      "location": "Topslip"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Jungle Safari",
+      "price": "INR 200"
+    }
+  ],
+  "localFood": [
+    "Canteen food"
+  ],
+  "shopping": [
+    "None"
+  ],
+  "culture": "Forest living",
+  "festivals": [],
+  "hotels": [
+    {
+      "name": "Forest Rest House",
+      "price": "INR 2000"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Forest Canteen",
+      "cuisine": "Basic Indian"
+    }
+  ],
+  "travelTips": [
+    "Book accommodation in advance"
+  ],
+  "packingTips": [
+    "Camouflage clothes, binoculars"
+  ],
+  "weather": {
+    "summer": "Warm",
+    "monsoon": "Heavy rain, leeches",
+    "winter": "Cool"
+  },
+  "transport": [
+    "Bus",
+    "Car"
+  ],
+  "itineraries": [
+    {
+      "name": "Wildlife Safari",
+      "days": 2,
+      "activities": [
+        "Safari, Elephant camp visit"
+      ]
+    }
+  ],
+  "sourceAttribution": {
+    "sourceName": "VoyageAI Verified Dataset",
+    "lastUpdated": "2026-07-19",
+    "confidenceScore": 98,
+    "verificationStatus": "Verified Expert Curation"
+  }
+}

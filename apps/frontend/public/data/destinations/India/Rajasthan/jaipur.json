@@ -1,0 +1,181 @@
+{
+  "id": "jaipur-01",
+  "slug": "jaipur",
+  "name": "Jaipur",
+  "state": "Rajasthan",
+  "country": "India",
+  "category": "Culture",
+  "budget": "Mid-range",
+  "rating": 4.6,
+  "reviewCount": 78000,
+  "coordinates": {
+    "lat": 26.9124,
+    "lng": 75.7873
+  },
+  "altitude": 431,
+  "coverImage": "https://images.unsplash.com/photo-1603603285957-3a4e10bcef3b?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1586791138989-9a6e6e95c0cf?w=800&q=80",
+    "https://images.unsplash.com/photo-1599661046289-e31897846e41?w=800&q=80",
+    "https://images.unsplash.com/photo-1548013146-72479768bada?w=800&q=80",
+    "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?w=800&q=80"
+  ],
+  "description": "Jaipur — the Pink City — is the capital of Rajasthan and the jewel of India's Golden Triangle (Delhi–Agra–Jaipur). Founded in 1727 by Maharaja Sawai Jai Singh II as one of India's first planned cities, it is renowned for its magnificent amber fort, opulent palaces, astronomical wonders, and the bazaars brimming with gemstones, textiles, and blue pottery. The entire old city was painted terracotta pink in 1876 to welcome Prince Albert of Wales, a tradition maintained to this day.",
+  "history": "Jaipur was founded on November 18, 1727 by Maharaja Sawai Jai Singh II of the Kachhwaha Rajput dynasty. Unlike earlier Rajput capitals built on defensible hills, Jaipur was planned on flat ground using Vastu Shastra principles. The city was laid out in a grid of nine blocks (navgrah), each representing a celestial body. In 2019, it was inscribed as a UNESCO World Heritage City.",
+  "bestSeason": "October to March (Winter 8–25°C, clear and pleasant). Avoid April–June (40–46°C).",
+  "idealDuration": "3–4 days",
+  "temperature": "5°C (winter nights) to 46°C (summer)",
+  "nearestAirport": "Jaipur International Airport (JAI) — 13 km from city center",
+  "nearestRailwayStation": "Jaipur Junction (JP) — well-connected to Delhi (5 hrs Shatabdi), Mumbai, Agra",
+  "nearestBusStand": "Sindhi Camp Bus Stand (Central, near Old City)",
+  "tags": [
+    "Royalty",
+    "Forts",
+    "Palaces",
+    "Heritage",
+    "Shopping",
+    "Gems"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 3,
+  "luxuryScore": 9,
+  "budgetScore": 7,
+  "topAttractions": [
+    {
+      "name": "Amber Fort (Amer Qila)",
+      "description": "The crowning glory of Jaipur — a colossal 16th-century fort-palace complex on a hilltop 11 km from the city. Built by Raja Man Singh I in 1592, its opulent Sheesh Mahal (Hall of Mirrors) and Ganesh Pol gateway are architectural masterpieces. Elephant rides to the gate gate (₹900 per elephant, 2 persons) are popular but controversial. Best visited at sunrise for crowds and light. Entry: ₹100 (Indian), ₹500 (foreigner).",
+      "location": "11 km from Jaipur, Amer town"
+    },
+    {
+      "name": "Hawa Mahal (Palace of Winds)",
+      "description": "Jaipur's most iconic landmark — a 5-storey, 953-windowed pink sandstone façade built in 1799 by Maharaja Sawai Pratap Singh. The honeycomb-latticed windows allowed royal women to observe street life while remaining unseen. The structure has no front door — you enter from the rear. Entry: ₹50. Open 9 AM–4:30 PM.",
+      "location": "Sireh Deorhi Bazaar, Old City"
+    },
+    {
+      "name": "City Palace",
+      "description": "The royal residence of the Jaipur royal family, still partly inhabited by the Maharaja. The palace complex houses the Maharaja Sawai Man Singh II Museum with royal artifacts, textiles, manuscripts, and carriages. The Mubarak Mahal and Diwan-i-Khas are highlights. Entry: ₹130 (museum). Open 9:30 AM–5 PM.",
+      "location": "Old City center, adjacent to Jantar Mantar"
+    },
+    {
+      "name": "Jantar Mantar (UNESCO)",
+      "description": "A UNESCO World Heritage Site — the world's largest stone astronomical observatory, built by Maharaja Jai Singh II in 1734. Contains 19 architectural astronomical instruments including the Samrat Yantra, the world's largest sundial (27m high, accurate to 2 seconds). Entry: ₹50. Hire a guide (₹200) for the instruments to make sense.",
+      "location": "Adjacent to City Palace, Old City"
+    },
+    {
+      "name": "Nahargarh Fort",
+      "description": "The \"Tiger Fort\" looming over Jaipur from the Aravalli Hills. Built by Maharaja Sawai Jai Singh II in 1734, it offers the best panoramic views of Jaipur city, especially at sunset. Houses a wax museum and the famous Padao restaurant at the top. Entry: ₹50. Open 10 AM–5:30 PM.",
+      "location": "Aravalli Hills, 7 km from city"
+    },
+    {
+      "name": "Jaigarh Fort",
+      "description": "The real defensive fort that protected Amer, connected by underground tunnels. Houses the world's largest cannon on wheels — the Jaivana (50-tonne, made in 1720). The cannon was fired only once in its history. Stunning valley views. Entry: ₹35. Open 9 AM–4:30 PM.",
+      "location": "15 km from Jaipur, above Amer Fort"
+    },
+    {
+      "name": "Albert Hall Museum",
+      "description": "Rajasthan's oldest museum (1887) in a stunning Indo-Saracenic building. Houses an Egyptian mummy, carpets, ivory, crystal, and fine folk art from across Rajputana. A beautiful building illuminated at night. Entry: ₹40 (Indian), ₹300 (foreigner). Open 10 AM–5 PM.",
+      "location": "Ram Niwas Garden, New Gate"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Amer Fort Elephant/Jeep Safari",
+      "price": "INR 1100"
+    },
+    {
+      "name": "Hot Air Balloon Ride",
+      "price": "INR 12000"
+    },
+    {
+      "name": "Block Printing Workshop",
+      "price": "INR 1500"
+    },
+    {
+      "name": "Jantar Mantar Guided Tour",
+      "price": "INR 400"
+    },
+    {
+      "name": "Raj Mandir Cinema Experience",
+      "price": "INR 300"
+    }
+  ],
+  "localFood": [
+    "Dal Bati Churma",
+    "Laal Maas",
+    "Pyaz Ki Kachori",
+    "Ghevar",
+    "Lassi",
+    "Ker Sangri"
+  ],
+  "shopping": [
+    "Johari Bazaar (Jewelry)",
+    "Bapu Bazaar (Textiles)",
+    "Tripolia Bazaar",
+    "Chandpole Bazaar",
+    "Blue Pottery centers"
+  ],
+  "culture": "The Pink City showcases royal Rajput heritage, magnificent palaces, vibrant textiles, traditional jewelry, and rich folk music.",
+  "festivals": [
+    "Teej (Jul-Aug)",
+    "Jaipur Literature Festival (Jan)",
+    "Elephant Festival (Mar)",
+    "Kite Festival (Jan)"
+  ],
+  "hotels": [
+    "Rambagh Palace (5-star, Taj Hotels, ₹25,000–80,000 — former Maharaja's residence, most iconic)",
+    "Samode Haveli (Heritage, ₹8,000–18,000, Old City — stunning frescoes)",
+    "ITC Rajputana (5-star, ₹8,000–20,000, near Civil Lines)",
+    "Narain Niwas Palace (Heritage, ₹5,000–10,000, Kanota Bagh)",
+    "Pearl Palace Heritage Hotel (Budget, ₹2,000–4,500, Hathroi — excellent value)",
+    "Hotel Pink City (Budget, ₹800–1,500, Sansar Chandra Road)"
+  ],
+  "restaurants": [
+    {
+      "name": "Chokhi Dhani",
+      "cuisine": "Authentic Rajasthani Village Experience"
+    },
+    {
+      "name": "Suvarna Mahal (Rambagh Palace)",
+      "cuisine": "Royal Fine Dining"
+    },
+    {
+      "name": "Laxmi Mishthan Bhandar (LMB)",
+      "cuisine": "Vegetarian Thali & Sweets"
+    },
+    {
+      "name": "Spice Court",
+      "cuisine": "North Indian / Laal Maas"
+    },
+    {
+      "name": "Lassiwala (MI Road)",
+      "cuisine": "Traditional Lassi"
+    }
+  ],
+  "travelTips": [
+    "Start sightseeing early to avoid heat and crowds",
+    "Composite tickets cover multiple monuments",
+    "Bargain heavily in bazaars",
+    "Hire a registered guide for Amer Fort"
+  ],
+  "packingTips": [
+    "Cotton clothes and a hat for daytime",
+    "Warm jacket for winter evenings (Dec-Feb)",
+    "Comfortable walking shoes for forts",
+    "Sunglasses and sunscreen"
+  ],
+  "weather": "Winter (Oct–Mar): 8–25°C — ideal. Summer (Apr–Jun): 30–46°C — very hot, not recommended. Monsoon (Jul–Sep): 25–35°C with moderate rain, forts are less crowded and greener.",
+  "transport": "By Air: Jaipur International Airport (JAI) — daily flights from all metros. By Rail: Jaipur Junction — Shatabdi Express from Delhi (5 hrs, ₹700–1,200), trains to Agra (4 hrs) and Mumbai. By Bus: Rajasthan State Roadways from Delhi (6 hrs), Agra, Jodhpur, Udaipur. Within Jaipur: Ola/Uber recommended, City Bus (₹10–15), autorickshaws (negotiate, typically ₹50–150).",
+  "itineraries": [
+    {
+      "name": "Royal Rajasthan",
+      "days": 2,
+      "activities": [
+        "Day 1: Amer Fort, Jal Mahal, Nahargarh Fort sunset",
+        "Day 2: City Palace, Hawa Mahal, Jantar Mantar, Bapu Bazaar"
+      ]
+    }
+  ]
+}

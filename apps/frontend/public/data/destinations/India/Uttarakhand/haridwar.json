@@ -1,0 +1,178 @@
+{
+  "id": "haridwar-01",
+  "slug": "haridwar",
+  "name": "Haridwar",
+  "state": "Uttarakhand",
+  "country": "India",
+  "category": "Pilgrimage",
+  "budget": "Budget",
+  "rating": 4.6,
+  "reviewCount": 48000,
+  "coordinates": {
+    "lat": 29.9457,
+    "lng": 78.1642
+  },
+  "altitude": 314,
+  "coverImage": "https://images.unsplash.com/photo-1544535830-9df3f56fff6a?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1626714816894-af17fe32fc95?w=800&q=80"
+  ],
+  "description": "Haridwar — \"Gateway to God\" (Hari = Vishnu, Dwar = door) — is one of the seven sacred cities of Hinduism, standing where the Ganges exits the Himalayan foothills and flows onto the plains. It is the starting point of the Char Dham pilgrimage (Kedarnath, Badrinath, Gangotri, Yamunotri) and one of four cities that host the Kumbh Mela — the world's largest human gathering. The evening Ganga Aarti at Har Ki Pauri ghat, where the river is believed to touch the earth, draws thousands nightly and is one of India's most moving spiritual experiences.",
+  "history": "Haridwar has been a pilgrimage site since ancient times — mentioned in the Mahabharata and Puranas as Kapilsthan and Gangadwar. The Har Ki Pauri ghat is believed to have been built by King Vikramaditya in the 1st century BCE in memory of his brother Bhartrihari. Kumbh Mela has been held here for over 1,000 years — Emperor Akbar visited in 1598 CE. The 2021 Kumbh Mela attracted 9 million devotees in a single day.",
+  "bestSeason": "October to April. Avoid May-June (very hot). Kumbh Mela: every 12 years (2033 next at Haridwar).",
+  "idealDuration": "1-2 days",
+  "temperature": "5°C (winter) to 42°C (summer)",
+  "nearestAirport": "Jolly Grant Airport, Dehradun (DED) 35km",
+  "nearestRailwayStation": "Haridwar Junction (HW) — daily trains from Delhi (4.5 hrs Shatabdi), Mumbai",
+  "nearestBusStand": "Haridwar Bus Stand (UPSRTC/GMOU near railway station)",
+  "tags": [
+    "Ganges",
+    "Pilgrimage",
+    "Aarti",
+    "Kumbh Mela",
+    "Char Dham",
+    "Holy City"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 2,
+  "luxuryScore": 4,
+  "budgetScore": 9,
+  "topAttractions": [
+    {
+      "name": "Har Ki Pauri (Ghat of God)",
+      "description": "The most sacred ghat in Haridwar — a series of stone steps leading into the swift-flowing Ganges where a footprint of Lord Vishnu is believed to be embedded in the stone. The Ganga Aarti here (6:30-7:30 PM in winter, 7-8 PM in summer) — performed by dozens of priests with large oil lamps — is deeply moving. The floating diyas (oil lamps on leaf boats) released by pilgrims create a magical scene.",
+      "location": "Har Ki Pauri, central Haridwar"
+    },
+    {
+      "name": "Mansa Devi Temple",
+      "description": "A hilltop temple of Goddess Mansa Devi accessible by cable car (₹165 return, 3 min) or a 1km steep walk up Bilwa Parvat hill. One of the most important temples in the region. Tie a sacred thread (mauli) on the tree here — your wish is believed to come true. Views of the Ganges and Himalayan foothills.",
+      "location": "Bilwa Parvat Hill, Haridwar"
+    },
+    {
+      "name": "Chandi Devi Temple",
+      "description": "A 9th-century temple dedicated to Goddess Chandi on Neel Parvat, reachable by ropeway (₹142 return) or 3km trek. The temple was built by Adi Shankaracharya in 8th century CE and the main idol was installed by Kashmiri King Suchat Singh in 1929. Excellent Himalayan views.",
+      "location": "Neel Parvat Hill, Haridwar"
+    },
+    {
+      "name": "Shantikunj & Gayatri Shakti Peeth",
+      "description": "The international headquarters of All World Gayatri Pariwar — a spiritual research center established by Pandit Shriram Sharma Acharya in 1971. Free retreat courses in meditation, yoga, and Vedic studies are offered. The campus is beautiful and the energy is remarkably peaceful.",
+      "location": "3km from Haridwar railway station"
+    },
+    {
+      "name": "Rajaji Tiger Reserve (Chilla Range)",
+      "description": "A Project Tiger reserve 15km from Haridwar, home to tigers, leopards, Asian elephants, crocodiles, and over 330 bird species. The Chilla range jeep safari (₹2500-4000) is the most accessible wildlife experience near Haridwar. Open November to June.",
+      "location": "15km from Haridwar, Chilla"
+    }
+  ],
+  "activities": [
+    "Evening Ganga Aarti at Har Ki Pauri (free, 6:30-7:30PM)",
+    "Cable car to Mansa Devi Temple (₹165 return)",
+    "Holy Ganges dip at Har Ki Pauri (free)",
+    "Rajaji Tiger Reserve jeep safari (₹2500-4000)",
+    "White-water rafting starting point (head to Rishikesh, 25km)",
+    "Yoga and meditation at Shantikunj (free programs)",
+    "Ayurvedic massage (many ashrams, ₹500-1500)",
+    "Temple circuit: Sapt Rishi Ashram, Daksha Mahadev Temple"
+  ],
+  "localFood": [
+    "Haridwar Chaat (especially on the ghats — papdi chaat, aloo tikki, ₹30-80)",
+    "Kachori with sabzi (crispy puff pastry with spiced vegetables — ghat-side breakfast)",
+    "Lassi and Rabri (thick cream dessert at shops near Har Ki Pauri)",
+    "Puri Sabzi (fried bread with potato curry — ghat dhabas, ₹30-60)",
+    "Makhan Mishri (butter and sugar — simple temple prasad)",
+    "Milk-based sweets at ghat shops (₹20-50)"
+  ],
+  "shopping": [
+    "Rudraksha beads and malas (₹50-5000, ghat shops)",
+    "Ganga Jal (holy Ganges water in copper vessels ₹50-500)",
+    "Religious items: conch shells, camphor, incense, agarbatti",
+    "Copper and brass puja items",
+    "Herbal Ayurvedic medicines from certified shops"
+  ],
+  "culture": "Haridwar is the living heart of Hindu pilgrimage culture, where the ancient Vedic tradition of daily river bathing, temple worship, and guru-disciple learning continues uninterrupted. The ashram culture (Parmarth Niketan branch is here) draws spiritual seekers from around the world.",
+  "festivals": [
+    "Kumbh Mela (every 12 years — next 2033 at Haridwar. 2021 Kumbh drew 9 million in a single day)",
+    "Ardha Kumbh (every 6 years)",
+    "Kanwar Yatra (July/August — millions of Shiva devotees carry Ganges water home)",
+    "Ganga Dussehra (June — bathing festival)"
+  ],
+  "hotels": [
+    "Haveli Hari Ganga (Heritage, ₹5000-10000, on the Ganges — most beautiful property)",
+    "Hotel Ganga Lahari (3-star, ₹2000-4500, ghat view)",
+    "Rishikul Yogshala Ashram (₹500-1500 including meals — ashram stay)",
+    "Hotel Aarti (Budget, ₹800-2000, near railway station)"
+  ],
+  "restaurants": [
+    "Chotiwala Restaurant (Vegetarian, ₹150-350, on Main Road — the famous mascot)",
+    "Aastha Restaurant (Pure vegetarian, ₹150-350, near Har Ki Pauri)",
+    "Mohan Ji Pure Vegetarian (₹100-250, local thali)"
+  ],
+  "travelTips": [
+    "Haridwar is vegetarian and alcohol-free — respect this.",
+    "For Ganga Aarti: arrive at Har Ki Pauri by 6 PM for a good spot near the ghat.",
+    "Lock your valuables — the ghats can be pick-pocketed.",
+    "The Ganges current is very strong — only bathe at designated ghats with chains.",
+    "Combine with Rishikesh (25km upstream) and Dehradun (55km) for a day trip circuit."
+  ],
+  "packingTips": [
+    "Conservative clothes for ghats",
+    "Flip-flops (easy to remove at temple)",
+    "Small backpack",
+    "Warm layers for winter mornings"
+  ],
+  "weather": "Winter (Nov-Feb): 5-18°C, cold mornings. Spring (Mar-Apr): 18-32°C. Summer (May-Jun): 32-42°C, hot. Monsoon (Jul-Sep): 28-38°C, rain.",
+  "transport": "By Rail: Haridwar Junction (4.5 hrs from Delhi by Shatabdi, ₹600-1000). By Bus: GMOU from Delhi (6 hrs, ₹350-600). To Rishikesh: shared auto (₹60, 45 min).",
+  "itineraries": [
+    {
+      "type": "1 Day",
+      "durationDays": 1,
+      "estimatedCost": 1500,
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "06:00 AM",
+              "activity": "Holy dip at Har Ki Pauri",
+              "description": "Join the pilgrims at dawn for a sacred Ganges dip.",
+              "costEstimate": 0
+            },
+            {
+              "time": "08:00 AM",
+              "activity": "Temple circuit",
+              "description": "Mansa Devi cable car, Chandi Devi.",
+              "costEstimate": 300
+            },
+            {
+              "time": "11:00 AM",
+              "activity": "Ghat walk and chaat",
+              "description": "Walk the ghat front, try chaat and lassi.",
+              "costEstimate": 200
+            },
+            {
+              "time": "01:00 PM",
+              "activity": "Chotiwala lunch",
+              "description": "Vegetarian thali at the classic restaurant.",
+              "costEstimate": 300
+            },
+            {
+              "time": "04:00 PM",
+              "activity": "Shopping at ghat bazaars",
+              "description": "Rudraksha, Ganga Jal, incense.",
+              "costEstimate": 500
+            },
+            {
+              "time": "06:30 PM",
+              "activity": "Ganga Aarti at Har Ki Pauri",
+              "description": "The evening fire ceremony — one of India's most moving rituals.",
+              "costEstimate": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

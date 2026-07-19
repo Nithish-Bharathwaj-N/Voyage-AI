@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Shimla",
+    "state": "Himachal Pradesh",
+    "description": "Capital city of Himachal Pradesh",
+    "bestTimeToVisit": "March to June"
+  },
+  {
+    "name": "Dharamshala/McLeodganj",
+    "state": "Himachal Pradesh",
+    "description": "Home of the Dalai Lama",
+    "bestTimeToVisit": "March to June"
+  },
+  {
+    "name": "Dalhousie",
+    "state": "Himachal Pradesh",
+    "description": "Popular hill station",
+    "bestTimeToVisit": "March to May"
+  },
+  {
+    "name": "Kasol",
+    "state": "Himachal Pradesh",
+    "description": "Hamlet in the Parvati Valley",
+    "bestTimeToVisit": "October to June"
+  },
+  {
+    "name": "Gulmarg",
+    "state": "Jammu and Kashmir",
+    "description": "Famous skiing destination",
+    "bestTimeToVisit": "December to March"
+  },
+  {
+    "name": "Delhi",
+    "state": "Delhi",
+    "description": "Capital territory of India",
+    "bestTimeToVisit": "October to March"
+  },
+  {
+    "name": "Mumbai",
+    "state": "Maharashtra",
+    "description": "Financial capital and city of dreams",
+    "bestTimeToVisit": "October to February"
+  },
+  {
+    "name": "Kolkata",
+    "state": "West Bengal",
+    "description": "Cultural capital of India",
+    "bestTimeToVisit": "October to March"
+  },
+  {
+    "name": "Jodhpur",
+    "state": "Rajasthan",
+    "description": "The Blue City",
+    "bestTimeToVisit": "October to March"
+  },
+  {
+    "name": "Pushkar",
+    "state": "Rajasthan",
+    "description": "Holy city known for its lake and camel fair",
+    "bestTimeToVisit": "October to November"
+  },
+  {
+    "name": "Gangtok",
+    "state": "Sikkim",
+    "description": "Capital of Sikkim and a Buddhist haven",
+    "bestTimeToVisit": "September to June"
+  },
+  {
+    "name": "Kochi",
+    "state": "Kerala",
+    "description": "Queen of the Arabian Sea",
+    "bestTimeToVisit": "October to March"
+  },
+  {
+    "name": "Ooty",
+    "state": "Tamil Nadu",
+    "description": "Queen of Hill Stations",
+    "bestTimeToVisit": "October to June"
+  },
+  {
+    "name": "Coorg (Madikeri)",
+    "state": "Karnataka",
+    "description": "The Scotland of India",
+    "bestTimeToVisit": "October to March"
+  },
+  {
+    "name": "Kaziranga",
+    "state": "Assam",
+    "description": "National Park famous for one-horned rhinos",
+    "bestTimeToVisit": "November to April"
+  },
+  {
+    "name": "Bodh Gaya",
+    "state": "Bihar",
+    "description": "Important Buddhist pilgrimage site",
+    "bestTimeToVisit": "October to March"
+  },
+  {
+    "name": "Khajuraho",
+    "state": "Madhya Pradesh",
+    "description": "Known for its ancient temples and intricate sculptures",
+    "bestTimeToVisit": "October to March"
+  },
+  {
+    "name": "Puri",
+    "state": "Odisha",
+    "description": "Coastal city famous for the Jagannath Temple",
+    "bestTimeToVisit": "October to March"
+  },
+  {
+    "name": "Pondicherry",
+    "state": "Puducherry",
+    "description": "The French Riviera of the East",
+    "bestTimeToVisit": "October to March"
+  },
+  {
+    "name": "Mysore",
+    "state": "Karnataka",
+    "description": "The City of Palaces",
+    "bestTimeToVisit": "October to February"
+  }
+]

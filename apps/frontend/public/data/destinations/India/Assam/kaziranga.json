@@ -1,0 +1,193 @@
+{
+  "id": "kaziranga-01",
+  "slug": "kaziranga",
+  "name": "Kaziranga National Park",
+  "state": "Assam",
+  "country": "India",
+  "category": "Wildlife",
+  "budget": "Mid-range",
+  "rating": 4.8,
+  "reviewCount": 28000,
+  "coordinates": {
+    "lat": 26.5775,
+    "lng": 93.1711
+  },
+  "altitude": 85,
+  "coverImage": "https://images.unsplash.com/photo-1534190760961-74e8c1c5c3da?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1611002154327-2fff0fc44593?w=800&q=80"
+  ],
+  "description": "Kaziranga National Park in Assam is a UNESCO World Heritage Site and one of the world's most successful conservation stories — home to two-thirds of the entire world population of the Indian one-horned rhinoceros (2,613 rhinos as of 2022). The park also has the highest density of tigers of any protected area in the world, plus wild water buffalo, swamp deer (barasingha), and Asian elephants. Spread across the floodplains of the Brahmaputra River, its grasslands, forests, and wetlands create extraordinary biodiversity.",
+  "history": "Kaziranga was declared a Reserved Forest in 1905, largely on the insistence of Mary Curzon (wife of Lord Curzon) after she was disappointed not to see a single rhinoceros during her 1904 visit. It became a wildlife sanctuary in 1916 and a National Park in 1974. UNESCO inscribed it as a World Heritage Site in 1985. The park floods annually during monsoon (the entire floodplain) and animals migrate to the Karbi Anglong hills — a remarkable natural phenomenon.",
+  "bestSeason": "November to April. Best wildlife viewing: February-April (dry season, grass low, animals visible). Park is closed May-October (monsoon flooding).",
+  "idealDuration": "2-3 days",
+  "temperature": "8°C (winter) to 35°C (summer)",
+  "nearestAirport": "Jorhat Airport (JRH) 97km; Guwahati Airport (GAU) 217km",
+  "nearestRailwayStation": "Furkating Junction (75km); Jakhalabandha (5km from park entrance)",
+  "nearestBusStand": "Kohora (main park entrance village) on NH37",
+  "tags": [
+    "Rhinos",
+    "Wildlife",
+    "UNESCO",
+    "Tiger Reserve",
+    "Elephants",
+    "Assam"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 7,
+  "luxuryScore": 6,
+  "budgetScore": 5,
+  "topAttractions": [
+    {
+      "name": "Jeep Safari (Central Range)",
+      "description": "The most popular and rewarding range — highest probability of seeing one-horned rhinos, elephants, and water buffalo in open grasslands near Mihimukh. 3 hour safari. Morning safaris (5:30 AM start) give best light and activity. Book in advance through official site or resort. ₹2500-4500/jeep + entry ₹100 Indian/₹650 foreign.",
+      "location": "Kohora, Central Range"
+    },
+    {
+      "name": "Elephant Safari (Bagori Range)",
+      "description": "The only national park in India where elephant-back safaris are routinely conducted by the Forest Department. A 45-minute dawn ride on the elephant at 6 AM through tall elephant grass for very close rhino encounters. Book at Forest Department, Bagori. ₹1000/person.",
+      "location": "Bagori Range, Western Kaziranga"
+    },
+    {
+      "name": "Western Range (Burapahar)",
+      "description": "The most scenic range — through deciduous forest rather than open grassland. Higher chance of seeing tigers and wild dogs. Also has the ruins of 13th-century Kareng Ghar (Ahom kingdom palace). ₹2500/jeep.",
+      "location": "Burapahar, Western Range"
+    },
+    {
+      "name": "Eastern Range (Agoratoli)",
+      "description": "The least visited but most pristine range. Greater chance of seeing tigers and leopards in the denser forests. Best for birding — over 480 species of birds recorded including the endangered greater adjutant stork.",
+      "location": "Agoratoli, Eastern Range"
+    },
+    {
+      "name": "Observation Towers",
+      "description": "Three watchtower machhans — Sohola, Kathpara, and Foliamari — offer elevated views over the grasslands. Best for photography in golden hour. Entry included in park fee. No jeep needed.",
+      "location": "Various locations near Kohora"
+    }
+  ],
+  "activities": [
+    "Jeep safari (Central, Western, Eastern ranges, ₹2500-4500)",
+    "Elephant safari at Bagori (₹1000, dawn only)",
+    "Bird watching (480+ species, best at Eastern Range, Nov-Mar)",
+    "Village walk in Kohora (free)",
+    "Orchid trails at Hoollongapar Gibbon Sanctuary (65km, ₹300)",
+    "Assam tea estate tour near Kaziranga",
+    "River boat on Brahmaputra near park (₹400)",
+    "Photography workshops (several operators, ₹5000-10000/day)"
+  ],
+  "localFood": [
+    "Assamese Thali (rice, dal, khar — an alkaline preparation of banana peel ash — unique to Assam, fish curry, aloo pitika, saag)",
+    "Pitika (mashed preparations — aloo pitika, baigan pitika)",
+    "Duck Meat Curry (hanh mangxo — a unique Assam delicacy)",
+    "Pork with bamboo shoot (very popular in Assam)",
+    "Masor Tenga (sour fish curry with tomatoes or bilimbi)",
+    "Jolpan (traditional breakfast — rice preparations with curd and jaggery)",
+    "Assam tea (single-estate CTC and orthodox at resorts — try Halmari Gold)"
+  ],
+  "shopping": [
+    "Assam silk — Muga (golden), Pat (white), Eri (moth silk) from Sualkuchi (80km from Guwahati, silk weaving village)",
+    "Bamboo and cane handicrafts from Kohora village shops",
+    "Assam tea — buy loose-leaf from estate shops near park",
+    "Bell metal crafts — unique brass and bell metal utensils from Sarthebari",
+    "Traditional Assamese gamosa (handwoven white-red cotton cloth)"
+  ],
+  "culture": "Kaziranga region is dominated by Assamese culture, with significant Bodo tribal communities in surrounding areas. The Bihu festival (April — Rongali Bihu, the Assamese New Year) is the most joyous celebration in Assam, with energetic folk dances and the distinctive bihu songs.",
+  "festivals": [
+    "Rongali Bihu (April — Assamese New Year, folk music and dance)",
+    "Kaziranga Elephant Festival (January/February — cultural celebration at park edge)",
+    "Ambubachi Mela (June — at Kamakhya Temple, Guwahati, 200km from Kaziranga)"
+  ],
+  "hotels": [
+    "Iora the Retreat (Boutique eco-resort, ₹8000-15000, best in area)",
+    "Infinity Resort Kaziranga (3-star, ₹4000-8000)",
+    "Diphlu River Lodge (Eco-luxury, ₹12000-22000)",
+    "ATDC Tourist Lodge (Government, ₹1500-3000, near Kohora)",
+    "Wild Grass Resort (Budget eco, ₹2500-4500)"
+  ],
+  "restaurants": [
+    "Resorts serve the best meals — request Assamese thali on arrival",
+    "Kohora village dhabas (simple Assamese meals, ₹100-250)",
+    "Wild Mahseer Restaurant at Infinity Resort (₹400-800, riverside)"
+  ],
+  "travelTips": [
+    "Book jeep and elephant safaris at least 2-3 days in advance, especially in Feb-March peak.",
+    "Wear muted colors (khaki, olive green) — not white or bright red.",
+    "Safaris start at dawn (5:30 AM) — bring warm clothes (it's cold in Dec-Feb).",
+    "Photography: telephoto lens 200-400mm recommended; rhinos allow approach to 10-15m.",
+    "The park closes in heavy monsoon (May-October) — plan strictly for Nov-April.",
+    "Never exit the vehicle during safari — rhinos are unpredictable and dangerous."
+  ],
+  "packingTips": [
+    "Khaki/olive green clothing",
+    "Binoculars (minimum 8x40)",
+    "Telephoto camera lens",
+    "Warm jacket for dawn safaris",
+    "Insect repellent",
+    "Dust mask (jeep tracks are very dusty)"
+  ],
+  "weather": "Winter (Nov-Feb): 8-22°C, perfect for safaris, rhinos in grasslands. Spring (Mar-Apr): 20-32°C, last chance before closure, excellent visibility as vegetation dries. Park closed May-October.",
+  "transport": "By Air: Guwahati (217km, 5hrs by road) or Jorhat (97km, 2.5hrs). By Rail: To Furkating Junction, then local taxi 45km. By Bus: State buses from Guwahati to Kohora (5 hrs, ₹200). Within Kaziranga: Only jeep safaris permitted inside park.",
+  "itineraries": [
+    {
+      "type": "2 Day",
+      "durationDays": 2,
+      "estimatedCost": 8000,
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "05:30 AM",
+              "activity": "Central Range Jeep Safari (dawn)",
+              "description": "Best time — rhinos, elephants at sunrise in the grasslands.",
+              "costEstimate": 3000
+            },
+            {
+              "time": "09:00 AM",
+              "activity": "Breakfast at resort",
+              "description": "Traditional Assamese breakfast with Kaziranga single-estate tea.",
+              "costEstimate": 0
+            },
+            {
+              "time": "03:30 PM",
+              "activity": "Afternoon Eastern Range Safari",
+              "description": "Forest drive — tigers, leopards, birds.",
+              "costEstimate": 3000
+            },
+            {
+              "time": "07:00 PM",
+              "activity": "Assamese dinner at resort",
+              "description": "Try khar, masor tenga, and duck curry.",
+              "costEstimate": 500
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            {
+              "time": "05:30 AM",
+              "activity": "Elephant Safari at Bagori (pre-booked)",
+              "description": "45-min elephant-back safari for very close rhino approach.",
+              "costEstimate": 1000
+            },
+            {
+              "time": "08:30 AM",
+              "activity": "Observation tower bird watching",
+              "description": "400+ species, bring binoculars.",
+              "costEstimate": 0
+            },
+            {
+              "time": "11:00 AM",
+              "activity": "Departure to Guwahati/Jorhat",
+              "description": "Stop at Assam tea estate en route for tasting.",
+              "costEstimate": 500
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

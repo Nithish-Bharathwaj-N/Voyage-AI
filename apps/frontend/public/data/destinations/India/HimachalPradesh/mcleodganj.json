@@ -1,0 +1,218 @@
+{
+  "id": "mcleodganj-01",
+  "slug": "mcleodganj",
+  "name": "Mcleodganj",
+  "state": "Himachal Pradesh",
+  "country": "India",
+  "category": "Pilgrimage",
+  "budget": "Budget",
+  "rating": 4.6,
+  "reviewCount": 38000,
+  "coordinates": {
+    "lat": 32.2426,
+    "lng": 76.3234
+  },
+  "altitude": 1457,
+  "coverImage": "https://images.unsplash.com/photo-1593693411515-c20261bcad6e?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?w=800&q=80",
+    "https://images.unsplash.com/photo-1627894483216-2138af692e32?w=800&q=80"
+  ],
+  "description": "McLeod Ganj — \"Little Lhasa\" — is a hill suburb of Dharamshala in Himachal Pradesh, and the seat of the Tibetan government-in-exile and the Dalai Lama since 1960. The town is a fascinating blend of Tibetan Buddhist culture, Himachali mountain life, and a thriving international backpacker scene. The Dalai Lama's presence has made this one of the world's most important centers of Tibetan Buddhism, drawing pilgrims, students, activists, and travelers seeking spiritual teachings, meditation retreats, and Himalayan trekking.",
+  "history": "McLeod Ganj was named after Sir Donald Friell McLeod, Lieutenant Governor of Punjab under the British. After the 1959 Tibetan uprising and the Dalai Lama's flight from Lhasa, the Indian government granted Dharamshala to the Tibetan government-in-exile. The Fourteenth Dalai Lama (Tenzin Gyatso) has resided here since 1960, transforming it into the capital of the Tibetan diaspora.",
+  "bestSeason": "March to June. September to November. Avoid July-August monsoon (heavy landslides on mountain roads).",
+  "idealDuration": "3-4 days",
+  "temperature": "4°C to 28°C",
+  "nearestAirport": "Gaggal Airport (Kangra-Dharamshala, DHM) 18km from McLeodganj",
+  "nearestRailwayStation": "Pathankot Cantt (85km) on broad gauge; Kangra (19km) on narrow gauge",
+  "nearestBusStand": "Dharamshala Bus Stand (10km from McLeodganj)",
+  "tags": [
+    "Tibetan",
+    "Dalai Lama",
+    "Buddhism",
+    "Trekking",
+    "Meditation",
+    "Mountains"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 7,
+  "luxuryScore": 4,
+  "budgetScore": 9,
+  "topAttractions": [
+    {
+      "name": "Namgyal Monastery & Tsuglagkhang Complex",
+      "description": "The Dalai Lama's personal monastery and temple complex — the most important Tibetan Buddhist site outside Tibet. The Tsuglagkhang (main temple) houses images of Shakyamuni Buddha, Avalokiteshvara, and Padmasambhava. The Dalai Lama gives public teachings here (announced on dalailama.com). Entry: Free.",
+      "location": "Temple Road, McLeodganj"
+    },
+    {
+      "name": "Triund Trek",
+      "description": "The most popular day or overnight trek from McLeodganj — a 9km trail climbing from Dharamkot (1450m) to Triund ridge (2875m) with spectacular views of the Dhauladhar range and the Kangra valley below. Allow 4-5 hours up. Overnight camping at the ridge (₹100 camping fee). Best: March-June, September-November.",
+      "location": "9km from McLeodganj (trailhead at Dharamkot)"
+    },
+    {
+      "name": "Bhagsu Waterfall & Bhagsu Nag Temple",
+      "description": "A 2km easy walk from McLeodganj leads to the ancient Bhagsu Nag Shiva temple (named for a demon king) and a 20m waterfall beyond it. The area has become a backpacker hub with cafes and guesthouses. Further trekking continues to Shiva Café (1.5km more, best coffee with Himalayan views).",
+      "location": "2km from McLeodganj"
+    },
+    {
+      "name": "Tibet Museum (Gu-Chu-Sum)",
+      "description": "A powerful museum documenting Tibetan culture, history, and the human rights situation in Tibet under Chinese rule. Personal testimonies from political prisoners, photographs, and cultural artifacts. Entry: Free. Open 9AM-5PM.",
+      "location": "McLeodganj main road"
+    },
+    {
+      "name": "Library of Tibetan Works and Archives",
+      "description": "The most important repository of Tibetan texts and manuscripts outside Tibet — over 80,000 manuscripts and 200,000+ books. Offers regular teachings on Buddhist philosophy, Tibetan language, and culture. A research center for serious students of Buddhism.",
+      "location": "Gangkyi, near Dharamshala"
+    }
+  ],
+  "activities": [
+    "Triund Trek (9km, ₹0 entry, rent sleeping bag ₹150)",
+    "Vipassana or meditation retreat (Tushita Meditation Centre, 10-day silent courses)",
+    "Tibetan cooking class (₹500-800)",
+    "Volunteer with Tibetan NGOs (various orgs, 1-week minimum)",
+    "Bhagsu Nag to Shiva Café hike (3km, café at 2600m)",
+    "Kangra Fort day trip (21km, 1500-year-old fort)",
+    "Yoga at Himalayan Yoga Institute (₹200/class)",
+    "Rock climbing at Dharamkot (₹600-1000)"
+  ],
+  "localFood": [
+    "Thukpa (Tibetan noodle soup — best at Lung Ta Japanese-Tibetan restaurant)",
+    "Momos (steamed/fried dumplings, best at Nick's Italian Kitchen has veg momos)",
+    "Tsampa (roasted barley flour, a Tibetan staple)",
+    "Tibetan Butter Tea (salty, an acquired taste — try at monastery)",
+    "Tingmo (fluffy steamed Tibetan bread)",
+    "Israeli food (falafel, hummus — large Israeli community)",
+    "Banana Nutella crepe at Shiva Café (2600m — legendary)"
+  ],
+  "shopping": [
+    "Tibetan handicrafts: thangkas, prayer wheels, singing bowls (Main Chowk)",
+    "Tibetan herbal medicine and teas",
+    "Woolen Tibetan rugs and wall hangings",
+    "Tibetan jewelry (silver, turquoise, coral)",
+    "Refugee handicraft center (direct from artisans)"
+  ],
+  "culture": "McLeodganj is a living cultural hub of Tibetan civilization in exile. The presence of the Dalai Lama draws Buddhist scholars, monks from around the world, and meditators. The town has a unique cosmopolitan character — Tibetan refugees, Israeli backpackers, Indian tourists, and Western spiritual seekers all coexist.",
+  "festivals": [
+    "Losar (Tibetan New Year, Feb/March — traditional dancing at Tsuglagkhang)",
+    "Buddha Purnima (April/May — major celebrations)",
+    "Tibetan Uprising Day (March 10 — commemorates 1959 Tibetan resistance)",
+    "Dalai Lama's teachings (various — check dalailama.com for schedule)"
+  ],
+  "hotels": [
+    "Chonor House (Boutique Tibetan guesthouse, ₹4000-8000, near Tsuglagkhang)",
+    "Hotel Tibet (3-star, ₹3000-6000, Bhagsu Road)",
+    "Zostel McLeodganj (Hostel, ₹400-700)",
+    "Pema Thang Guest House (Budget, ₹800-1500, authentic Tibetan family)",
+    "Om Hotel (Mid-range, ₹1500-3000, mountain view)"
+  ],
+  "restaurants": [
+    "Lung Ta Japanese-Tibetan (Best thukpa and momo, ₹150-400, Jogibara Road)",
+    "Nick's Italian Kitchen (Italian-Tibetan fusion, ₹300-700)",
+    "Illiterati Books & Coffee (Café + bookshop, ₹150-400)",
+    "Tibet Kitchen (Authentic Tibetan, ₹150-350)",
+    "Shiva Café (2600m viewpoint café — worth the hike, ₹200-500)"
+  ],
+  "travelTips": [
+    "Check dalailama.com for public teaching schedules if you want to attend.",
+    "Triund overnight: carry sleeping bag (rent at McLeodganj, ₹150) and food. No shops on top.",
+    "Dharamkot is a quieter alternative base to McLeodganj for long-term stays.",
+    "Respectfully cover shoulders and knees at monastery.",
+    "Cannabis is easily offered here — it is illegal in India regardless of quantity."
+  ],
+  "packingTips": [
+    "Warm jacket (cold year-round in evenings)",
+    "Trekking boots (Triund trail is rocky)",
+    "Waterproof jacket",
+    "Respectful clothing for monastery visits",
+    "Rain poncho (July-Aug)"
+  ],
+  "weather": "Spring (Mar-May): 12-25°C, best trekking. Monsoon (Jun-Sep): 15-22°C, heavy rain, Triund trail muddy. Autumn (Oct-Nov): 10-22°C, clear and lovely. Winter (Dec-Feb): 4-12°C, cold, some snow on Triund.",
+  "transport": "By Bus: HRTC Volvo from Delhi (12 hrs, ₹600-1200). By Air: Gaggal Airport (18km, flights from Delhi 1hr). From Pathankot railway station: taxi or bus to Dharamshala (1.5hrs). Within area: Auto-rickshaws, shared taxis to Dharamkot/Bhagsu (₹50-200).",
+  "itineraries": [
+    {
+      "type": "3 Day",
+      "durationDays": 3,
+      "estimatedCost": 5000,
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "10:00 AM",
+              "activity": "Tsuglagkhang Complex",
+              "description": "Namgyal Monastery, Tibet Museum, Dalai Lama's residence area.",
+              "costEstimate": 0
+            },
+            {
+              "time": "01:00 PM",
+              "activity": "Lunch at Tibet Kitchen",
+              "description": "Momos and thukpa.",
+              "costEstimate": 250
+            },
+            {
+              "time": "03:00 PM",
+              "activity": "Bhagsu Waterfall & Shiva Café hike",
+              "description": "3km hike through forest to viewpoint café.",
+              "costEstimate": 300
+            },
+            {
+              "time": "07:00 PM",
+              "activity": "Main Chowk dinner and stroll",
+              "description": "Explore craft stalls, choose restaurant of your liking.",
+              "costEstimate": 400
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            {
+              "time": "07:00 AM",
+              "activity": "Triund Trek",
+              "description": "9km hike from Dharamkot. All-day adventure with Dhauladhar views.",
+              "costEstimate": 200
+            },
+            {
+              "time": "05:00 PM",
+              "activity": "Overnight on Triund",
+              "description": "Camp under stars with full Himalayan panorama.",
+              "costEstimate": 500
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "activities": [
+            {
+              "time": "06:00 AM",
+              "activity": "Triund Sunrise",
+              "description": "Dawn light on the Dhauladhar peaks from the ridge.",
+              "costEstimate": 0
+            },
+            {
+              "time": "09:00 AM",
+              "activity": "Descend and explore Dharamkot",
+              "description": "The quieter, more bohemian twin village.",
+              "costEstimate": 0
+            },
+            {
+              "time": "01:00 PM",
+              "activity": "Library of Tibetan Works",
+              "description": "World's largest collection of Tibetan manuscripts.",
+              "costEstimate": 0
+            },
+            {
+              "time": "04:00 PM",
+              "activity": "Depart",
+              "description": "Bus to Delhi or Pathankot.",
+              "costEstimate": 600
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

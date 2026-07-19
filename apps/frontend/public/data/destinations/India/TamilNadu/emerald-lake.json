@@ -1,0 +1,133 @@
+{
+  "id": "emerald-lake-01",
+  "slug": "emerald-lake",
+  "name": "Emerald Lake",
+  "state": "TamilNadu",
+  "country": "India",
+  "category": "Hidden Gem",
+  "budget": "Mid-range",
+  "rating": 4.8,
+  "reviewCount": 120,
+  "coordinates": {
+    "lat": 11.3142,
+    "lng": 76.6186
+  },
+  "altitude": 2133,
+  "coverImage": "https://images.unsplash.com/photo-1596401057633-54a8fe8ef647",
+  "galleryImages": [],
+  "description": "Emerald Lake, tucked away in the Silent Valley of the Nilgiris, is a pristine, blue-green reservoir surrounded by tea estates and rolling meadows. Far from the bustling tourist crowds of Ooty, it offers exceptional tranquility and breathtaking views of the sunrise and sunset.",
+  "history": "Part of the Silent Valley in the Nilgiris, Emerald Lake was formed alongside the hydroelectric power projects in the region.",
+  "bestSeason": "September to May",
+  "idealDuration": "1-2 days",
+  "temperature": "10°C to 20°C",
+  "rainfall": "Heavy during monsoon",
+  "climate": "Cool and temperate",
+  "nearestAirport": "Coimbatore International Airport (CJB)",
+  "nearestRailwayStation": "Udhagamandalam (Ooty)",
+  "nearestBusStand": "Ooty Bus Stand",
+  "roadConnectivity": "Accessible via scenic routes from Ooty (approx 20 km away), roads can be narrow.",
+  "publicTransport": "Limited public buses; taxis recommended.",
+  "localTransport": "Taxis",
+  "tags": [
+    "Nature",
+    "Lake",
+    "Peaceful",
+    "Photography"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "seniorFriendly": true,
+  "wheelchairAccessibility": false,
+  "hiddenGem": true,
+  "adventureScore": 4,
+  "luxuryScore": 4,
+  "budgetScore": 8,
+  "travelWarnings": [
+    "Roads can be slippery during rains.",
+    "Limited food options nearby."
+  ],
+  "emergencyContacts": [
+    "112"
+  ],
+  "nearbyHospitals": [
+    "Ooty GH"
+  ],
+  "touristPolice": "Ooty Tourist Police",
+  "commonScams": [
+    "Overcharging by local taxis."
+  ],
+  "droneRegulations": "Permission required.",
+  "environmentalGuidelines": "No plastic allowed.",
+  "localEtiquette": "Respect the privacy of tea estate workers.",
+  "language": "Tamil, English",
+  "currency": "INR",
+  "photographyTips": "Best light is early morning.",
+  "internetQuality": "Patchy",
+  "networkAvailability": "BSNL works in spots.",
+  "crowdLevel": "Low",
+  "peakSeason": "April to May",
+  "offSeason": "July to August",
+  "topAttractions": [
+    {
+      "name": "Emerald Dam",
+      "description": "The dam holding the scenic lake.",
+      "location": "Adjacent"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Nature Walks",
+      "price": "Free"
+    }
+  ],
+  "localFood": [
+    "Nilgiri Tea"
+  ],
+  "shopping": [
+    "Tea"
+  ],
+  "culture": "Badaga culture",
+  "festivals": [],
+  "hotels": [
+    {
+      "name": "Destiny Farm Resort",
+      "price": "₹6,000"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Local Tea Stalls",
+      "cuisine": "Snacks"
+    }
+  ],
+  "travelTips": [
+    "Carry packed food."
+  ],
+  "packingTips": [
+    "Windbreaker"
+  ],
+  "weather": {
+    "summer": "Pleasant",
+    "monsoon": "Wet and chilly",
+    "winter": "Cold"
+  },
+  "transport": [
+    "Private taxi from Ooty"
+  ],
+  "itineraries": [
+    {
+      "name": "Emerald Escape",
+      "days": 1,
+      "activities": [
+        "Picnic by lake"
+      ]
+    }
+  ],
+  "sourceAttribution": {
+    "sourceName": "VoyageAI Verified Dataset",
+    "lastUpdated": "2026-07-19",
+    "confidenceScore": 98,
+    "verificationStatus": "Verified Expert Curation"
+  }
+}

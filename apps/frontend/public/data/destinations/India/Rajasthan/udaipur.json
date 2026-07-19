@@ -1,0 +1,261 @@
+{
+  "id": "udaipur-01",
+  "slug": "udaipur",
+  "name": "Udaipur",
+  "state": "Rajasthan",
+  "country": "India",
+  "category": "Culture",
+  "budget": "Mid-range",
+  "rating": 4.7,
+  "reviewCount": 58000,
+  "coordinates": {
+    "lat": 24.5854,
+    "lng": 73.7125
+  },
+  "altitude": 598,
+  "coverImage": "https://images.unsplash.com/photo-1588416499018-d8c621e7d2c2?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1590339843069-8d59a78d0f47?w=800&q=80",
+    "https://images.unsplash.com/photo-1567157577867-05ccb1388e66?w=800&q=80"
+  ],
+  "description": "Udaipur — the City of Lakes — is Rajasthan's most romantic city, built around a series of shimmering artificial lakes and dominated by the colossal City Palace on Lake Pichola. Founded in 1558 by Maharana Udai Singh II of the Sisodia Rajput clan after the fall of Chittorgarh, Udaipur is a city of white marble palaces, ornate temples, narrow bazaars, and hilltop forts reflected in still waters. It is consistently voted one of Asia's most romantic cities.",
+  "history": "Udaipur was founded in 1558 when Maharana Udai Singh II shifted his capital from Chittorgarh after its sack by Akbar. The Mewar dynasty (Sisodia Rajputs) never surrendered to the Mughals — making Udaipur a symbol of Rajput pride and resistance. The City Palace was built over 400 years by successive Maharanas. The Lake Palace hotel (1746) was built as a monsoon palace by Maharana Jagat Singh II.",
+  "bestSeason": "October to March. Festival of Colors (Gangaur, March–April). Avoid May–June (42°C+).",
+  "idealDuration": "3–4 days",
+  "temperature": "5°C (winter nights) to 42°C (summer)",
+  "nearestAirport": "Maharana Pratap Airport, Dabok (UDR) — 24 km from city",
+  "nearestRailwayStation": "Udaipur City Railway Station — trains from Delhi (Chetak Express, 12 hrs), Jaipur (5 hrs)",
+  "nearestBusStand": "Udaipur Bus Stand (Suraj Pol area)",
+  "tags": [
+    "Lakes",
+    "Palace",
+    "Romance",
+    "Rajasthan",
+    "Heritage",
+    "Boat Ride"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 3,
+  "luxuryScore": 9,
+  "budgetScore": 6,
+  "topAttractions": [
+    {
+      "name": "City Palace Complex",
+      "description": "The largest palace complex in Rajasthan, built over 400 years by 22 Maharanas. A labyrinthine collection of courtyards, terraces, towers, and museums. The Crystal Gallery (₹850) has the world's largest private crystal collection ordered by Queen Victoria. Entry: ₹300 (museum). Open 9:30 AM–5:30 PM.",
+      "location": "East bank of Lake Pichola"
+    },
+    {
+      "name": "Lake Palace Hotel (Jag Niwas)",
+      "description": "Arguably India's most romantic hotel — an 18th-century white marble palace rising from the middle of Lake Pichola. Built in 1746 as a summer palace, now a Taj hotel. Non-guests can visit for a meal (lunch from ₹3,000) or by taking the hotel ferry from Bansi Ghat.",
+      "location": "Center of Lake Pichola"
+    },
+    {
+      "name": "Jag Mandir Island Palace",
+      "description": "A 17th-century island palace on Lake Pichola where the Mughal prince Shah Jahan (later Emperor) took refuge. The Gul Mahal structure is said to have inspired the Taj Mahal. Accessible by boat from City Palace jetty (₹425 round trip). Beautiful sunset views.",
+      "location": "Lake Pichola (island)"
+    },
+    {
+      "name": "Saheliyon ki Bari (Garden of Maidens)",
+      "description": "An exquisite 18th-century garden built for royal ladies-in-waiting by Maharana Sangram Singh. Features 8 marble-pillared kiosks, four lotus ponds, and 100 fountains. Fountains run on natural water pressure alone — no pump needed. Entry: ₹30. Open 9 AM–5:30 PM.",
+      "location": "North Udaipur, near Fateh Sagar"
+    },
+    {
+      "name": "Fateh Sagar Lake & Nehru Garden",
+      "description": "A beautiful artificial lake north of the city with three small islands. Nehru Garden island has a restaurant and children's play area. Boat ride (₹120–200). The lake promenade (Fateh Sagar Pal) is perfect for evening walks.",
+      "location": "North Udaipur"
+    },
+    {
+      "name": "Kumbhalgarh Fort (Day Trip)",
+      "description": "A UNESCO World Heritage Site 84 km from Udaipur. The second longest wall in the world (36 km, second only to Great Wall of China) surrounds this 15th-century fort built by Maharana Kumbha. The fort's inner citadel and Badal Mahal (Cloud Palace) are spectacular. Combined day trip with Ranakpur Temple possible.",
+      "location": "84 km from Udaipur"
+    },
+    {
+      "name": "Bagore Ki Haveli (Haveli Museum + Dance Show)",
+      "description": "An 18th-century mansion built on the banks of Lake Pichola by the Prime Minister of Mewar. Now a museum with 100+ rooms displaying Rajasthani folk costumes, royal artifacts, and the world's largest turban. The evening Dharohar cultural show (7 PM, ₹90–180) has excellent Rajasthani folk dances.",
+      "location": "Gangaur Ghat, old city"
+    }
+  ],
+  "activities": [
+    "Boat ride on Lake Pichola at sunset (₹425–700)",
+    "Cable car to Karni Mata Temple on Machhla Magra hill (₹70)",
+    "Day trip to Kumbhalgarh Fort + Ranakpur Jain Temple (₹2,500 cab)",
+    "Rajasthani cooking class at a haveli (₹1,500–2,500)",
+    "Heritage walk through old bazaars (₹400 guided)",
+    "Puppet show and folk dance at Dharohar (₹90)",
+    "Miniature painting workshop (₹500–1,000)",
+    "Bike rental and ride around Fateh Sagar Lake (₹100/hr)"
+  ],
+  "localFood": [
+    "Dal Baati Churma (Rajasthani staple — best at rooftop restaurants around Lake Pichola)",
+    "Laal Maas (spicy lamb curry — authentic Mewar version at Natraj Restaurant)",
+    "Haldi ki Sabzi (turmeric root vegetable dish unique to Udaipur)",
+    "Ker Sangri (dried Rajasthani wild beans cooked with dried berries)",
+    "Ghevar and Malpua (Rajasthani sweets)",
+    "Kadhi Pakora (yogurt-based curry with fried gram flour dumplings)",
+    "Lakkarwala ki Kachori (famous local snack)"
+  ],
+  "shopping": [
+    "Silver and terracotta jewelry at Hathi Pol Bazaar",
+    "Miniature Mughal-style paintings at Shilpgram craft village",
+    "Bandhani (tie-dye) sarees and fabric at Bada Bazaar",
+    "Mojris (leather shoes) at Clock Tower market",
+    "Wooden toys and lacquerware at Mochiwada",
+    "Fixed-price Rajasthan emporium near Chetak Circle"
+  ],
+  "culture": "Udaipur embodies the Mewar Rajput pride that never bowed to Mughal dominance. The city's culture is rich in miniature painting (Mewar School), classical music, folk arts (ghoomar dance, fire dance), and festivals. The Gangaur festival (March–April) is one of Rajasthan's most colorful, with women carrying the idol of Goddess Parvati through the streets.",
+  "festivals": [
+    "Gangaur Festival (March/April — 18-day women's festival, folk dances, boat procession on Lake Pichola)",
+    "Mewar Festival (coincides with Gangaur — cultural events)",
+    "Shilpgram Craft Fair (December — crafts festival with 400+ artisans)",
+    "Udaipur World Music Festival (February)"
+  ],
+  "hotels": [
+    "Taj Lake Palace (5-star, ₹30,000–80,000 — on-lake island, India's most romantic hotel)",
+    "Oberoi Udaivilas (5-star, ₹35,000–1,00,000 — voted best hotel in Asia multiple times)",
+    "Trident Udaipur (5-star, ₹12,000–22,000, lakeside)",
+    "Amet Haveli (Heritage, ₹4,000–8,000, Lake Pichola view)",
+    "Jagat Niwas Palace Hotel (Heritage, ₹3,000–6,000, old city)",
+    "Zostel Udaipur (Hostel, ₹400–700)"
+  ],
+  "restaurants": [
+    "Upré at Lake Pichola Hotel (Fine dining, lake view, ₹2,000–4,000)",
+    "Ambrai Restaurant (Best Lake Pichola view dining, ₹600–1,500)",
+    "Savage Garden (Rooftop, Continental + Indian, ₹500–1,200)",
+    "Natraj Restaurant (Classic Rajasthani thali, ₹400–700)",
+    "Cafe Edelweiss (German-Indian bakery, breakfast, ₹200–600)",
+    "Jasmin Restaurant (Rooftop lake view, budget-friendly, ₹200–500)"
+  ],
+  "travelTips": [
+    "Sunrise at Lake Pichola from the City Palace ghats is magical — worth the early wake-up.",
+    "The boat ride at sunset is essential — book at City Palace jetty (not from touts).",
+    "Rickshaws are unmetered — negotiate before boarding (₹50–150 for most city routes).",
+    "Visit Kumbhalgarh fort on the way to/from Jodhpur — saves backtracking.",
+    "Carry cash — many old city shops don't accept cards."
+  ],
+  "packingTips": [
+    "Light cotton (summer)",
+    "Warm layers (winter evenings)",
+    "Walking shoes (cobbled old city)",
+    "Scarf for temple visits",
+    "Camera (irresistible photography everywhere)"
+  ],
+  "weather": "Winter (Oct–Mar): 8–27°C, ideal. Summer (Apr–Jun): 30–42°C. Monsoon (Jul–Sep): 25–35°C, rain fills the lakes beautifully — romantic.",
+  "transport": "By Air: Maharana Pratap Airport (24 km). By Rail: Udaipur City Station. By Road: Bus from Jaipur (6 hrs), Jodhpur (5 hrs), Delhi (14 hrs). Taxis from Jaipur ₹3,000–4,500. Within city: Ola/Uber, autos (₹50–150), e-rickshaws.",
+  "itineraries": [
+    {
+      "type": "3 Day",
+      "durationDays": 3,
+      "estimatedCost": 9000,
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "09:00 AM",
+              "activity": "City Palace Museum",
+              "description": "Start with the grand palace complex. Allow 2–3 hours. Hire a guide (₹300).",
+              "costEstimate": 600
+            },
+            {
+              "time": "12:30 PM",
+              "activity": "Jag Mandir Island boat trip",
+              "description": "Take the boat from City Palace jetty to Jag Mandir island palace. Stunning lake views.",
+              "costEstimate": 425
+            },
+            {
+              "time": "02:00 PM",
+              "activity": "Lunch at Ambrai Restaurant",
+              "description": "Rajasthani thali with direct Lake Pichola view. Right on the waterfront.",
+              "costEstimate": 700
+            },
+            {
+              "time": "04:00 PM",
+              "activity": "Bagore ki Haveli Museum",
+              "description": "Explore the haveli and see the world's largest turban display.",
+              "costEstimate": 100
+            },
+            {
+              "time": "07:00 PM",
+              "activity": "Dharohar Folk Dance Show",
+              "description": "Ghoomar, fire dance, and Rajasthani folk performances. Book in advance.",
+              "costEstimate": 180
+            },
+            {
+              "time": "09:00 PM",
+              "activity": "Dinner at Savage Garden",
+              "description": "Rooftop with old city and lake views. International and Rajasthani fusion.",
+              "costEstimate": 900
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            {
+              "time": "06:30 AM",
+              "activity": "Sunrise boat ride on Lake Pichola",
+              "description": "Hire a sunrise boat — the mist over the lake with palace silhouettes is unforgettable.",
+              "costEstimate": 500
+            },
+            {
+              "time": "09:00 AM",
+              "activity": "Saheliyon ki Bari",
+              "description": "Serene 18th-century garden with fountains and lotus ponds.",
+              "costEstimate": 30
+            },
+            {
+              "time": "10:30 AM",
+              "activity": "Fateh Sagar Lake promenade",
+              "description": "Walk or take a paddle boat. Nehru Garden island for a break.",
+              "costEstimate": 200
+            },
+            {
+              "time": "01:00 PM",
+              "activity": "Lunch at Natraj Restaurant",
+              "description": "Best dal baati churma in the city. Classic Mewar thali.",
+              "costEstimate": 500
+            },
+            {
+              "time": "03:00 PM",
+              "activity": "Miniature Painting Workshop",
+              "description": "Learn the centuries-old Mewar miniature painting tradition.",
+              "costEstimate": 800
+            },
+            {
+              "time": "06:00 PM",
+              "activity": "Cable car to Karni Mata Temple",
+              "description": "Sunset views over Udaipur and all its lakes from the hilltop.",
+              "costEstimate": 70
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "activities": [
+            {
+              "time": "08:00 AM",
+              "activity": "Day trip to Kumbhalgarh Fort",
+              "description": "84 km. World's second longest wall (36 km). Hire a car (₹2,500). Combine with Ranakpur.",
+              "costEstimate": 3000
+            },
+            {
+              "time": "12:00 PM",
+              "activity": "Ranakpur Jain Temple",
+              "description": "15th-century temple with 1,444 intricately carved marble pillars. A masterpiece.",
+              "costEstimate": 200
+            },
+            {
+              "time": "04:00 PM",
+              "activity": "Return + Bazaar shopping",
+              "description": "Hathi Pol Bazaar for silver jewelry and bandhani fabric.",
+              "costEstimate": 1500
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

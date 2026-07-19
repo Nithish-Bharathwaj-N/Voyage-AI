@@ -1,0 +1,254 @@
+{
+  "id": "srinagar-01",
+  "slug": "srinagar",
+  "name": "Srinagar",
+  "state": "Jammu & Kashmir",
+  "country": "India",
+  "category": "Nature",
+  "budget": "Mid-range",
+  "rating": 4.7,
+  "reviewCount": 44000,
+  "coordinates": {
+    "lat": 34.0837,
+    "lng": 74.7973
+  },
+  "altitude": 1585,
+  "coverImage": "https://images.unsplash.com/photo-1566837945700-30057527ade0?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1598127236413-e51e8756d06c?w=800&q=80",
+    "https://images.unsplash.com/photo-1592457711765-5beff9e5dc34?w=800&q=80"
+  ],
+  "description": "Srinagar, the summer capital of Jammu & Kashmir, is one of India's most scenically beautiful cities — set in the Vale of Kashmir, surrounded by snow-capped Himalayas and centered on the shimmering Dal Lake. Famous for its ornate houseboats, floating gardens, Mughal garden terraces, saffron fields, hand-knotted carpets, and the stunning Shankaracharya Temple. Often called \"Paradise on Earth\" (Jannatu'l-Firdaus), it is the gateway to Gulmarg, Pahalgam, Sonamarg, and the Amarnath pilgrimage.",
+  "history": "Srinagar has a recorded history spanning over 2,000 years. Founded by Emperor Ashoka in the 3rd century BCE, it became the jewel of the Mughal Empire — Mughal emperors Jahangir, Shah Jahan, and Akbar built their famous gardens (Shalimar, Nishat, Chashme Shahi) here. The Dal Lake houseboats originated in the British era when the Dogra ruler forbade British residents from owning land in Kashmir, so they built elaborate houseboats instead.",
+  "bestSeason": "March to October. Tulip season (March–April), summer (May–June), autumn (September–October). Winter (Dec–Feb) brings snowfall.",
+  "idealDuration": "4–5 days",
+  "temperature": "−7°C (winter) to 35°C (summer)",
+  "nearestAirport": "Sheikh ul-Alam International Airport, Srinagar (SXR) — 14 km from city",
+  "nearestRailwayStation": "Banihal Railway Station (118 km — the Kashmir Rail project is under construction; Jammu Tawi is the major station at 290 km)",
+  "nearestBusStand": "Tourist Reception Center (TRC), Srinagar",
+  "tags": [
+    "Dal Lake",
+    "Houseboats",
+    "Mughal Gardens",
+    "Mountains",
+    "Shikara",
+    "Kashmir"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 5,
+  "luxuryScore": 7,
+  "budgetScore": 6,
+  "topAttractions": [
+    {
+      "name": "Dal Lake & Shikara Ride",
+      "description": "The iconic 18 sq km lake in the heart of Srinagar, home to floating gardens (rad), vegetable markets, lotus gardens, and 1,000+ houseboats. A shikara (wooden gondola) ride at sunrise (₹400–600/hr) is one of India's most beautiful experiences. The floating market starts at 5 AM.",
+      "location": "Central Srinagar"
+    },
+    {
+      "name": "Mughal Gardens (Shalimar, Nishat, Chashme Shahi)",
+      "description": "Three terraced Mughal gardens along the eastern shores of Dal Lake. Shalimar Bagh (1619, Jahangir's \"Abode of Love\") has 4 terraces and century-old Chinar trees. Nishat Bagh (1633) has 12 terraces symbolizing the zodiac signs. Chashme Shahi (1632) has a natural spring. Entry: ₹24 each. Open sunrise to sunset.",
+      "location": "Dal Lake eastern shore"
+    },
+    {
+      "name": "Shankaracharya Temple",
+      "description": "A Shiva temple at 1,100 ft on Shankaracharya Hill, reachable by 246 steps or car up to halfway. The temple was visited by Adi Shankaracharya in the 9th century. Spectacular 360-degree panorama of Dal Lake, the city, and Himalayan peaks. Entry: Free. Open 7 AM–7 PM (winter 5 PM).",
+      "location": "Shankaracharya Hill, Srinagar"
+    },
+    {
+      "name": "Hazratbal Mosque",
+      "description": "Srinagar's most revered Islamic shrine, believed to house a hair of Prophet Muhammad (Moi-e-Muqqadas). The white marble mosque on the western shore of Dal Lake is particularly beautiful at sunset with its reflection in the water. Modest dress required.",
+      "location": "Western Dal Lake shore"
+    },
+    {
+      "name": "Old City (Nowhatta & Jamia Masjid Area)",
+      "description": "Srinagar's ancient old city with medieval lanes, traditional Kashmiri timber-framed buildings (dhajji dewari architecture), traditional bazaars selling spices, dried fruits, copper utensils, and the magnificent 14th-century Jamia Masjid (Friday Mosque) with 378 wooden pillars.",
+      "location": "Old Srinagar, downtown"
+    },
+    {
+      "name": "Tulip Garden (Indira Gandhi Memorial)",
+      "description": "Asia's largest tulip garden (30 hectares, 1.5 million tulips) blooms spectacularly for 3–4 weeks in March–April with the Zabarwan Mountains as backdrop. Over 60 varieties of tulips. Entry: ₹75. Only open during tulip season.",
+      "location": "Zabarwan foothills, near Nishat"
+    }
+  ],
+  "activities": [
+    "Shikara ride at sunrise (₹400–600/hr, book at Boulevard)",
+    "Overnight houseboat stay on Dal Lake (₹3,000–15,000)",
+    "Day trip to Gulmarg (skiing/gondola, 56 km, ₹3,500 cab)",
+    "Day trip to Pahalgam (Aru Valley, 96 km)",
+    "Day trip to Sonamarg (meadow of gold, 80 km)",
+    "Saffron field visit at Pampore (October/November harvest)",
+    "Traditional carpet weaving workshop",
+    "Wular Lake boat trip (55 km)"
+  ],
+  "localFood": [
+    "Wazwan feast (30+ course traditional Kashmiri royal meal — try at Mughal Darbar or Adhoos)",
+    "Rogan Josh (slow-cooked lamb in Kashmiri spices — the most famous Kashmiri dish)",
+    "Yakhni (lamb in yogurt gravy)",
+    "Gushtaba (minced lamb koftas in yogurt sauce — Wazwan finale dish)",
+    "Kashmiri Kahwa (green tea with saffron, cardamom, cinnamon, almonds — essential)",
+    "Dum Aloo (baby potatoes in Kashmiri gravy)",
+    "Harissa (slow-cooked wheat and meat porridge — winter morning dish)"
+  ],
+  "shopping": [
+    "Kashmiri Pashmina shawls (₹3,000–50,000 — buy from certified J&K Emporium or reputed shops to avoid acrylic fakes)",
+    "Hand-knotted Kashmiri carpets (₹5,000–2,00,000+)",
+    "Papier-mâché items and boxes (₹200–5,000)",
+    "Kashmiri saffron from Pampore (₹300–500/gram — world's finest)",
+    "Walnut wood furniture and carvings",
+    "Sozni-embroidered shawls and sarees"
+  ],
+  "culture": "Srinagar is the cultural capital of Kashmiriyat — the syncretic culture unique to the Kashmir Valley that blends Shaivite Hinduism, Sufi Islam, Buddhism, and Central Asian traditions. Kashmiri artisanal crafts — carpet weaving, papier-mâché, pashmina, wood carving, sozni embroidery — are centuries-old traditions threatened by modernization.",
+  "festivals": [
+    "Tulip Festival (March/April — Asia's largest tulip garden bloom)",
+    "Shikara Festival (October — houseboat and shikara competitions on Dal Lake)",
+    "Eid celebrations (mosque illuminations, special Wazwan feasts)",
+    "Herath/Shivratri (Kashmiri Pandit community celebrations in February)"
+  ],
+  "hotels": [
+    "The Lalit Grand Palace Srinagar (5-star, ₹15,000–35,000 — former Maharaja's palace)",
+    "Vivanta Dal View (Taj Hotels, ₹10,000–22,000)",
+    "Houseboat New Bombay (Heritage houseboat, ₹3,000–8,000 — authentic Dal Lake stay)",
+    "Grand Mumtaz Hotels (3-star, ₹3,000–6,000, Dal Lake view)",
+    "DK Guest House (Budget, ₹1,000–2,500, near Dal Lake Boulevard)"
+  ],
+  "restaurants": [
+    "Mughal Darbar (Best Wazwan and Kashmiri cuisine, ₹400–1,200, Residency Road)",
+    "Adhoos Restaurant (Oldest restaurant in Srinagar, 1947, ₹300–800)",
+    "Ahdoos Restaurant (Famous for mutton dishes, ₹400–900)",
+    "Stream Restaurant (Dal Lake view, ₹500–1,200)",
+    "Chai Jaai (Traditional Kashmiri breakfast, Kahwa, ₹100–300)"
+  ],
+  "travelTips": [
+    "Check J&K Tourism advisories before travel — situation can change.",
+    "BSNL works best in rural areas; Airtel and Jio in Srinagar city.",
+    "Pashmina authentication: rub between palms — genuine pashmina generates warmth and is extremely soft.",
+    "Bargain firmly at carpet and shawl shops — starting prices are often 3–5x real price.",
+    "Don't exchange money from unauthorized dealers — use SBI or government exchange.",
+    "Houseboat owners will offer many paid activities — negotiate package prices."
+  ],
+  "packingTips": [
+    "Heavy jacket (spring/autumn)",
+    "Thermal inners (winter/early spring)",
+    "Waterproof shoes",
+    "Scarf for mosque visits",
+    "Cash in Indian Rupees (many shops cash-only)"
+  ],
+  "weather": "Spring (Mar–Apr): 5–20°C — tulips bloom, beautiful. Summer (May–Jun): 15–30°C — peak season. Autumn (Sep–Oct): 10–25°C — autumn foliage of Chinar trees, stunning. Winter (Nov–Feb): −7 to 8°C, snowfall, some roads blocked but beautiful Dal Lake fog.",
+  "transport": "By Air: Sheikh ul-Alam Airport — daily flights from Delhi (1.5 hrs), Mumbai, Chandigarh. By Bus/Car: Jammu–Srinagar Highway (300 km, 7 hrs via Jawahar Tunnel). Within Srinagar: Autos (₹50–200), app-based taxis, hired cars for day trips (₹2,500–4,000).",
+  "itineraries": [
+    {
+      "type": "4 Day",
+      "durationDays": 4,
+      "estimatedCost": 16000,
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "10:00 AM",
+              "activity": "Arrive & check into houseboat",
+              "description": "Take a shikara to your Dal Lake houseboat. Explore the floating garden in a shikara.",
+              "costEstimate": 600
+            },
+            {
+              "time": "03:00 PM",
+              "activity": "Mughal Gardens: Shalimar & Nishat Bagh",
+              "description": "Walk through the Mughal-era terraced gardens with Himalayan backdrop.",
+              "costEstimate": 48
+            },
+            {
+              "time": "06:00 PM",
+              "activity": "Sunset Shikara ride on Dal Lake",
+              "description": "Paddle through the lotus gardens and floating markets at golden hour.",
+              "costEstimate": 500
+            },
+            {
+              "time": "08:00 PM",
+              "activity": "Wazwan dinner at Mughal Darbar",
+              "description": "Traditional Kashmiri royal feast — rogan josh, yakhni, gushtaba, haaq.",
+              "costEstimate": 900
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            {
+              "time": "05:00 AM",
+              "activity": "Floating vegetable market on Dal Lake",
+              "description": "Pre-dawn shikara trip to the floating market where farmers sell produce from boats.",
+              "costEstimate": 400
+            },
+            {
+              "time": "09:00 AM",
+              "activity": "Shankaracharya Temple",
+              "description": "246 steps to the hilltop Shiva temple. 360° panorama of the entire Vale of Kashmir.",
+              "costEstimate": 100
+            },
+            {
+              "time": "12:00 PM",
+              "activity": "Old City walk & Jamia Masjid",
+              "description": "Explore medieval lanes, copper bazaar, and the grand Friday mosque.",
+              "costEstimate": 200
+            },
+            {
+              "time": "04:00 PM",
+              "activity": "Carpet weaving workshop visit",
+              "description": "See master weavers tie individual knots for Kashmiri carpets.",
+              "costEstimate": 0
+            },
+            {
+              "time": "07:00 PM",
+              "activity": "Dinner on houseboat",
+              "description": "Traditional Kashmiri dinner prepared by houseboat cook. Kahwa tea after.",
+              "costEstimate": 0
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "activities": [
+            {
+              "time": "07:00 AM",
+              "activity": "Day trip to Gulmarg",
+              "description": "World's highest gondola (Phase 2: 3,980 m). Skiing in winter, meadows in summer. 56 km, 1.5 hr.",
+              "costEstimate": 5000
+            },
+            {
+              "time": "04:00 PM",
+              "activity": "Return to Srinagar",
+              "description": "Back via Tangmarg. Stop at local market.",
+              "costEstimate": 0
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "activities": [
+            {
+              "time": "09:00 AM",
+              "activity": "Tulip Garden / Hazratbal Mosque",
+              "description": "Season-dependent: Tulip Garden (March–April) or Hazratbal mosque visit.",
+              "costEstimate": 75
+            },
+            {
+              "time": "11:30 AM",
+              "activity": "Shopping: Pashmina & Saffron",
+              "description": "Buy certified Kashmiri pashmina at J&K Government Emporium. Saffron from Pampore dealer.",
+              "costEstimate": 3000
+            },
+            {
+              "time": "02:00 PM",
+              "activity": "Last Kahwa & departure",
+              "description": "Traditional Kahwa tea farewell, then airport transfer.",
+              "costEstimate": 100
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

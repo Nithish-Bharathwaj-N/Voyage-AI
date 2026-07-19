@@ -1,0 +1,267 @@
+{
+  "id": "kolkata-01",
+  "slug": "kolkata",
+  "name": "Kolkata",
+  "state": "West Bengal",
+  "country": "India",
+  "category": "Culture",
+  "budget": "Budget",
+  "rating": 4.4,
+  "reviewCount": 78000,
+  "coordinates": {
+    "lat": 22.5726,
+    "lng": 88.3639
+  },
+  "altitude": 9,
+  "coverImage": "https://images.unsplash.com/photo-1570560258879-af7f8e1447ac?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
+    "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&q=80"
+  ],
+  "description": "Kolkata — the City of Joy — is India's cultural and intellectual capital, the former capital of British India (1772-1911), and the birthplace of the Bengal Renaissance that transformed Indian thought, literature, and spirituality in the 19th century. Victoria Memorial (1921), Howrah Bridge (1943), Mother Teresa's Missionaries of Charity, Rabindranath Tagore's Jorasanko Thakur Bari, the Dakshineswar Kali Temple, and the colonial grandeur of BBD Bagh define a city of extraordinary depth. Its vibrant Durga Puja celebration — the world's largest street art festival — draws millions.",
+  "history": "Kolkata was founded by Job Charnock of the British East India Company in 1690 as a trading post, though the area had earlier settlements. It became the capital of British India in 1772 and remained so until 1911 when the capital shifted to Delhi. The Bengal Presidency was a center of Indian nationalist activity — the 1905 Partition of Bengal ignited the Swadeshi movement. The Bengal Famine of 1943 killed 2-3 million. Mother Teresa worked here from 1948 until her death in 1997.",
+  "bestSeason": "October to March. Durga Puja (October) is the most spectacular. Avoid April-June (42°C, humid).",
+  "idealDuration": "3-4 days",
+  "temperature": "10°C (winter) to 42°C (summer)",
+  "nearestAirport": "Netaji Subhas Chandra Bose International Airport (CCU) — 17km from city center",
+  "nearestRailwayStation": "Howrah Junction (HWH) and Sealdah (SDAH) — two major termini",
+  "nearestBusStand": "Esplanade Bus Terminus (central Kolkata)",
+  "tags": [
+    "Bengal Renaissance",
+    "Durga Puja",
+    "Howrah Bridge",
+    "Colonial",
+    "Intellectuals",
+    "Rabindranath Tagore"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 3,
+  "luxuryScore": 6,
+  "budgetScore": 9,
+  "topAttractions": [
+    {
+      "name": "Victoria Memorial",
+      "description": "A magnificent white marble edifice (1906-1921) built by Lord Curzon in memory of Queen Victoria, blending Venetian, Mughal, and Egyptian architectural styles. The 25-acre gardens contain statues of colonial-era figures. The museum inside has 25,000+ artifacts, paintings, and manuscripts of the British India era. Entry: ₹30 (Indian), ₹500 (foreign). Open 10AM-5PM, closed Mondays.",
+      "location": "Queens Way, Central Kolkata"
+    },
+    {
+      "name": "Howrah Bridge (Rabindra Setu)",
+      "description": "An iconic cantilever suspension bridge (1943) across the Hooghly River — 705m long, carrying 150,000 vehicles and millions of pedestrians daily, with NO nuts or bolts (riveted). One of the world's busiest bridges. Photographed from a boat on the Hooghly (₹40-100) for the best views.",
+      "location": "Spanning Hooghly River between Howrah and Kolkata"
+    },
+    {
+      "name": "Dakshineswar Kali Temple",
+      "description": "A 1855 temple of Goddess Kali on the east bank of the Hooghly, where Sri Ramakrishna Paramahamsa had his spiritual visions (1855-1886). One of the most visited temples in India. The pink-towered 9-spired structure with the Nahabatkhana (music room) and 12 Shiva temples is sacred to millions. Entry: Free.",
+      "location": "Dakshineswar, North Kolkata"
+    },
+    {
+      "name": "College Street & Boi Para (Book Market)",
+      "description": "The world's largest second-hand book market — College Street has been the intellectual heart of Kolkata since the 19th century. Thousands of book stalls sell new and second-hand books in Bengali, English, and other languages. The Indian Coffee House here (since 1942) is where Satyajit Ray, Amartya Sen, and generations of Bengali intellectuals met.",
+      "location": "College Street, North Kolkata"
+    },
+    {
+      "name": "Park Street (Mother Teresa Connection)",
+      "description": "Kolkata's most famous promenade — lined with restaurants, music venues, and the Missionaries of Charity (54A Lower Circular Road, 3km from Park Street) where Mother Teresa's tomb is. Also: South Park Street Cemetery (oldest European cemetery in India, 1767), the jazz bars, and the finest restaurants in the city.",
+      "location": "Park Street, Central Kolkata"
+    },
+    {
+      "name": "Kumartuli (Potter's Colony)",
+      "description": "The neighborhood where thousands of artisans craft elaborate clay idols year-round for Durga Puja, Saraswati Puja, and other festivals. The skill and artistry is extraordinary. Watching the idol-makers work (especially from August-October) is one of Kolkata's most unique cultural experiences.",
+      "location": "Kumartuli, North Kolkata"
+    }
+  ],
+  "activities": [
+    "Sunrise on Howrah Bridge (5 AM, extraordinary light)",
+    "Boat ride on Hooghly River (₹40-100)",
+    "Tram ride through the city (heritage tram network, ₹7, Central to Esplanade)",
+    "Durga Puja pandal hopping (October — thousands of elaborate installations)",
+    "Marble Palace mansion visit (1835, family palace, free with guide ₹200)",
+    "Rabindranath Tagore's Jorasanko Thakur Bari (family home-museum, ₹10)",
+    "Day trip to Sundarbans (mangrove tiger reserve, 100km, ₹3000-5000)",
+    "Missionaries of Charity visit (voluntary work available)"
+  ],
+  "localFood": [
+    "Rosogolla (Kolkata claims to have invented it — KC Das is the most famous shop, ₹20 each)",
+    "Kathi Roll (Nizam's Restaurant in New Market, since 1932 — the original kathi roll)",
+    "Puchka/Pani Puri (Kolkata style is tangier and crispier than any other city — ubiquitous, ₹20-40)",
+    "Kosha Mangsho (slow-cooked spiced mutton — a Bengali Sunday specialty)",
+    "Hilsa Fish / Ilish (most revered fish in Bengali cuisine — seasonal, expensive, extraordinary)",
+    "Mishti Doi (sweetened set yogurt in earthen cups — the best dessert in Bengal)",
+    "Jhal Muri (puffed rice with mustard oil, tamarind, chili, vegetables — perfect street snack)"
+  ],
+  "shopping": [
+    "New Market (largest colonial-era market in Kolkata, 1874 — clothing, food, crafts)",
+    "Hatibagan Bazaar (wholesale fabric and saris)",
+    "Dakshinapan (state government emporium for crafts of all Eastern Indian states)",
+    "Kumartuli (buy clay Durga idols directly from artisans)",
+    "College Street (books — second-hand and new)",
+    "Oxford Bookstore, Park Street (best bookshop in Kolkata)"
+  ],
+  "culture": "Kolkata is the cultural capital of India — birthplace of the Bengal Renaissance, home of Rabindranath Tagore (Asia's first Nobel Laureate), Satyajit Ray (cinema), Amartya Sen (economics Nobel), and Mother Teresa. The city has an extraordinary literary, artistic, and intellectual tradition. Durga Puja here is not just a festival but a city-wide art installation — winning pandals are visited by millions.",
+  "festivals": [
+    "Durga Puja (October — world-famous, UNESCO-recognised; entire city is the venue)",
+    "Kolkata Book Fair (January/February — largest book fair in Asia)",
+    "Dover Lane Music Conference (January — India's most prestigious classical music event)",
+    "Rabindra Jayanti (May — Tagore's birthday, cultural programs citywide)"
+  ],
+  "hotels": [
+    "The Oberoi Grand (Heritage 5-star, ₹12000-28000, Jawaharlal Nehru Road)",
+    "ITC Royal Bengal (5-star, ₹8000-18000, Rajarhat New Town)",
+    "Hotel Hindustan International (4-star, ₹4000-8000, Park Street)",
+    "The Lytton Hotel (Heritage, ₹3000-6000, near Park Street)",
+    "Hotel Galaxy (Budget, ₹1200-2500, near Howrah)",
+    "Broadway Hotel (Budget heritage, ₹1500-3000, near Esplanade)"
+  ],
+  "restaurants": [
+    "Oh! Calcutta (Bengali fine dining, ₹600-1500, Elgin Road)",
+    "Mocambo (Continental, a Park Street institution since 1956, ₹400-1000)",
+    "Peter Cat (Chelo Kebab legend since 1975, ₹400-900)",
+    "Kewpie's (Home-style Bengali cuisine, ₹400-900, Elgin)",
+    "Nizam's (Original Kathi Roll birthplace, ₹80-200, New Market)",
+    "Flury's (Swiss-style café and patisserie since 1927, ₹200-600, Park Street)"
+  ],
+  "travelTips": [
+    "Kolkata trams are the last functioning tram network in India — ride them.",
+    "Yellow Ambassador taxis are metered — insist on meter.",
+    "Durga Puja: book hotels 6+ months in advance. The city transforms completely.",
+    "The Kolkata Metro (oldest in India, since 1984) is the easiest way around.",
+    "Bengali culture values intellectual discourse — asking locals for recommendations gets enthusiastic responses."
+  ],
+  "packingTips": [
+    "Light cotton clothes",
+    "Umbrella (year-round rain possible)",
+    "Modest clothes for temples",
+    "Comfortable walking shoes"
+  ],
+  "weather": "Winter (Nov-Feb): 10-22°C, pleasant. Spring (Mar-Apr): 28-38°C. Summer (May-Jun): 35-42°C, very humid and hot. Monsoon (Jun-Sep): 28-35°C, heavy rain. Autumn (Oct): 22-30°C — Durga Puja season.",
+  "transport": "By Air: CCU Airport (17km, Metro from New Garia to Airport). By Rail: Howrah Junction and Sealdah. Metro: 5 lines operational. By Bus: WBTC buses (₹5-25). Taxis: ₹30 flag fall (Yellow Ambassador) + Ola/Uber.",
+  "itineraries": [
+    {
+      "type": "3 Day",
+      "durationDays": 3,
+      "estimatedCost": 5500,
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "07:00 AM",
+              "activity": "Howrah Bridge sunrise",
+              "description": "Walk across the bridge at dawn. Flower market below the bridge is active.",
+              "costEstimate": 0
+            },
+            {
+              "time": "09:00 AM",
+              "activity": "Victoria Memorial",
+              "description": "White marble masterpiece. Museum inside. Allow 2 hours.",
+              "costEstimate": 30
+            },
+            {
+              "time": "12:00 PM",
+              "activity": "Lunch at Flury's",
+              "description": "Heritage Swiss café on Park Street since 1927.",
+              "costEstimate": 600
+            },
+            {
+              "time": "02:00 PM",
+              "activity": "Mother Teresa Missionaries of Charity",
+              "description": "Visit her tomb. Volunteer opportunities.",
+              "costEstimate": 0
+            },
+            {
+              "time": "04:00 PM",
+              "activity": "Park Street walk",
+              "description": "Bookshops, jazz cafes, architecture.",
+              "costEstimate": 200
+            },
+            {
+              "time": "08:00 PM",
+              "activity": "Dinner at Mocambo",
+              "description": "Continental institution. Iconic restaurant.",
+              "costEstimate": 800
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            {
+              "time": "08:00 AM",
+              "activity": "College Street + Indian Coffee House",
+              "description": "Browse the book market and sit in the historic coffee house.",
+              "costEstimate": 100
+            },
+            {
+              "time": "10:00 AM",
+              "activity": "Kumartuli potter's colony",
+              "description": "Watch idol-makers at work. Extraordinary craft.",
+              "costEstimate": 0
+            },
+            {
+              "time": "12:00 PM",
+              "activity": "Hooghly River boat ride",
+              "description": "30-minute boat from Princep Ghat. View of Howrah Bridge.",
+              "costEstimate": 100
+            },
+            {
+              "time": "02:00 PM",
+              "activity": "Dakshineswar Kali Temple",
+              "description": "Major temple of Sri Ramakrishna, sacred to millions.",
+              "costEstimate": 0
+            },
+            {
+              "time": "05:00 PM",
+              "activity": "Belur Math",
+              "description": "Ramakrishna Math HQ, beautiful building combining Hindu/Islamic/Christian architecture.",
+              "costEstimate": 0
+            },
+            {
+              "time": "08:00 PM",
+              "activity": "Kathi Roll at Nizam's",
+              "description": "Original 1932 kathi roll birthplace.",
+              "costEstimate": 200
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "activities": [
+            {
+              "time": "09:00 AM",
+              "activity": "Marble Palace",
+              "description": "1835 neoclassical mansion with Rubens paintings, Venetian glass, and peacocks.",
+              "costEstimate": 200
+            },
+            {
+              "time": "11:00 AM",
+              "activity": "Jorasanko Thakur Bari",
+              "description": "Tagore's ancestral home and museum.",
+              "costEstimate": 10
+            },
+            {
+              "time": "01:00 PM",
+              "activity": "Puchka and Jhal Muri lunch",
+              "description": "Street food walk near Hatibagan market.",
+              "costEstimate": 150
+            },
+            {
+              "time": "03:00 PM",
+              "activity": "New Market shopping",
+              "description": "Largest colonial market — fabric, food, crafts.",
+              "costEstimate": 800
+            },
+            {
+              "time": "07:00 PM",
+              "activity": "Oh! Calcutta farewell dinner",
+              "description": "Finest Bengali cuisine. Hilsa fish in mustard sauce.",
+              "costEstimate": 1000
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

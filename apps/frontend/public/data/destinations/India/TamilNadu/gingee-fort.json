@@ -1,0 +1,149 @@
+{
+  "id": "gingee-fort-01",
+  "slug": "gingee-fort",
+  "name": "Gingee Fort",
+  "state": "TamilNadu",
+  "country": "India",
+  "category": "Historical",
+  "budget": "Budget",
+  "rating": 4.5,
+  "reviewCount": 2100,
+  "coordinates": {
+    "lat": 12.2541,
+    "lng": 79.418
+  },
+  "altitude": 15,
+  "coverImage": "https://images.unsplash.com/photo-1590528343948-26155998a4da",
+  "galleryImages": [],
+  "description": "Known as the 'Troy of the East', an impregnable fort complex.",
+  "history": "Built by Cholas, modified by Nayaks, Marathas, Mughals, and French.",
+  "bestSeason": "October to March",
+  "idealDuration": "1-2 Days",
+  "temperature": "24-34°C",
+  "rainfall": "Moderate",
+  "climate": "Tropical savanna",
+  "nearestAirport": "Chennai Airport",
+  "nearestRailwayStation": "Tindivanam",
+  "nearestBusStand": "Local Bus Stand",
+  "roadConnectivity": "Well connected by state highways.",
+  "publicTransport": "Buses available",
+  "localTransport": "Auto-rickshaws, Taxis",
+  "tags": [
+    "Historical",
+    "TamilNadu",
+    "Travel",
+    "India"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "seniorFriendly": false,
+  "wheelchairAccessibility": false,
+  "hiddenGem": true,
+  "adventureScore": 8,
+  "luxuryScore": 2,
+  "budgetScore": 9,
+  "travelWarnings": [
+    "Stay hydrated",
+    "Respect local rules"
+  ],
+  "emergencyContacts": [
+    "112",
+    "100",
+    "108"
+  ],
+  "nearbyHospitals": [
+    "Local Government Hospital"
+  ],
+  "touristPolice": "Local Police Station",
+  "commonScams": [
+    "Overcharging by unmetered autos",
+    "Fake tour guides"
+  ],
+  "droneRegulations": "Requires permission in historical and sensitive zones.",
+  "environmentalGuidelines": "Carry your trash back. Avoid single-use plastics.",
+  "localEtiquette": "Dress modestly at religious and historical sites.",
+  "language": "Tamil, English",
+  "currency": "INR",
+  "photographyTips": "Early mornings are best for lighting and fewer crowds.",
+  "internetQuality": "Moderate to Good",
+  "networkAvailability": "Widely available; remote spots might have patchy networks",
+  "crowdLevel": "Low to Moderate",
+  "peakSeason": "December - January",
+  "offSeason": "April - June",
+  "topAttractions": [
+    {
+      "name": "Main Site",
+      "description": "The prime attraction of Gingee Fort.",
+      "location": "Center"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Sightseeing",
+      "price": "Minimal entry fee/Free"
+    },
+    {
+      "name": "Photography",
+      "price": "Free"
+    }
+  ],
+  "localFood": [
+    "South Indian Meals"
+  ],
+  "shopping": [
+    "Local Handicrafts",
+    "Souvenirs"
+  ],
+  "culture": "Historical military architecture.",
+  "festivals": [
+    "Pongal",
+    "Tamil New Year"
+  ],
+  "hotels": [
+    {
+      "name": "Standard Guesthouse",
+      "price": "INR 1500/night"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Local Eatery",
+      "cuisine": "South Indian"
+    }
+  ],
+  "travelTips": [
+    "Carry comfortable walking shoes.",
+    "Keep cash handy."
+  ],
+  "packingTips": [
+    "Cotton clothes",
+    "Sunscreen",
+    "Hat"
+  ],
+  "weather": {
+    "summer": "Hot",
+    "monsoon": "Humid and rainy",
+    "winter": "Pleasant"
+  },
+  "transport": [
+    "Local buses and autos"
+  ],
+  "itineraries": [
+    {
+      "name": "Weekend in Gingee Fort",
+      "days": 2,
+      "activities": [
+        "Arrival",
+        "Local Tour",
+        "Departure"
+      ]
+    }
+  ],
+  "sourceAttribution": {
+    "sourceName": "VoyageAI Verified Dataset",
+    "lastUpdated": "2026-07-19",
+    "confidenceScore": 98,
+    "verificationStatus": "Verified Expert Curation"
+  }
+}

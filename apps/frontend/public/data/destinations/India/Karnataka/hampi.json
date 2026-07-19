@@ -1,0 +1,230 @@
+{
+  "id": "hampi-01",
+  "slug": "hampi",
+  "name": "Hampi",
+  "state": "Karnataka",
+  "country": "India",
+  "category": "Culture",
+  "budget": "Budget",
+  "rating": 4.7,
+  "reviewCount": 35000,
+  "coordinates": {
+    "lat": 15.335,
+    "lng": 76.46
+  },
+  "altitude": 467,
+  "coverImage": "https://images.unsplash.com/photo-1590322246756-37d7ae12b736?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1606987482048-c6826204b417?w=800&q=80",
+    "https://images.unsplash.com/photo-1569144157591-c60f3f82f137?w=800&q=80"
+  ],
+  "description": "Hampi is an extraordinary UNESCO World Heritage Site on the banks of the Tungabhadra River in Karnataka — the ruins of Vijayanagara, the capital of the greatest Hindu empire of medieval India (14th–16th century). The landscape is lunar and surreal: 26 sq km of massive granite boulders, palm groves, banana plantations, and over 1,600 architectural remains including temples, market streets, elephant stables, and royal pavilions. Once the world's second largest medieval city (after Peking), Hampi was sacked by a confederacy of Deccan Sultanates in 1565 and never rebuilt.",
+  "history": "Vijayanagara Empire was founded in 1336 by Harihara I and Bukka Raya I. At its peak under Krishnadevaraya (1509–1529), Vijayanagara was one of the wealthiest and most powerful empires in the world, with a population of 500,000 in the capital. Portuguese explorer Fernão Nunes described it as \"as large as Rome.\" In 1565, the Battle of Talikota ended the empire — the Deccan Sultanates sacked the city for 6 months, dismantling what couldn't be carried. The ruins were inscribed as a UNESCO World Heritage Site in 1986.",
+  "bestSeason": "October to February. Avoid March–May (very hot, 38°C+). Monsoon (June–September) makes some areas inaccessible.",
+  "idealDuration": "2–3 days",
+  "temperature": "15°C (winter nights) to 40°C (summer)",
+  "nearestAirport": "Hubli Airport (HBX) — 150 km from Hampi. Bengaluru Kempegowda Airport — 350 km.",
+  "nearestRailwayStation": "Hospet Junction (13 km from Hampi) — trains from Bengaluru (Hampi Express, overnight 10 hrs)",
+  "nearestBusStand": "Hospet Bus Stand (13 km); local buses and autos to Hampi Bazaar",
+  "tags": [
+    "Vijayanagara",
+    "Ruins",
+    "UNESCO",
+    "Boulders",
+    "Heritage",
+    "Medieval India"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 5,
+  "luxuryScore": 3,
+  "budgetScore": 9,
+  "topAttractions": [
+    {
+      "name": "Virupaksha Temple",
+      "description": "A functioning 7th-century Hindu temple dedicated to Lord Virupaksha (Shiva) — continuously worshipped for over 1,300 years despite the fall of the empire. The 52-metre gopuram (tower) is Hampi's most recognizable landmark. The temple elephant Lakshmi blesses devotees. Entry: ₹50 (foreign). Open 6 AM–1 PM, 5 PM–9 PM.",
+      "location": "Hampi Bazaar (center of ruins)"
+    },
+    {
+      "name": "Vittala Temple Complex",
+      "description": "The architectural masterpiece of Vijayanagara — built in the 16th century for Lord Vittala (Vishnu). Famous for the Stone Chariot (an immovable granite chariot with wheels that turn) and the musical pillars that produce musical notes when tapped. The temple's corbelled ceilings and ornate pillars are extraordinarily detailed. Entry included in ruins ticket: ₹40 (Indian), ₹600 (foreign). 1 km from Hampi Bazaar (electric bus ₹20).",
+      "location": "3 km east of Hampi Bazaar"
+    },
+    {
+      "name": "The Royal Enclosure & Lotus Mahal",
+      "description": "The royal quarter of Vijayanagara — a walled compound with the Mahanavami Dibba (a massive ceremonial platform), Hazara Rama Temple (with narrative reliefs of the Ramayana), and the elegant Lotus Mahal (a pavilion of intersecting arches that was possibly a palace for royal women). Also houses the Elephant Stables — 11 chambers for the royal war elephants.",
+      "location": "2 km from Hampi Bazaar"
+    },
+    {
+      "name": "Hemakuta Hill Temples",
+      "description": "A cluster of pre-Vijayanagara temples (9th–13th century) on a rocky hill with a panoramic view of Hampi and the Virupaksha Temple. The best sunset viewpoint in Hampi — the temples glow golden and the boulders turn crimson. Excellent for photography.",
+      "location": "Adjacent to Hampi Bazaar"
+    },
+    {
+      "name": "Tungabhadra River & Coracle Ride",
+      "description": "The sacred river that flows through Hampi, separating the historic ruins (south bank) from the laid-back hippie village of Virupapur Gaddi/Hippie Island (north bank). Traditional round coracles (circular wicker and tar boats, ₹30–50 per crossing) ferry travelers across. Evening sunsets on the river among the boulders are magical.",
+      "location": "Throughout Hampi ruins"
+    },
+    {
+      "name": "Achyutaraya Temple",
+      "description": "A partially intact 16th-century temple complex with impressive stone pillars, carved elephant friezes, and a massive market street (bazaar) lined by columns where merchants once sold goods during the empire. Less crowded than Vittala, equally impressive.",
+      "location": "1 km from Hampi Bazaar"
+    }
+  ],
+  "activities": [
+    "Cycling through ruins (rent bicycle ₹100/day — best way to explore)",
+    "Coracle crossing to Hippie Island on Tungabhadra",
+    "Sunrise/sunset at Hemakuta Hill (free)",
+    "Bouldering (Hampi is a world-class bouldering destination — hundreds of routes)",
+    "Swimming in natural pools at Sanapur Lake and Hippie Island",
+    "Cliff jumping at Sanapur Lake (₹50)",
+    "Hot spring visit at Shiva Temple area",
+    "Photography walk through the bazaar ruins"
+  ],
+  "localFood": [
+    "Karnataka thali (rice, sambar, rasam, dry vegetables, curd, papad — served on banana leaf)",
+    "Bisi Bele Bath (rice and lentil dish with spices)",
+    "Davangere Benne Dose (butter dosa — crispy dosa with lots of butter)",
+    "Jolada Rotti with Ennegayi (sorghum flatbread with stuffed eggplant)",
+    "Fresh sugarcane juice and coconut water (abundant in Hampi bazaar)",
+    "Banana fritters and sweet snacks at bazaar stalls"
+  ],
+  "shopping": [
+    "Stone carvings and sculptures by local artisans (₹500–10,000)",
+    "Handicrafts from Hampi Bazaar stalls",
+    "Kasuti embroidery (Karnataka traditional needlework)",
+    "Lambani tribal jewelry and accessories",
+    "Postcards and Hampi photography books"
+  ],
+  "culture": "Hampi's culture today is that of a living sacred site — the Virupaksha Temple has been worshipped continuously for over 1,000 years. The surrounding Kannada-speaking community maintains its agricultural traditions, the river crossing remains by coracle, and the bazaar still functions for local trade even as it did in the empire's day.",
+  "festivals": [
+    "Hampi Utsav / Vijaya Utsava (November — 3-day cultural festival, music, dance, puppet shows, illuminated ruins)",
+    "Virupaksha Temple Chariot Festival (February/March — massive wooden chariot procession)",
+    "Shivaratri (February/March — night festival at Virupaksha)"
+  ],
+  "hotels": [
+    "Evolve Back Hampi (Luxury, ₹25,000–50,000, island resort in the river — most unique hotel in Hampi)",
+    "Hyatt Place Hampi (5-star, ₹8,000–15,000, 3 km from ruins)",
+    "The Hampi Heritage Hotel (Budget, ₹1,200–2,500, near ruins)",
+    "Mowgli Guest House (Hippie Island, ₹400–800, bamboo huts)",
+    "Shanthi Guest House (Budget, ₹600–1,500, Hampi Bazaar area)"
+  ],
+  "restaurants": [
+    "Laughing Buddha Restaurant (Multi-cuisine, riverside, ₹200–500, Virupapur Gaddi)",
+    "The Mango Tree Restaurant (Open-air, Hampi Bazaar, ₹200–500)",
+    "Gopi Restaurant (South Indian thali, ₹100–250)",
+    "Ravi Rose Restaurant (Budget, good banana pancake, ₹150–350)",
+    "Shanthi Restaurant (Clean vegetarian, ₹150–300, Hampi Bazaar)"
+  ],
+  "travelTips": [
+    "Buy the composite ruins ticket (₹600 foreign) at Vittala or Hampi Bazaar — covers all ASI monuments.",
+    "Start early (before 8 AM) — ruins get very hot by midday. Carry 2+ litres of water.",
+    "A bicycle (₹100/day) is the best way to explore — the ruins are spread over 26 sq km.",
+    "Hippie Island (north bank) is more relaxed but requires a coracle crossing (₹30).",
+    "Bouldering: bring your own shoes or rent at local guesthouses. No formal operators needed.",
+    "Most guesthouses close during the monsoon (June–September)."
+  ],
+  "packingTips": [
+    "Light cotton clothes",
+    "Sturdy walking shoes (uneven rocky terrain)",
+    "Sun hat (essential — direct sun on ruins)",
+    "Water bottle (2+ litres minimum)",
+    "Sunscreen SPF 50+",
+    "Torch/flashlight for exploring temples in low light"
+  ],
+  "weather": "Winter (Oct–Feb): 15–28°C — ideal. Spring (Mar–Apr): 25–38°C. Summer (May–Jun): 35–42°C — very hot. Monsoon (Jul–Sep): 25–35°C, rain, but lush greenery around the ruins.",
+  "transport": "By Rail: Hampi Express (overnight) from Bengaluru to Hospet (10 hrs, ₹250–700). By Bus: KSRTC from Bengaluru to Hospet (9 hrs, ₹300–500). From Hospet to Hampi: Local bus (₹15), auto (₹150–200). Within Hampi: Bicycle (₹100/day), autos (₹100–400 for ruin tours), electric buggies (₹20/km within Vittala area).",
+  "itineraries": [
+    {
+      "type": "2 Day",
+      "durationDays": 2,
+      "estimatedCost": 5000,
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "06:30 AM",
+              "activity": "Hemakuta Hill Sunrise",
+              "description": "Walk up before sunrise. Watch the ruins and boulders glow gold in the early light.",
+              "costEstimate": 0
+            },
+            {
+              "time": "08:00 AM",
+              "activity": "Virupaksha Temple",
+              "description": "Visit the functioning temple. Watch the elephant Lakshmi being bathed.",
+              "costEstimate": 50
+            },
+            {
+              "time": "09:30 AM",
+              "activity": "Vittala Temple Complex (electric buggy)",
+              "description": "The architectural crown jewel. Musical pillars, stone chariot. Allow 2 hours.",
+              "costEstimate": 640
+            },
+            {
+              "time": "12:00 PM",
+              "activity": "Shade lunch at Mango Tree",
+              "description": "Open-air restaurant under a giant mango tree by the river. Karnataka thali.",
+              "costEstimate": 250
+            },
+            {
+              "time": "02:00 PM",
+              "activity": "Achyutaraya Temple & bazaar",
+              "description": "Explore the column-lined bazaar street and the ornate temple complex.",
+              "costEstimate": 0
+            },
+            {
+              "time": "05:00 PM",
+              "activity": "Hemakuta Hill Sunset",
+              "description": "Best sunset view in Hampi. Golden hour on ancient boulders.",
+              "costEstimate": 0
+            },
+            {
+              "time": "07:30 PM",
+              "activity": "Dinner and stay at Hippie Island",
+              "description": "Cross by coracle for dinner at Laughing Buddha. Consider staying on the island.",
+              "costEstimate": 400
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            {
+              "time": "08:00 AM",
+              "activity": "Royal Enclosure by bicycle",
+              "description": "Cycle to the royal quarter — Lotus Mahal, Elephant Stables, Mahanavami Dibba.",
+              "costEstimate": 100
+            },
+            {
+              "time": "10:30 AM",
+              "activity": "Hazara Rama Temple",
+              "description": "Narrative frieze carvings of the Ramayana on the outer walls — extraordinary detail.",
+              "costEstimate": 0
+            },
+            {
+              "time": "12:00 PM",
+              "activity": "Sanapur Lake",
+              "description": "Swim in the natural lake, cliff jumping (₹50). Hippie vibe, relaxed morning.",
+              "costEstimate": 50
+            },
+            {
+              "time": "03:00 PM",
+              "activity": "Bouldering session",
+              "description": "Hampi's granite boulders are world-class. Try V1–V3 routes with friends.",
+              "costEstimate": 0
+            },
+            {
+              "time": "06:00 PM",
+              "activity": "Depart for Hospet",
+              "description": "Auto to Hospet for overnight train to Bengaluru.",
+              "costEstimate": 200
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

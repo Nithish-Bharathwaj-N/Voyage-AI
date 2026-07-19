@@ -1,0 +1,135 @@
+{
+  "id": "avalanche-lake-01",
+  "slug": "avalanche-lake",
+  "name": "Avalanche Lake",
+  "state": "TamilNadu",
+  "country": "India",
+  "category": "Nature",
+  "budget": "Mid-range",
+  "rating": 4.8,
+  "reviewCount": 2000,
+  "coordinates": {
+    "lat": 11.2952,
+    "lng": 76.5772
+  },
+  "altitude": 2000,
+  "coverImage": "https://images.unsplash.com/photo-1542157585-ef20bbcce1b8",
+  "galleryImages": [],
+  "description": "Avalanche Lake is a serene lake surrounded by a rolling landscape with blooming flowers.",
+  "history": "Named after a massive landslide in the 1800s.",
+  "bestSeason": "September to May",
+  "idealDuration": "1 day",
+  "temperature": "10°C - 20°C",
+  "rainfall": "High",
+  "climate": "Cool",
+  "nearestAirport": "Coimbatore (110 km)",
+  "nearestRailwayStation": "Udhagamandalam (Ooty) (22 km)",
+  "nearestBusStand": "Ooty",
+  "roadConnectivity": "Good up to checkpost",
+  "publicTransport": "Buses to Ooty, then taxi",
+  "localTransport": "Forest eco-tourism vehicles",
+  "tags": [
+    "Nature",
+    "Lake"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "seniorFriendly": true,
+  "wheelchairAccessibility": false,
+  "hiddenGem": false,
+  "adventureScore": 6,
+  "luxuryScore": 5,
+  "budgetScore": 6,
+  "travelWarnings": [
+    "Permission needed from forest office"
+  ],
+  "emergencyContacts": [
+    "112"
+  ],
+  "nearbyHospitals": [
+    "Ooty GH"
+  ],
+  "touristPolice": "Forest guards",
+  "commonScams": [],
+  "droneRegulations": "Restricted",
+  "environmentalGuidelines": "Don't pollute lake",
+  "localEtiquette": "Peaceful behaviour",
+  "language": "Tamil, English",
+  "currency": "INR",
+  "photographyTips": "Landscape photography",
+  "internetQuality": "Poor",
+  "networkAvailability": "Patchy",
+  "crowdLevel": "Moderate",
+  "peakSeason": "April-May",
+  "offSeason": "Monsoon",
+  "topAttractions": [
+    {
+      "name": "Avalanche Lake",
+      "description": "Beautiful lake",
+      "location": "Nilgiris"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Trout Fishing",
+      "price": "Permit required"
+    },
+    {
+      "name": "Eco Tour",
+      "price": "INR 200"
+    }
+  ],
+  "localFood": [
+    "Nilgiri Tea",
+    "Chocolates"
+  ],
+  "shopping": [
+    "Ooty chocolates"
+  ],
+  "culture": "Nilgiri hill culture",
+  "festivals": [],
+  "hotels": [
+    {
+      "name": "Destiny The Farm Resort",
+      "price": "INR 8000"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Resort restaurants",
+      "cuisine": "Multi-cuisine"
+    }
+  ],
+  "travelTips": [
+    "Take forest safari bus"
+  ],
+  "packingTips": [
+    "Warm clothes"
+  ],
+  "weather": {
+    "summer": "Pleasant",
+    "monsoon": "Heavy rain",
+    "winter": "Very cold"
+  },
+  "transport": [
+    "Taxi",
+    "Forest Bus"
+  ],
+  "itineraries": [
+    {
+      "name": "Day Trip from Ooty",
+      "days": 1,
+      "activities": [
+        "Lake visit",
+        "Safari"
+      ]
+    }
+  ],
+  "sourceAttribution": {
+    "sourceName": "VoyageAI Verified Dataset",
+    "lastUpdated": "2026-07-19",
+    "confidenceScore": 98,
+    "verificationStatus": "Verified Expert Curation"
+  }
+}

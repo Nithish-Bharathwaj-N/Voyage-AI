@@ -1,0 +1,223 @@
+{
+  "id": "chittorgarh-01",
+  "slug": "chittorgarh",
+  "name": "Chittorgarh",
+  "state": "Rajasthan",
+  "country": "India",
+  "category": "Popular",
+  "budget": "Mid-range",
+  "rating": 4.5,
+  "reviewCount": 7200,
+  "coordinates": {
+    "lat": 22.2,
+    "lng": 79.2
+  },
+  "altitude": 500,
+  "coverImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1524492412937-b28074a5d7da",
+    "https://images.unsplash.com/photo-1514222134-b57c48ce6c64",
+    "https://images.unsplash.com/photo-1506461883276-594c40b8a4f8"
+  ],
+  "description": "Chittorgarh is a magnificent destination in Rajasthan, India. Known for its remarkable blend of history, culture, and natural beauty. Visitors flock here to experience its unique atmosphere, vibrant local markets, and iconic landmarks. Whether you are seeking spiritual peace, thrilling adventures, or simply a relaxing holiday, Chittorgarh offers a memorable experience that captures the true essence of Indian heritage. The city's charm lies in its timeless appeal and warm hospitality.",
+  "history": "Chittorgarh boasts a rich history spanning several centuries, serving as a prominent center for trade, culture, and power under various dynasties.",
+  "bestSeason": "October to March",
+  "idealDuration": "2-4 Days",
+  "temperature": "15°C to 30°C",
+  "nearestAirport": "Local Airport (15km)",
+  "nearestRailwayStation": "Chittorgarh Junction",
+  "nearestBusStand": "Chittorgarh Central Bus Stand",
+  "tags": [
+    "Fort",
+    "Rajput",
+    "History",
+    "Bravery"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 5,
+  "luxuryScore": 6,
+  "budgetScore": 7,
+  "topAttractions": [
+    {
+      "name": "Chittorgarh Fort (UNESCO)",
+      "description": "The largest fort complex in India and Asia — 700 acres, 13km perimeter, accessed by 7 gates (pols). Built in the 7th century CE, it contains palaces, temples, towers, and reservoirs. Three Jauhars (mass self-immolations by Rajput women facing defeat) took place here in 1303, 1535, and 1568. Entry: ₹40 (Indian), ₹600 (foreign). Open sunrise to sunset.",
+      "location": "Chittor city, on a 180m plateau"
+    },
+    {
+      "name": "Vijay Stambha (Tower of Victory)",
+      "description": "A 37m tall victory tower (1448 CE) built by Rana Kumbha to commemorate his victory over the combined forces of Gujarat and Malwa. Densely carved with Hindu sculptures on all 9 floors — the best carvings in Rajasthan. Can climb to the top for views. Entry included in fort ticket.",
+      "location": "Inside Chittorgarh Fort"
+    },
+    {
+      "name": "Kirti Stambha (Tower of Fame)",
+      "description": "An earlier 22m Jain victory tower (12th century CE) dedicated to Rishabhadeva (first Jain Tirthankara). The five-storey tower is covered in naked Jain figures. The oldest monument in the fort complex, predating the Rajput rule.",
+      "location": "Inside Chittorgarh Fort"
+    },
+    {
+      "name": "Rani Padmini's Palace",
+      "description": "The lake palace (13th century) at the far end of the fort where Queen Padmini (Padmavati) allegedly lived. Legend has it that Alauddin Khilji glimpsed her reflection in a mirror and besieged the fort in 1303. Padmini and 16,000 women performed the first Jauhar here. The lotus pool is serene.",
+      "location": "Inside Chittorgarh Fort (far end)"
+    },
+    {
+      "name": "Meera Bai Temple",
+      "description": "A temple inside the fort dedicated to Meera Bai (1498-1557), the Rajput princess-poet-saint who devoted her life to Krishna, defying social norms. Her bhajans (devotional songs) are still sung across India. The small temple where she worshipped Krishna is deeply moving.",
+      "location": "Inside Chittorgarh Fort"
+    },
+    {
+      "name": "Gaumukh Reservoir",
+      "description": "A natural spring and reservoir (Gau Mukh = Cow's Mouth) from which water emerges from a stone spout shaped like a cow's head. The 12th-century reservoir sustained the fort during sieges. The peaceful setting in a rocky ravine has a small Shiva shrine.",
+      "location": "Inside Chittorgarh Fort (north end)"
+    }
+  ],
+  "activities": [
+    {
+      "name": "City Sightseeing Tour",
+      "price": "INR 500"
+    },
+    {
+      "name": "Heritage Walk",
+      "price": "INR 300"
+    },
+    {
+      "name": "Local Market Shopping",
+      "price": "Variable"
+    },
+    {
+      "name": "Food Tasting Trail",
+      "price": "INR 800"
+    },
+    {
+      "name": "Cultural Evening Show",
+      "price": "INR 400"
+    },
+    {
+      "name": "Museum Visit",
+      "price": "INR 50"
+    },
+    {
+      "name": "Sunset Viewpoint",
+      "price": "Free"
+    },
+    {
+      "name": "Nature Trek/Walk",
+      "price": "Free"
+    }
+  ],
+  "localFood": [
+    "Dal Baati Churma",
+    "Gatte ki Sabzi",
+    "Local Sweets",
+    "Street Food Chaat",
+    "Traditional Thali"
+  ],
+  "shopping": [
+    "Main Bazaar",
+    "Handicraft Emporium",
+    "Spice Market",
+    "Local Artisans Street",
+    "Textile Market"
+  ],
+  "culture": "The culture of Chittorgarh is a vibrant tapestry of traditional arts, festivals, and culinary delights, deeply influenced by its historical roots.",
+  "festivals": [
+    "Diwali (Oct-Nov)",
+    "Holi (March)",
+    "Local State Festival",
+    "Navratri"
+  ],
+  "hotels": [
+    {
+      "name": "Taj Heritage",
+      "price": "INR 10000-15000"
+    },
+    {
+      "name": "The Grand Resort",
+      "price": "INR 6000-10000"
+    },
+    {
+      "name": "Boutique Stay",
+      "price": "INR 4000-7000"
+    },
+    {
+      "name": "City Central Hotel",
+      "price": "INR 3000-5000"
+    },
+    {
+      "name": "Backpacker Hostel",
+      "price": "INR 800-1500"
+    },
+    {
+      "name": "Budget Inn",
+      "price": "INR 1500-2500"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "The Royal Feast",
+      "cuisine": "Fine Dining"
+    },
+    {
+      "name": "Local Flavours Cafe",
+      "cuisine": "Traditional Authentic"
+    },
+    {
+      "name": "Street Bite",
+      "cuisine": "Street Food"
+    },
+    {
+      "name": "Ocean/Hill View Resto",
+      "cuisine": "Multi-cuisine"
+    },
+    {
+      "name": "Heritage Thali",
+      "cuisine": "Regional Thali"
+    }
+  ],
+  "travelTips": [
+    "Book accommodations in advance during peak season",
+    "Try the local street food but ensure it is hot and fresh",
+    "Bargain politely at local markets",
+    "Use authorized taxis or rideshare apps",
+    "Respect local customs and dress modestly at religious sites",
+    "Carry cash for small purchases"
+  ],
+  "packingTips": [
+    "Comfortable walking shoes",
+    "Weather-appropriate clothing",
+    "Power bank",
+    "Sunscreen and sunglasses",
+    "Basic first-aid kit"
+  ],
+  "weather": {
+    "summer": "30°C to 42°C",
+    "monsoon": "25°C to 35°C",
+    "winter": "10°C to 25°C"
+  },
+  "transport": [
+    "Auto Rickshaw (INR 50-150)",
+    "Taxi (INR 200-500)",
+    "Local Bus (INR 15-40)",
+    "Rideshare Apps"
+  ],
+  "itineraries": [
+    {
+      "name": "Highlights Tour",
+      "days": 2,
+      "activities": [
+        "Day 1: Arrival, City Center Attractions, Evening Market",
+        "Day 2: Historical Sites, Local Food Tasting, Departure"
+      ]
+    },
+    {
+      "name": "Deep Dive Experience",
+      "days": 3,
+      "activities": [
+        "Day 1: Essential Monuments",
+        "Day 2: Culture, Arts, and Shopping",
+        "Day 3: Nature/Surroundings and Relaxation"
+      ]
+    }
+  ]
+}

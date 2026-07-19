@@ -1,0 +1,566 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Outfit:wght@400;600;700;800;900&display=swap');
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme inline {
+  --font-sans: 'Inter', var(--font-geist-sans), sans-serif;
+  --font-display: 'Outfit', sans-serif;
+
+  --color-border: hsl(var(--border));
+  --color-input: hsl(var(--input));
+  --color-ring: hsl(var(--ring));
+  --color-background: hsl(var(--background));
+  --color-foreground: hsl(var(--foreground));
+  --color-primary: hsl(var(--primary));
+  --color-primary-foreground: hsl(var(--primary-foreground));
+  --color-secondary: hsl(var(--secondary));
+  --color-secondary-foreground: hsl(var(--secondary-foreground));
+  --color-destructive: hsl(var(--destructive));
+  --color-destructive-foreground: hsl(var(--destructive-foreground));
+  --color-muted: hsl(var(--muted));
+  --color-muted-foreground: hsl(var(--muted-foreground));
+  --color-accent: hsl(var(--accent));
+  --color-accent-foreground: hsl(var(--accent-foreground));
+  --color-popover: hsl(var(--popover));
+  --color-popover-foreground: hsl(var(--popover-foreground));
+  --color-card: hsl(var(--card));
+  --color-card-foreground: hsl(var(--card-foreground));
+  --color-success: #22c55e;
+  --color-warning: #f59e0b;
+  --color-danger: #ef4444;
+  --radius-lg: var(--radius);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-sm: calc(var(--radius) - 4px);
+}
+
+/* ============================================
+   LIGHT MODE TOKENS
+   ============================================ */
+:root {
+  --background: 210 40% 98%;
+  --foreground: 222 47% 11%;
+  --card: 0 0% 100%;
+  --card-foreground: 222 47% 11%;
+  --popover: 0 0% 100%;
+  --popover-foreground: 222 47% 11%;
+  --primary: 221 83% 53%;
+  --primary-foreground: 210 40% 98%;
+  --secondary: 162 84% 39%;
+  --secondary-foreground: 210 40% 98%;
+  --muted: 210 40% 96%;
+  --muted-foreground: 215 16% 47%;
+  --accent: 38 94% 48%;
+  --accent-foreground: 222 47% 11%;
+  --destructive: 0 84% 60%;
+  --destructive-foreground: 210 40% 98%;
+  --border: 214 32% 91%;
+  --input: 214 32% 91%;
+  --ring: 221 83% 53%;
+  --radius: 1rem;
+}
+
+
+/* ============================================
+   BASE STYLES
+   ============================================ */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background-color: hsl(var(--background));
+  color: hsl(var(--foreground));
+  font-feature-settings: "rlig" 1, "calt" 1, "kern" 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background-color: hsl(221 83% 53% / 0.2);
+  color: hsl(221 83% 53%);
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: hsl(var(--border));
+  border-radius: 999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--muted-foreground));
+}
+
+/* ============================================
+   KEYFRAME ANIMATIONS
+   ============================================ */
+
+/* Typing cursor blink */
+@keyframes cursor-blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+/* Floating orb movement */
+@keyframes float-orb {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  33% { transform: translate(30px, -20px) scale(1.05); }
+  66% { transform: translate(-20px, 15px) scale(0.97); }
+}
+
+/* Globe rotation */
+@keyframes globe-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+/* Route draw animation */
+@keyframes route-draw {
+  from { stroke-dashoffset: 1000; }
+  to { stroke-dashoffset: 0; }
+}
+
+/* Shimmer effect */
+@keyframes shimmer {
+  0% { background-position: -200% center; }
+  100% { background-position: 200% center; }
+}
+
+/* Slide-up reveal */
+@keyframes slide-up {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Fade-in */
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* Pulse glow */
+@keyframes pulse-glow {
+  0%, 100% { box-shadow: 0 0 0 0 hsl(221 83% 53% / 0.4); }
+  50% { box-shadow: 0 0 0 8px hsl(221 83% 53% / 0); }
+}
+
+/* Notification slide-in */
+@keyframes notif-in {
+  from { opacity: 0; transform: translateX(-12px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+/* AI thinking dots */
+@keyframes thinking-dot {
+  0%, 80%, 100% { transform: scale(0.6); opacity: 0.4; }
+  40% { transform: scale(1); opacity: 1; }
+}
+
+/* Gradient flow */
+@keyframes gradient-flow {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* ============================================
+   UTILITY CLASSES
+   ============================================ */
+
+/* Glass morphism variants */
+.glass-card {
+  backdrop-filter: blur(16px) saturate(180%);
+  background-color: rgba(255, 255, 255, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 4px 24px -4px rgba(0, 0, 0, 0.08);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.glass-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 32px -8px rgba(59, 130, 246, 0.15);
+  border-color: rgba(59, 130, 246, 0.3);
+}
+
+.glass-panel {
+  backdrop-filter: blur(20px) saturate(180%);
+  background-color: rgba(255, 255, 255, 0.5);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+
+/* AI gradient text */
+.ai-gradient {
+  background: linear-gradient(135deg, #3b82f6, #6366f1, #8b5cf6, #a855f7);
+  background-size: 300% 300%;
+  animation: gradient-flow 4s ease infinite;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Shimmer text */
+.shimmer-text {
+  background: linear-gradient(
+    90deg,
+    hsl(var(--foreground)) 0%,
+    hsl(221 83% 70%) 50%,
+    hsl(var(--foreground)) 100%
+  );
+  background-size: 200% auto;
+  animation: shimmer 3s linear infinite;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Glow card (hover lift with blue glow) */
+.glow-card {
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  cursor: pointer;
+}
+.glow-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 16px 40px -12px rgba(59, 130, 246, 0.2);
+  border-color: rgba(59, 130, 246, 0.3) !important;
+}
+
+/* Command key badge */
+.command-key {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 6px;
+  font-size: 10px;
+  font-weight: 700;
+  font-family: monospace;
+  background: hsl(var(--muted));
+  border: 1px solid hsl(var(--border));
+  border-radius: 4px;
+  color: hsl(var(--muted-foreground));
+  letter-spacing: 0.05em;
+}
+
+/* AI Thinking dots */
+.thinking-dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: hsl(var(--primary));
+  animation: thinking-dot 1.4s ease-in-out infinite;
+}
+.thinking-dot:nth-child(2) { animation-delay: 0.2s; }
+.thinking-dot:nth-child(3) { animation-delay: 0.4s; }
+
+/* Typing cursor */
+.typing-cursor::after {
+  content: '|';
+  animation: cursor-blink 0.8s ease-in-out infinite;
+  color: hsl(var(--primary));
+  font-weight: 300;
+  margin-left: 2px;
+}
+
+/* Notification entry animation */
+.notif-item {
+  animation: notif-in 0.4s ease-out forwards;
+}
+
+/* Pulse glow button */
+.pulse-glow {
+  animation: pulse-glow 2s ease-in-out infinite;
+}
+
+/* Floating orb */
+.float-orb {
+  animation: float-orb 8s ease-in-out infinite;
+  pointer-events: none;
+}
+
+/* Slide-up reveal */
+.slide-up {
+  animation: slide-up 0.5s ease-out forwards;
+}
+
+/* ============================================
+   COMPONENT OVERRIDES
+   ============================================ */
+
+/* Better input focus ring */
+input:focus,
+textarea:focus,
+select:focus {
+  outline: none;
+  ring-color: hsl(var(--primary));
+}
+
+/* Smooth transitions on interactive elements */
+button, a, [role="button"] {
+  transition-property: color, background-color, border-color, box-shadow, transform, opacity;
+  transition-duration: 200ms;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Command palette overlay */
+.command-overlay {
+  backdrop-filter: blur(8px);
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* Map container */
+.mapbox-container {
+  border-radius: 1.5rem;
+  overflow: hidden;
+}
+
+/* Scrollable chat area — hide scrollbar but allow scroll */
+.chat-scroll {
+  overflow-y: auto;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.chat-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+/* Timeline connector line */
+.timeline-line {
+  position: relative;
+}
+.timeline-line::before {
+  content: '';
+  position: absolute;
+  left: 11px;
+  top: 24px;
+  bottom: 0;
+  width: 2px;
+  background: linear-gradient(
+    to bottom,
+    hsl(var(--primary) / 0.4),
+    hsl(var(--primary) / 0.1)
+  );
+}
+
+/* AI message bubble */
+.ai-bubble {
+  background: linear-gradient(135deg, hsl(var(--muted)), hsl(var(--card)));
+  border: 1px solid hsl(var(--border));
+  border-radius: 0 1rem 1rem 1rem;
+}
+
+/* User message bubble */
+.user-bubble {
+  background: linear-gradient(135deg, hsl(var(--primary)), hsl(241 77% 60%));
+  border-radius: 1rem 0 1rem 1rem;
+  color: white;
+}
+
+/* Hero section gradient mesh */
+.hero-mesh {
+  background:
+    radial-gradient(ellipse 80% 50% at 50% -10%, hsl(221 83% 53% / 0.15), transparent),
+    radial-gradient(ellipse 60% 40% at 80% 50%, hsl(262 83% 58% / 0.1), transparent),
+    radial-gradient(ellipse 60% 40% at 20% 60%, hsl(199 89% 48% / 0.08), transparent);
+}
+
+/* ============================================
+   AI TRAVEL OS — ADDITIONAL DESIGN TOKENS
+   ============================================ */
+
+/* Destination card image overlay */
+.dest-card-overlay {
+  background: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0.85) 0%,
+    rgba(0, 0, 0, 0.4) 50%,
+    rgba(0, 0, 0, 0.1) 100%
+  );
+}
+
+/* Hero prompt bar glow */
+.prompt-bar-glow {
+  box-shadow:
+    0 0 0 1px rgba(59, 130, 246, 0.3),
+    0 4px 40px -8px rgba(59, 130, 246, 0.25),
+    0 0 80px -20px rgba(99, 102, 241, 0.15);
+}
+
+.prompt-bar-glow:focus-within {
+  box-shadow:
+    0 0 0 2px rgba(59, 130, 246, 0.5),
+    0 8px 60px -8px rgba(59, 130, 246, 0.35),
+    0 0 120px -20px rgba(99, 102, 241, 0.2);
+}
+
+/* Orbit animation for hero blob */
+@keyframes orbit-slow {
+  from { transform: rotate(0deg) translateX(120px) rotate(0deg); }
+  to { transform: rotate(360deg) translateX(120px) rotate(-360deg); }
+}
+
+@keyframes orbit-reverse {
+  from { transform: rotate(0deg) translateX(180px) rotate(0deg); }
+  to { transform: rotate(-360deg) translateX(180px) rotate(360deg); }
+}
+
+@keyframes blob-morph {
+  0%, 100% { border-radius: 60% 40% 70% 30% / 50% 60% 40% 70%; }
+  25% { border-radius: 40% 60% 30% 70% / 70% 40% 60% 30%; }
+  50% { border-radius: 70% 30% 60% 40% / 30% 70% 40% 60%; }
+  75% { border-radius: 30% 70% 40% 60% / 60% 30% 70% 40%; }
+}
+
+.blob-morph {
+  animation: blob-morph 8s ease-in-out infinite;
+}
+
+.orbit-dot {
+  animation: orbit-slow 12s linear infinite;
+}
+
+.orbit-dot-2 {
+  animation: orbit-reverse 16s linear infinite;
+}
+
+/* Route draw animation for map lines */
+@keyframes route-draw-stroke {
+  from {
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
+  }
+  to {
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 0;
+  }
+}
+
+.route-line {
+  animation: route-draw-stroke 2s ease-out forwards;
+}
+
+/* Budget bar colors */
+.budget-bar-safe { background: linear-gradient(90deg, #10b981, #34d399); }
+.budget-bar-warning { background: linear-gradient(90deg, #f59e0b, #fbbf24); }
+.budget-bar-danger { background: linear-gradient(90deg, #ef4444, #f87171); }
+
+/* Activity card hover */
+.activity-card {
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.activity-card:hover {
+  transform: translateX(4px);
+  border-left-color: hsl(var(--primary)) !important;
+}
+
+/* Day card section */
+.day-header-gradient {
+  background: linear-gradient(
+    135deg,
+    hsl(221 83% 53% / 0.06),
+    hsl(262 83% 58% / 0.04)
+  );
+}
+
+/* Destination discovery card */
+.discovery-card {
+  position: relative;
+  overflow: hidden;
+  transition: all 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.discovery-card::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(0,0,0,0.75) 0%, rgba(0,0,0,0.2) 50%, transparent 100%);
+  z-index: 1;
+  transition: opacity 0.3s ease;
+}
+.discovery-card:hover {
+  transform: scale(1.02);
+  box-shadow: 0 24px 48px -12px rgba(0, 0, 0, 0.4);
+}
+.discovery-card:hover::before {
+  opacity: 0.9;
+}
+.discovery-card img {
+  transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.discovery-card:hover img {
+  transform: scale(1.08);
+}
+
+/* AI reasoning panel */
+.reasoning-panel {
+  background: linear-gradient(135deg, hsl(262 83% 98%), hsl(221 83% 98%));
+  border: 1px solid hsl(262 83% 58% / 0.15);
+}
+
+
+/* Workspace split panel */
+.workspace-panel {
+  display: grid;
+  grid-template-columns: 280px 1fr 380px;
+  height: calc(100vh - 64px);
+  overflow: hidden;
+}
+
+@media (max-width: 1280px) {
+  .workspace-panel {
+    grid-template-columns: 260px 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .workspace-panel {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Floating AI suggestion pill */
+@keyframes float-suggestion {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-6px); }
+}
+
+.suggestion-pill {
+  animation: float-suggestion 3s ease-in-out infinite;
+}
+
+/* Stagger list */
+.stagger-item {
+  animation: slide-up 0.4s ease-out both;
+}
+
+/* Waveform animation for AI voice */
+@keyframes waveform {
+  0%, 100% { height: 4px; }
+  50% { height: 20px; }
+}
+
+.wave-bar { animation: waveform 1s ease-in-out infinite; }
+.wave-bar:nth-child(2) { animation-delay: 0.1s; }
+.wave-bar:nth-child(3) { animation-delay: 0.2s; }
+.wave-bar:nth-child(4) { animation-delay: 0.3s; }
+.wave-bar:nth-child(5) { animation-delay: 0.2s; }
+
+/* Premium Mapbox Popup Overrides */
+.premium-popup .mapboxgl-popup-content {
+  border-radius: 1.5rem !important;
+  box-shadow: 0 12px 40px rgba(0,0,0,0.12) !important;
+  padding: 0 !important;
+  border: 1px solid rgba(0,0,0,0.04) !important;
+  background: rgba(255, 255, 255, 0.9) !important;
+  backdrop-filter: blur(12px) !important;
+}
+.premium-popup .mapboxgl-popup-tip {
+  border-top-color: rgba(255, 255, 255, 0.9) !important;
+}

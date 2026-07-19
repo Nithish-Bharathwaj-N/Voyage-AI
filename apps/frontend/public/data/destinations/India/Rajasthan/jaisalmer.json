@@ -1,0 +1,237 @@
+{
+  "id": "jaisalmer-01",
+  "slug": "jaisalmer",
+  "name": "Jaisalmer",
+  "state": "Rajasthan",
+  "country": "India",
+  "category": "Adventure",
+  "budget": "Mid-range",
+  "rating": 4.7,
+  "reviewCount": 42000,
+  "coordinates": {
+    "lat": 26.9157,
+    "lng": 70.9083
+  },
+  "altitude": 225,
+  "coverImage": "https://images.unsplash.com/photo-1519832979-6fa011b87667?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1612551037001-8aadce265e72?w=800&q=80",
+    "https://images.unsplash.com/photo-1563638407-6b7c353ca9f9?w=800&q=80"
+  ],
+  "description": "Jaisalmer — the \"Golden City\" — rises from the heart of the Thar Desert in western Rajasthan like a golden mirage. Built entirely of honey-yellow sandstone, the 12th-century fort (a living fort with 3,000 residents inside), the intricate havelis with lace-like jharokha windows, and the rolling golden sand dunes of Sam and Khuri create an otherworldly Arabian Nights atmosphere. It was a prosperous trading post on the ancient Silk Road, which explains the extraordinary wealth displayed in its carved merchant mansions.",
+  "history": "Founded in 1156 by Rawal Jaisal of the Bhati Rajput clan on Trikuta Hill, Jaisalmer became a key caravansary on the Silk Road between India and Central Asia. The city's golden age was the 12th–17th centuries when merchant families like the Patwas amassed extraordinary wealth trading in opium, textiles, and camels. The city's fortunes declined after Bombay's port replaced the overland Silk Road trade routes.",
+  "bestSeason": "November to February. Desert Safari: October–March. Avoid May–July (50°C). Desert Festival: February.",
+  "idealDuration": "3–4 days",
+  "temperature": "5°C (winter nights) to 50°C (summer)",
+  "nearestAirport": "Jaisalmer Airport (JSA) — 15 km from city (limited flights from Delhi and Jaipur)",
+  "nearestRailwayStation": "Jaisalmer Railway Station — daily trains from Delhi (11–12 hrs overnight)",
+  "nearestBusStand": "Jaisalmer Bus Stand (near Old City)",
+  "tags": [
+    "Desert",
+    "Sand Dunes",
+    "Camel Safari",
+    "Fort",
+    "Havelis",
+    "Silk Road"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 7,
+  "luxuryScore": 6,
+  "budgetScore": 6,
+  "topAttractions": [
+    {
+      "name": "Jaisalmer Fort (Sonar Quila)",
+      "description": "One of the world's largest living forts — a UNESCO tentative heritage site. Built in 1156, its 99 bastions rise 76 m from the desert plain. About 3,000 people still live inside the fort walls. Contains four royal palaces, multiple Jain temples (12th–16th century), and a maze of lanes with hotels, guesthouses, and shops. Entry: ₹50 (Indian), ₹250 (foreign). Open 9 AM–5 PM (fort museum).",
+      "location": "Trikuta Hill, city center"
+    },
+    {
+      "name": "Sam Sand Dunes & Camel Safari",
+      "description": "The most dramatic dunes in the Thar Desert — 40 km from Jaisalmer. Star-shaped dunes up to 30 m high, especially beautiful at sunset when the shadows shift and the dunes glow orange. Camel safari (₹300–800/1 hour) followed by folk music and dance at sunset, overnight camp under Milky Way stars (₹2,500–8,000 with dinner). Best experience in Rajasthan.",
+      "location": "Sam village, 40 km west of Jaisalmer"
+    },
+    {
+      "name": "Patwon Ki Haveli",
+      "description": "The largest and most elaborate haveli in Jaisalmer — a cluster of 5 interconnected mansions built by merchant Guman Chand Patwa and his sons (1800–1860). The intricate jharokha windows and carved facades are astonishing — over 60 individual windows, each different. Entry: ₹100. Open 9 AM–5 PM.",
+      "location": "Old City, Patwa Gali"
+    },
+    {
+      "name": "Khuri Sand Dunes",
+      "description": "An alternative to Sam, Khuri offers quieter, more accessible small dunes 48 km from Jaisalmer in an authentic desert village. Less crowded, more authentic camel safari experience. Folk performances in village settings. No large tourist camps — more intimate.",
+      "location": "48 km southwest of Jaisalmer"
+    },
+    {
+      "name": "Gadisar Lake",
+      "description": "A historic 14th-century man-made reservoir that once supplied the entire city's water. Beautiful ghats, temples, chattris (cenotaphs), and a gateway. Migratory birds in winter. Boating available (₹100). Particularly photogenic at sunrise and sunset when the sandstone reflects in the water.",
+      "location": "1.5 km from city center"
+    }
+  ],
+  "activities": [
+    "Overnight camel safari in Sam/Khuri dunes (₹2,500–8,000)",
+    "Sunset camel ride at Sam dunes (₹300–800)",
+    "Jeep safari in Thar Desert to ghost village of Kuldhara (₹800–1,500)",
+    "Hot air ballooning over desert (₹8,000–12,000, Nov–Feb)",
+    "Sand dune sandboarding (₹200 at Sam dunes)",
+    "Desert camping under Milky Way stars",
+    "Photography walk through old fort lanes at dawn",
+    "Haveli architectural tour with guide (₹300)"
+  ],
+  "localFood": [
+    "Dal Baati Churma (Rajasthani staple — especially good in Jaisalmer dhabas near fort)",
+    "Ker Sangri (wild desert berries cooked with dried beans — unique to Thar desert)",
+    "Mutton Laal Maas (fiery Marwari lamb curry)",
+    "Rabri (thickened sweetened milk)",
+    "Bajre ki Roti with Lahsun Chutney (pearl millet flatbread with garlic chutney — desert staple)",
+    "Ghotua Laddoo (wheat flour sweet)",
+    "Desert herbs tea and camel milk at dunes camps"
+  ],
+  "shopping": [
+    "Bandhani and Leheriya fabric (₹500–5,000)",
+    "Embroidered camel leather goods: bags, shoes, wallets",
+    "Rajasthani Meenakari silver jewelry",
+    "Spices from the old city bazaars",
+    "Wooden puppets (Kathputli)",
+    "Antique stone carvings from fort areas (though export of antiques is regulated)"
+  ],
+  "culture": "Jaisalmer is the heartland of Marwari trading culture — its havelis represent the display of merchant wealth accumulated through the Silk Road trade. The Bhati Rajput heritage is preserved in the fort. The local Langa and Manganiyar communities are hereditary Muslim musicians who have preserved the desert folk music tradition for centuries.",
+  "festivals": [
+    "Desert Festival (February — 3-day festival at Sam dunes: camel races, turban tying, gair dance, Mr. Desert competition)",
+    "Diwali at the Golden Fort (November — the fort is spectacularly lit)",
+    "Gangaur (March/April — women's festival)"
+  ],
+  "hotels": [
+    "Suryagarh (5-star, ₹15,000–40,000, best in Jaisalmer with desert setting)",
+    "Hotel Garh Jaisal (Boutique fort hotel inside the fort, ₹4,000–8,000)",
+    "Nachana Haveli (Heritage, ₹3,000–6,000)",
+    "Hotel Fifu (Budget, ₹600–1,200, near fort)",
+    "Sam Dunes Desert Camp (Deluxe tents, ₹3,500–8,000 with meals and camel safari)"
+  ],
+  "restaurants": [
+    "Saffron Restaurant (Best rooftop fort view, excellent dal baati churma, ₹400–900)",
+    "8 July Restaurant (Rooftop, ₹300–700, near Patwon Ki Haveli)",
+    "Trio Restaurant (Reliable, multi-cuisine, ₹300–700, Gandhi Chowk)",
+    "Jaisal Italy (Pizza and pasta near fort, ₹300–600)",
+    "Bhang Shop (Governent-certified bhang lassi and thandai, ₹50–150 — cultural experience)"
+  ],
+  "travelTips": [
+    "Book your desert camp 24–48 hrs in advance in peak season (Dec–Jan).",
+    "Sam dunes get crowded at sunset — Khuri dunes are quieter and more authentic.",
+    "Negotiate camel safari prices firmly — starting price is usually 2x.",
+    "Fort walls are crumbling — the UNESCO-cited heritage drainage problem means some sections are restricted.",
+    "Carry cash — very limited ATM access at Sam or Khuri dunes.",
+    "The Jain temples inside the fort are not to be missed — some of the finest carved stone in Rajasthan."
+  ],
+  "packingTips": [
+    "Full-sleeve light cotton (sun protection in desert)",
+    "Sunglasses and sun hat (mandatory)",
+    "Scarf (for dust/sand)",
+    "Warm layers (desert nights are cold Oct–Feb)",
+    "Comfortable sandals and closed shoes for fort walks"
+  ],
+  "weather": "Winter (Oct–Feb): 5–25°C days, 0–8°C nights — ideal for desert camping. Spring (Mar–Apr): 25–40°C. Summer (May–Jun): 40–50°C — avoid. Monsoon (Jul–Sep): 30–40°C, rare brief rains.",
+  "transport": "By Rail: Jaisalmer Station — Delhi Sarai Rohilla to Jaisalmer (11 hrs, ₹400–1,400). By Air: Jaisalmer Airport (Delhi 2 hrs, limited flights). By Bus: From Jodhpur (6 hrs), Jaipur (8 hrs). Within city: Cycle rickshaws, autos, jeep rentals for dune trips.",
+  "itineraries": [
+    {
+      "type": "3 Day",
+      "durationDays": 3,
+      "estimatedCost": 10000,
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "09:00 AM",
+              "activity": "Jaisalmer Fort exploration",
+              "description": "Walk the fort's lanes, visit Raj Mahal museum and Jain temples. Allow 2–3 hours.",
+              "costEstimate": 250
+            },
+            {
+              "time": "12:30 PM",
+              "activity": "Patwon Ki Haveli",
+              "description": "The most ornate merchant mansion in Rajasthan.",
+              "costEstimate": 100
+            },
+            {
+              "time": "02:30 PM",
+              "activity": "Gadisar Lake",
+              "description": "Serene reservoir with temples and cenotaphs. Boat ride.",
+              "costEstimate": 100
+            },
+            {
+              "time": "04:00 PM",
+              "activity": "Desert Heritage Museum",
+              "description": "Good introduction to Jaisalmer history and Thar Desert ecology.",
+              "costEstimate": 100
+            },
+            {
+              "time": "07:00 PM",
+              "activity": "Dinner at Saffron Restaurant",
+              "description": "Rooftop with fort view. Dal baati churma and laal maas.",
+              "costEstimate": 700
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            {
+              "time": "04:00 PM",
+              "activity": "Depart for Sam Sand Dunes",
+              "description": "Jeep to Sam (40 km). Arrive for pre-sunset golden hour.",
+              "costEstimate": 1500
+            },
+            {
+              "time": "05:30 PM",
+              "activity": "Camel Safari at sunset",
+              "description": "Ride a camel through the dunes at sunset. The golden light is extraordinary.",
+              "costEstimate": 800
+            },
+            {
+              "time": "07:00 PM",
+              "activity": "Folk music and campfire",
+              "description": "Langas and Manganiyars perform traditional desert music. Dinner at camp.",
+              "costEstimate": 3500
+            },
+            {
+              "time": "10:00 PM",
+              "activity": "Stargazing in the Thar Desert",
+              "description": "Zero light pollution — the Milky Way is clearly visible. One of India's best stargazing spots.",
+              "costEstimate": 0
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "activities": [
+            {
+              "time": "06:00 AM",
+              "activity": "Sunrise on the dunes",
+              "description": "Desert dawn — the dunes turn amber pink. Most magical time of day.",
+              "costEstimate": 0
+            },
+            {
+              "time": "09:00 AM",
+              "activity": "Return to Jaisalmer + Kuldhara ghost village",
+              "description": "Jeep stop at the abandoned 1300s village, cursed to be uninhabited.",
+              "costEstimate": 500
+            },
+            {
+              "time": "12:00 PM",
+              "activity": "Shopping in bazaars",
+              "description": "Bandhani fabric, embroidered camel leather goods, spices.",
+              "costEstimate": 1500
+            },
+            {
+              "time": "04:00 PM",
+              "activity": "Departure",
+              "description": "Evening train or bus to Jodhpur or Jaipur.",
+              "costEstimate": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

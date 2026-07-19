@@ -1,0 +1,538 @@
+{
+  "id": "leh-ladakh-01",
+  "slug": "leh-ladakh",
+  "name": "Leh Ladakh",
+  "state": "Ladakh",
+  "country": "India",
+  "category": "Adventure",
+  "budget": "Mid-range",
+  "rating": 4.9,
+  "reviewCount": 62000,
+  "coordinates": {
+    "lat": 34.1526,
+    "lng": 77.577
+  },
+  "altitude": 3524,
+  "coverImage": "https://images.unsplash.com/photo-1568454537842-d933259bb258?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1533130061792-64b345e4a833?w=800&q=80",
+    "https://images.unsplash.com/photo-1592457711765-5beff9e5dc34?w=800&q=80",
+    "https://images.unsplash.com/photo-1510432198746-4eba84ef327e?w=800&q=80",
+    "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
+  ],
+  "description": "Ladakh — the \"Land of High Passes\" — is one of the world's most extraordinary destinations, a high-altitude cold desert in the northernmost reaches of India. At 3,524 metres, the city of Leh serves as the gateway to this dramatic landscape of indigo lakes, moon-like valleys, ancient Buddhist gompas, and the world's highest motorable roads. The region straddles the Karakoram and the Great Himalaya, offering an experience of raw, awe-inspiring nature unlike anywhere else on Earth.",
+  "history": "Ladakh was an independent Buddhist kingdom for nearly a millennium, closely linked to Tibet culturally, religiously, and politically. The Namgyal dynasty ruled for centuries before the Dogra Rajputs of Jammu annexed it in 1834. After Indian independence, it became part of Jammu & Kashmir and in 2019 was made a Union Territory. It has been a strategic frontier since antiquity, positioned on ancient Silk Road routes.",
+  "bestSeason": "June to September (roads open; Pangong Lake accessible). Winter (Dec–Feb) for frozen Zanskar river trekking (Chadar Trek).",
+  "idealDuration": "7–10 days",
+  "temperature": "−20°C (winter) to 25°C (summer)",
+  "nearestAirport": "Kushok Bakula Rimpochee Airport, Leh (IXL) — direct flights from Delhi, Mumbai, Chandigarh, Srinagar",
+  "nearestRailwayStation": "Jammu Tawi (700 km) — no rail access to Leh currently",
+  "nearestBusStand": "Leh Main Bus Stand, near Old Town",
+  "tags": [
+    "High Altitude",
+    "Monasteries",
+    "Lakes",
+    "Motorcycle",
+    "Buddhism",
+    "Desert"
+  ],
+  "familyFriendly": false,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 10,
+  "luxuryScore": 5,
+  "budgetScore": 5,
+  "topAttractions": [
+    {
+      "name": "Pangong Tso Lake",
+      "description": "A 134 km long brackish lake at 4,350 m elevation, famous worldwide for its electrifying blue-turquoise color that shifts through the day. Extends from India into China. Made famous by the film \"3 Idiots\". Overnight camping allowed (with permit). Best: July–September.",
+      "location": "150 km east of Leh (5.5 hrs drive)"
+    },
+    {
+      "name": "Nubra Valley & Hunder Sand Dunes",
+      "description": "A high-altitude cold desert valley north of Leh, accessible via Khardung La. The white sand dunes of Hunder host double-humped Bactrian camels — an iconic Ladakh experience. Diskit Monastery houses a 32-metre Maitreya Buddha statue. Inner Line Permit required.",
+      "location": "150 km north of Leh (Khardung La route)"
+    },
+    {
+      "name": "Khardung La Pass",
+      "description": "At 5,359 m, one of the world's highest motorable roads. The pass connects Leh to Nubra Valley. A hot chai at the ITBP refreshment stall at the top is legendary. Temperature can drop to −10°C even in summer.",
+      "location": "39 km north of Leh"
+    },
+    {
+      "name": "Thiksey Monastery (Gompa)",
+      "description": "A magnificent 12-storey Tibetan Buddhist monastery resembling the Potala Palace in Lhasa. Houses a 15-metre Maitreya Buddha statue. Witnessing the 6 AM prayer ceremony with monks chanting and blowing dungchens (horns) is transcendent. Entry: ₹50.",
+      "location": "19 km from Leh"
+    },
+    {
+      "name": "Leh Palace",
+      "description": "A nine-storey 17th-century royal palace, once the residence of the Namgyal dynasty. Built by King Sengge Namgyal, it offers sweeping views of Leh town, the Indus Valley, and the Stok Kangri range. Entry: ₹15 (ASI protected monument). Open 7 AM–7 PM.",
+      "location": "Old Leh, above the main bazaar"
+    },
+    {
+      "name": "Hemis Monastery",
+      "description": "Ladakh's largest and most affluent monastery (Drukpa Kagyu order, founded 1630). Famous for the spectacular Hemis Festival in June/July. Houses one of India's largest thangkas (12 m). Entry: ₹100.",
+      "location": "45 km from Leh"
+    },
+    {
+      "name": "Magnetic Hill",
+      "description": "An optical illusion where vehicles appear to roll uphill against gravity due to the surrounding terrain. A landmark on the Leh–Kargil highway. The \"anti-gravity\" effect makes cars appear to roll uphill when in neutral.",
+      "location": "30 km from Leh on NH1"
+    },
+    {
+      "name": "Shanti Stupa",
+      "description": "A white-domed Buddhist stupa built by Japanese Buddhists in 1985 at 4,267 m. Offers the best 360-degree panoramic view of Leh valley and surrounding peaks. 500 steps to the top (or drive via road). Sunset here is unmissable.",
+      "location": "Changspa, Leh — 4 km from city center"
+    },
+    {
+      "name": "Hall of Fame Museum",
+      "description": "An evocative museum maintained by the Indian Army commemorating soldiers who died in the 1947, 1965, and 1999 wars. Houses weapons, maps, photos, and the most comprehensive exhibit on the Kargil War. Entry: ₹50. Must-visit for history buffs.",
+      "location": "4 km from Leh on Srinagar highway"
+    }
+  ],
+  "activities": [
+    "Motorcycle expedition on Manali–Leh Highway (460 km, 2 days)",
+    "Chadar Trek on frozen Zanskar River (January–February)",
+    "Markha Valley Trek (5–6 days)",
+    "White-water rafting on Zanskar River (Grade III–IV)",
+    "Camel safari on Hunder Sand Dunes",
+    "Mountain biking Khardung La to Leh",
+    "Stargazing at Pangong Tso (zero light pollution)",
+    "Archery tournament (Ladakhi traditional sport)"
+  ],
+  "localFood": [
+    "Thukpa (hearty noodle soup with vegetables or meat — essential for cold evenings)",
+    "Momos (steamed/fried dumplings — beef, chicken, veg)",
+    "Skyu (thick pasta-like stew with root vegetables — traditional Ladakhi)",
+    "Tingmo (fluffy steamed bread served with stew)",
+    "Chhurpi (hard aged yak cheese — very local)",
+    "Butter Tea (Po Cha — salty yak butter tea, an acquired taste)",
+    "Chang (local barley beer, light and refreshing)",
+    "Paba (roasted barley flour dish)"
+  ],
+  "shopping": [
+    "Pashmina shawls — buy at Government Emporium for certified quality (₹3,000–25,000)",
+    "Thangka paintings from Tibetan artisans at Changspa (₹500–50,000)",
+    "Turquoise and coral jewelry at Main Bazaar (₹200–5,000)",
+    "Prayer wheels and singing bowls",
+    "Ladakhi hand-woven woolen rugs",
+    "Dried apricots and sea buckthorn jam from Nubra Valley"
+  ],
+  "culture": "Ladakhi culture is an island of Tibetan Buddhist civilization, preserved in its ancient gompas, colourful prayer flags, mani walls, and the rhythmic chants of monks. The Ladakhi people — Dards, Mons, and Tibetans — maintain traditions through masked Cham dances, polo, archery, and festivals. The landscape itself is considered sacred, with every mountain pass marked by prayer flags.",
+  "festivals": [
+    "Hemis Festival (June/July — masked Cham dances, thangka display; Ladakh's biggest)",
+    "Losar (Ladakhi New Year — Dec/Jan, based on lunar calendar)",
+    "Ladakh Festival (September — cultural showcase by J&K Tourism)",
+    "Dosmoche (February — Leh town ritual, exorcism ceremony)",
+    "Sindhu Darshan (June — worship of the Indus River)"
+  ],
+  "hotels": [
+    "The Grand Dragon Ladakh (4-star, ₹8,000–18,000, best in Leh)",
+    "Stok Palace Heritage Hotel (Heritage, ₹9,000–20,000, former royal palace)",
+    "Shakti 360° Leti (Luxury camp, ₹35,000+/night, all-inclusive)",
+    "The Zen Ladakh (3-star, ₹4,000–7,000, Changspa area)",
+    "Hotel Singge Palace (3-star, ₹3,500–6,500, near Old Town)",
+    "Hotel Omasila (Budget, ₹1,200–2,500, near main bazaar)",
+    "Mughal Sarai Guest House (Budget, ₹800–1,500, basic but authentic)"
+  ],
+  "restaurants": [
+    "Bon Appétit Restaurant (Multi-cuisine, best coffee in Leh, ₹400–1,200, Changspa)",
+    "Tibetan Kitchen (Authentic Tibetan food, ₹200–600, Main Bazaar)",
+    "Gesmo Restaurant (Local Ladakhi food, ₹200–500, Fort Road)",
+    "Lamayuru Restaurant (Scenic terrace, ₹300–700, Changspa)",
+    "Chopsticks Restaurant (Chinese-Tibetan, ₹300–800, Main Bazaar)",
+    "Penguin Garden (Good for breakfast, ₹150–400, Fort Road)"
+  ],
+  "travelTips": [
+    "Acclimatize strictly for 24–48 hours upon arrival — no trekking, light walks only. Drink 4–5 litres of water daily.",
+    "Carry Inner Line Permits for Pangong, Nubra, and Dah-Hanu — available from DC office Leh (₹400 per restricted area per person).",
+    "BSNL is the only network that works in remote areas. Buy a BSNL SIM at Leh airport.",
+    "Petrol is subsidized but pumps can run out. Fill up in Leh before any remote drive.",
+    "Altitude Sickness (AMS): If severe headache, nausea, or confusion develops — descend immediately to SNM Hospital (24/7).",
+    "Carry cash (₹10,000+); very few ATMs work reliably outside Leh town.",
+    "The Manali–Leh Highway (NH3) is open mid-June to mid-October only.",
+    "Book shared jeeps to Pangong (₹600/seat) from the Leh taxi stand one day before."
+  ],
+  "packingTips": [
+    "Thermal inners and fleece (essential, even in July)",
+    "Heavy down jacket (needed at Khardung La and Pangong)",
+    "Polarized sunglasses (UV protection at altitude is critical)",
+    "Altitude sickness tablets — Diamox 250mg (consult doctor; take 24 hrs before arrival)",
+    "Water purification tablets or LifeStraw",
+    "Portable oxygen canister (for emergencies)",
+    "High SPF sunscreen (SPF 60+) and lip balm",
+    "Power bank (2+ charges — electricity is unreliable)",
+    "Trekking poles and ankle-supporting boots"
+  ],
+  "weather": "Summer (June–Sep): 5–25°C in Leh, coldest nights 0–5°C. Clear skies, best for all activities. Monsoon barely affects Leh (rain shadow). Autumn (Oct–Nov): −5 to 15°C, increasingly cold but beautiful colors. Winter (Dec–Mar): −20 to −5°C, roads blocked, only Leh accessible by air. Chadar Trek window: Jan–Feb. Spring (Apr–May): Still very cold, Manali road begins opening in late May.",
+  "transport": "By Air: Direct daily flights from Delhi (1 hr, ₹4,000–15,000), Mumbai, Chandigarh, Srinagar to IXL Leh. By Road: Manali–Leh Highway (460 km, 2 days — opens mid-June), Srinagar–Leh Highway (450 km, 1.5 days — opens May). HRTC buses Manali–Leh ₹800. Within Leh: Shared jeeps (₹50–200), private cabs (₹1,500–3,000/day), motorcycle/bicycle rentals. Leh Main Taxi Stand near the bazaar for all routes.",
+  "itineraries": [
+    {
+      "type": "5 Day",
+      "durationDays": 5,
+      "estimatedCost": 28000,
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "08:00 AM",
+              "activity": "Arrive at Kushok Bakula Airport",
+              "description": "Land in Leh. Transfer to hotel. CRITICAL: Do not rush. Altitude 3,524 m — rest for the entire day.",
+              "costEstimate": 500
+            },
+            {
+              "time": "11:00 AM",
+              "activity": "Hotel check-in & acclimatization",
+              "description": "Drink fluids, rest, avoid exertion. Light lunch at hotel.",
+              "costEstimate": 300
+            },
+            {
+              "time": "03:00 PM",
+              "activity": "Gentle walk to Leh Main Bazaar",
+              "description": "Very easy stroll (not climbing). Buy a BSNL SIM. Get acquainted with the town.",
+              "costEstimate": 200
+            },
+            {
+              "time": "05:30 PM",
+              "activity": "Shanti Stupa Sunset (drive up)",
+              "description": "Take a cab to the stupa (₹200). Stroll around the top. Magnificent sunset views over Leh valley.",
+              "costEstimate": 250
+            },
+            {
+              "time": "07:30 PM",
+              "activity": "Dinner at Tibetan Kitchen",
+              "description": "Try thukpa, momos, and butter tea. Familiarize your palate with Ladakhi flavors.",
+              "costEstimate": 500
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            {
+              "time": "09:00 AM",
+              "activity": "Leh Palace & Old Town",
+              "description": "9-storey royal palace. Hire a guide for ₹200. Climb to the roof for best views. 2 hours.",
+              "costEstimate": 215
+            },
+            {
+              "time": "11:30 AM",
+              "activity": "Thiksey Monastery",
+              "description": "19 km drive. Climb the steps for panoramic views. See the 15m Maitreya Buddha. 1.5 hours.",
+              "costEstimate": 650
+            },
+            {
+              "time": "01:30 PM",
+              "activity": "Lunch at Thiksey dhaba",
+              "description": "Simple dal-roti meal at the monastery dhaba.",
+              "costEstimate": 200
+            },
+            {
+              "time": "03:00 PM",
+              "activity": "Hemis Monastery",
+              "description": "45 km from Leh. Largest and wealthiest gompa in Ladakh. 1.5 hours.",
+              "costEstimate": 700
+            },
+            {
+              "time": "05:00 PM",
+              "activity": "Rancho School (3 Idiots filming location)",
+              "description": "Druk White Lotus School near Shey — fans of the film will recognize it immediately.",
+              "costEstimate": 100
+            },
+            {
+              "time": "07:30 PM",
+              "activity": "Dinner at Bon Appétit",
+              "description": "Best restaurant in Leh. Try the baked mushroom pasta and apple pie.",
+              "costEstimate": 900
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "activities": [
+            {
+              "time": "06:00 AM",
+              "activity": "Depart for Pangong Tso Lake",
+              "description": "Hire a jeep (₹3,500 shared or ₹7,000 private). Route via Chang La Pass (5,360 m). 5 hours.",
+              "costEstimate": 3500
+            },
+            {
+              "time": "11:30 AM",
+              "activity": "Arrive at Pangong Tso (4,350 m)",
+              "description": "First view of the impossible blue lake. Photography, acclimatization walk. Lunch at campsite.",
+              "costEstimate": 400
+            },
+            {
+              "time": "03:00 PM",
+              "activity": "Lakeside walk & photography",
+              "description": "The lake changes color from turquoise to indigo. Best photography is 3 PM onwards.",
+              "costEstimate": 0
+            },
+            {
+              "time": "06:30 PM",
+              "activity": "Sunset at Pangong",
+              "description": "The mountains reflect in the lake at golden hour — unforgettable.",
+              "costEstimate": 0
+            },
+            {
+              "time": "08:00 PM",
+              "activity": "Dinner and overnight at Lake Camp",
+              "description": "Cozy camp tents by the lake. Stargazing in zero-light-pollution skies.",
+              "costEstimate": 2500
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "activities": [
+            {
+              "time": "05:30 AM",
+              "activity": "Sunrise at Pangong Tso",
+              "description": "The most spectacular sunrise in India. The lake glows copper-gold. Do not miss this.",
+              "costEstimate": 0
+            },
+            {
+              "time": "08:00 AM",
+              "activity": "Return to Leh via Chang La",
+              "description": "Stop at Chang La for a photo. Hot chai from the ITBP kiosk at the top.",
+              "costEstimate": 50
+            },
+            {
+              "time": "01:00 PM",
+              "activity": "Magnetic Hill & Pathar Sahib Gurudwara",
+              "description": "Stop on Srinagar highway. Watch cars roll uphill at Magnetic Hill. Visit the historic gurudwara.",
+              "costEstimate": 100
+            },
+            {
+              "time": "02:30 PM",
+              "activity": "Sangam Confluence",
+              "description": "Where the blue Indus meets the green Zanskar River. Stunning color contrast. Photo stop.",
+              "costEstimate": 0
+            },
+            {
+              "time": "04:00 PM",
+              "activity": "Hall of Fame Museum",
+              "description": "Comprehensive Army museum on India's wars. Kargil War exhibit is particularly moving.",
+              "costEstimate": 50
+            },
+            {
+              "time": "07:00 PM",
+              "activity": "Dinner at Gesmo Restaurant",
+              "description": "Try traditional Ladakhi skyu and chhurpi dishes.",
+              "costEstimate": 500
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "activities": [
+            {
+              "time": "07:00 AM",
+              "activity": "Nubra Valley (if permit ready)",
+              "description": "Cross Khardung La (5,359 m) to Nubra. 3.5 hours. Alternatively, visit Stok Palace.",
+              "costEstimate": 4000
+            },
+            {
+              "time": "11:00 AM",
+              "activity": "Hunder Sand Dunes & Bactrian Camel ride",
+              "description": "Ride the rare double-humped Bactrian camels through the white sand dunes. ₹300/30 min.",
+              "costEstimate": 600
+            },
+            {
+              "time": "02:00 PM",
+              "activity": "Diskit Monastery & Giant Maitreya",
+              "description": "The 32m Buddha looks out over the Nubra Valley from the hilltop gompa.",
+              "costEstimate": 100
+            },
+            {
+              "time": "07:00 PM",
+              "activity": "Return to Leh + Farewell dinner",
+              "description": "Drive back via Khardung La. Celebratory dinner at Bon Appétit.",
+              "costEstimate": 1000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "7 Day",
+      "durationDays": 7,
+      "estimatedCost": 45000,
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "08:00 AM",
+              "activity": "Arrive Leh, acclimatize",
+              "description": "Full rest day. Short evening stroll to bazaar.",
+              "costEstimate": 500
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            {
+              "time": "09:00 AM",
+              "activity": "Leh City Tour",
+              "description": "Leh Palace, Shanti Stupa, Namgyal Tsemo Gompa, Hall of Fame.",
+              "costEstimate": 800
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "activities": [
+            {
+              "time": "06:00 AM",
+              "activity": "Pangong Tso overnight",
+              "description": "Drive via Chang La, stay at lake camp. Sunset and sunrise at the lake.",
+              "costEstimate": 6000
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "activities": [
+            {
+              "time": "08:00 AM",
+              "activity": "Return + Hemis & Thiksey",
+              "description": "Return from Pangong, visit monasteries on the way back.",
+              "costEstimate": 1500
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "activities": [
+            {
+              "time": "07:00 AM",
+              "activity": "Nubra Valley overnight",
+              "description": "Cross Khardung La. Camel safari, Diskit Monastery, overnight at Hunder camp.",
+              "costEstimate": 8000
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "activities": [
+            {
+              "time": "08:00 AM",
+              "activity": "Return + Zanskar Rafting",
+              "description": "Return from Nubra. Afternoon white-water rafting on the Zanskar River near Nimoo.",
+              "costEstimate": 3000
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "activities": [
+            {
+              "time": "09:00 AM",
+              "activity": "Markha Valley day hike start + Departure",
+              "description": "Short hike to Hemis village. Afternoon shopping, evening flight.",
+              "costEstimate": 2000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Adventure",
+      "durationDays": 8,
+      "estimatedCost": 35000,
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "08:00 AM",
+              "activity": "Arrive & acclimatize",
+              "description": "Rest day. Light evening walk.",
+              "costEstimate": 0
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            {
+              "time": "09:00 AM",
+              "activity": "Mountain biking reconnoiter",
+              "description": "Leh to Shey route cycling (18 km). Test altitude fitness.",
+              "costEstimate": 600
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "activities": [
+            {
+              "time": "06:00 AM",
+              "activity": "Zanskar River Rafting",
+              "description": "27 km Grade III–IV rapids from Chilling to Nimoo. Full day of white-water adventure.",
+              "costEstimate": 4000
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "activities": [
+            {
+              "time": "05:00 AM",
+              "activity": "Markha Valley Trek Day 1",
+              "description": "Drive to Chilling. Cross Zanskar River, trek to Skiu campsite. 12 km.",
+              "costEstimate": 2500
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "activities": [
+            {
+              "time": "07:00 AM",
+              "activity": "Markha Valley Trek Day 2",
+              "description": "Skiu to Markha village via ancient ruins. 14 km.",
+              "costEstimate": 0
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "activities": [
+            {
+              "time": "07:00 AM",
+              "activity": "Markha Valley Trek Day 3",
+              "description": "Markha to Thachungtse. Kang Yatse peak views. 14 km.",
+              "costEstimate": 0
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "activities": [
+            {
+              "time": "06:00 AM",
+              "activity": "Kongmaru La (5,160 m)",
+              "description": "Summit of the Markha trek. Panoramic Ladakh views. Descend to Nimaling then Chogdo.",
+              "costEstimate": 0
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "activities": [
+            {
+              "time": "09:00 AM",
+              "activity": "Return to Leh + Pangong quick visit",
+              "description": "Drive via Hemis to Leh. Brief Pangong stop. Evening flight departure.",
+              "costEstimate": 4000
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

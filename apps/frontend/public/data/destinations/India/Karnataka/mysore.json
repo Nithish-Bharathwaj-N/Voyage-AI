@@ -1,0 +1,220 @@
+{
+  "id": "mysore-01",
+  "slug": "mysore",
+  "name": "Mysore",
+  "state": "Karnataka",
+  "country": "India",
+  "category": "Culture",
+  "budget": "Mid-range",
+  "rating": 4.6,
+  "reviewCount": 65000,
+  "coordinates": {
+    "lat": 12.2958,
+    "lng": 76.6394
+  },
+  "altitude": 763,
+  "coverImage": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1566837945700-30057527ade0?w=800&q=80"
+  ],
+  "description": "Mysore (officially Mysuru) is Karnataka's cultural capital and India's most celebrated royal city, home to the magnificent Mysore Palace — one of the largest palaces in India and the second most visited monument in India after the Taj Mahal. The city is renowned for its silk, sandalwood, incense, ivory, and the spectacular Dasara festival when the palace is illuminated with 97,000 light bulbs. Clean, well-planned, and manageable in size, Mysore offers a perfect combination of royal history, cultural depth, and modern amenities.",
+  "history": "Mysore was the capital of the Wadiyar dynasty from 1399. In 1761 Hyder Ali overthrew the Wadiyars and his son Tipu Sultan (the Tiger of Mysore) resisted British expansion until his death at the Battle of Seringapatam in 1799. The British restored the Wadiyars to the throne, and they built the current Mysore Palace (1912) after the original was destroyed by fire. The Wadiyars were known as enlightened rulers — they introduced electricity, the University of Mysore (1916), and various institutions.",
+  "bestSeason": "October to March. Dasara (September/October) is the best time — 10 days of festivities.",
+  "idealDuration": "2-3 days",
+  "temperature": "14°C (winter) to 35°C (summer)",
+  "nearestAirport": "Mysore Airport (MYQ) 12km (limited flights); Bengaluru Kempegowda (BLR) 145km",
+  "nearestRailwayStation": "Mysore Junction (MYS) — trains from Bengaluru (2 hrs Shatabdi), Chennai",
+  "nearestBusStand": "Mysore Central Bus Stand (KSRTC, near town)",
+  "tags": [
+    "Palace",
+    "Royalty",
+    "Silk",
+    "Sandalwood",
+    "Dasara",
+    "Heritage"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 3,
+  "luxuryScore": 7,
+  "budgetScore": 7,
+  "topAttractions": [
+    {
+      "name": "Mysore Palace (Amba Vilas)",
+      "description": "India's second most visited monument — a colossal 14-story Indo-Saracenic palace built in 1912 by Wadiyar ruler Krishna Raja Wadiyar IV. The Durbar Hall, golden throne, and stained-glass ceilings are extraordinary. Illuminated with 97,000 light bulbs every Sunday (7-7:45PM) and during Dasara — a sight of extraordinary beauty. Entry: ₹70 (Indian), ₹500 (foreign). Open 10AM-5:30PM.",
+      "location": "Mysore city center"
+    },
+    {
+      "name": "Chamundi Hill & Temple",
+      "description": "A 1062m hill 12km from the city, crowned by the Chamundeshwari Temple (1000-year-old, dedicated to the goddess who killed the buffalo demon Mahishasura, giving Mysore its name). 1,000 stone steps to the top (or drive). Magnificent views of Mysore city and the Deccan plateau. 5m Nandi bull statue midway on the steps.",
+      "location": "12km from Mysore city center"
+    },
+    {
+      "name": "Brindavan Gardens & KRS Dam",
+      "description": "India's most famous musical fountain garden — 60 acres of terraced Mughal-style gardens at the base of the Krishnaraja Sagara (KRS) Dam, 19km from Mysore. The illuminated musical fountain show (6:30-8PM, ₹20-25) is spectacular — highly recommended.",
+      "location": "19km from Mysore, Mandya"
+    },
+    {
+      "name": "Mysore Zoo (Sri Chamarajendra Zoological Gardens)",
+      "description": "One of India's oldest (1892) and best-maintained zoos — 157 species on 245 acres, including white tigers, gorillas, and Komodo dragons. Very well-maintained. Entry: ₹80 (Indian). Open 8:30AM-5:30PM, closed Tuesdays.",
+      "location": "Adjacent to Mysore Palace"
+    },
+    {
+      "name": "Devaraja Market",
+      "description": "A vibrant 18th-century market selling Mysore's iconic products: jasmine garlands, Mysore silk sarees (₹1000-50,000), sandalwood carvings, traditional agarbatti (incense), and fresh produce. One of South India's most photogenic markets. Open 8AM-8PM.",
+      "location": "Sayaji Rao Road, near Palace"
+    },
+    {
+      "name": "St. Philomena's Church",
+      "description": "A towering Neo-Gothic Catholic church (1936) modeled on the Cologne Cathedral, with twin 54m spires. The cathedral's interior stained glass and the 100-year-old crypt are stunning. Open daily, free entry.",
+      "location": "Ashoka Road, Mysore"
+    }
+  ],
+  "activities": [
+    "Mysore Palace night illumination (Sunday 7-7:45PM — free from outside)",
+    "Brindavan Gardens musical fountain (₹20-25, evening)",
+    "Silk weaving center visit (Cauvery Silk Factory, government-run, Mananthody Road)",
+    "Sandalwood products shopping (Government Sandalwood Oil Factory)",
+    "Day trip to Srirangapatna (16km, Tipu Sultan's capital, ₹1000 auto return)",
+    "Mysore cooking class (₹1500-2500, learn Mysore Pak making)",
+    "Chamundi Hill trek (1000 steps)",
+    "Dasara procession (October — if visiting)"
+  ],
+  "localFood": [
+    "Mysore Pak (the dense, ghee-rich sweet created in the Mysore Palace royal kitchen in 1935 — buy at Guru Sweet Mart or Sri Rama Sweet Mart)",
+    "Mysore Masala Dosa (a spicier version of the dosa with red chutney inside, different from Udupi dosa)",
+    "Idli-Vada-Sambar (South Indian staple at any local darshini restaurant)",
+    "Bisi Bele Bath (rice-lentil preparation)",
+    "Mysore Pak at palace-area sweet shops (₹30-60 per piece)",
+    "Mysore Coffee (famous filter coffee)"
+  ],
+  "shopping": [
+    "Mysore Silk (Cauvery Handicrafts Emporium and private showrooms — ₹1000-50,000 for sarees)",
+    "Sandalwood products (Government Sandalwood Oil Factory: soaps, oils, carvings — ₹100-5000)",
+    "Agarbatti (sandalwood incense, Mysore is India's incense capital)",
+    "Rosewood and sandalwood carvings",
+    "Mysore Pak and local sweets to take home"
+  ],
+  "culture": "Mysore is the cultural capital of Karnataka — the birthplace of Karnataka Sangita (Carnatic classical music), the saree weaving tradition, and Mysore style of painting. The Dasara festival here is one of India's grandest royal celebrations — the Maharaja of Mysore still leads the procession on the royal elephant (Arjuna) from the palace to the Bannimantap ground.",
+  "festivals": [
+    "Dasara / Navarathri (September/October — 10 days, palace illuminations, elephant procession, cultural programs — the biggest event in Karnataka)",
+    "Vairamudi Festival (at Cheluvanarayana Swamy Temple, Melkote, 52km — March/April)",
+    "Mysore Utsav (January — classical music and dance festival at Palace)"
+  ],
+  "hotels": [
+    "Lalitha Mahal Palace Hotel (Heritage 5-star, ₹6000-15000 — former Viceroy's Guest House on a hilltop)",
+    "The Windflower Resort & Spa (4-star, ₹5000-9000)",
+    "Hotel Radisson Blu (4-star, ₹4000-8000)",
+    "Hotel Indra Bhavan (Budget, ₹1500-3000, near palace)",
+    "KSTDC Hotel Mayura Hoysala (Government, ₹1200-2500)"
+  ],
+  "restaurants": [
+    "Hotel RRR (Mysore thali and South Indian meals, ₹150-400, Gandhi Square)",
+    "Vinayaka Mylari (Best Mysore masala dosa, ₹50-150, Nazarbad)",
+    "The Green Hotel Restaurant (Multi-cuisine, sustainable, ₹400-900)",
+    "Hotel Dasaprakash (South Indian veg, ₹200-500)",
+    "Hotel Hanumanthu Mane (Local darshini, ₹50-200)"
+  ],
+  "travelTips": [
+    "Visit the palace Sunday evening for the free illumination (97,000 bulbs) — extraordinary.",
+    "Book train from Bengaluru 2-3 days in advance — Shatabdi sells out quickly.",
+    "Dasara week (September/October): Mysore fills up completely — book hotels 2-3 months ahead.",
+    "Government Cauvery Emporium silk is certified quality — private showrooms often show inferior Bangalore silk as Mysore silk.",
+    "Sandalwood Oil Factory visit is free and worthwhile — the factory has operated since 1916."
+  ],
+  "packingTips": [
+    "Light cotton (warm city)",
+    "Comfortable walking shoes (palace has lots of walking)",
+    "Modest clothing for temple (Chamundi)",
+    "Camera (palace photography prohibited inside but allowed outside)"
+  ],
+  "weather": "Winter (Nov-Feb): 14-28°C, pleasant. Spring (Mar-May): 22-35°C. Monsoon (Jun-Sep): 20-28°C, moderate rain. Autumn (Oct): 22-30°C, Dasara season.",
+  "transport": "By Rail: Mysore Junction — Shatabdi Express from Bengaluru (2 hrs, ₹350-700). By Bus: KSRTC from Bengaluru (3 hrs, ₹150-300). By Air: Mysore Airport (12km, limited). Within Mysore: KSRTC city buses (₹10-20), autos (₹30-200), cycle rickshaws near palace, Ola/Uber.",
+  "itineraries": [
+    {
+      "type": "2 Day",
+      "durationDays": 2,
+      "estimatedCost": 5000,
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "09:30 AM",
+              "activity": "Mysore Palace morning visit",
+              "description": "Explore the palace with audio guide. Less crowded in the morning.",
+              "costEstimate": 70
+            },
+            {
+              "time": "12:30 PM",
+              "activity": "Devaraja Market",
+              "description": "Jasmine, silk, sandalwood shopping. Photogenic and fragrant.",
+              "costEstimate": 500
+            },
+            {
+              "time": "02:00 PM",
+              "activity": "Lunch at Hotel RRR",
+              "description": "Full Mysore thali with rasam, sambar, 5 vegetables.",
+              "costEstimate": 200
+            },
+            {
+              "time": "04:00 PM",
+              "activity": "Mysore Zoo",
+              "description": "One of India's best zoos. 157 species.",
+              "costEstimate": 80
+            },
+            {
+              "time": "07:00 PM",
+              "activity": "Palace illumination (Sunday)",
+              "description": "5000 watts of brilliance — best viewed from Jayalakshmi Vilas square.",
+              "costEstimate": 0
+            },
+            {
+              "time": "08:00 PM",
+              "activity": "Dinner at The Green Hotel",
+              "description": "In a heritage building with a garden restaurant.",
+              "costEstimate": 600
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            {
+              "time": "07:00 AM",
+              "activity": "Chamundi Hill (1000 steps)",
+              "description": "Trek up for the goddess temple and Mysore city views. Sunrise is stunning.",
+              "costEstimate": 0
+            },
+            {
+              "time": "10:00 AM",
+              "activity": "Sandalwood Oil Factory + Government Silk Weaving",
+              "description": "See sandalwood products made, buy incense and oil directly.",
+              "costEstimate": 500
+            },
+            {
+              "time": "01:00 PM",
+              "activity": "Lunch at Vinayaka Mylari",
+              "description": "Best Mysore masala dosa in the world at this tiny, packed eatery.",
+              "costEstimate": 100
+            },
+            {
+              "time": "02:30 PM",
+              "activity": "Brindavan Gardens (19km)",
+              "description": "Drive to KRS Dam gardens for the evening musical fountain show.",
+              "costEstimate": 300
+            },
+            {
+              "time": "07:00 PM",
+              "activity": "Musical Fountain Show",
+              "description": "Illuminated Brindavan Gardens with musical fountains. Book dinner at garden restaurant.",
+              "costEstimate": 200
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

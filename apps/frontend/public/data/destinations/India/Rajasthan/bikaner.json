@@ -1,0 +1,224 @@
+{
+  "id": "bikaner-01",
+  "slug": "bikaner",
+  "name": "Bikaner",
+  "state": "Rajasthan",
+  "country": "India",
+  "category": "Popular",
+  "budget": "Mid-range",
+  "rating": 4.5,
+  "reviewCount": 7100,
+  "coordinates": {
+    "lat": 22.1,
+    "lng": 79.1
+  },
+  "altitude": 500,
+  "coverImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1524492412937-b28074a5d7da",
+    "https://images.unsplash.com/photo-1514222134-b57c48ce6c64",
+    "https://images.unsplash.com/photo-1506461883276-594c40b8a4f8"
+  ],
+  "description": "Bikaner is a magnificent destination in Rajasthan, India. Known for its remarkable blend of history, culture, and natural beauty. Visitors flock here to experience its unique atmosphere, vibrant local markets, and iconic landmarks. Whether you are seeking spiritual peace, thrilling adventures, or simply a relaxing holiday, Bikaner offers a memorable experience that captures the true essence of Indian heritage. The city's charm lies in its timeless appeal and warm hospitality.",
+  "history": "Bikaner boasts a rich history spanning several centuries, serving as a prominent center for trade, culture, and power under various dynasties.",
+  "bestSeason": "October to March",
+  "idealDuration": "2-4 Days",
+  "temperature": "15°C to 30°C",
+  "nearestAirport": "Local Airport (15km)",
+  "nearestRailwayStation": "Bikaner Junction",
+  "nearestBusStand": "Bikaner Central Bus Stand",
+  "tags": [
+    "Desert",
+    "Forts",
+    "Bhujia",
+    "Camels"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 5,
+  "luxuryScore": 6,
+  "budgetScore": 7,
+  "topAttractions": [
+    {
+      "name": "Junagarh Fort",
+      "description": "One of the finest forts in Rajasthan (1593 CE, built by Raja Rai Singh), never conquered despite multiple attacks. 37 palaces, temples, and pavilions inside the 5.28-acre complex — Anup Mahal (red sandstone with gold filigree), Phool Mahal, Badal Mahal, and the Karan Mahal. The Indian Air Force museum section has a vintage WWII biplane. Entry: ₹100 (Indian), ₹500 (foreign).",
+      "location": "Central Bikaner"
+    },
+    {
+      "name": "Karni Mata Temple (Rat Temple)",
+      "description": "A revered temple 30km south at Deshnok dedicated to Karni Mata (a 15th-century mystic). Over 25,000 rats (kabas) live here and are considered sacred — believed to be reincarnated devotees awaiting rebirth as humans. White rats are especially auspicious. Pilgrims walk barefoot on rat-infested floors. Entry: ₹10 (Indian), ₹50 (foreign, without camera).",
+      "location": "Deshnok, 30km from Bikaner"
+    },
+    {
+      "name": "Lalgarh Palace",
+      "description": "A magnificent Indo-Saracenic palace complex built by Maharaja Ganga Singh in 1902 using local pink sandstone and Belgian glass. Now partly a heritage hotel (Laxmi Niwas Hotel), partly the Sadul Museum with royal portraits, hunting trophies, and vintage photographs.",
+      "location": "Northern Bikaner"
+    },
+    {
+      "name": "National Research Centre on Camel",
+      "description": "India's only camel research center, 8km from Bikaner — home to 300+ camels of different breeds including the Bikaneri breed (best for carrying loads). Camel rides, camel milk tasting (₹30/glass, claimed to have medicinal properties). A unique and educational visit.",
+      "location": "8km from Bikaner, Jorbeer"
+    },
+    {
+      "name": "Bikaneri Bhujia & Food Trail",
+      "description": "Bikaner is the birthplace of Bhujia namkeen — crispy spiced moth bean noodles that became a national snack. Original Haldiram's started here. The Kote Gate area has dozens of competing bhujia manufacturers. Visit the old city bhujia markets and buy directly from traditional makers (₹150-500/kg, far better than packaged).",
+      "location": "Kote Gate area, old city"
+    },
+    {
+      "name": "Gajner Palace & Gajner Wildlife Sanctuary",
+      "description": "A 32km drive from Bikaner brings you to this former Maharaja of Bikaner hunting lodge (1884) on the shores of Gajner Lake — now a heritage hotel. The Gajner Wildlife Sanctuary has blackbuck, chinkara, and wild boar. The lake attracts imperial sandgrouse (thousands in winter) and flamingos.",
+      "location": "32km from Bikaner on NH15"
+    }
+  ],
+  "activities": [
+    {
+      "name": "City Sightseeing Tour",
+      "price": "INR 500"
+    },
+    {
+      "name": "Heritage Walk",
+      "price": "INR 300"
+    },
+    {
+      "name": "Local Market Shopping",
+      "price": "Variable"
+    },
+    {
+      "name": "Food Tasting Trail",
+      "price": "INR 800"
+    },
+    {
+      "name": "Cultural Evening Show",
+      "price": "INR 400"
+    },
+    {
+      "name": "Museum Visit",
+      "price": "INR 50"
+    },
+    {
+      "name": "Sunset Viewpoint",
+      "price": "Free"
+    },
+    {
+      "name": "Nature Trek/Walk",
+      "price": "Free"
+    }
+  ],
+  "localFood": [
+    "Bikaneri Bhujia",
+    "Rasgulla",
+    "Kachori",
+    "Local Sweets",
+    "Street Food Chaat",
+    "Traditional Thali"
+  ],
+  "shopping": [
+    "Main Bazaar",
+    "Handicraft Emporium",
+    "Spice Market",
+    "Local Artisans Street",
+    "Textile Market"
+  ],
+  "culture": "The culture of Bikaner is a vibrant tapestry of traditional arts, festivals, and culinary delights, deeply influenced by its historical roots.",
+  "festivals": [
+    "Diwali (Oct-Nov)",
+    "Holi (March)",
+    "Local State Festival",
+    "Navratri"
+  ],
+  "hotels": [
+    {
+      "name": "Taj Heritage",
+      "price": "INR 10000-15000"
+    },
+    {
+      "name": "The Grand Resort",
+      "price": "INR 6000-10000"
+    },
+    {
+      "name": "Boutique Stay",
+      "price": "INR 4000-7000"
+    },
+    {
+      "name": "City Central Hotel",
+      "price": "INR 3000-5000"
+    },
+    {
+      "name": "Backpacker Hostel",
+      "price": "INR 800-1500"
+    },
+    {
+      "name": "Budget Inn",
+      "price": "INR 1500-2500"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "The Royal Feast",
+      "cuisine": "Fine Dining"
+    },
+    {
+      "name": "Local Flavours Cafe",
+      "cuisine": "Traditional Authentic"
+    },
+    {
+      "name": "Street Bite",
+      "cuisine": "Street Food"
+    },
+    {
+      "name": "Ocean/Hill View Resto",
+      "cuisine": "Multi-cuisine"
+    },
+    {
+      "name": "Heritage Thali",
+      "cuisine": "Regional Thali"
+    }
+  ],
+  "travelTips": [
+    "Book accommodations in advance during peak season",
+    "Try the local street food but ensure it is hot and fresh",
+    "Bargain politely at local markets",
+    "Use authorized taxis or rideshare apps",
+    "Respect local customs and dress modestly at religious sites",
+    "Carry cash for small purchases"
+  ],
+  "packingTips": [
+    "Comfortable walking shoes",
+    "Weather-appropriate clothing",
+    "Power bank",
+    "Sunscreen and sunglasses",
+    "Basic first-aid kit"
+  ],
+  "weather": {
+    "summer": "30°C to 42°C",
+    "monsoon": "25°C to 35°C",
+    "winter": "10°C to 25°C"
+  },
+  "transport": [
+    "Auto Rickshaw (INR 50-150)",
+    "Taxi (INR 200-500)",
+    "Local Bus (INR 15-40)",
+    "Rideshare Apps"
+  ],
+  "itineraries": [
+    {
+      "name": "Highlights Tour",
+      "days": 2,
+      "activities": [
+        "Day 1: Arrival, City Center Attractions, Evening Market",
+        "Day 2: Historical Sites, Local Food Tasting, Departure"
+      ]
+    },
+    {
+      "name": "Deep Dive Experience",
+      "days": 3,
+      "activities": [
+        "Day 1: Essential Monuments",
+        "Day 2: Culture, Arts, and Shopping",
+        "Day 3: Nature/Surroundings and Relaxation"
+      ]
+    }
+  ]
+}

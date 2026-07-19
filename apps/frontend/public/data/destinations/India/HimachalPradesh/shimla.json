@@ -1,0 +1,230 @@
+{
+  "id": "shimla-01",
+  "slug": "shimla",
+  "name": "Shimla",
+  "state": "Himachal Pradesh",
+  "country": "India",
+  "category": "Nature",
+  "budget": "Mid-range",
+  "rating": 4.5,
+  "reviewCount": 52000,
+  "coordinates": {
+    "lat": 31.1048,
+    "lng": 77.1734
+  },
+  "altitude": 2206,
+  "coverImage": "https://images.unsplash.com/photo-1597074866923-dc0589150358?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1627894483216-2138af692e32?w=800&q=80",
+    "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80"
+  ],
+  "description": "Shimla is the capital of Himachal Pradesh and one of India's most beloved hill stations, perched at 2,206 m in the Himalayan foothills. Once the summer capital of British India, it retains its colonial charm in the Christ Church (1857), the Gaiety Theatre, and the Tudor-style buildings along The Mall Road. The UNESCO-listed Kalka-Shimla Railway (1903) — a narrow-gauge Heritage Railway — winds through 102 tunnels and 864 bridges to reach this mountain queen.",
+  "history": "Shimla was a small village before the British discovered it in 1819. From 1864 it served as the summer capital of British India, where the entire colonial administration relocated for 6 months each year. The Kalka-Shimla Railway (1903) connected it to the plains and was inscribed as a UNESCO World Heritage site in 2008 as part of the Mountain Railways of India.",
+  "bestSeason": "March to June (pleasant, 15-25°C). October-November (post-monsoon clarity). December-February (snowfall, Christmas/New Year crowds).",
+  "idealDuration": "3-4 days",
+  "temperature": "−4°C to 28°C",
+  "nearestAirport": "Shimla Airport (SLV) 23km (limited flights); Chandigarh Airport (IXC) 116km",
+  "nearestRailwayStation": "Shimla Railway Station (on Kalka-Shimla Heritage Railway); Kalka Junction 96km on main rail network",
+  "nearestBusStand": "Shimla ISBT (Tutikandi Bus Stand)",
+  "tags": [
+    "Colonial",
+    "Heritage Railway",
+    "Snow",
+    "Apple Orchards",
+    "Trekking",
+    "Hill Station"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 5,
+  "luxuryScore": 6,
+  "budgetScore": 6,
+  "topAttractions": [
+    {
+      "name": "The Mall Road & Ridge",
+      "description": "The 1.4 km car-free promenade at the heart of Shimla, lined with colonial-era shops, restaurants, and the Neo-Gothic Christ Church (1857). The Ridge provides sweeping views of the Himalayan ranges. Weekend mornings see thousands strolling here.",
+      "location": "Central Shimla"
+    },
+    {
+      "name": "Jakhu Temple & Jakhu Hill",
+      "description": "A revered Hanuman temple at 2455m, reached by a 2 km forest trail or ropeway (₹250). Large resident monkeys (Rhesus macaques) are a constant presence — keep food hidden. The 108-foot Hanuman statue is visible from the entire city.",
+      "location": "2 km from Mall Road, Jakhu Hill"
+    },
+    {
+      "name": "Kufri",
+      "description": "A popular tourist spot 14km from Shimla at 2600m, famous for skiing (January-February), snow activities (yak rides, tobogganing), and apple orchards. Himalayan Nature Park here has snow leopard, barking deer, and pheasants.",
+      "location": "14 km from Shimla"
+    },
+    {
+      "name": "Chail",
+      "description": "A pristine hill resort 45km from Shimla at 2250m, built by the Maharaja of Patiala after he was banished from Shimla by Lord Kitchener. Houses the world's highest cricket ground (2444m). Chail Palace is now a heritage hotel.",
+      "location": "45 km from Shimla"
+    },
+    {
+      "name": "Kalka-Shimla Heritage Railway",
+      "description": "A UNESCO World Heritage narrow-gauge railway built in 1903, running 96km through 102 tunnels, 864 bridges, and 18 stations. The toy train journey takes 5-6 hours and is one of India's most scenic rail experiences. Shivalik Deluxe Express is the premium service.",
+      "location": "Kalka to Shimla"
+    },
+    {
+      "name": "Naldehra Golf Course",
+      "description": "India's oldest 9-hole golf course (1905), laid out by Lord Curzon at 2044m. Still beautifully maintained with cedar and oak trees. Day visitor greens fee: ₹700-1200. 26km from Shimla.",
+      "location": "26 km from Shimla, Naldehra"
+    }
+  ],
+  "activities": [
+    "Heritage Rail ride Kalka to Shimla (₹255-1050, 6 hrs)",
+    "Skiing at Kufri (Jan-Feb, ₹500-1500 lessons)",
+    "Ropeway to Jakhu Temple (₹250 return)",
+    "Apple orchard walk (Sept-Oct harvest season)",
+    "Trekking: Shali Tibba (8km round trip)",
+    "Camping near Chail (₹1500-3000/night)",
+    "Rock climbing at Dhalli (₹500-800)",
+    "Horse riding on Mall Road (₹200/30 min)"
+  ],
+  "localFood": [
+    "Siddu (steamed wheat bread stuffed with poppy seeds or lentils, served with ghee and dal)",
+    "Babru (black gram flour bread, a Shimla breakfast staple)",
+    "Chha Gosht (marinated lamb, cooked with yogurt and spices)",
+    "Aktori (buckwheat pancakes)",
+    "Trout fish (grilled/fried, from mountain streams)",
+    "Mittha (sweet rice cooked in ghee for festivals)",
+    "Bhey (lotus stem cooked in a local style)"
+  ],
+  "shopping": [
+    "Lakkar Bazaar (wooden artifacts, walking sticks, Himachali caps — ₹100-500)",
+    "The Mall Road shops (woolen garments, shawls ₹800-5000)",
+    "Himachal Emporium (fixed price, certified local crafts)",
+    "Ram Bazaar (local produce, spices, dried fruits)",
+    "Tibetan Market near ISBT (Tibetan handicrafts)"
+  ],
+  "culture": "Shimla's culture is a unique British-Indian hybrid — Victorian-era institutions (Gaiety Theatre dating from 1887 still hosts plays) alongside Himachali folk traditions. The Lavi Fair (November, Rampur, 65km from Shimla) is one of Himachal's oldest trade fairs dating to the Mughal era.",
+  "festivals": [
+    "Summer Festival (May-June — cultural programs on Ridge)",
+    "Shimla Winter Carnival (January — snow games, cultural events)",
+    "Lohri and Makar Sankranti (January — bonfires, folk songs)",
+    "Dussehra (October — Ram Leela performances)"
+  ],
+  "hotels": [
+    "Wildflower Hall, Oberoi (5-star, ₹25,000-50,000 — former Lord Kitchener residence, 34km from Shimla at Charabra)",
+    "Hotel Cecil, Shimla (Heritage, ₹8,000-15,000, on Mall Road — a 1884 institution)",
+    "Chapslee (Heritage, ₹6,000-12,000, former Maharaja's bungalow)",
+    "Hotel Combermere (Budget heritage, ₹2,000-4,000, Mall Road)",
+    "The Oberoi Clarke's (Heritage, ₹7,000-14,000)",
+    "HPTDC Hotel Holiday Home (Budget, ₹1,500-3,000, government-run)"
+  ],
+  "restaurants": [
+    "Ashiana & Goofa (multi-level restaurant on Ridge, ₹300-800, best views)",
+    "Indian Coffee House (heritage café since 1958, ₹100-300, Mall Road)",
+    "Eighteen71 Cookhouse & Bar (modern Indian, ₹500-1200, Oberoi Cecil)",
+    "Café Simla Times (continental, ₹300-700)",
+    "Wake & Bake Café (breakfast, ₹200-500, Lower Bazaar)"
+  ],
+  "travelTips": [
+    "Mall Road is car-free — park at Cart Road and take the lift (₹10).",
+    "Book the Kalka-Shimla toy train at least 1 week in advance on irctc.co.in.",
+    "Monkeys on Jakhu trail are aggressive — keep food inside bags and don't make eye contact.",
+    "The Ridge and Christ Church are best at sunrise before crowds arrive.",
+    "Carry warm layers even in June — evenings at 2200m cool rapidly."
+  ],
+  "packingTips": [
+    "Heavy jacket (autumn and spring)",
+    "Thermals (winter)",
+    "Rain poncho (July-September)",
+    "Walking shoes for Mall Road",
+    "Sunscreen SPF 50+"
+  ],
+  "weather": "Winter (Dec-Feb): −4 to 8°C, snowfall common. Spring (Mar-Apr): 10-20°C. Summer (May-Jun): 18-28°C, pleasant — peak season. Monsoon (Jul-Sep): 15-22°C, heavy rain, landslides possible. Autumn (Oct-Nov): 10-22°C — clear skies, best views.",
+  "transport": "By Rail: Kalka-Shimla Heritage Railway (5.5 hrs, ₹255-1050) or Shatabdi to Kalka from Delhi (3.5 hrs) then toy train. By Bus: HRTC Volvo from Delhi ISBT (9-10 hrs, ₹700-1200). By Air: Shimla Airport (23km, limited flights from Delhi). Within Shimla: Walk (town is compact), lift at Mall Road (₹10), autos to suburbs.",
+  "itineraries": [
+    {
+      "type": "3 Day",
+      "durationDays": 3,
+      "estimatedCost": 7000,
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "11:00 AM",
+              "activity": "Arrive + Mall Road stroll",
+              "description": "Walk from Scandal Point to Christ Church on The Ridge.",
+              "costEstimate": 0
+            },
+            {
+              "time": "03:00 PM",
+              "activity": "Jakhu Temple ropeway",
+              "description": "Cable car to the Hanuman temple. Beware monkeys.",
+              "costEstimate": 250
+            },
+            {
+              "time": "06:00 PM",
+              "activity": "Sunset on The Ridge",
+              "description": "Panoramic Himalayan sunset.",
+              "costEstimate": 0
+            },
+            {
+              "time": "08:00 PM",
+              "activity": "Dinner at Ashiana",
+              "description": "Multi-cuisine with city views.",
+              "costEstimate": 600
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            {
+              "time": "09:00 AM",
+              "activity": "Kufri day trip",
+              "description": "Snow activities, Himalayan Nature Park, yak rides.",
+              "costEstimate": 1500
+            },
+            {
+              "time": "02:00 PM",
+              "activity": "Chail (45 km)",
+              "description": "World's highest cricket ground. Chail Palace gardens.",
+              "costEstimate": 1500
+            },
+            {
+              "time": "07:00 PM",
+              "activity": "Return + Lakkar Bazaar shopping",
+              "description": "Wooden crafts and Himachali souvenirs.",
+              "costEstimate": 500
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "activities": [
+            {
+              "time": "07:00 AM",
+              "activity": "Toy Train ride to Barog (partial)",
+              "description": "Board the Heritage Railway for a scenic 1.5 hr ride to Barog and return.",
+              "costEstimate": 400
+            },
+            {
+              "time": "10:00 AM",
+              "activity": "Scandal Point + Mall Road shopping",
+              "description": "Shawls, woolen caps at Mall Road boutiques.",
+              "costEstimate": 1000
+            },
+            {
+              "time": "01:00 PM",
+              "activity": "Lunch at Indian Coffee House",
+              "description": "Heritage café, filter coffee and sandwiches since 1958.",
+              "costEstimate": 200
+            },
+            {
+              "time": "03:00 PM",
+              "activity": "Depart",
+              "description": "Bus to Chandigarh or Kalka for onward journey.",
+              "costEstimate": 500
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

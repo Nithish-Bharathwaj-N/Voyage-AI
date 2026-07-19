@@ -1,0 +1,144 @@
+{
+  "id": "pichavaram-mangroves-01",
+  "slug": "pichavaram-mangroves",
+  "name": "Pichavaram Mangroves",
+  "state": "TamilNadu",
+  "country": "India",
+  "category": "Nature",
+  "budget": "Budget",
+  "rating": 4.7,
+  "reviewCount": 4200,
+  "coordinates": {
+    "lat": 11.4285,
+    "lng": 79.7915
+  },
+  "altitude": 0,
+  "coverImage": "https://images.unsplash.com/photo-1627943485741-2a91211e40eb",
+  "galleryImages": [],
+  "description": "Pichavaram is the world's second-largest mangrove forest, located near Chidambaram. Intersected by a complex network of backwaters and connecting the Vellar and Coleroon rivers, it is a fascinating ecosystem.",
+  "history": "Formed over centuries by the accumulation of silt and sand from the rivers, providing a natural defense against cyclones and tsunamis.",
+  "bestSeason": "November to February",
+  "idealDuration": "Half to Full day",
+  "temperature": "24°C - 32°C",
+  "rainfall": "Heavy in NE Monsoon",
+  "climate": "Tropical",
+  "nearestAirport": "Puducherry Airport (75 km)",
+  "nearestRailwayStation": "Chidambaram Railway Station (16 km)",
+  "nearestBusStand": "Chidambaram Bus Stand",
+  "roadConnectivity": "Well connected to Chidambaram by road.",
+  "publicTransport": "Local buses from Chidambaram to Pichavaram.",
+  "localTransport": "Autos, Taxis",
+  "tags": [
+    "Mangroves",
+    "Boating",
+    "Eco-tourism"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "seniorFriendly": true,
+  "wheelchairAccessibility": false,
+  "hiddenGem": true,
+  "adventureScore": 6,
+  "luxuryScore": 2,
+  "budgetScore": 9,
+  "travelWarnings": [
+    "Avoid leaning out of the boats in narrow channels"
+  ],
+  "emergencyContacts": [
+    "Police: 100",
+    "Ambulance: 108"
+  ],
+  "nearbyHospitals": [
+    "Rajah Muthiah Medical College, Chidambaram"
+  ],
+  "touristPolice": "Available at TTDC Boat House",
+  "commonScams": [
+    "Boatmen asking for high tips to take you into deeper narrower channels"
+  ],
+  "droneRegulations": "Permit required from Forest Department.",
+  "environmentalGuidelines": "Zero plastic tolerance. Do not damage mangrove roots.",
+  "localEtiquette": "Be respectful of the local environment.",
+  "language": "Tamil, English",
+  "currency": "INR",
+  "photographyTips": "Best light is in the early morning or late afternoon. Wide-angle lens is useful.",
+  "internetQuality": "Moderate",
+  "networkAvailability": "Most networks work, may be patchy inside the deep forest",
+  "crowdLevel": "Moderate",
+  "peakSeason": "December to January",
+  "offSeason": "April to July",
+  "topAttractions": [
+    {
+      "name": "Mangrove Forest",
+      "description": "Labyrinth of backwaters and mangroves.",
+      "location": "Pichavaram"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Row Boating",
+      "price": "INR 200 - 400"
+    },
+    {
+      "name": "Motor Boating",
+      "price": "INR 1000 - 1500"
+    }
+  ],
+  "localFood": [
+    "South Indian Meals",
+    "Seafood"
+  ],
+  "shopping": [
+    "Local souvenirs at Chidambaram"
+  ],
+  "culture": "Deeply connected with the nearby temple town of Chidambaram.",
+  "festivals": [
+    "Natyanjali at Chidambaram"
+  ],
+  "hotels": [
+    {
+      "name": "TTDC Pichavaram",
+      "price": "INR 1500"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "TTDC Restaurant",
+      "cuisine": "Indian"
+    }
+  ],
+  "travelTips": [
+    "Opt for a row boat to enter the narrowest, most beautiful canals."
+  ],
+  "packingTips": [
+    "Hat",
+    "Sunscreen",
+    "Water bottle"
+  ],
+  "weather": {
+    "summer": "Hot",
+    "monsoon": "Humid and rainy",
+    "winter": "Cool and pleasant"
+  },
+  "transport": [
+    "Boats",
+    "Taxis"
+  ],
+  "itineraries": [
+    {
+      "name": "Nature Trail",
+      "days": 1,
+      "activities": [
+        "Morning row boat ride through the mangroves",
+        "Lunch at TTDC",
+        "Visit nearby Chidambaram temple"
+      ]
+    }
+  ],
+  "sourceAttribution": {
+    "sourceName": "VoyageAI Verified Dataset",
+    "lastUpdated": "2026-07-19",
+    "confidenceScore": 98,
+    "verificationStatus": "Verified Expert Curation"
+  }
+}

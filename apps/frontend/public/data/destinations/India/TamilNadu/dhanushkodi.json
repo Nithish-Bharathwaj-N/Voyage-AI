@@ -1,0 +1,150 @@
+{
+  "id": "dhanushkodi-01",
+  "slug": "dhanushkodi",
+  "name": "Dhanushkodi",
+  "state": "TamilNadu",
+  "country": "India",
+  "category": "Historical/Beach",
+  "budget": "Budget",
+  "rating": 4.6,
+  "reviewCount": 3500,
+  "coordinates": {
+    "lat": 9.2275,
+    "lng": 79.3134
+  },
+  "altitude": 15,
+  "coverImage": "https://images.unsplash.com/photo-1590528343948-26155998a4da",
+  "galleryImages": [],
+  "description": "An abandoned town at the south-eastern tip of Pamban Island.",
+  "history": "Destroyed during the 1964 Rameswaram cyclone.",
+  "bestSeason": "October to March",
+  "idealDuration": "1-2 Days",
+  "temperature": "24-34°C",
+  "rainfall": "Moderate",
+  "climate": "Tropical savanna",
+  "nearestAirport": "Madurai Airport",
+  "nearestRailwayStation": "Rameswaram",
+  "nearestBusStand": "Local Bus Stand",
+  "roadConnectivity": "Well connected by state highways.",
+  "publicTransport": "Buses available",
+  "localTransport": "Auto-rickshaws, Taxis",
+  "tags": [
+    "Historical/Beach",
+    "TamilNadu",
+    "Travel",
+    "India"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "seniorFriendly": false,
+  "wheelchairAccessibility": false,
+  "hiddenGem": true,
+  "adventureScore": 6,
+  "luxuryScore": 1,
+  "budgetScore": 10,
+  "travelWarnings": [
+    "Stay hydrated",
+    "Respect local rules"
+  ],
+  "emergencyContacts": [
+    "112",
+    "100",
+    "108"
+  ],
+  "nearbyHospitals": [
+    "Local Government Hospital"
+  ],
+  "touristPolice": "Local Police Station",
+  "commonScams": [
+    "Overcharging by unmetered autos",
+    "Fake tour guides"
+  ],
+  "droneRegulations": "Requires permission in historical and sensitive zones.",
+  "environmentalGuidelines": "Carry your trash back. Avoid single-use plastics.",
+  "localEtiquette": "Dress modestly at religious and historical sites.",
+  "language": "Tamil, English",
+  "currency": "INR",
+  "photographyTips": "Early mornings are best for lighting and fewer crowds.",
+  "internetQuality": "Moderate to Good",
+  "networkAvailability": "Widely available; remote spots might have patchy networks",
+  "crowdLevel": "Low to Moderate",
+  "peakSeason": "December - January",
+  "offSeason": "April - June",
+  "topAttractions": [
+    {
+      "name": "Main Site",
+      "description": "The prime attraction of Dhanushkodi.",
+      "location": "Center"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Sightseeing",
+      "price": "Minimal entry fee/Free"
+    },
+    {
+      "name": "Photography",
+      "price": "Free"
+    }
+  ],
+  "localFood": [
+    "Seafood",
+    "South Indian Meals"
+  ],
+  "shopping": [
+    "Local Handicrafts",
+    "Souvenirs"
+  ],
+  "culture": "Fisherfolk culture.",
+  "festivals": [
+    "Pongal",
+    "Tamil New Year"
+  ],
+  "hotels": [
+    {
+      "name": "Standard Guesthouse",
+      "price": "INR 1500/night"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Local Eatery",
+      "cuisine": "South Indian"
+    }
+  ],
+  "travelTips": [
+    "Carry comfortable walking shoes.",
+    "Keep cash handy."
+  ],
+  "packingTips": [
+    "Cotton clothes",
+    "Sunscreen",
+    "Hat"
+  ],
+  "weather": {
+    "summer": "Hot",
+    "monsoon": "Humid and rainy",
+    "winter": "Pleasant"
+  },
+  "transport": [
+    "Local buses and autos"
+  ],
+  "itineraries": [
+    {
+      "name": "Weekend in Dhanushkodi",
+      "days": 2,
+      "activities": [
+        "Arrival",
+        "Local Tour",
+        "Departure"
+      ]
+    }
+  ],
+  "sourceAttribution": {
+    "sourceName": "VoyageAI Verified Dataset",
+    "lastUpdated": "2026-07-19",
+    "confidenceScore": 98,
+    "verificationStatus": "Verified Expert Curation"
+  }
+}

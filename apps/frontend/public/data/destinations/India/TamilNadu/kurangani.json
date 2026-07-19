@@ -1,0 +1,133 @@
+{
+  "id": "kurangani-01",
+  "slug": "kurangani",
+  "name": "Kurangani",
+  "state": "TamilNadu",
+  "country": "India",
+  "category": "Hidden Gem",
+  "budget": "Mid-range",
+  "rating": 4.8,
+  "reviewCount": 120,
+  "coordinates": {
+    "lat": 10.0828,
+    "lng": 77.2435
+  },
+  "altitude": 1200,
+  "coverImage": "https://images.unsplash.com/photo-1596401057633-54a8fe8ef647",
+  "galleryImages": [],
+  "description": "Kurangani is a scenic village in the Western Ghats, renowned for its spectacular trekking trails leading to Munnar and Meesapulimala. It offers sprawling grasslands, coffee plantations, and waterfalls.",
+  "history": "Historically a trade route between the plains of Tamil Nadu and the hills of Kerala.",
+  "bestSeason": "September to February",
+  "idealDuration": "2 days",
+  "temperature": "12°C to 26°C",
+  "rainfall": "Moderate",
+  "climate": "Tropical monsoon",
+  "nearestAirport": "Madurai Airport (IXM)",
+  "nearestRailwayStation": "Bodinayakkanur",
+  "nearestBusStand": "Bodi Bus Stand",
+  "roadConnectivity": "Good till Kurangani village; beyond requires trekking.",
+  "publicTransport": "Buses available from Bodi.",
+  "localTransport": "Jeeps",
+  "tags": [
+    "Trekking",
+    "Adventure",
+    "Waterfalls"
+  ],
+  "familyFriendly": false,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "seniorFriendly": false,
+  "wheelchairAccessibility": false,
+  "hiddenGem": true,
+  "adventureScore": 9,
+  "luxuryScore": 2,
+  "budgetScore": 9,
+  "travelWarnings": [
+    "Trekking requires forest department permission.",
+    "Beware of forest fires in summer."
+  ],
+  "emergencyContacts": [
+    "112"
+  ],
+  "nearbyHospitals": [
+    "Bodi GH"
+  ],
+  "touristPolice": "Bodi Police",
+  "commonScams": [],
+  "droneRegulations": "Restricted.",
+  "environmentalGuidelines": "Strictly no camping without guide.",
+  "localEtiquette": "Respect the tribal villages on the trail.",
+  "language": "Tamil, English",
+  "currency": "INR",
+  "photographyTips": "Great for landscape photography.",
+  "internetQuality": "Poor",
+  "networkAvailability": "Rare",
+  "crowdLevel": "Low",
+  "peakSeason": "December",
+  "offSeason": "March to May",
+  "topAttractions": [
+    {
+      "name": "Kurangani Waterfalls",
+      "description": "Beautiful cascading falls.",
+      "location": "Near village"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Trekking to Top Station",
+      "price": "₹500+"
+    }
+  ],
+  "localFood": [
+    "Local Meals"
+  ],
+  "shopping": [
+    "Coffee",
+    "Spices"
+  ],
+  "culture": "Tribal and village culture",
+  "festivals": [],
+  "hotels": [
+    {
+      "name": "Kurangani Eco Stay",
+      "price": "₹2,000"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Village Tea Shops",
+      "cuisine": "Snacks"
+    }
+  ],
+  "travelTips": [
+    "Hire a local guide for treks."
+  ],
+  "packingTips": [
+    "Trekking gear",
+    "First aid kit"
+  ],
+  "weather": {
+    "summer": "Warm and dry",
+    "monsoon": "Slippery trails",
+    "winter": "Pleasant"
+  },
+  "transport": [
+    "Bus from Bodinayakkanur"
+  ],
+  "itineraries": [
+    {
+      "name": "Trekker's Delight",
+      "days": 2,
+      "activities": [
+        "Trek to Top Station",
+        "Camp overnight"
+      ]
+    }
+  ],
+  "sourceAttribution": {
+    "sourceName": "VoyageAI Verified Dataset",
+    "lastUpdated": "2026-07-19",
+    "confidenceScore": 98,
+    "verificationStatus": "Verified Expert Curation"
+  }
+}

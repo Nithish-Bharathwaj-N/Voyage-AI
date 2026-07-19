@@ -1,0 +1,66 @@
+version: '3.8'
+
+services:
+  app:
+    image: voyageai-backend:staging
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: voyageai-backend-staging
+    restart: always
+    environment:
+      - PORT=3000
+      - NODE_ENV=staging
+    env_file:
+      - .env.staging
+    ports:
+      - "3000:3000"
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 1G
+    healthcheck:
+      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost:3000/api/v1/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+    depends_on:
+      - postgres
+      - redis
+
+  postgres:
+    image: postgres:15-alpine
+    container_name: voyageai-postgres-staging
+    restart: always
+    environment:
+      POSTGRES_DB: voyageai_staging
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5435:5432"
+    volumes:
+      - pgdata_staging:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d voyageai_staging"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis:7-alpine
+    container_name: voyageai-redis-staging
+    restart: always
+    ports:
+      - "6375:6379"
+    volumes:
+      - redisdata_staging:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  pgdata_staging:
+  redisdata_staging:

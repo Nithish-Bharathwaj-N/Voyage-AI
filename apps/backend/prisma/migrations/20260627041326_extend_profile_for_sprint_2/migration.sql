@@ -1,0 +1,18 @@
+-- AlterTable
+ALTER TABLE "profiles" ADD COLUMN     "accessibility_needs" TEXT[] DEFAULT ARRAY[]::TEXT[],
+ADD COLUMN     "bio" TEXT,
+ADD COLUMN     "budget_range" TEXT,
+ADD COLUMN     "city" TEXT,
+ADD COLUMN     "country" TEXT,
+ADD COLUMN     "currency" TEXT DEFAULT 'USD',
+ADD COLUMN     "dietary_preferences" TEXT[] DEFAULT ARRAY[]::TEXT[],
+ADD COLUMN     "favorite_activities" TEXT[] DEFAULT ARRAY[]::TEXT[],
+ADD COLUMN     "is_onboarded" BOOLEAN NOT NULL DEFAULT false,
+ADD COLUMN     "language" TEXT DEFAULT 'en',
+ADD COLUMN     "passport_country" TEXT,
+ADD COLUMN     "preferred_climate" TEXT,
+ADD COLUMN     "preferred_transport" TEXT,
+ADD COLUMN     "profile_completion" INTEGER NOT NULL DEFAULT 0,
+ADD COLUMN     "timezone" TEXT DEFAULT 'UTC',
+ADD COLUMN     "travel_companions" TEXT,
+ADD COLUMN     "travel_style" TEXT;

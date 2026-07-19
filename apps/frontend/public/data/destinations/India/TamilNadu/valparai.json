@@ -1,0 +1,134 @@
+{
+  "id": "valparai-01",
+  "slug": "valparai",
+  "name": "Valparai",
+  "state": "TamilNadu",
+  "country": "India",
+  "category": "Hill Station",
+  "budget": "Mid-range",
+  "rating": 4.8,
+  "reviewCount": 420,
+  "coordinates": {
+    "lat": 10.3283,
+    "lng": 76.9547
+  },
+  "altitude": 1193,
+  "coverImage": "https://images.unsplash.com/photo-1598254245558-f99615a2894f?w=800",
+  "galleryImages": [],
+  "description": "Valparai is a high-altitude hill station and municipality in the Coimbatore district, surrounded by Anamalai Tiger Reserve.",
+  "history": "Developed into tea and coffee estates by the British.",
+  "bestSeason": "September to March",
+  "idealDuration": "3 Days",
+  "temperature": "15-25°C",
+  "rainfall": "High",
+  "climate": "Cool and misty",
+  "nearestAirport": "Coimbatore (120km)",
+  "nearestRailwayStation": "Pollachi (64km)",
+  "nearestBusStand": "Valparai",
+  "roadConnectivity": "Good, involves 40 hairpin bends",
+  "publicTransport": "Available",
+  "localTransport": "Jeeps, Taxis",
+  "tags": [
+    "Tea Estates",
+    "Wildlife",
+    "Mist"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "seniorFriendly": false,
+  "wheelchairAccessibility": false,
+  "hiddenGem": true,
+  "adventureScore": 7,
+  "luxuryScore": 5,
+  "budgetScore": 7,
+  "travelWarnings": [
+    "Frequent wildlife crossings (elephants, leopards)"
+  ],
+  "emergencyContacts": [
+    "112"
+  ],
+  "nearbyHospitals": [
+    "Valparai GH"
+  ],
+  "touristPolice": "Available",
+  "commonScams": [],
+  "droneRegulations": "Not allowed due to tiger reserve proximity",
+  "environmentalGuidelines": "Strictly no plastic",
+  "localEtiquette": "Avoid horn usage on the ghats",
+  "language": "Tamil, Malayalam, English",
+  "currency": "INR",
+  "photographyTips": "Great for macro and mist photography",
+  "internetQuality": "Moderate",
+  "networkAvailability": "Patchy",
+  "crowdLevel": "Low",
+  "peakSeason": "Summer",
+  "offSeason": "Monsoon",
+  "topAttractions": [
+    {
+      "name": "Aliyar Dam View",
+      "description": "Scenic view from the hairpin bends",
+      "location": "En route to Valparai"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Tea Estate Walk",
+      "price": "Free"
+    }
+  ],
+  "localFood": [
+    "Tea",
+    "Fresh Bakes"
+  ],
+  "shopping": [
+    "Tea Leaves"
+  ],
+  "culture": "Plantation culture",
+  "festivals": [
+    "Summer Festival"
+  ],
+  "hotels": [
+    {
+      "name": "Tea Bungalow",
+      "price": "₹3500"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Green Hill Eats",
+      "cuisine": "Indian"
+    }
+  ],
+  "travelTips": [
+    "Drive slowly and enjoy the journey"
+  ],
+  "packingTips": [
+    "Raincoat, Warm clothes"
+  ],
+  "weather": {
+    "summer": "Pleasant",
+    "monsoon": "Very Heavy Rain",
+    "winter": "Cold"
+  },
+  "transport": [
+    "Car",
+    "Bus"
+  ],
+  "itineraries": [
+    {
+      "name": "Plantation Tour",
+      "days": 3,
+      "activities": [
+        "Tea factory visit",
+        "Sholayar Dam"
+      ]
+    }
+  ],
+  "sourceAttribution": {
+    "sourceName": "VoyageAI Verified Dataset",
+    "lastUpdated": "2026-07-19",
+    "confidenceScore": 98,
+    "verificationStatus": "Verified Expert Curation"
+  }
+}

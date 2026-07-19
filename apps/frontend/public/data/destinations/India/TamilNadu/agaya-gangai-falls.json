@@ -1,0 +1,143 @@
+{
+  "id": "agaya-gangai-falls-01",
+  "slug": "agaya-gangai-falls",
+  "name": "Agaya Gangai Falls",
+  "state": "TamilNadu",
+  "country": "India",
+  "category": "Hidden Gem",
+  "budget": "Mid-range",
+  "rating": 4.8,
+  "reviewCount": 120,
+  "coordinates": {
+    "lat": 11.2829,
+    "lng": 78.3475
+  },
+  "altitude": 1200,
+  "coverImage": "https://images.unsplash.com/photo-1596401057633-54a8fe8ef647",
+  "galleryImages": [],
+  "description": "Located in the Kolli Hills, Agaya Gangai is a magnificent 300-foot waterfall formed by the Aiyaru River. Reaching it requires a challenging descent of over 1,000 steps, making it an adventurous outing.",
+  "history": "Associated with the Arapaleeswarar Temple, this waterfall has spiritual significance and is believed to have medicinal properties due to the herbs upstream.",
+  "bestSeason": "August to December",
+  "idealDuration": "1 day",
+  "temperature": "15°C to 28°C",
+  "rainfall": "Moderate",
+  "climate": "Tropical savanna",
+  "nearestAirport": "Trichy Airport (TRZ)",
+  "nearestRailwayStation": "Salem Junction",
+  "nearestBusStand": "Semmedu (Kolli Hills)",
+  "roadConnectivity": "70 hairpin bends to reach Kolli Hills, then road to Arapaleeswarar Temple.",
+  "publicTransport": "Buses from Salem and Namakkal to Semmedu.",
+  "localTransport": "Auto, Taxis",
+  "tags": [
+    "Waterfall",
+    "Adventure",
+    "Spiritual"
+  ],
+  "familyFriendly": false,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "seniorFriendly": false,
+  "wheelchairAccessibility": false,
+  "hiddenGem": true,
+  "adventureScore": 8,
+  "luxuryScore": 2,
+  "budgetScore": 9,
+  "travelWarnings": [
+    "Climbing down and up ~1000 steep steps is physically demanding.",
+    "Rocks near the falls are very slippery."
+  ],
+  "emergencyContacts": [
+    "112"
+  ],
+  "nearbyHospitals": [
+    "Semmedu PHC"
+  ],
+  "touristPolice": "Kolli Hills Police",
+  "commonScams": [],
+  "droneRegulations": "Standard rules.",
+  "environmentalGuidelines": "Do not pollute the water.",
+  "localEtiquette": "Modest dressing recommended as it is near a temple.",
+  "language": "Tamil, English",
+  "currency": "INR",
+  "photographyTips": "Keep cameras in waterproof bags due to the heavy spray.",
+  "internetQuality": "Moderate",
+  "networkAvailability": "Available near temple, none at the falls.",
+  "crowdLevel": "Low",
+  "peakSeason": "September to November",
+  "offSeason": "Summer months",
+  "topAttractions": [
+    {
+      "name": "Arapaleeswarar Temple",
+      "description": "Ancient Shiva temple near the start of the stairs.",
+      "location": "Top of falls"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Trekking stairs",
+      "price": "Free"
+    },
+    {
+      "name": "Bathing in falls",
+      "price": "Free"
+    }
+  ],
+  "localFood": [
+    "Jackfruit",
+    "Honey",
+    "Millets"
+  ],
+  "shopping": [
+    "Spices",
+    "Herbs"
+  ],
+  "culture": "Hill tribe culture",
+  "festivals": [
+    "Aadi Pathinettu"
+  ],
+  "hotels": [
+    {
+      "name": "Silverline Retreat Hotel",
+      "price": "₹3,000"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Local Stalls",
+      "cuisine": "South Indian meals"
+    }
+  ],
+  "travelTips": [
+    "Carry a change of clothes.",
+    "Stay hydrated for the climb back up."
+  ],
+  "packingTips": [
+    "Waterproof bag",
+    "Grippy footwear"
+  ],
+  "weather": {
+    "summer": "Warm",
+    "monsoon": "Heavy flow",
+    "winter": "Cool"
+  },
+  "transport": [
+    "Walk from the temple"
+  ],
+  "itineraries": [
+    {
+      "name": "Waterfall Adventure",
+      "days": 1,
+      "activities": [
+        "Visit temple",
+        "Descend to falls",
+        "Climb back"
+      ]
+    }
+  ],
+  "sourceAttribution": {
+    "sourceName": "VoyageAI Verified Dataset",
+    "lastUpdated": "2026-07-19",
+    "confidenceScore": 98,
+    "verificationStatus": "Verified Expert Curation"
+  }
+}

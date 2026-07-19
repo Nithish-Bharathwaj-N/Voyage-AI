@@ -1,0 +1,185 @@
+{
+  "id": "goa-01",
+  "slug": "goa",
+  "name": "Goa",
+  "state": "Goa",
+  "country": "India",
+  "category": "Beach",
+  "budget": "Mid-range",
+  "rating": 4.6,
+  "reviewCount": 95000,
+  "coordinates": {
+    "lat": 15.2993,
+    "lng": 74.124
+  },
+  "altitude": 7,
+  "coverImage": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1559628233-100c798642d6?w=800&q=80",
+    "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=800&q=80",
+    "https://images.unsplash.com/photo-1540202404-a2f29016b523?w=800&q=80",
+    "https://images.unsplash.com/photo-1588416499018-d8c621e7d2c2?w=800&q=80"
+  ],
+  "description": "Goa, India's smallest state, is the undisputed beach capital of the country — 101 km of coastline stretching along the Arabian Sea, adorned with palm-fringed beaches, Portuguese colonial churches, verdant spice plantations, and some of India's most vibrant nightlife. North Goa buzzes with energy, trance music, and backpacker culture; South Goa is quieter, more upscale, and naturally beautiful. The unique Luso-Indian culture pervades everything from its architecture to its cuisine.",
+  "history": "Goa was a Portuguese colony from 1510 (when Afonso de Albuquerque captured it from the Bijapur Sultanate) until 1961, when India annexed it through Operation Vijay. This 450-year Portuguese presence left an indelible mark — the Catholic churches, Portuguese-style architecture of Panaji's Latin Quarter, the syncretic Goan cuisine, and the Catholic communities still found across the state.",
+  "bestSeason": "November to February (Winter — perfect weather, 22–30°C). Monsoon (June–September) is lush and beautiful but beach shacks close. Avoid peak season (Dec 20–Jan 5) unless you book months ahead.",
+  "idealDuration": "5–7 days",
+  "temperature": "20°C to 35°C",
+  "nearestAirport": "Goa International Airport, Dabolim (GOI) — 29 km from Panaji. Mopa International Airport (North Goa) also opened in 2022.",
+  "nearestRailwayStation": "Madgaon (Margao) Junction (South Goa) and Thivim (North Goa) on the Konkan Railway",
+  "nearestBusStand": "Kadamba Bus Terminal, Panaji (state capital)",
+  "tags": [
+    "Beach",
+    "Nightlife",
+    "Seafood",
+    "Portuguese Heritage",
+    "Party",
+    "Water Sports"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 6,
+  "luxuryScore": 7,
+  "budgetScore": 7,
+  "topAttractions": [
+    {
+      "name": "Basilica of Bom Jesus (UNESCO)",
+      "description": "The most famous church in Goa and a UNESCO World Heritage Site (1986). Built in 1605, it enshrines the mortal remains of St. Francis Xavier in an ornate silver casket. Open Mon–Sat 9 AM–6:30 PM, Sun 10:30 AM–6:30 PM. Free entry.",
+      "location": "Old Goa, 9 km east of Panaji"
+    },
+    {
+      "name": "Dudhsagar Waterfalls",
+      "description": "India's 5th tallest waterfall (310 m) on the Goa–Karnataka border within Bhagwan Mahaveer Sanctuary. Best during and after monsoon (July–December). Accessible by jeep safari from Mollem (₹450/person). Swimming in the pool below is permitted when safe.",
+      "location": "Sanguem taluk, 60 km from Panaji"
+    },
+    {
+      "name": "Anjuna Flea Market",
+      "description": "The legendary Wednesday flea market (9 AM–5 PM) drawing artisans, hippies, and sellers from across India and the world. Best for tie-dye clothing, Rajasthani textiles, brasswork, beaded jewelry, and Goa-specific souvenirs. Bargain hard — prices start at 3x.",
+      "location": "Anjuna Beach, North Goa"
+    },
+    {
+      "name": "Chapora Fort",
+      "description": "A 17th-century Portuguese-era fort atop a rocky promontory overlooking Vagator Beach and the Arabian Sea. Made famous as a filming location for the Bollywood film \"Dil Chahta Hai\" (2001). No entry fee. Best visited at sunset.",
+      "location": "Vagator, North Goa"
+    },
+    {
+      "name": "Palolem Beach",
+      "description": "Goa's most photogenic beach — a crescent of golden sand flanked by coconut palms and rocky headlands. Quieter and cleaner than North Goa beaches. Known for \"Silent Noise\" headphone parties, kayaking, and boat trips to Butterfly Beach. South Goa.",
+      "location": "Canacona, South Goa (38 km south of Margao)"
+    },
+    {
+      "name": "Fontainhas (Latin Quarter, Panaji)",
+      "description": "A UNESCO tentative-list heritage precinct of Portuguese-era tiled villas, narrow lanes, and vibrant facades in Panaji. The Goa Chitra Museum and the homes of Goa's old Catholic families line these streets. Best explored on foot.",
+      "location": "Panaji, Goa"
+    },
+    {
+      "name": "Fort Aguada",
+      "description": "A well-preserved 17th-century Portuguese fort at the northern bank of the Mandovi River mouth. Lighthouse from 1864 still stands. Stunning views of the Arabian Sea. A Taj hotel is within the fort complex. Free entry.",
+      "location": "Sinquerim Beach, North Goa — 18 km from Panaji"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Scuba Diving at Grande Island",
+      "price": "INR 3500"
+    },
+    {
+      "name": "Dudhsagar Waterfall Trek",
+      "price": "INR 1500"
+    },
+    {
+      "name": "Mandovi River Cruise",
+      "price": "INR 500"
+    },
+    {
+      "name": "Old Goa Heritage Walk",
+      "price": "INR 800"
+    },
+    {
+      "name": "Spice Plantation Tour",
+      "price": "INR 600"
+    }
+  ],
+  "localFood": [
+    "Goan Fish Curry",
+    "Prawn Balchao",
+    "Pork Vindaloo",
+    "Bebinca",
+    "Feni (Cashew liquor)",
+    "Goan Sausage (Chourico)"
+  ],
+  "shopping": [
+    "Anjuna Flea Market",
+    "Mapusa Friday Market",
+    "Mackie's Night Bazaar",
+    "Panjim Market",
+    "Arpora Night Market"
+  ],
+  "culture": "A unique blend of Indian and Portuguese cultures, characterized by susegad (a relaxed attitude), Catholic festivals, and Indo-Latin architecture.",
+  "festivals": [
+    "Goa Carnival (Feb)",
+    "Feast of St. Francis Xavier (Dec)",
+    "Sunburn Festival (Dec)",
+    "Shigmo (Spring)"
+  ],
+  "hotels": [
+    "Taj Exotica Resort & Spa, Goa (5-star, ₹25,000–60,000, Benaulim, South Goa)",
+    "Park Hyatt Goa Resort & Spa (5-star, ₹18,000–45,000, Arossim Beach)",
+    "Aloft North Goa (4-star, ₹5,000–12,000, Vagator)",
+    "The Crown Goa (4-star, ₹6,000–14,000, Panaji)",
+    "W Goa (Ultra-luxury, ₹20,000–50,000, Vagator)",
+    "Zostel Goa (Hostel, ₹500–800/dorm, Anjuna)",
+    "Reported Guest House (Budget, ₹1,500–3,000, near Palolem)"
+  ],
+  "restaurants": [
+    {
+      "name": "Mum's Kitchen",
+      "cuisine": "Authentic Goan"
+    },
+    {
+      "name": "Thalassa",
+      "cuisine": "Greek / Mediterranean"
+    },
+    {
+      "name": "Gunpowder",
+      "cuisine": "South Indian / Coastal"
+    },
+    {
+      "name": "Martin's Corner",
+      "cuisine": "Goan Seafood"
+    },
+    {
+      "name": "Vinayak Family Restaurant",
+      "cuisine": "Goan Fish Thali"
+    }
+  ],
+  "travelTips": [
+    "Rent a scooter (approx INR 400/day) for local transport",
+    "Carry a valid driving license",
+    "South Goa is quieter; North Goa is for parties",
+    "Be careful of rip currents while swimming",
+    "Negotiate taxi fares beforehand"
+  ],
+  "packingTips": [
+    "Swimwear and beach cover-ups",
+    "High SPF sunscreen",
+    "Mosquito repellent",
+    "Flip flops and sandals",
+    "Light cotton clothing"
+  ],
+  "weather": "Winter (Nov–Feb): 22–30°C, low humidity, gentle breeze — perfect. Spring (Mar–May): 28–35°C, humid and hot. Monsoon (Jun–Sep): 25–32°C, heavy rainfall (3,000 mm/year), lush green but beaches are rough and most shacks close. Post-monsoon (Oct): 28–33°C, beaches re-open, slightly fewer crowds.",
+  "transport": "By Air: Dabolim Airport (GOI) with daily flights from all major cities. Mopa Airport (North Goa, 2022) for North Goa access. By Rail: Konkan Railway — Madgaon and Thivim stations. Train from Mumbai (8–12 hrs, ₹500–1,500). By Bus: Karnataka KSRTC and Goa KTC buses from Bengaluru, Mumbai, Pune. Within Goa: Rent scooter (₹250–400), hire autorickshaw (₹50–200), Goa Miles app-based taxis, or rent a car.",
+  "itineraries": [
+    {
+      "name": "Classic Goa Break",
+      "days": 3,
+      "activities": [
+        "Day 1: North Goa beaches (Baga, Calangute), Nightlife",
+        "Day 2: Old Goa Churches and Spice Plantation",
+        "Day 3: Relax at South Goa beaches (Palolem, Colva)"
+      ]
+    }
+  ]
+}

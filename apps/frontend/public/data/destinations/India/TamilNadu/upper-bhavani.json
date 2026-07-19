@@ -1,0 +1,116 @@
+{
+  "id": "upper-bhavani-01",
+  "slug": "upper-bhavani",
+  "name": "Upper Bhavani",
+  "state": "TamilNadu",
+  "country": "India",
+  "category": "Nature Reserve",
+  "budget": "Mid-range",
+  "rating": 4.8,
+  "reviewCount": 120,
+  "coordinates": {
+    "lat": 11.2319,
+    "lng": 76.5458
+  },
+  "altitude": 2270,
+  "coverImage": "https://images.unsplash.com/photo-1627914972412-14051a37c355",
+  "galleryImages": [],
+  "description": "An untouched ecological paradise situated in the Nilgiris, Upper Bhavani is renowned for its turquoise lake, rolling shola forests, and abundant wildlife.",
+  "history": "Created by the Upper Bhavani Dam, acting as an important conservation area.",
+  "bestSeason": "September to April",
+  "idealDuration": "1 day",
+  "temperature": "5°C to 18°C",
+  "rainfall": "Heavy in monsoon",
+  "climate": "Cool and misty",
+  "nearestAirport": "Coimbatore (CJB)",
+  "nearestRailwayStation": "Udhagamandalam",
+  "nearestBusStand": "Ooty Bus Stand",
+  "roadConnectivity": "Forest roads accessible only by forest dept vehicles.",
+  "publicTransport": "None directly.",
+  "localTransport": "Forest Dept Mini Buses",
+  "tags": [
+    "Wildlife",
+    "Lake",
+    "Eco-tourism"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "seniorFriendly": false,
+  "wheelchairAccessibility": false,
+  "hiddenGem": true,
+  "adventureScore": 7,
+  "luxuryScore": 2,
+  "budgetScore": 6,
+  "travelWarnings": [
+    "Permission from Forest Department is mandatory.",
+    "No food options."
+  ],
+  "emergencyContacts": [
+    "112"
+  ],
+  "nearbyHospitals": [
+    "Ooty GH"
+  ],
+  "touristPolice": "Ooty Police",
+  "commonScams": [],
+  "droneRegulations": "Strictly prohibited.",
+  "environmentalGuidelines": "Zero plastic zone.",
+  "localEtiquette": "Maintain silence to spot wildlife.",
+  "language": "Tamil, English",
+  "currency": "INR",
+  "photographyTips": "Telephoto lens recommended.",
+  "internetQuality": "None",
+  "networkAvailability": "No signal.",
+  "crowdLevel": "Low",
+  "peakSeason": "April to May",
+  "offSeason": "June to August",
+  "topAttractions": [
+    {
+      "name": "Bhavani Amman Temple",
+      "description": "Small ancient temple en route.",
+      "location": "Safari trail"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Forest Safari",
+      "price": "₹250"
+    }
+  ],
+  "localFood": [],
+  "shopping": [],
+  "culture": "Protected forest area.",
+  "festivals": [],
+  "hotels": [],
+  "restaurants": [],
+  "travelTips": [
+    "Book safari early at Avalanche."
+  ],
+  "packingTips": [
+    "Warm layers"
+  ],
+  "weather": {
+    "summer": "Cool",
+    "monsoon": "Heavy rain",
+    "winter": "Very Cold"
+  },
+  "transport": [
+    "Forest Eco-tour bus"
+  ],
+  "itineraries": [
+    {
+      "name": "Eco Tour",
+      "days": 1,
+      "activities": [
+        "Forest safari"
+      ]
+    }
+  ],
+  "sourceAttribution": {
+    "sourceName": "VoyageAI Verified Dataset",
+    "lastUpdated": "2026-07-19",
+    "confidenceScore": 98,
+    "verificationStatus": "Verified Expert Curation"
+  }
+}

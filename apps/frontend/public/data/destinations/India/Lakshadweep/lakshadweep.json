@@ -1,0 +1,219 @@
+{
+  "id": "dest-lakshadweep",
+  "slug": "lakshadweep",
+  "name": "Lakshadweep",
+  "state": "Lakshadweep",
+  "country": "India",
+  "category": "Islands & Beaches",
+  "budget": "High",
+  "rating": 4.7,
+  "reviewCount": 1500,
+  "coordinates": {
+    "lat": 10.5667,
+    "lng": 72.6167
+  },
+  "altitude": "2m",
+  "coverImage": "https://images.unsplash.com/photo-1596701389599-281b6c0b39be?q=80&w=2070&auto=format&fit=crop",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1616128479592-7486e9690d5f?q=80&w=2070&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1588612140409-906d2091410d?q=80&w=2070&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1632731518386-bf5ecfdf6328?q=80&w=2070&auto=format&fit=crop"
+  ],
+  "description": "A breathtaking archipelago of 36 coral islands in the Arabian Sea, Lakshadweep is India's smallest Union Territory. Known for its pristine, uncrowded beaches, stunning coral reefs, and tranquil lagoons. Tourism is highly regulated to preserve the delicate ecology, offering an exclusive and secluded tropical experience.",
+  "history": "Inhabited for centuries, heavily influenced by Arab traders. Ruled by the Arakkal kingdom of Kannur before British administration. The Minicoy lighthouse was built in 1885.",
+  "bestSeason": "October to mid-May",
+  "idealDuration": "4-5 days",
+  "temperature": "27°C to 32°C",
+  "nearestAirport": "Agatti Airport (AGX) - 1.5 hr flight from Kochi",
+  "nearestRailwayStation": "None",
+  "nearestBusStand": "None",
+  "tags": [
+    "Coral Reefs",
+    "Scuba Diving",
+    "Secluded Beaches",
+    "Lagoon",
+    "Eco-Tourism",
+    "Water Sports"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": false,
+  "hiddenGem": true,
+  "adventureScore": 8,
+  "luxuryScore": 6,
+  "budgetScore": 2,
+  "topAttractions": [
+    {
+      "name": "Agatti Island",
+      "description": "The main gateway with the only airport. Features stunning lagoons and coral reefs.",
+      "location": "Agatti"
+    },
+    {
+      "name": "Bangaram Island",
+      "description": "An uninhabited island known for beautiful coral reefs. Hosts the only resort where alcohol is permitted.",
+      "location": "Bangaram"
+    },
+    {
+      "name": "Kadmat Island",
+      "description": "Famous for water sports, long sandy beaches, and excellent diving spots.",
+      "location": "Kadmat"
+    },
+    {
+      "name": "Minicoy Island",
+      "description": "The southernmost island with unique Maldivian cultural influences, tuna fishing, and a historic 1885 lighthouse.",
+      "location": "Minicoy"
+    },
+    {
+      "name": "Kavaratti Island",
+      "description": "The administrative capital, featuring beautiful mosques and an aquarium.",
+      "location": "Kavaratti"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Scuba Diving at Bangaram",
+      "price": 4500
+    },
+    {
+      "name": "Snorkeling in Agatti Lagoon",
+      "price": 1500
+    },
+    {
+      "name": "Kayaking",
+      "price": 800
+    },
+    {
+      "name": "Glass Bottom Boat Ride",
+      "price": 1000
+    },
+    {
+      "name": "Visit Minicoy Lighthouse",
+      "price": 200
+    },
+    {
+      "name": "Lagoon Fishing",
+      "price": 2000
+    },
+    {
+      "name": "Turtle Watching",
+      "price": 1500
+    },
+    {
+      "name": "Island Hopping by Speedboat",
+      "price": 3000
+    }
+  ],
+  "localFood": [
+    "Kavaratti Tuna Curry",
+    "Mus Kavaab (Tuna)",
+    "Octopus Fry",
+    "Coconut-based vegetarian curries",
+    "Rice and Fish",
+    "Bonda"
+  ],
+  "shopping": [
+    "Coir products",
+    "Coconut shell curios",
+    "Packaged Tuna",
+    "Seashell crafts"
+  ],
+  "culture": "Predominantly Islamic culture with strong Malayalam and Mahl (in Minicoy) linguistic influences. Traditional tuna fishing is a major way of life.",
+  "festivals": [
+    "Eid ul-Fitr",
+    "Eid ul-Adha",
+    "Milad-un-Nabi"
+  ],
+  "hotels": [
+    {
+      "name": "Bangaram Island Resort (CGH Earth)",
+      "priceRange": "₹15,000 - ₹30,000+"
+    },
+    {
+      "name": "Agatti Island Beach Resort",
+      "priceRange": "₹10,000 - ₹20,000"
+    },
+    {
+      "name": "Kadmat Beach Resort",
+      "priceRange": "₹8,000 - ₹15,000"
+    },
+    {
+      "name": "Kavaratti Island Beach Resort",
+      "priceRange": "₹7,000 - ₹12,000"
+    },
+    {
+      "name": "Minicoy Resort",
+      "priceRange": "₹8,000 - ₹14,000"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Resort Dining (Bangaram)",
+      "type": "Buffet, Seafood"
+    },
+    {
+      "name": "Agatti Resort Restaurant",
+      "type": "Local & Indian"
+    },
+    {
+      "name": "Local homestay meals",
+      "type": "Authentic Lakshadweep food"
+    }
+  ],
+  "travelTips": [
+    "A permit is mandatory for all non-Lakshadweep residents (apply via Lakshadweep Administration in Kochi).",
+    "Alcohol is prohibited on all islands except Bangaram.",
+    "Flights from Kochi to Agatti are limited; book well in advance.",
+    "Carry sufficient cash as ATMs are sparse.",
+    "BSNL and Airtel are the main mobile networks; connectivity can be patchy."
+  ],
+  "packingTips": [
+    "Light cotton clothing",
+    "Modest clothing for inhabited islands",
+    "Swimwear (for uninhabited islands/resorts)",
+    "High SPF sunscreen and sunglasses",
+    "Basic medicines (pharmacies are limited)",
+    "Underwater camera/GoPro"
+  ],
+  "weather": {
+    "January": "Perfect, 26-30°C",
+    "May": "Warm, 28-33°C",
+    "August": "Monsoon, flights/ships often cancelled, 26-30°C"
+  },
+  "transport": [
+    {
+      "mode": "Helicopter (between islands)",
+      "price": "₹4000 - ₹6000"
+    },
+    {
+      "mode": "Speedboat (between islands)",
+      "price": "₹1500 - ₹3000"
+    },
+    {
+      "mode": "Bicycle on islands",
+      "price": "₹200 per day"
+    }
+  ],
+  "itineraries": [
+    {
+      "name": "Lakshadweep Tropical Escape in 4 Days",
+      "days": [
+        {
+          "day": 1,
+          "description": "Fly from Kochi to Agatti. Transfer to Bangaram Island. Relax on the beach."
+        },
+        {
+          "day": 2,
+          "description": "Scuba diving or snorkeling in the morning. Afternoon kayaking in the lagoon."
+        },
+        {
+          "day": 3,
+          "description": "Day trip to Thinnakara or Parali islands for turtle watching."
+        },
+        {
+          "day": 4,
+          "description": "Transfer back to Agatti for the flight back to Kochi."
+        }
+      ]
+    }
+  ]
+}

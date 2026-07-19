@@ -1,0 +1,173 @@
+{
+  "id": "darjeeling-01",
+  "slug": "darjeeling",
+  "name": "Darjeeling",
+  "state": "West Bengal",
+  "country": "India",
+  "category": "Nature",
+  "budget": "Mid-range",
+  "rating": 4.6,
+  "reviewCount": 38000,
+  "coordinates": {
+    "lat": 27.036,
+    "lng": 88.2627
+  },
+  "altitude": 2042,
+  "coverImage": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?w=800&q=80",
+    "https://images.unsplash.com/photo-1580889240878-9e8196ffc82a?w=800&q=80"
+  ],
+  "description": "Darjeeling is the \"Queen of the Hills\" in the Himalayan foothills of West Bengal, famous worldwide for its single-estate Darjeeling tea (a UNESCO Geographical Indication), the UNESCO-listed Darjeeling Himalayan Railway (the \"Toy Train\"), and the breathtaking sunrise view of Kanchenjunga (8,586 m — world's third highest peak) from Tiger Hill. The town's layered colonial heritage, Tibetan Buddhist monasteries, and multicultural population of Nepali, Tibetan, Lepcha, and Bengali communities make it one of India's most unique destinations.",
+  "history": "Darjeeling was a forested tract belonging to the Kingdom of Sikkim until 1835 when it was leased to the British East India Company. The British developed it as a sanatorium and hill retreat, establishing tea plantations in the 1840s. The Darjeeling Himalayan Railway (1881) — a 2-foot narrow gauge railway — was the engineering marvel of its age, climbing 78 km from Siliguri to Darjeeling at grades up to 1:24.",
+  "bestSeason": "March to May (spring rhododendrons) and September to November (clear mountain views). Monsoon (June–September): misty and cloudy but green.",
+  "idealDuration": "3–4 days",
+  "temperature": "2°C (winter) to 22°C (summer)",
+  "nearestAirport": "Bagdogra Airport (IXB) — 90 km from Darjeeling (3 hrs by road)",
+  "nearestRailwayStation": "New Jalpaiguri (NJP) — 88 km from Darjeeling. Darjeeling Himalayan Railway (Toy Train) from NJP to Darjeeling (8 hrs) or Joy Ride from Darjeeling to Ghum.",
+  "nearestBusStand": "Darjeeling Bus Stand (near Chowk Bazaar)",
+  "tags": [
+    "Tea",
+    "Hills",
+    "Toy Train",
+    "Himalaya",
+    "Kanchenjunga",
+    "Tigers Hill"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 5,
+  "luxuryScore": 6,
+  "budgetScore": 6,
+  "topAttractions": [
+    {
+      "name": "Tiger Hill Sunrise View",
+      "description": "At 2,590 m, the most famous viewpoint in Darjeeling — 11 km from town. On clear days (best Oct–Nov, Mar–Apr), you can see Kanchenjunga (8,586 m), Makalu, Lhotse, and even Mt. Everest. The dawn sky turns orange and pink behind the glacier giants. Leave at 4 AM. Entry: ₹40. Telescope available.",
+      "location": "11 km from Darjeeling"
+    },
+    {
+      "name": "Darjeeling Himalayan Railway (UNESCO Toy Train)",
+      "description": "A UNESCO World Heritage Site — the 2-foot narrow gauge \"Toy Train\" built in 1881 that still runs on steam. The Joy Ride (2 hours, ₹1,400) from Darjeeling to Ghum and back is the most popular experience. The full journey from New Jalpaiguri (8 hrs, ₹450–1,400) is an engineering marvel through tea gardens and Himalayan scenery.",
+      "location": "Darjeeling Railway Station"
+    },
+    {
+      "name": "Happy Valley Tea Estate",
+      "description": "One of Darjeeling's oldest tea estates (1854), offering guided tours of the tea garden and factory. Watch the full process — withering, rolling, oxidizing, firing — and sample single-estate first flush and second flush teas directly from the factory. Tours: 8 AM–4 PM (closed Mondays). Entry: ₹100.",
+      "location": "3 km from Darjeeling town"
+    },
+    {
+      "name": "Batasia Loop & War Memorial",
+      "description": "A spectacular spiral loop of the Toy Train railway where the track spirals on itself to gain altitude (the only way to navigate the steep gradient). The war memorial at the loop commemorates Gorkha soldiers. Beautiful backdrop of Kanchenjunga on clear mornings. The toy train passes through here — photography hotspot.",
+      "location": "5 km from Darjeeling on NJP road"
+    },
+    {
+      "name": "Ghoom Monastery (Yiga Choling)",
+      "description": "West Bengal's oldest and most revered Tibetan Buddhist monastery (1875, Gelugpa order). Houses a 5-metre statue of Maitreya (future Buddha) and rare thangkas and manuscripts. Adjacent Samten Choling and Sakya Choling monasteries. The monks' chanting at morning prayers (5–6 AM) is deeply atmospheric.",
+      "location": "Ghoom, 8 km from Darjeeling"
+    },
+    {
+      "name": "Padmaja Naidu Himalayan Zoological Park",
+      "description": "India's highest altitude zoo and one of the most successful snow leopard and red panda breeding programs in the world. Also houses Himalayan wolves, Tibetan wolves, and red panda. Entry: ₹60 (Indian), ₹200 (foreign). Open 8:30 AM–4:30 PM, closed Thursdays.",
+      "location": "2 km from Darjeeling center"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Tiger Hill Sunrise Tour",
+      "price": "INR 1000"
+    },
+    {
+      "name": "Toy Train Joy Ride",
+      "price": "INR 1500"
+    },
+    {
+      "name": "Tea Estate Tasting Tour",
+      "price": "INR 800"
+    },
+    {
+      "name": "Himalayan Mountaineering Institute Visit",
+      "price": "INR 200"
+    },
+    {
+      "name": "Ropeway Cable Car Ride",
+      "price": "INR 250"
+    }
+  ],
+  "localFood": [
+    "Momos",
+    "Thukpa",
+    "Churpee",
+    "Darjeeling Tea",
+    "Shaphalay",
+    "Kinema"
+  ],
+  "shopping": [
+    "Chowrasta Mall",
+    "Nehru Road",
+    "Tibetan Refugee Self Help Center",
+    "Batia Loop Market"
+  ],
+  "culture": "A beautiful blend of Nepali, Tibetan, and Bengali cultures set against the backdrop of colonial British architecture and sprawling tea gardens.",
+  "festivals": [
+    "Teesta Tea & Tourism Festival (Nov-Dec)",
+    "Losar (Tibetan New Year)",
+    "Darjeeling Carnival (Nov)"
+  ],
+  "hotels": [
+    "Glenburn Tea Estate (Luxury, ₹25,000–40,000, all-inclusive — tea estate bungalow)",
+    "The Elgin Darjeeling (Heritage, ₹8,000–15,000 — colonial-era property, Nehru stayed here)",
+    "Cedar Inn (Heritage, ₹5,000–9,000, great Kanchenjunga view)",
+    "Hotel Sinclair's Darjeeling (3-star, ₹4,000–8,000)",
+    "Hotel Revolver (Budget, ₹1,500–3,000, near Mall Road)",
+    "Zostel Darjeeling (Hostel, ₹400–600)"
+  ],
+  "restaurants": [
+    {
+      "name": "Glenary's",
+      "cuisine": "Bakery / Continental"
+    },
+    {
+      "name": "Keventer's",
+      "cuisine": "English Breakfast / Snacks"
+    },
+    {
+      "name": "Kunga Restaurant",
+      "cuisine": "Authentic Tibetan"
+    },
+    {
+      "name": "Sonam's Kitchen",
+      "cuisine": "Pancakes / Coffee"
+    },
+    {
+      "name": "Shangri-La",
+      "cuisine": "Indian / Chinese"
+    }
+  ],
+  "travelTips": [
+    "Book the Toy Train well in advance",
+    "Start Tiger Hill trip by 4 AM to beat traffic",
+    "Prepare for sudden weather changes",
+    "Shared jeeps are the main local transport"
+  ],
+  "packingTips": [
+    "Heavy woolens and thermals (winter)",
+    "Windbreaker/rain jacket (monsoon/summer)",
+    "Sturdy walking shoes",
+    "Motion sickness pills for the winding roads"
+  ],
+  "weather": "Spring (Mar–May): 8–20°C — rhododendrons bloom, best tea flush, moderate crowds. Monsoon (Jun–Sep): 15–20°C, heavy rain, misty views. Autumn (Oct–Nov): 8–18°C, crystal clear, Kanchenjunga visible daily — best time. Winter (Dec–Feb): 2–12°C, frost possible, sometimes snow.",
+  "transport": "By Air: Bagdogra Airport (90 km, 3 hrs). By Rail: New Jalpaiguri (88 km, 3 hrs by shared jeep); Toy Train from NJP (8 hrs). By Road: Shared jeep from NJP (₹250, 3.5 hrs), from Siliguri (₹150, 2.5 hrs). Within Darjeeling: Walking (town is compact), shared jeeps (₹20–100).",
+  "itineraries": [
+    {
+      "name": "Queen of the Hills",
+      "days": 3,
+      "activities": [
+        "Day 1: Mall Road walk, Glenary's, Mahakal Temple",
+        "Day 2: Tiger Hill sunrise, Batasia Loop, Ghoom Monastery",
+        "Day 3: HMI, Padmaja Naidu Zoo, Happy Valley Tea Estate"
+      ]
+    }
+  ]
+}

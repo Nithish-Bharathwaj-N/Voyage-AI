@@ -1,0 +1,191 @@
+{
+  "id": "delhi-01",
+  "slug": "delhi",
+  "name": "Delhi",
+  "state": "Delhi",
+  "country": "India",
+  "category": "Culture",
+  "budget": "Mid-range",
+  "rating": 4.4,
+  "reviewCount": 120000,
+  "coordinates": {
+    "lat": 28.6139,
+    "lng": 77.209
+  },
+  "altitude": 216,
+  "coverImage": "https://images.unsplash.com/photo-1587474260584-136574528ed5?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1562979314-bee7453e911c?w=800&q=80",
+    "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=800&q=80",
+    "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800&q=80"
+  ],
+  "description": "Delhi — India's sprawling capital — is a city of extraordinary contrasts where 3,000 years of history coexist with modern infrastructure. As the seat of three UNESCO World Heritage Sites (Red Fort, Qutub Minar, Humayun's Tomb), dozens of Mughal monuments, colonial-era landmarks, ancient stepwells, and a Metro system spanning 400 km, Delhi is the essential starting point for India's Golden Triangle and the lens through which the country's complex history becomes tangible. Old Delhi (Shahjahanabad, built 1639) and New Delhi (planned capital, 1911-1931) represent two completely different worlds separated by a century of history.",
+  "history": "Delhi has been the capital of at least 8 historical empires and was the seat of the Mughal Empire at its height. The city's recorded history spans over 2,500 years — from Indraprastha (Mahabharata era) to the Tomara and Chauhan Rajput kingdoms, the Delhi Sultanate (1206-1526), the Mughal Empire (1526-1858), and British India (1911-1947). The Red Fort (Lal Qila) was built by Shah Jahan as his palace-fort in 1648 and served as the seat of Mughal power until 1857 when the last Mughal emperor, Bahadur Shah Zafar, was exiled after the 1857 uprising.",
+  "bestSeason": "October to March. October-November is best — clear skies, comfortable temperatures.",
+  "idealDuration": "3-4 days",
+  "temperature": "2°C (winter) to 45°C (summer)",
+  "nearestAirport": "Indira Gandhi International Airport (DEL) T3 — 20km from Connaught Place",
+  "nearestRailwayStation": "New Delhi Station (NDLS) and Hazrat Nizamuddin (NZM) — two major terminus stations",
+  "nearestBusStand": "ISBT Kashmere Gate (major interstate bus terminal)",
+  "tags": [
+    "UNESCO",
+    "Mughal",
+    "Metros",
+    "History",
+    "Street Food",
+    "Markets"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 3,
+  "luxuryScore": 8,
+  "budgetScore": 8,
+  "topAttractions": [
+    {
+      "name": "Lal Qila / Red Fort (UNESCO)",
+      "description": "The colossal 17th-century red sandstone fort-palace built by Mughal Emperor Shah Jahan in 1638-1648 as the centerpiece of his capital Shahjahanabad. The Lahori Gate, Diwan-i-Am, Diwan-i-Khas, and Rang Mahal are highlights. India's Prime Minister hoists the national flag here every Independence Day (August 15). Entry: ₹35 (Indian), ₹500 (foreign). Open Tue-Sun.",
+      "location": "Netaji Subhas Marg, Old Delhi"
+    },
+    {
+      "name": "Qutub Minar Complex (UNESCO)",
+      "description": "A UNESCO World Heritage Site — the 72.5 metre Qutub Minar (1193-1220 CE) is the world's tallest brick minaret and the finest example of early Indo-Islamic architecture. Built by Qutb ud-Din Aibak and completed by Iltutmish. The Iron Pillar (4th century CE, rust-resistant — a metallurgical mystery) stands in the courtyard. Entry: ₹30 (Indian), ₹600 (foreign).",
+      "location": "Mehrauli, South Delhi"
+    },
+    {
+      "name": "Humayun's Tomb (UNESCO)",
+      "description": "A 1572 CE Mughal garden-tomb that directly inspired the Taj Mahal — commissioned by Hamida Banu Begum for her husband Emperor Humayun. The first garden-tomb in India, set in a geometrical char-bagh layout. UNESCO-restored to pristine condition. Entry: ₹35 (Indian), ₹550 (foreign). Open sunrise to sunset.",
+      "location": "Mathura Road, Nizamuddin"
+    },
+    {
+      "name": "India Gate & Kartavya Path (Rajpath)",
+      "description": "India Gate — a 42-metre sandstone arch war memorial (1931) commemorating 82,000 Indian soldiers who died in WWI. The Eternal Flame (Amar Jawan Jyoti) burns since 1971. Kartavya Path (the ceremonial boulevard) connects India Gate to the Parliament and Rashtrapati Bhavan — impressive colonial urban planning by Edwin Lutyens.",
+      "location": "Central Delhi, Rajpath"
+    },
+    {
+      "name": "Chandni Chowk & Old Delhi",
+      "description": "The oldest and busiest street market in Delhi, built in 1650 by Shah Jahan. A sensory overload of spice markets (Khari Baoli — Asia's largest), wedding bazaars, silver jewelry, sari shops, Jain temples, Sikh gurdwaras, and the best street food in India — all in narrow lanes. Shared cycle-rickshaw (₹50-150) is the best way to navigate.",
+      "location": "Old Delhi, adjacent to Red Fort"
+    },
+    {
+      "name": "Akshardham Temple",
+      "description": "An extraordinary modern Hindu temple complex (2005) — one of the world's largest (encompassing 8,000 sq m of carved pink sandstone, 234 pillars, 20,000 sculptures). The boat ride through 10,000 years of India's cultural heritage and the water fountain show in the evening are highlights. Entry: Free (show tickets ₹170). Open 10AM-6:30PM, closed Mondays.",
+      "location": "Noida Mor, East Delhi"
+    },
+    {
+      "name": "Lodhi Garden",
+      "description": "A 90-acre heritage park containing 15th-century tombs of the Sayyid and Lodhi dynasty rulers — Muhammad Shah's Tomb, Bara Gumbad, Sheesh Gumbad — set in beautifully maintained gardens. The best place for morning walks, birding, and encountering Delhi's monumental history without crowds.",
+      "location": "Lodhi Road, Central Delhi"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Red Fort Sound & Light Show",
+      "price": "INR 500"
+    },
+    {
+      "name": "Old Delhi Food Walk",
+      "price": "INR 1200"
+    },
+    {
+      "name": "Qutub Minar Heritage Walk",
+      "price": "INR 800"
+    },
+    {
+      "name": "Humayun's Tomb Photography Tour",
+      "price": "INR 1000"
+    },
+    {
+      "name": "Lutyens Delhi Cycle Tour",
+      "price": "INR 1500"
+    }
+  ],
+  "localFood": [
+    "Chole Bhature",
+    "Butter Chicken",
+    "Aloo Tikki Chaat",
+    "Nihari",
+    "Parathas",
+    "Jalebi"
+  ],
+  "shopping": [
+    "Chandni Chowk",
+    "Dilli Haat",
+    "Connaught Place",
+    "Sarojini Nagar",
+    "Khan Market"
+  ],
+  "culture": "A melting pot of cultures, Delhi reflects a mix of ancient Mughal grandeur, British colonial history, and modern cosmopolitan vibes.",
+  "festivals": [
+    "Diwali (Oct-Nov)",
+    "Republic Day Parade (Jan)",
+    "Holi (March)",
+    "Qutub Festival"
+  ],
+  "hotels": [
+    "The Imperial (Heritage 5-star, ₹18000-40000, Janpath — built 1936, New Delhi's most storied hotel)",
+    "The Leela Palace (5-star, ₹15000-35000, Chanakyapuri)",
+    "ITC Maurya (5-star, ₹12000-28000, Chanakyapuri — Bukhara restaurant)",
+    "Hotel Broadway (Budget heritage, ₹2500-5000, near Mandi House)",
+    "Zostel Delhi (Hostel, ₹400-700, Paharganj)",
+    "Hotel Blue (Mid-range, ₹2000-4000, Paharganj)"
+  ],
+  "restaurants": [
+    {
+      "name": "Karim's (Jama Masjid)",
+      "cuisine": "Mughlai"
+    },
+    {
+      "name": "Indian Accent",
+      "cuisine": "Modern Indian Fine Dining"
+    },
+    {
+      "name": "Bukhara",
+      "cuisine": "North West Frontier"
+    },
+    {
+      "name": "Paranthe Wali Gali",
+      "cuisine": "Street Food"
+    },
+    {
+      "name": "Saravana Bhavan",
+      "cuisine": "South Indian Thali"
+    }
+  ],
+  "travelTips": [
+    "Use the Delhi Metro for fastest travel",
+    "Avoid auto-rickshaws without meters",
+    "Bargain hard at street markets",
+    "Dress modestly at religious sites",
+    "Carry N95 masks during winter due to smog"
+  ],
+  "packingTips": [
+    "Comfortable walking shoes",
+    "Light cottons for summer",
+    "Heavy woolens for winter (Dec-Jan)",
+    "Scarf or shawl for temple visits",
+    "Power bank"
+  ],
+  "weather": "Winter (Nov-Feb): 5-20°C, fog, pleasant. Spring (Mar-Apr): 22-35°C. Summer (May-Jun): 35-45°C — avoid. Monsoon (Jul-Sep): 28-40°C with heavy rain. Autumn (Oct): 20-30°C — best.",
+  "transport": "By Air: IGI Airport (20km, Metro connects Airport to center in 25 min, ₹60). By Rail: New Delhi Station and Hazrat Nizamuddin. Metro: 400km network, ₹10-60 per trip. Autos: ₹50-300 using Ola/Uber or meter. Taxis: ₹100-500.",
+  "itineraries": [
+    {
+      "name": "Mughal & Colonial Heritage",
+      "days": 2,
+      "activities": [
+        "Day 1: Red Fort, Jama Masjid, Chandni Chowk food walk",
+        "Day 2: India Gate, Rashtrapati Bhavan, Humayun's Tomb, Qutub Minar"
+      ]
+    },
+    {
+      "name": "Modern & Ancient Delhi",
+      "days": 3,
+      "activities": [
+        "Day 1: Old Delhi heritage and street food",
+        "Day 2: Lutyens Delhi and National Museum",
+        "Day 3: Lotus Temple, Hauz Khas Village ruins and nightlife"
+      ]
+    }
+  ]
+}

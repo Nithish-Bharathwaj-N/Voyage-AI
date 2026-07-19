@@ -1,0 +1,223 @@
+{
+  "id": "aurangabad-01",
+  "slug": "aurangabad",
+  "name": "Aurangabad",
+  "state": "Maharashtra",
+  "country": "India",
+  "category": "Popular",
+  "budget": "Mid-range",
+  "rating": 4.5,
+  "reviewCount": 5800,
+  "coordinates": {
+    "lat": 20.8,
+    "lng": 77.8
+  },
+  "altitude": 500,
+  "coverImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1524492412937-b28074a5d7da",
+    "https://images.unsplash.com/photo-1514222134-b57c48ce6c64",
+    "https://images.unsplash.com/photo-1506461883276-594c40b8a4f8"
+  ],
+  "description": "Aurangabad is a magnificent destination in Maharashtra, India. Known for its remarkable blend of history, culture, and natural beauty. Visitors flock here to experience its unique atmosphere, vibrant local markets, and iconic landmarks. Whether you are seeking spiritual peace, thrilling adventures, or simply a relaxing holiday, Aurangabad offers a memorable experience that captures the true essence of Indian heritage. The city's charm lies in its timeless appeal and warm hospitality.",
+  "history": "Aurangabad boasts a rich history spanning several centuries, serving as a prominent center for trade, culture, and power under various dynasties.",
+  "bestSeason": "October to March",
+  "idealDuration": "2-4 Days",
+  "temperature": "15°C to 30°C",
+  "nearestAirport": "Local Airport (15km)",
+  "nearestRailwayStation": "Aurangabad Junction",
+  "nearestBusStand": "Aurangabad Central Bus Stand",
+  "tags": [
+    "Caves",
+    "Heritage",
+    "Mughal",
+    "UNESCO"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 5,
+  "luxuryScore": 6,
+  "budgetScore": 7,
+  "topAttractions": [
+    {
+      "name": "Ajanta Caves (UNESCO) — Day Trip",
+      "description": "30 Buddhist cave monasteries and temples (1st BCE – 5th CE) carved into horseshoe-shaped cliffs 107km from Aurangabad. Caves 1 and 2 have the finest painted murals in the world — detailed court scenes, Jataka tales, and the life of the Buddha painted with extraordinary skill 2,000 years ago. Entry: ₹40 (Indian), ₹600 (foreign). Open Tue-Sun.",
+      "location": "107km from Aurangabad"
+    },
+    {
+      "name": "Ellora Caves (UNESCO) — Day Trip",
+      "description": "34 rock-cut temples (Buddhist, Hindu, Jain, 6th-11th century CE) covering 2km of cliff face 30km from Aurangabad. The Kailasa Temple (Cave 16) — dedicated to Shiva, carved from a single basalt rock by 7,000 laborers over 150 years — is the largest single rock-cut structure in the world (83m × 47m × 33m). Entry: ₹40 (Indian), ₹600 (foreign).",
+      "location": "30km from Aurangabad"
+    },
+    {
+      "name": "Bibi Ka Maqbara",
+      "description": "A 1679 CE Mughal tomb built by Aurangzeb's son Azam Shah for his mother Dilras Banu Begum — called the \"Taj of the Deccan\" or \"Mini Taj\" for its white marble and resemblance to the Taj Mahal. The marble was imported from Rajasthan, the rest in lime plaster. Entry: ₹25 (Indian), ₹300 (foreign).",
+      "location": "North Aurangabad"
+    },
+    {
+      "name": "Daulatabad Fort (Deogiri)",
+      "description": "A virtually impregnable 13th-century fort on a 200m high volcanic cone 15km from Aurangabad. Built by the Yadava dynasty, later strengthened by the Delhi Sultanate and Muhammad bin Tughluq (who briefly moved the entire Delhi capital here in 1327). The spiral interior moat and the dark tunnel (requiring a candle) are extraordinary. Entry: ₹25 (Indian), ₹300 (foreign).",
+      "location": "15km from Aurangabad"
+    },
+    {
+      "name": "Aurangabad Caves",
+      "description": "A group of 12 Buddhist rock-cut caves (6th-8th CE) in two groups — the best preserved in Maharashtra apart from Ajanta-Ellora. Cave 3 has a remarkable 10-arm standing Bodhisattva and Cave 7 has elaborate carvings. Less visited than the famous UNESCO sites, making for a peaceful visit. Entry: ₹25 (Indian).",
+      "location": "3km north of Aurangabad city"
+    },
+    {
+      "name": "Panchakki (Water Mill)",
+      "description": "A 17th-century underground water channel system that drove a massive millstone to grind grain for the Dargah of Hazrat Baba Shah Musafir Chishti. The waterfall created by the channel and the scenic garden complex are beautiful. The Dargah itself is an active Sufi shrine.",
+      "location": "Begumpura, Central Aurangabad"
+    }
+  ],
+  "activities": [
+    {
+      "name": "City Sightseeing Tour",
+      "price": "INR 500"
+    },
+    {
+      "name": "Heritage Walk",
+      "price": "INR 300"
+    },
+    {
+      "name": "Local Market Shopping",
+      "price": "Variable"
+    },
+    {
+      "name": "Food Tasting Trail",
+      "price": "INR 800"
+    },
+    {
+      "name": "Cultural Evening Show",
+      "price": "INR 400"
+    },
+    {
+      "name": "Museum Visit",
+      "price": "INR 50"
+    },
+    {
+      "name": "Sunset Viewpoint",
+      "price": "Free"
+    },
+    {
+      "name": "Nature Trek/Walk",
+      "price": "Free"
+    }
+  ],
+  "localFood": [
+    "Naan Qalia",
+    "Tahri",
+    "Local Sweets",
+    "Street Food Chaat",
+    "Traditional Thali"
+  ],
+  "shopping": [
+    "Main Bazaar",
+    "Handicraft Emporium",
+    "Spice Market",
+    "Local Artisans Street",
+    "Textile Market"
+  ],
+  "culture": "The culture of Aurangabad is a vibrant tapestry of traditional arts, festivals, and culinary delights, deeply influenced by its historical roots.",
+  "festivals": [
+    "Diwali (Oct-Nov)",
+    "Holi (March)",
+    "Local State Festival",
+    "Navratri"
+  ],
+  "hotels": [
+    {
+      "name": "Taj Heritage",
+      "price": "INR 10000-15000"
+    },
+    {
+      "name": "The Grand Resort",
+      "price": "INR 6000-10000"
+    },
+    {
+      "name": "Boutique Stay",
+      "price": "INR 4000-7000"
+    },
+    {
+      "name": "City Central Hotel",
+      "price": "INR 3000-5000"
+    },
+    {
+      "name": "Backpacker Hostel",
+      "price": "INR 800-1500"
+    },
+    {
+      "name": "Budget Inn",
+      "price": "INR 1500-2500"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "The Royal Feast",
+      "cuisine": "Fine Dining"
+    },
+    {
+      "name": "Local Flavours Cafe",
+      "cuisine": "Traditional Authentic"
+    },
+    {
+      "name": "Street Bite",
+      "cuisine": "Street Food"
+    },
+    {
+      "name": "Ocean/Hill View Resto",
+      "cuisine": "Multi-cuisine"
+    },
+    {
+      "name": "Heritage Thali",
+      "cuisine": "Regional Thali"
+    }
+  ],
+  "travelTips": [
+    "Book accommodations in advance during peak season",
+    "Try the local street food but ensure it is hot and fresh",
+    "Bargain politely at local markets",
+    "Use authorized taxis or rideshare apps",
+    "Respect local customs and dress modestly at religious sites",
+    "Carry cash for small purchases"
+  ],
+  "packingTips": [
+    "Comfortable walking shoes",
+    "Weather-appropriate clothing",
+    "Power bank",
+    "Sunscreen and sunglasses",
+    "Basic first-aid kit"
+  ],
+  "weather": {
+    "summer": "30°C to 42°C",
+    "monsoon": "25°C to 35°C",
+    "winter": "10°C to 25°C"
+  },
+  "transport": [
+    "Auto Rickshaw (INR 50-150)",
+    "Taxi (INR 200-500)",
+    "Local Bus (INR 15-40)",
+    "Rideshare Apps"
+  ],
+  "itineraries": [
+    {
+      "name": "Highlights Tour",
+      "days": 2,
+      "activities": [
+        "Day 1: Arrival, City Center Attractions, Evening Market",
+        "Day 2: Historical Sites, Local Food Tasting, Departure"
+      ]
+    },
+    {
+      "name": "Deep Dive Experience",
+      "days": 3,
+      "activities": [
+        "Day 1: Essential Monuments",
+        "Day 2: Culture, Arts, and Shopping",
+        "Day 3: Nature/Surroundings and Relaxation"
+      ]
+    }
+  ]
+}

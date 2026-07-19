@@ -1,0 +1,166 @@
+{
+  "id": "agra-01",
+  "slug": "agra",
+  "name": "Agra",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "category": "Culture",
+  "budget": "Mid-range",
+  "rating": 4.5,
+  "reviewCount": 85000,
+  "coordinates": {
+    "lat": 27.1767,
+    "lng": 78.0081
+  },
+  "altitude": 170,
+  "coverImage": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1563638407-6b7c353ca9f9?w=800&q=80",
+    "https://images.unsplash.com/photo-1585136917228-dd58d8e2e0c5?w=800&q=80"
+  ],
+  "description": "Agra is home to one of the Seven Wonders of the World — the Taj Mahal, built by Mughal Emperor Shah Jahan (1632–1653) as a monument to his deceased wife Mumtaz Mahal. Beyond the Taj, Agra has two more UNESCO World Heritage Sites — Agra Fort and Fatehpur Sikri — making it the single city with the highest concentration of UNESCO monuments in India. Agra was the capital of the Mughal Empire at its zenith under Akbar, Jahangir, and Shah Jahan.",
+  "history": "Agra first rose to prominence when Sikandar Lodi made it his capital in 1504. It became the Mughal capital under Akbar, who built the magnificent Agra Fort. Under Shah Jahan (1628–1658), it reached its artistic peak — the Taj Mahal, Jama Masjid, and the Pearl Mosque (Moti Masjid) were built. Aurangzeb overthrew his father and moved the capital to Delhi and later Aurangabad, beginning Agra's decline.",
+  "bestSeason": "October to March. Avoid April–June (45°C). Taj Mahal at sunrise is transcendent.",
+  "idealDuration": "1–2 days (combine with Delhi and Jaipur for Golden Triangle)",
+  "temperature": "3°C (winter nights) to 48°C (summer)",
+  "nearestAirport": "Agra Airport (Kheria) — limited flights. Better: Delhi IGI Airport (205 km, 3.5 hrs)",
+  "nearestRailwayStation": "Agra Cantonment (AGC) — Shatabdi from Delhi (2 hrs), Taj Express",
+  "nearestBusStand": "ISBT Agra",
+  "tags": [
+    "Taj Mahal",
+    "Mughal",
+    "UNESCO",
+    "Heritage",
+    "Love",
+    "Seven Wonders"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 2,
+  "luxuryScore": 6,
+  "budgetScore": 6,
+  "topAttractions": [
+    {
+      "name": "Taj Mahal (UNESCO World Heritage)",
+      "description": "The world's greatest monument to love — a white marble mausoleum built by Shah Jahan for his wife Mumtaz Mahal (died 1631). Completed in 1653, it uses 28 types of precious and semi-precious stones and took 22 years and 20,000 workers to complete. Entry: ₹50 (Indian), ₹1,100 (foreign). Open Sat–Thu, 30 min before sunrise to 30 min before sunset. Closed Fridays. Sunrise visit strongly recommended.",
+      "location": "Taj Ganj, south bank of Yamuna"
+    },
+    {
+      "name": "Agra Fort (UNESCO World Heritage)",
+      "description": "A massive 16th-century red sandstone fort — more a walled city than a fort — built by Akbar in 1565. Contains the Diwan-i-Am, Diwan-i-Khas, the marble Khas Mahal, and Musamman Burj (the tower where Shah Jahan spent his last years imprisoned by his son Aurangzeb, with a view of the Taj Mahal). Entry: ₹50 (Indian), ₹650 (foreign). Open sunrise to sunset.",
+      "location": "2.5 km from Taj Mahal"
+    },
+    {
+      "name": "Fatehpur Sikri (UNESCO World Heritage)",
+      "description": "A ghost city 40 km from Agra — Akbar's purpose-built capital (1571–1585), abandoned after just 14 years (possibly due to water shortage). Perfectly preserved red sandstone palaces, the Buland Darwaza (54 m high gateway — one of India's tallest), Jama Masjid, and Salim Chishti's Dargah. Entry: ₹35 (Indian), ₹550 (foreign).",
+      "location": "40 km from Agra"
+    },
+    {
+      "name": "Itmad-ud-Daulah (Baby Taj)",
+      "description": "The first Mughal building entirely constructed of marble (1628). Built by Nur Jahan for her father Mirza Ghiyas Beg. Considered a transitional monument between early Mughal and later Shah Jahani style. The intricate pietra dura inlay work here directly inspired the Taj Mahal. Entry: ₹35 (Indian), ₹310 (foreign).",
+      "location": "North bank of Yamuna, 3 km from Taj Mahal"
+    },
+    {
+      "name": "Mehtab Bagh (Moonlight Garden)",
+      "description": "A 16th-century garden on the north bank of the Yamuna, directly opposite the Taj Mahal. Provides the best sunset view of the Taj — from outside the main complex, with the Yamuna in between. Shah Jahan reportedly planned a black marble Taj here for himself (never built). Entry: ₹25 (Indian).",
+      "location": "Opposite Taj Mahal, north bank of Yamuna"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Taj Mahal Sunrise Tour",
+      "price": "INR 1500"
+    },
+    {
+      "name": "Agra Fort Heritage Walk",
+      "price": "INR 600"
+    },
+    {
+      "name": "Fatehpur Sikri Excursion",
+      "price": "INR 1200"
+    },
+    {
+      "name": "Mehtab Bagh Sunset View",
+      "price": "INR 300"
+    },
+    {
+      "name": "Mughal Heritage Food Walk",
+      "price": "INR 900"
+    }
+  ],
+  "localFood": [
+    "Petha (Sweet)",
+    "Bedmi Puri",
+    "Mughlai Curries",
+    "Dalmoth (Snack)",
+    "Shahi Tukda",
+    "Tandoori Kebabs"
+  ],
+  "shopping": [
+    "Sadar Bazaar",
+    "Kinari Bazaar",
+    "Marble Inlay Workshops",
+    "Leather Markets"
+  ],
+  "culture": "The former Mughal capital, Agra represents the pinnacle of Indo-Islamic architecture, art, and Mughlai culinary traditions.",
+  "festivals": [
+    "Taj Mahotsav (Feb)",
+    "Ram Baraat (Sep-Oct)",
+    "Urs (Fatehpur Sikri)"
+  ],
+  "hotels": [
+    "ITC Mughal (5-star, ₹15,000–30,000 — Taj Mahal view from pool)",
+    "Taj Hotel & Convention Center (5-star, ₹12,000–25,000)",
+    "Oberoi Amarvilas (Ultra-luxury, ₹45,000–1,00,000 — all rooms face Taj Mahal directly)",
+    "Crystal Sarovar Premiere (4-star, ₹5,000–8,000)",
+    "Hotel Kamal (Budget, ₹1,200–2,500, near Taj South Gate)"
+  ],
+  "restaurants": [
+    {
+      "name": "Peshawri (ITC Mughal)",
+      "cuisine": "North West Frontier"
+    },
+    {
+      "name": "Pinch of Spice",
+      "cuisine": "North Indian / Mughlai"
+    },
+    {
+      "name": "Dasaprakash",
+      "cuisine": "South Indian Vegetarian"
+    },
+    {
+      "name": "Joney's Place",
+      "cuisine": "Backpacker Cafe"
+    },
+    {
+      "name": "Rambabu Paratha Bhandar",
+      "cuisine": "Local Parathas"
+    }
+  ],
+  "travelTips": [
+    "Taj Mahal is closed on Fridays",
+    "Buy tickets online to avoid long queues",
+    "Only water and cameras allowed inside Taj Mahal",
+    "Ignore aggressive touts and unverified guides"
+  ],
+  "packingTips": [
+    "Comfortable shoes (lots of walking)",
+    "Modest clothing for monuments",
+    "Light jacket for winter mornings",
+    "Camera with extra batteries"
+  ],
+  "weather": "Winter (Oct–Feb): 5–25°C, best. Spring (Mar–Apr): 25–40°C. Summer (May–Jun): 40–48°C — unbearable. Monsoon (Jul–Sep): 30–38°C, rain, humidity.",
+  "transport": "By Rail: Agra Cantonment — Shatabdi Express from Delhi (2 hrs, ₹700–1,000), Taj Express. By Road: Yamuna Expressway from Delhi (3–3.5 hrs). Within city: Ola/Uber, autorickshaws (₹50–200), horse-drawn tongas near Taj.",
+  "itineraries": [
+    {
+      "name": "Mughal Splendor",
+      "days": 2,
+      "activities": [
+        "Day 1: Sunrise at Taj Mahal, Agra Fort, Mehtab Bagh at sunset",
+        "Day 2: Excursion to Fatehpur Sikri and Sikandra (Akbar's Tomb)"
+      ]
+    }
+  ]
+}

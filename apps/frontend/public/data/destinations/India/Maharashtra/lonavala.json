@@ -1,0 +1,224 @@
+{
+  "id": "lonavala-01",
+  "slug": "lonavala",
+  "name": "Lonavala",
+  "state": "Maharashtra",
+  "country": "India",
+  "category": "Popular",
+  "budget": "Mid-range",
+  "rating": 4.5,
+  "reviewCount": 5700,
+  "coordinates": {
+    "lat": 20.7,
+    "lng": 77.7
+  },
+  "altitude": 500,
+  "coverImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1524492412937-b28074a5d7da",
+    "https://images.unsplash.com/photo-1514222134-b57c48ce6c64",
+    "https://images.unsplash.com/photo-1506461883276-594c40b8a4f8"
+  ],
+  "description": "Lonavala is a magnificent destination in Maharashtra, India. Known for its remarkable blend of history, culture, and natural beauty. Visitors flock here to experience its unique atmosphere, vibrant local markets, and iconic landmarks. Whether you are seeking spiritual peace, thrilling adventures, or simply a relaxing holiday, Lonavala offers a memorable experience that captures the true essence of Indian heritage. The city's charm lies in its timeless appeal and warm hospitality.",
+  "history": "Lonavala boasts a rich history spanning several centuries, serving as a prominent center for trade, culture, and power under various dynasties.",
+  "bestSeason": "October to March",
+  "idealDuration": "2-4 Days",
+  "temperature": "15°C to 30°C",
+  "nearestAirport": "Local Airport (15km)",
+  "nearestRailwayStation": "Lonavala Junction",
+  "nearestBusStand": "Lonavala Central Bus Stand",
+  "tags": [
+    "Hill Station",
+    "Caves",
+    "Waterfalls",
+    "Chikki"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 5,
+  "luxuryScore": 6,
+  "budgetScore": 7,
+  "topAttractions": [
+    {
+      "name": "Karla Caves",
+      "description": "The finest rock-cut Buddhist cave temples in Maharashtra — a 2nd BCE Buddhist site with the best-preserved Chaitya (prayer hall) in India. The great Chaitya has a 15m high carved wooden ribbed roof, 38 octagonal pillars, and an Ashoka-era stupa inside. 12km from Lonavala. Entry: ₹25 (Indian), ₹300 (foreign).",
+      "location": "12km from Lonavala"
+    },
+    {
+      "name": "Bhaja Caves",
+      "description": "Similar in age to Karla (2nd BCE), these 22 Buddhist rock-cut caves are less visited but equally beautiful. The dancing couple and musician carvings at the entrance to Cave 19 are remarkable. 12km from Lonavala (1km walk from Karla). Entry: ₹25 (Indian).",
+      "location": "13km from Lonavala"
+    },
+    {
+      "name": "Tiger's Leap (Tiger Point)",
+      "description": "A dramatic cliff viewpoint overlooking the Sahyadri valley 650m below — named for a rock formation resembling a tiger's head. One of the finest viewpoints in the Western Ghats, best in monsoon when the valley fills with mist and waterfalls. 11km from Lonavala. Entry: ₹20.",
+      "location": "11km from Lonavala"
+    },
+    {
+      "name": "Rajmachi Fort",
+      "description": "A twin-peaked Maratha hill fort (17th century) with two ramparts — Shrivardhan and Manaranjan — accessible by 15km trek from Karjat or 21km from Lonavala. The fort sits on a strategic point in the Sahyadri range with 360-degree views. Overnight camping (₹300-500) is popular.",
+      "location": "21km from Lonavala (via Tungarli)"
+    },
+    {
+      "name": "Bhushi Dam",
+      "description": "A small dam on the Indrayani River most famous during monsoon (June-September) when excess water overflows the concrete steps in a series of natural waterfalls. Extremely popular with Mumbai and Pune visitors — becomes crowded on weekends. Strong currents during heavy monsoon.",
+      "location": "3km from Lonavala town"
+    },
+    {
+      "name": "Duke's Nose (Naagphani)",
+      "description": "A pointed rock formation resembling a duck's nose (also called Naagphani — Cobra's Hood) — a prominent viewpoint 7km from Lonavala. Trekking route around the ridge. Visible from the Mumbai-Pune Expressway.",
+      "location": "7km from Lonavala"
+    }
+  ],
+  "activities": [
+    {
+      "name": "City Sightseeing Tour",
+      "price": "INR 500"
+    },
+    {
+      "name": "Heritage Walk",
+      "price": "INR 300"
+    },
+    {
+      "name": "Local Market Shopping",
+      "price": "Variable"
+    },
+    {
+      "name": "Food Tasting Trail",
+      "price": "INR 800"
+    },
+    {
+      "name": "Cultural Evening Show",
+      "price": "INR 400"
+    },
+    {
+      "name": "Museum Visit",
+      "price": "INR 50"
+    },
+    {
+      "name": "Sunset Viewpoint",
+      "price": "Free"
+    },
+    {
+      "name": "Nature Trek/Walk",
+      "price": "Free"
+    }
+  ],
+  "localFood": [
+    "Chikki",
+    "Fudge",
+    "Vada Pav",
+    "Local Sweets",
+    "Street Food Chaat",
+    "Traditional Thali"
+  ],
+  "shopping": [
+    "Main Bazaar",
+    "Handicraft Emporium",
+    "Spice Market",
+    "Local Artisans Street",
+    "Textile Market"
+  ],
+  "culture": "The culture of Lonavala is a vibrant tapestry of traditional arts, festivals, and culinary delights, deeply influenced by its historical roots.",
+  "festivals": [
+    "Diwali (Oct-Nov)",
+    "Holi (March)",
+    "Local State Festival",
+    "Navratri"
+  ],
+  "hotels": [
+    {
+      "name": "Taj Heritage",
+      "price": "INR 10000-15000"
+    },
+    {
+      "name": "The Grand Resort",
+      "price": "INR 6000-10000"
+    },
+    {
+      "name": "Boutique Stay",
+      "price": "INR 4000-7000"
+    },
+    {
+      "name": "City Central Hotel",
+      "price": "INR 3000-5000"
+    },
+    {
+      "name": "Backpacker Hostel",
+      "price": "INR 800-1500"
+    },
+    {
+      "name": "Budget Inn",
+      "price": "INR 1500-2500"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "The Royal Feast",
+      "cuisine": "Fine Dining"
+    },
+    {
+      "name": "Local Flavours Cafe",
+      "cuisine": "Traditional Authentic"
+    },
+    {
+      "name": "Street Bite",
+      "cuisine": "Street Food"
+    },
+    {
+      "name": "Ocean/Hill View Resto",
+      "cuisine": "Multi-cuisine"
+    },
+    {
+      "name": "Heritage Thali",
+      "cuisine": "Regional Thali"
+    }
+  ],
+  "travelTips": [
+    "Book accommodations in advance during peak season",
+    "Try the local street food but ensure it is hot and fresh",
+    "Bargain politely at local markets",
+    "Use authorized taxis or rideshare apps",
+    "Respect local customs and dress modestly at religious sites",
+    "Carry cash for small purchases"
+  ],
+  "packingTips": [
+    "Comfortable walking shoes",
+    "Weather-appropriate clothing",
+    "Power bank",
+    "Sunscreen and sunglasses",
+    "Basic first-aid kit"
+  ],
+  "weather": {
+    "summer": "30°C to 42°C",
+    "monsoon": "25°C to 35°C",
+    "winter": "10°C to 25°C"
+  },
+  "transport": [
+    "Auto Rickshaw (INR 50-150)",
+    "Taxi (INR 200-500)",
+    "Local Bus (INR 15-40)",
+    "Rideshare Apps"
+  ],
+  "itineraries": [
+    {
+      "name": "Highlights Tour",
+      "days": 2,
+      "activities": [
+        "Day 1: Arrival, City Center Attractions, Evening Market",
+        "Day 2: Historical Sites, Local Food Tasting, Departure"
+      ]
+    },
+    {
+      "name": "Deep Dive Experience",
+      "days": 3,
+      "activities": [
+        "Day 1: Essential Monuments",
+        "Day 2: Culture, Arts, and Shopping",
+        "Day 3: Nature/Surroundings and Relaxation"
+      ]
+    }
+  ]
+}

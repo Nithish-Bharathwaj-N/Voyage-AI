@@ -1,0 +1,269 @@
+{
+  "id": "puri-01",
+  "slug": "puri",
+  "name": "Puri",
+  "state": "Odisha",
+  "country": "India",
+  "category": "Pilgrimage",
+  "budget": "Medium",
+  "rating": "4.3",
+  "reviewCount": 2685,
+  "coordinates": {
+    "lat": 28.85671415226041,
+    "lng": 81.38446960787266
+  },
+  "altitude": "Various",
+  "coverImage": "https://images.unsplash.com/photo-1506461883276-594540eb3c47?q=80&w=1000",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=1000",
+    "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?q=80&w=1000",
+    "https://images.unsplash.com/photo-1506461883276-594540eb3c47?q=80&w=1000"
+  ],
+  "description": "Jagannath Temple 12th century (65m tower, one of 4 Char Dham, 6000+ priests serve here). Non-Hindus not permitted inside. Ananda Bazar (inside temple — world's largest open-air kitchen serving 56 Mahaprasad dishes to 100,000+ daily). Puri Beach (Golden Beach, 8km, safe swimming in marked areas). Chilika Lake (60km, Asia's largest coastal lagoon, 1100 sq km, Irrawaddy dolphins, flamingos). Konark Sun Temple UNESCO (35km — 13th century Black Pagoda, chariot-shaped temple). Ratha Yatra (June/July — world's largest chariot procession). This location offers a unique blend of experiences that captivate travelers from around the world. Whether you are looking for relaxation, adventure, or cultural immersion, this destination has something special to offer. The local hospitality is warm and welcoming, ensuring a memorable stay. We recommend planning your trip well in advance to make the most of the diverse attractions. The scenic beauty, historical significance, and vibrant local life make it a must-visit spot on any itinerary. Don't forget to explore the hidden gems and interact with the locals to truly understand the essence of this wonderful place.",
+  "history": "The history of Puri is deeply rooted in ancient traditions and significant historical events that shaped the region. Over the centuries, it has witnessed the rise and fall of various empires, each leaving its indelible mark on the local culture and architecture.",
+  "bestSeason": "October to March",
+  "idealDuration": "3-4 Days",
+  "temperature": "15°C to 30°C",
+  "nearestAirport": "XYZ 50km",
+  "nearestRailwayStation": "Puri Junction",
+  "nearestBusStand": "Puri Central Bus Stand",
+  "tags": [
+    "Nature",
+    "Culture",
+    "History",
+    "Sightseeing",
+    "Photography",
+    "Adventure"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 9,
+  "luxuryScore": 6,
+  "budgetScore": 8,
+  "topAttractions": [
+    {
+      "name": "Attraction 1 in Puri",
+      "description": "A must-visit landmark in Puri, featuring amazing architecture and rich history that dates back centuries. Visitors spend hours here.",
+      "location": "Puri Central"
+    },
+    {
+      "name": "Attraction 2 in Puri",
+      "description": "A must-visit landmark in Puri, featuring amazing architecture and rich history that dates back centuries. Visitors spend hours here.",
+      "location": "Puri Central"
+    },
+    {
+      "name": "Attraction 3 in Puri",
+      "description": "A must-visit landmark in Puri, featuring amazing architecture and rich history that dates back centuries. Visitors spend hours here.",
+      "location": "Puri Central"
+    },
+    {
+      "name": "Attraction 4 in Puri",
+      "description": "A must-visit landmark in Puri, featuring amazing architecture and rich history that dates back centuries. Visitors spend hours here.",
+      "location": "Puri Central"
+    },
+    {
+      "name": "Attraction 5 in Puri",
+      "description": "A must-visit landmark in Puri, featuring amazing architecture and rich history that dates back centuries. Visitors spend hours here.",
+      "location": "Puri Central"
+    },
+    {
+      "name": "Attraction 6 in Puri",
+      "description": "A must-visit landmark in Puri, featuring amazing architecture and rich history that dates back centuries. Visitors spend hours here.",
+      "location": "Puri Central"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Sightseeing Tour",
+      "price": 1500
+    },
+    {
+      "name": "Local Food Tasting",
+      "price": 800
+    },
+    {
+      "name": "Photography Walk",
+      "price": 500
+    },
+    {
+      "name": "Cultural Heritage Walk",
+      "price": 600
+    },
+    {
+      "name": "Nature Trail Hike",
+      "price": 1200
+    },
+    {
+      "name": "Sunset Viewpoint Visit",
+      "price": 300
+    },
+    {
+      "name": "Local Market Shopping",
+      "price": 1000
+    },
+    {
+      "name": "Traditional Craft Workshop",
+      "price": 1500
+    }
+  ],
+  "localFood": [
+    "Dish 1",
+    "Dish 2",
+    "Dish 3",
+    "Dish 4",
+    "Dish 5",
+    "Dish 6"
+  ],
+  "shopping": [
+    "Local Handicrafts",
+    "Spices",
+    "Traditional Wear",
+    "Souvenirs",
+    "Jewelry"
+  ],
+  "culture": "The culture of Puri is a vibrant tapestry of indigenous traditions, colonial influences, and modern adaptations, reflecting a diverse community.",
+  "festivals": [
+    {
+      "name": "Spring Festival",
+      "month": "March"
+    },
+    {
+      "name": "Harvest Festival",
+      "month": "October"
+    },
+    {
+      "name": "Winter Carnival",
+      "month": "December"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Luxury Resort",
+      "priceRange": "₹10000 - ₹20000"
+    },
+    {
+      "name": "Heritage Hotel",
+      "priceRange": "₹8000 - ₹15000"
+    },
+    {
+      "name": "Boutique Stay",
+      "priceRange": "₹5000 - ₹10000"
+    },
+    {
+      "name": "Comfort Inn",
+      "priceRange": "₹3000 - ₹6000"
+    },
+    {
+      "name": "Backpacker Hostel",
+      "priceRange": "₹800 - ₹1500"
+    },
+    {
+      "name": "Homestay",
+      "priceRange": "₹1500 - ₹3000"
+    }
+  ],
+  "restaurants": [
+    "Local Delights",
+    "Spice Route",
+    "The Grand Feast",
+    "Cafe Serenity",
+    "Street Food Corner"
+  ],
+  "travelTips": [
+    "Carry comfortable walking shoes.",
+    "Keep local currency handy.",
+    "Respect local customs and traditions.",
+    "Stay hydrated and carry a water bottle.",
+    "Book accommodations in advance.",
+    "Use local transport for an authentic experience."
+  ],
+  "packingTips": [
+    "Light cotton clothes",
+    "Sunscreen and sunglasses",
+    "First-aid kit",
+    "Power bank",
+    "Camera"
+  ],
+  "weather": "Pleasant weather throughout most of the year, with heavy rainfall during monsoons.",
+  "transport": [
+    {
+      "type": "Taxi",
+      "price": "₹15/km"
+    },
+    {
+      "type": "Auto Rickshaw",
+      "price": "₹10/km"
+    },
+    {
+      "type": "Local Bus",
+      "price": "₹20 flat"
+    }
+  ],
+  "itineraries": [
+    {
+      "type": "Cultural Exploration",
+      "durationDays": 3,
+      "estimatedCost": "₹15000",
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            "Arrival and Check-in",
+            "Visit local markets"
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            "Full day sightseeing",
+            "Evening cultural show"
+          ]
+        },
+        {
+          "day": 3,
+          "activities": [
+            "Leisure morning",
+            "Departure"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Adventure Getaway",
+      "durationDays": 4,
+      "estimatedCost": "₹20000",
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            "Arrival",
+            "Orientation"
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            "Trekking or outdoor activity",
+            "Bonfire"
+          ]
+        },
+        {
+          "day": 3,
+          "activities": [
+            "Water sports or safari",
+            "Relaxation"
+          ]
+        },
+        {
+          "day": 4,
+          "activities": [
+            "Shopping",
+            "Departure"
+          ]
+        }
+      ]
+    }
+  ]
+}

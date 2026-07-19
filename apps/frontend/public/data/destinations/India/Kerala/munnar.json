@@ -1,0 +1,245 @@
+{
+  "id": "munnar-01",
+  "slug": "munnar",
+  "name": "Munnar",
+  "state": "Kerala",
+  "country": "India",
+  "category": "Nature",
+  "budget": "Mid-range",
+  "rating": 4.7,
+  "reviewCount": 42000,
+  "coordinates": {
+    "lat": 10.0889,
+    "lng": 77.0595
+  },
+  "altitude": 1600,
+  "coverImage": "https://images.unsplash.com/photo-1590674899484-d5640e854abe?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=800&q=80",
+    "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80",
+    "https://images.unsplash.com/photo-1590674899484-d5640e854abe?w=800&q=80"
+  ],
+  "description": "Munnar is a hill station in the Idukki district of Kerala, tucked away in the Western Ghats at 1,600 metres. Its landscape is dominated by endless emerald tea gardens — one of South India's largest and finest tea-growing regions, first established by British planters in the 1880s. The cool mist, rolling green hills, rare Neelakurinji flowers (bloom every 12 years, next bloom 2030), and the Anamudi peak (South India's highest at 2,695 m) make Munnar one of the most picturesque destinations in India.",
+  "history": "Munnar was developed by British planters John Daniel Munro and A.D. Turner in the 1870s as a tea and coffee growing region. The name Munnar comes from the Malayalam word for \"three rivers\" (Mudrapuzha, Nallathanni, and Kundaly). The British established bungalows, churches, and a colonial infrastructure that is still partially visible. The Tata Tea group (Tata Global Beverages) now owns most of the plantations.",
+  "bestSeason": "September to May. Peak: December–January for clear skies. Monsoon (June–September) is lush but misty.",
+  "idealDuration": "3–4 days",
+  "temperature": "10°C (winter nights) to 25°C (summer days)",
+  "nearestAirport": "Cochin International Airport (COK) — 110 km from Munnar (3 hrs drive)",
+  "nearestRailwayStation": "Aluva (90 km) or Ernakulam Junction (Kochi, 110 km) on the Kerala coastal rail",
+  "nearestBusStand": "Munnar Town Bus Stand (KSRTC)",
+  "tags": [
+    "Tea Gardens",
+    "Misty",
+    "Kerala",
+    "Trekking",
+    "Wildlife",
+    "Western Ghats"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 6,
+  "luxuryScore": 6,
+  "budgetScore": 6,
+  "topAttractions": [
+    {
+      "name": "Tea Gardens (Kolukkumalai & Tata Tea Museum)",
+      "description": "Munnar's defining landscape — endless waves of green tea bushes draped over steep hills. Kolukkumalai (2,100 m) has some of the world's highest tea estates. The Tata Tea Museum (formerly Lockhart Tea Factory, 1905) offers a fascinating look at the tea-making process from plucking to packing. Entry: ₹150 (with tea tasting).",
+      "location": "15 km from Munnar town"
+    },
+    {
+      "name": "Eravikulam National Park & Anamudi",
+      "description": "A UNESCO tentative heritage site and home to the endangered Nilgiri Tahr (mountain goat). Anamudi (2,695 m) — South India's highest peak — is within the park. The park's rolling grasslands are stunning. Access by shuttle bus from gate (₹80). Entry: ₹125 (Indian), ₹390 (foreign). Open Nov–Apr only.",
+      "location": "13 km from Munnar, Rajamala area"
+    },
+    {
+      "name": "Mattupetty Dam & Lake",
+      "description": "A picturesque reservoir surrounded by tea estates and shola forests. Boating (₹100–300 per person) on the emerald-green lake. The Indo-Swiss livestock project here bred Jersey and Swiss Brown cattle for Kerala's dairy industry. Nearby Echo Point offers a natural echo.",
+      "location": "13 km from Munnar"
+    },
+    {
+      "name": "Top Station",
+      "description": "The highest point accessible by road in Munnar (1,700 m), offering sweeping views of the Tamil Nadu plains and the Western Ghats escarpment. On clear days, you can see the Kodaikanal hills. The Neelakurinji blooms here once every 12 years. Shared jeep from Munnar (₹200–300 per person).",
+      "location": "32 km from Munnar (Kumily road)"
+    },
+    {
+      "name": "Chinnar Wildlife Sanctuary",
+      "description": "A dry deciduous forest sanctuary in the rain shadow of the Western Ghats, home to grizzled giant squirrels (found only here and in Sri Lanka), elephants, leopards, and rare star tortoises. Guided trekking available (₹1,500–3,000/group). Entry: ₹150.",
+      "location": "60 km from Munnar (on Marayur road)"
+    },
+    {
+      "name": "Kundala Lake & Ana Mudi Shola National Park",
+      "description": "A tranquil lake surrounded by cardamom and eucalyptus. Pedal boating available. Adjacent Ana Mudi Shola NP has rare orchids and hornbills. Marayur (60 km) has ancient dolmens and India's only natural sandalwood forest.",
+      "location": "23 km from Munnar"
+    }
+  ],
+  "activities": [
+    "Tea plantation walk and tasting at Kolukkumalai (₹150)",
+    "Jeep safari to Kolukkumalai sunrise (₹2,500/jeep)",
+    "Trekking to Anamudi peak base (in Eravikulam NP, requires permit)",
+    "Boating at Mattupetty Lake (₹150–300)",
+    "Bamboo rafting at Thodupuzha River (₹300–500)",
+    "Rock climbing and rappelling at Munnar (₹500–1,000)",
+    "Photography tour through tea gardens at sunrise",
+    "Ayurvedic massage and spa treatments at resorts"
+  ],
+  "localFood": [
+    "Appam with Stew (soft rice pancakes with coconut milk vegetable stew — quintessential Kerala breakfast)",
+    "Kerala Fish Curry (in coconut-oil and kudampuli/gamboge — fiery red curry)",
+    "Puttu with Kadala Curry (steamed rice cake with black chickpea curry)",
+    "Kerala Parotta with Beef Curry (layered flatbread, best in tea shops)",
+    "Ela Sadam (rice served on banana leaf with sambar, thoran, pickle — traditional meal)",
+    "Paal Payasam (rice pudding in coconut milk with cardamom — served at festivals)",
+    "Tea (Munnar single-estate tea — buy from DTPC shop or Kolukkumalai estate directly)"
+  ],
+  "shopping": [
+    "Munnar Tea from DTPC authorized shops — Kannan Devan Hills (KDH) brand, white, green, cardamom tea (₹100–500)",
+    "Honey — forest honey from Chinnar area (₹250–500)",
+    "Homemade cardamom, pepper, and spice mixes",
+    "Jackfruit chips and banana chips (₹100–300)",
+    "Handwoven shawls and blankets from tribal co-operatives",
+    "Nilgiri Neelakurinji seeds (small and rare)"
+  ],
+  "culture": "Munnar's culture is uniquely multicultural — Tamil plantation workers (brought by British in 19th century), Kerala Christians, and indigenous Muthuvan and Mannan tribal communities. The local dialect is a mix of Malayalam and Tamil. The area has a strong presence of the Church of South India with beautiful colonial-era stone churches.",
+  "festivals": [
+    "Neelakurinji Bloom (once in 12 years — last 2018, next 2030 — the hills turn purple-blue)",
+    "Onam (August/September — harvest festival, flower carpets, snake boat races nearby)",
+    "Christmas (December — Munnar's tea estate churches have lovely services)"
+  ],
+  "hotels": [
+    "Windermere Estate (Heritage bungalow, ₹12,000–20,000 — former British planter's estate)",
+    "The Tall Trees (Eco resort, ₹8,000–14,000, riverside)",
+    "Spice Tree Munnar (Design resort, ₹6,000–12,000)",
+    "DTPC Resorts (Government budget, ₹2,000–3,500, well-maintained)",
+    "Ragamuffin Tea Bungalow (Budget, ₹1,500–3,000)",
+    "Siena Village (Mid-range, ₹3,500–6,000, mountain views)"
+  ],
+  "restaurants": [
+    "Rapsy Restaurant (Best local food in town, Kerala meals on banana leaf, ₹150–350)",
+    "SN Restaurant (Breakfast specialist, appam-stew, ₹100–250, near bus stand)",
+    "The Green View (Multicuisine, hotel dining, ₹300–700)",
+    "Silver Spoon (Budget, local food, ₹150–300, near town center)",
+    "Tea garden canteen at Kolukkumalai (simple local food, authentic setting, ₹100–200)"
+  ],
+  "travelTips": [
+    "Hire a jeep for ₹2,500–3,500/day — the best way to explore; roads are narrow and steep.",
+    "Start early (5 AM) for Kolukkumalai sunrise jeep — the drive itself is spectacular.",
+    "Book Eravikulam NP tickets online (wildlife.kerala.gov.in) — entry is limited.",
+    "Monsoon (June–September) can cut road access — check before visiting.",
+    "Carry warm clothes even in summer — nights are cold at 1,600m.",
+    "Leech socks are recommended for forest treks during post-monsoon (September–October)."
+  ],
+  "packingTips": [
+    "Warm jacket and fleece",
+    "Waterproof jacket (rain is sudden and heavy)",
+    "Trekking shoes",
+    "Leech socks for forest treks",
+    "Light cotton for days, warm layers for mornings/evenings",
+    "Insect repellent"
+  ],
+  "weather": "Winter (Nov–Feb): 10–20°C, misty mornings, clear afternoons — best time. Spring (Mar–May): 15–25°C, warming up, fewer crowds. Monsoon (Jun–Sep): 15–20°C, heavy rainfall (5,000 mm), roads can flood, tea gardens turn bright green — magical but difficult travel. Autumn (Oct): 15–22°C, post-monsoon clarity.",
+  "transport": "By Air: Cochin International Airport (110 km, 3 hrs by car). By Rail: No direct rail to Munnar. Take train to Ernakulam/Kochi, then bus/taxi. By Bus: KSRTC buses from Kochi (4.5 hrs, ₹150), Kumily/Periyar (3.5 hrs). Taxis from Kochi to Munnar: ₹2,500–3,500. Within Munnar: Jeep rentals (₹2,500–3,500/day), autos and bikes available in town.",
+  "itineraries": [
+    {
+      "type": "3 Day",
+      "durationDays": 3,
+      "estimatedCost": 10000,
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "11:00 AM",
+              "activity": "Arrive Munnar & check-in",
+              "description": "Settle in. Afternoon stroll through town market.",
+              "costEstimate": 0
+            },
+            {
+              "time": "02:00 PM",
+              "activity": "Tea Museum at Nallathanni Estate",
+              "description": "See the full tea-making process at Tata Tea Museum. Tea tasting session included.",
+              "costEstimate": 150
+            },
+            {
+              "time": "05:00 PM",
+              "activity": "Tea garden sunset walk",
+              "description": "Self-guided walk through the manicured tea rows at golden hour.",
+              "costEstimate": 0
+            },
+            {
+              "time": "07:30 PM",
+              "activity": "Dinner at Rapsy Restaurant",
+              "description": "Kerala meals — fish curry, appam, payasam. Best food in Munnar.",
+              "costEstimate": 400
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            {
+              "time": "05:00 AM",
+              "activity": "Kolukkumalai Sunrise Jeep Safari",
+              "description": "Drive to South India's highest tea estate (2,100m) for a breathtaking sunrise over misty valleys. 2.5 hrs drive on mountain tracks.",
+              "costEstimate": 2500
+            },
+            {
+              "time": "09:00 AM",
+              "activity": "Fresh tea at Kolukkumalai factory",
+              "description": "Taste single-estate Nilgiri tea straight from the source.",
+              "costEstimate": 150
+            },
+            {
+              "time": "11:00 AM",
+              "activity": "Eravikulam National Park",
+              "description": "See Nilgiri Tahrs up close. Shuttle inside park (₹80). Stunning grasslands.",
+              "costEstimate": 400
+            },
+            {
+              "time": "02:00 PM",
+              "activity": "Mattupetty Lake & Dam",
+              "description": "Boating on the beautiful reservoir surrounded by tea gardens.",
+              "costEstimate": 200
+            },
+            {
+              "time": "05:00 PM",
+              "activity": "Echo Point",
+              "description": "Natural echo phenomenon + views of the Nilgiris.",
+              "costEstimate": 0
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "activities": [
+            {
+              "time": "08:00 AM",
+              "activity": "Kundala Lake & Ana Mudi Shola",
+              "description": "Pedal boat on the serene lake. Spot hornbills in the adjacent national park.",
+              "costEstimate": 300
+            },
+            {
+              "time": "11:00 AM",
+              "activity": "Top Station views",
+              "description": "Highest point accessible by road. Panoramic views of Tamil Nadu plains.",
+              "costEstimate": 300
+            },
+            {
+              "time": "01:30 PM",
+              "activity": "Lunch + Spice shopping",
+              "description": "Kerala banana leaf meal. Buy cardamom, spice mixes, and estate tea to take home.",
+              "costEstimate": 700
+            },
+            {
+              "time": "04:00 PM",
+              "activity": "Depart to Kochi",
+              "description": "Taxi to Kochi airport or Ernakulam station. 3.5 hrs.",
+              "costEstimate": 3000
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

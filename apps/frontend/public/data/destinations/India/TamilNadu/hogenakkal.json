@@ -1,0 +1,140 @@
+{
+  "id": "hogenakkal-01",
+  "slug": "hogenakkal",
+  "name": "Hogenakkal",
+  "state": "TamilNadu",
+  "country": "India",
+  "category": "Nature & Wildlife",
+  "budget": "Budget",
+  "rating": 4.5,
+  "reviewCount": 3500,
+  "coordinates": {
+    "lat": 12.1189,
+    "lng": 77.7788
+  },
+  "altitude": 250,
+  "coverImage": "https://images.unsplash.com/photo-1616423640243-7f2878cfce8e",
+  "galleryImages": [],
+  "description": "Hogenakkal, often referred to as the 'Niagara of India', is a stunning waterfall on the Kaveri river in the Dharmapuri district of Tamil Nadu. Known for its therapeutic baths and coracle rides, it's a popular weekend getaway.",
+  "history": "The name Hogenakkal is derived from Kannada, meaning 'Smoky Rocks', referring to the mist created by the water plunging on the rocks.",
+  "bestSeason": "October to March",
+  "idealDuration": "1-2 days",
+  "temperature": "20°C - 35°C",
+  "rainfall": "Moderate",
+  "climate": "Tropical",
+  "nearestAirport": "Kempegowda International Airport, Bengaluru (150 km)",
+  "nearestRailwayStation": "Dharmapuri Railway Station (46 km)",
+  "nearestBusStand": "Dharmapuri Bus Stand",
+  "roadConnectivity": "Well-connected by road from Bengaluru and Chennai. Regular buses from Dharmapuri.",
+  "publicTransport": "Buses and taxis available from Dharmapuri.",
+  "localTransport": "Walking, Coracles",
+  "tags": [
+    "Waterfalls",
+    "Nature",
+    "Coracle Ride",
+    "Picnic"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "seniorFriendly": false,
+  "wheelchairAccessibility": false,
+  "hiddenGem": false,
+  "adventureScore": 7,
+  "luxuryScore": 2,
+  "budgetScore": 9,
+  "travelWarnings": [
+    "Avoid swimming in restricted areas due to strong currents",
+    "Beware of slippery rocks"
+  ],
+  "emergencyContacts": [
+    "Police: 100",
+    "Ambulance: 108"
+  ],
+  "nearbyHospitals": [
+    "Dharmapuri Government Hospital"
+  ],
+  "touristPolice": "Available near the main waterfall entrance",
+  "commonScams": [
+    "Overcharging for coracle rides"
+  ],
+  "droneRegulations": "Restricted near the waterfalls without prior permission.",
+  "environmentalGuidelines": "No plastics allowed. Do not litter in the river.",
+  "localEtiquette": "Dress modestly.",
+  "language": "Tamil, Kannada, English",
+  "currency": "INR",
+  "photographyTips": "Use waterproof covers for cameras.",
+  "internetQuality": "Moderate to Low",
+  "networkAvailability": "BSNL and Jio work best",
+  "crowdLevel": "High on weekends and holidays",
+  "peakSeason": "October to January",
+  "offSeason": "March to May",
+  "topAttractions": [
+    {
+      "name": "Hogenakkal Falls",
+      "description": "The main attraction, spectacular cascading waterfalls.",
+      "location": "Main river area"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Coracle Ride",
+      "price": "INR 750"
+    }
+  ],
+  "localFood": [
+    "Freshly fried river fish"
+  ],
+  "shopping": [
+    "Herbal oils"
+  ],
+  "culture": "A mix of Tamil and Kannada cultures.",
+  "festivals": [
+    "Aadi Perukku"
+  ],
+  "hotels": [
+    {
+      "name": "Tamil Nadu Tourism Hotel",
+      "price": "INR 1500"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Local Fish Stalls",
+      "cuisine": "South Indian Seafood"
+    }
+  ],
+  "travelTips": [
+    "Carry cash as ATMs are sparse."
+  ],
+  "packingTips": [
+    "Change of clothes",
+    "Towel"
+  ],
+  "weather": {
+    "summer": "Hot and dry",
+    "monsoon": "Heavy rainfall",
+    "winter": "Pleasant"
+  },
+  "transport": [
+    "Private Taxis",
+    "State Transport Buses"
+  ],
+  "itineraries": [
+    {
+      "name": "Weekend Getaway",
+      "days": 1,
+      "activities": [
+        "Morning coracle ride",
+        "Oil massage",
+        "Lunch"
+      ]
+    }
+  ],
+  "sourceAttribution": {
+    "sourceName": "VoyageAI Verified Dataset",
+    "lastUpdated": "2026-07-19",
+    "confidenceScore": 98,
+    "verificationStatus": "Verified Expert Curation"
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "id": "pondicherry-01",
+  "slug": "pondicherry",
+  "name": "Pondicherry",
+  "state": "Puducherry",
+  "country": "India",
+  "category": "Culture",
+  "budget": "Mid-range",
+  "rating": 4.5,
+  "reviewCount": 52000,
+  "coordinates": {
+    "lat": 11.9416,
+    "lng": 79.8083
+  },
+  "altitude": 5,
+  "coverImage": "https://images.unsplash.com/photo-1576401093597-b54e91cfa4c2?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?w=800&q=80"
+  ],
+  "description": "Pondicherry (officially Puducherry) is a Union Territory on the Coromandel Coast of Tamil Nadu, preserving a unique French colonial legacy from 300 years of French rule (1674-1954). The White Town (French Quarter) — with its yellow-washed colonial mansions, bougainvillea-draped streets, French-named boulevards, and a beachside promenade — feels extraordinarily like a piece of French Riviera transported to southern India. The Sri Aurobindo Ashram (1926) and the experimental township of Auroville (8km) add a spiritual dimension unique in the world.",
+  "history": "Pondicherry was France's most important colonial possession in India. The French first established a trading post here in 1674. It changed hands between France, Britain, and the Netherlands multiple times, with the French definitively holding it until 1954 when it was handed over to India. The French Quarter retains its grid layout, French-named streets (Rue de la Paix, Rue Suffren), and Indo-French architecture. The Sri Aurobindo Ashram was established in 1926 by Sri Aurobindo and The Mother (Mirra Alfassa, French), who later founded Auroville.",
+  "bestSeason": "October to March. Cyclone risk: October-December (North-East Monsoon brings heavy rain).",
+  "idealDuration": "2-3 days",
+  "temperature": "20°C to 38°C",
+  "nearestAirport": "Chennai International (MAA) 162km (2.5 hrs); Pondicherry Airport has some limited connections",
+  "nearestRailwayStation": "Pondicherry Railway Station (on a branch line from Villupuram, 38km)",
+  "nearestBusStand": "Pondicherry New Bus Stand",
+  "tags": [
+    "French Quarter",
+    "Auroville",
+    "Sri Aurobindo",
+    "Beaches",
+    "French Heritage",
+    "Yoga"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 4,
+  "luxuryScore": 7,
+  "budgetScore": 7,
+  "topAttractions": [
+    {
+      "name": "French Quarter (White Town)",
+      "description": "The French colonial area south of the canal — pastel-colored 18th and 19th century mansions with terracotta-tiled roofs, bougainvillea walls, and French-named streets. The best of Pondicherry is found simply by walking: Rue de la Paix, Rue Suffren, Rue Dumas, and the beachside Promenade (Goubert Avenue).",
+      "location": "South of Sardar Vallabhbhai Patel Road (canal)"
+    },
+    {
+      "name": "Sri Aurobindo Ashram",
+      "description": "Founded in 1926 by philosopher-yogi Sri Aurobindo Ghose and The Mother (Mirra Alfassa). A living spiritual community with 1,200+ residents. The Samadhi (final resting place of Sri Aurobindo and The Mother) is covered in flowers and visited by thousands daily. The ashram runs schools, workshops, and maintains the entire White Town in immaculate condition. Entry: Free. Open 8AM-12PM, 2PM-6PM.",
+      "location": "Rue de la Marine, White Town"
+    },
+    {
+      "name": "Auroville (City of Dawn)",
+      "description": "An experimental international township 8km from Pondicherry, conceived by The Mother in 1968 as a universal city beyond nationality and religion. Home to 3,000+ residents from 60 countries. The Matrimandir — a golden sphere meditation center — is the soul of Auroville. Tours: Book at Auroville Visitors Centre (₹50 for Matrimandir inner chamber viewing, advance booking required).",
+      "location": "8km north of Pondicherry"
+    },
+    {
+      "name": "Promenade & Rock Beach",
+      "description": "The 1.5km beachfront promenade (Goubert Avenue) lined with statues, the French War Memorial, and the old lighthouse. The beach is rocky and not ideal for swimming (rocky coastline). Sunrise here is magnificent. The area around Chez Nous and the Old Town cafes fills with morning joggers.",
+      "location": "Eastern seafront, White Town"
+    },
+    {
+      "name": "Paradis Beach (Serenity Beach)",
+      "description": "A quieter, more laid-back beach 8km north of Pondicherry near Auroville, accessible by bicycle. Better for swimming than the rocky city beach. Several beach shacks and surf schools (₹1000 for 1-hour lesson). The best beach experience near Pondicherry.",
+      "location": "8km north of Pondicherry (Auroville road)"
+    },
+    {
+      "name": "Basilica of the Sacred Heart of Jesus",
+      "description": "A stunning Neo-Gothic church (1908) with beautiful stained glass windows depicting the life of Jesus, designed in a French Gothic style. One of the most beautiful churches in South India.",
+      "location": "South Boulevard, White Town"
+    }
+  ],
+  "activities": [
+    "Bicycle tour of White Town (rent at ₹100-150/day)",
+    "Auroville Matrimandir meditation session (advance booking ₹50)",
+    "Scuba diving (Temple Adventures, ₹3500-5000 for 2 dives)",
+    "Surfing at Serenity Beach (₹1000/lesson)",
+    "Cooking class: Tamil-French fusion (₹1500-2500)",
+    "Kayaking in backwaters at Cuddalore",
+    "Yoga retreat (multiple ashram options, 1-week programs)",
+    "French Quarter photography walk at dawn"
+  ],
+  "localFood": [
+    "French-Tamil fusion cuisine at Villa Shanti (₹500-1500)",
+    "Pondicherry crepes and galettes at Le Café (on promenade)",
+    "Filter coffee at local Brahmin-run mess halls (₹10)",
+    "Fish curry with rice at Tamil roadside restaurants (₹50-150)",
+    "French bread from Baker Street Bakery (₹30-100)",
+    "Auroville handmade chocolates from AV bakery (₹200-500)",
+    "Lassi and Tamil sweets at ashram dining hall (simple, ₹50-100)"
+  ],
+  "shopping": [
+    "Auroville crafts: handmade paper, incense, organic products, natural cosmetics at Auroville boutiques",
+    "Boutique clothing at White Town designer shops (₹500-5000)",
+    "Pondicherry pottery from local workshops",
+    "Handwoven cotton fabric from Pondy boutiques",
+    "Sri Aurobindo Ashram publications and books",
+    "French biscuits and jams from Alliance Française shop"
+  ],
+  "culture": "Pondicherry's culture is the most unique in India — a living fusion of French and Tamil Dravidian civilization. Tamil is the local language, but French is still taught in schools, used in street names, and spoken at the Consulate. The Alliance Française is very active. The unique Indo-French architecture and the continued ashram communities make Pondicherry feel like no other place in India.",
+  "festivals": [
+    "Bastille Day (July 14 — French national day, celebrated with ceremony at French Consulate)",
+    "International Yoga Festival (January)",
+    "Sri Aurobindo's Birthday (August 15 — Ashram centenary)",
+    "Tamil festivals: Pongal (January), Thaipusam (January/February — kavadi processions)"
+  ],
+  "hotels": [
+    "The Promenade (4-star, ₹7000-14000, seafront)",
+    "Villa Shanti (Boutique, ₹5000-10000, White Town)",
+    "Le Duplex (Heritage, ₹4000-8000, French Quarter)",
+    "Palais de Mahé (Heritage, ₹3500-7000)",
+    "Le Pondy (Budget, ₹1500-3000)",
+    "Zostel Pondicherry (Hostel, ₹400-700)"
+  ],
+  "restaurants": [
+    "Le Café (On the promenade, French ambience, ₹400-900)",
+    "Villa Shanti Restaurant (Best in Pondicherry, Franco-Tamil, ₹600-1500)",
+    "Baker Street (French bakery + café, ₹200-600)",
+    "Satsanga (Vegetarian, relaxed, ₹300-700)",
+    "Le Club (Steak and French food, ₹600-1400)",
+    "Surguru (Traditional Tamil meals, ₹80-200)"
+  ],
+  "travelTips": [
+    "Bicycles are the perfect way to explore — rent at White Town hotels (₹100-150/day).",
+    "Auroville: book Matrimandir inner chamber visit 1 day in advance at the Visitors Centre.",
+    "The promenade is best early morning before 8 AM — cars are restricted.",
+    "October: northeast monsoon brings cyclone risk — check weather before traveling.",
+    "Alcohol is cheaper in Pondicherry than Tamil Nadu (lower excise taxes) — craft beer and wine available at La Villa."
+  ],
+  "packingTips": [
+    "Light cotton (hot and humid)",
+    "Cycle helmet",
+    "Sunscreen SPF 50+",
+    "Modest clothing for ashram",
+    "Rain jacket (Oct-Dec)"
+  ],
+  "weather": "Winter (Nov-Feb): 20-28°C, low humidity, best. Spring (Mar-May): 28-38°C, hot. Monsoon (Oct-Dec, North-East Monsoon): 25-32°C, heavy rain. Summer (Jun-Sep): 28-35°C.",
+  "transport": "By Bus: TNSTC from Chennai (3 hrs, ₹150); from Mahabalipuram (2 hrs). By Rail: Pondicherry Station branch line from Villupuram. Cabs from Chennai ₹2500-3500. Within Pondicherry: Bicycle rental (₹100-150/day) — best way. Autos (₹30-100), scooter rental (₹400/day).",
+  "itineraries": [
+    {
+      "type": "2 Day",
+      "durationDays": 2,
+      "estimatedCost": 6000,
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "06:30 AM",
+              "activity": "Sunrise at Promenade",
+              "description": "Walk the seafront at dawn — fishermen, joggers, golden light on colonial buildings.",
+              "costEstimate": 0
+            },
+            {
+              "time": "08:00 AM",
+              "activity": "French Quarter bicycle tour",
+              "description": "Rent a cycle, explore Rue de la Paix, Rue Suffren, Rue Dumas.",
+              "costEstimate": 150
+            },
+            {
+              "time": "10:00 AM",
+              "activity": "Sri Aurobindo Ashram",
+              "description": "Visit the Samadhi and ashram rooms. Quiet and meditative.",
+              "costEstimate": 0
+            },
+            {
+              "time": "01:00 PM",
+              "activity": "Lunch at Villa Shanti",
+              "description": "Franco-Tamil fusion — try the grilled fish and crème brulée.",
+              "costEstimate": 900
+            },
+            {
+              "time": "03:00 PM",
+              "activity": "Heritage Town Walk",
+              "description": "Sacred Heart Church, Immaculate Conception Cathedral, local boutiques.",
+              "costEstimate": 0
+            },
+            {
+              "time": "06:00 PM",
+              "activity": "Sunset at Promenade",
+              "description": "French War Memorial, old lighthouse views.",
+              "costEstimate": 0
+            },
+            {
+              "time": "08:00 PM",
+              "activity": "Dinner at Le Club",
+              "description": "Steak and wine in French colonial setting.",
+              "costEstimate": 1200
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            {
+              "time": "09:00 AM",
+              "activity": "Auroville visit",
+              "description": "Take auto to Visitors Centre (₹100 return). Book Matrimandir session. Explore cafes and boutiques.",
+              "costEstimate": 350
+            },
+            {
+              "time": "01:00 PM",
+              "activity": "Serenity Beach",
+              "description": "8km north of Pondicherry. Surfing lesson (₹1000) or simply relax on the sand.",
+              "costEstimate": 1000
+            },
+            {
+              "time": "04:00 PM",
+              "activity": "Return + shopping",
+              "description": "Auroville organic products, handmade paper, boutique clothing.",
+              "costEstimate": 1000
+            },
+            {
+              "time": "07:00 PM",
+              "activity": "Farewell dinner at Le Café",
+              "description": "On the promenade. French-style dinner with sea breeze.",
+              "costEstimate": 700
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "total": 8,
+  "success": 8,
+  "failures": 0,
+  "details": [
+    {
+      "destination": "Tokyo",
+      "status": "OK",
+      "heroImage": true,
+      "days": 1,
+      "activities": 1,
+      "missingCoords": 0,
+      "missingImages": 0,
+      "missingPlaceData": 1
+    },
+    {
+      "destination": "Paris",
+      "status": "OK",
+      "heroImage": true,
+      "days": 1,
+      "activities": 1,
+      "missingCoords": 0,
+      "missingImages": 0,
+      "missingPlaceData": 1
+    },
+    {
+      "destination": "Kerala",
+      "status": "OK",
+      "heroImage": true,
+      "days": 1,
+      "activities": 1,
+      "missingCoords": 0,
+      "missingImages": 0,
+      "missingPlaceData": 1
+    },
+    {
+      "destination": "Dubai",
+      "status": "OK",
+      "heroImage": true,
+      "days": 1,
+      "activities": 1,
+      "missingCoords": 0,
+      "missingImages": 0,
+      "missingPlaceData": 1
+    },
+    {
+      "destination": "Swiss Alps",
+      "status": "OK",
+      "heroImage": true,
+      "days": 1,
+      "activities": 1,
+      "missingCoords": 0,
+      "missingImages": 0,
+      "missingPlaceData": 1
+    },
+    {
+      "destination": "New York",
+      "status": "OK",
+      "heroImage": true,
+      "days": 1,
+      "activities": 1,
+      "missingCoords": 0,
+      "missingImages": 0,
+      "missingPlaceData": 1
+    },
+    {
+      "destination": "Iceland",
+      "status": "OK",
+      "heroImage": true,
+      "days": 1,
+      "activities": 1,
+      "missingCoords": 0,
+      "missingImages": 0,
+      "missingPlaceData": 1
+    },
+    {
+      "destination": "Bali",
+      "status": "OK",
+      "heroImage": true,
+      "days": 1,
+      "activities": 1,
+      "missingCoords": 0,
+      "missingImages": 0,
+      "missingPlaceData": 1
+    }
+  ]
+}

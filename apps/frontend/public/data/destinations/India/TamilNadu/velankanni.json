@@ -1,0 +1,150 @@
+{
+  "id": "velankanni-01",
+  "slug": "velankanni",
+  "name": "Velankanni",
+  "state": "TamilNadu",
+  "country": "India",
+  "category": "Pilgrimage",
+  "budget": "Budget",
+  "rating": 4.8,
+  "reviewCount": 8900,
+  "coordinates": {
+    "lat": 10.6806,
+    "lng": 79.8428
+  },
+  "altitude": 15,
+  "coverImage": "https://images.unsplash.com/photo-1590528343948-26155998a4da",
+  "galleryImages": [],
+  "description": "Home to the famous Basilica of Our Lady of Good Health.",
+  "history": "Known for the Marian apparitions in the 16th century.",
+  "bestSeason": "October to March",
+  "idealDuration": "1-2 Days",
+  "temperature": "24-34°C",
+  "rainfall": "Moderate",
+  "climate": "Tropical savanna",
+  "nearestAirport": "Trichy Airport",
+  "nearestRailwayStation": "Velankanni",
+  "nearestBusStand": "Local Bus Stand",
+  "roadConnectivity": "Well connected by state highways.",
+  "publicTransport": "Buses available",
+  "localTransport": "Auto-rickshaws, Taxis",
+  "tags": [
+    "Pilgrimage",
+    "TamilNadu",
+    "Travel",
+    "India"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "seniorFriendly": true,
+  "wheelchairAccessibility": false,
+  "hiddenGem": false,
+  "adventureScore": 2,
+  "luxuryScore": 3,
+  "budgetScore": 8,
+  "travelWarnings": [
+    "Stay hydrated",
+    "Respect local rules"
+  ],
+  "emergencyContacts": [
+    "112",
+    "100",
+    "108"
+  ],
+  "nearbyHospitals": [
+    "Local Government Hospital"
+  ],
+  "touristPolice": "Local Police Station",
+  "commonScams": [
+    "Overcharging by unmetered autos",
+    "Fake tour guides"
+  ],
+  "droneRegulations": "Requires permission in historical and sensitive zones.",
+  "environmentalGuidelines": "Carry your trash back. Avoid single-use plastics.",
+  "localEtiquette": "Dress modestly at religious and historical sites.",
+  "language": "Tamil, English",
+  "currency": "INR",
+  "photographyTips": "Early mornings are best for lighting and fewer crowds.",
+  "internetQuality": "Moderate to Good",
+  "networkAvailability": "Widely available; remote spots might have patchy networks",
+  "crowdLevel": "High",
+  "peakSeason": "December - January",
+  "offSeason": "April - June",
+  "topAttractions": [
+    {
+      "name": "Main Site",
+      "description": "The prime attraction of Velankanni.",
+      "location": "Center"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Sightseeing",
+      "price": "Minimal entry fee/Free"
+    },
+    {
+      "name": "Photography",
+      "price": "Free"
+    }
+  ],
+  "localFood": [
+    "Seafood",
+    "Local Snacks"
+  ],
+  "shopping": [
+    "Local Handicrafts",
+    "Souvenirs"
+  ],
+  "culture": "A major Christian pilgrimage center blending Indian traditions.",
+  "festivals": [
+    "Pongal",
+    "Tamil New Year"
+  ],
+  "hotels": [
+    {
+      "name": "Standard Guesthouse",
+      "price": "INR 1500/night"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Local Eatery",
+      "cuisine": "South Indian"
+    }
+  ],
+  "travelTips": [
+    "Carry comfortable walking shoes.",
+    "Keep cash handy."
+  ],
+  "packingTips": [
+    "Cotton clothes",
+    "Sunscreen",
+    "Hat"
+  ],
+  "weather": {
+    "summer": "Hot",
+    "monsoon": "Humid and rainy",
+    "winter": "Pleasant"
+  },
+  "transport": [
+    "Local buses and autos"
+  ],
+  "itineraries": [
+    {
+      "name": "Weekend in Velankanni",
+      "days": 2,
+      "activities": [
+        "Arrival",
+        "Local Tour",
+        "Departure"
+      ]
+    }
+  ],
+  "sourceAttribution": {
+    "sourceName": "VoyageAI Verified Dataset",
+    "lastUpdated": "2026-07-19",
+    "confidenceScore": 98,
+    "verificationStatus": "Verified Expert Curation"
+  }
+}

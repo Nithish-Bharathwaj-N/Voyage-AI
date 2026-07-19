@@ -1,0 +1,217 @@
+{
+  "id": "gangtok-01",
+  "slug": "gangtok",
+  "name": "Gangtok",
+  "state": "Sikkim",
+  "country": "India",
+  "category": "Nature",
+  "budget": "Mid-range",
+  "rating": 4.6,
+  "reviewCount": 32000,
+  "coordinates": {
+    "lat": 27.3389,
+    "lng": 88.6065
+  },
+  "altitude": 1437,
+  "coverImage": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?w=800&q=80"
+  ],
+  "description": "Gangtok is the capital of Sikkim — a compact, vibrant city at 1,437 m in the eastern Himalayas. Clean, well-organized, and surrounded by rhododendron-draped hills, it offers stunning views of Kanchenjunga (8,586 m — world's third highest peak) on clear mornings. Gangtok is the gateway to high-altitude lakes like Tsomgo Lake and the Nathu La Pass (Indo-China border), to Rumtek Monastery, and to the North Sikkim circuit. The city has a distinctive Nepali-Tibetan-Lepcha cultural blend.",
+  "history": "Sikkim was an independent Buddhist kingdom until 1975 when it became India's 22nd state through a referendum. Gangtok became prominent as the capital in the 19th century under the Chogyal (king). The Enchey Monastery (1909) and the Namgyal Institute of Tibetology (1958) represent the Buddhist scholarly tradition of the former kingdom.",
+  "bestSeason": "October to December (clearest Kanchenjunga views). March to May (rhododendrons bloom). Monsoon (June-September) is wet.",
+  "idealDuration": "3-4 days",
+  "temperature": "5°C (winter) to 22°C (summer)",
+  "nearestAirport": "Pakyong Airport (PYG) 31km (opened 2018, flights from Kolkata/Delhi)",
+  "nearestRailwayStation": "New Jalpaiguri (NJP) 148km — well connected to Kolkata and Delhi",
+  "nearestBusStand": "Sikkim Nationalised Transport Bus Stand, Gangtok",
+  "tags": [
+    "Kanchenjunga",
+    "Sikkim",
+    "Buddhist",
+    "Tsomgo Lake",
+    "Nathu La",
+    "Mountains"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 7,
+  "luxuryScore": 5,
+  "budgetScore": 6,
+  "topAttractions": [
+    {
+      "name": "Tsomgo Lake (Changu Lake)",
+      "description": "A glacial lake at 3753m, 40km from Gangtok on the Nathu La highway. The oval-shaped lake (1km long) is covered in snow from December-May and surrounded by steep mountains. Yak rides on the lakeshore (₹300). Permits required (obtained through tour operators, ₹200 each). Best: Oct-Nov and April-May.",
+      "location": "40km from Gangtok on NH10"
+    },
+    {
+      "name": "Nathu La Pass (4310m)",
+      "description": "A high-mountain pass on the ancient Silk Road, now India's border with China. Open to Indian tourists (not foreigners) with a permit (₹200, weekdays only except Mon-Tue). The border is manned by Indian and PLA soldiers. Altitude sickness common — acclimatize in Gangtok for 2 days first.",
+      "location": "56km from Gangtok"
+    },
+    {
+      "name": "Rumtek Monastery",
+      "description": "The largest monastery in Sikkim and one of the most significant Kagyu Buddhist centers in the world. Built in 1961 as a replica of the original Rumtek in Tibet by the 16th Karmapa. Houses golden Karmapa stupa and rare Buddhist manuscripts. 24km from Gangtok.",
+      "location": "24km from Gangtok, Rumtek"
+    },
+    {
+      "name": "MG Marg (Mahatma Gandhi Marg)",
+      "description": "The pedestrianized main street of Gangtok — clean, car-free, lined with shops, restaurants, and cafes. The best place for evening strolls, people-watching, and Sikkimese street food.",
+      "location": "Central Gangtok"
+    },
+    {
+      "name": "Namgyal Institute of Tibetology",
+      "description": "An internationally renowned research center (1958) for Tibetan studies and Buddhism. Houses over 200 thangkas, rare manuscripts, and ritual objects. A beautiful building in traditional Sikkimese architecture. Entry: ₹10. Open Mon-Sat 10AM-4PM.",
+      "location": "Deorali, 3km from city center"
+    }
+  ],
+  "activities": [
+    "Tsomgo Lake + Nathu La day trip (₹3500-5000 shared jeep with permit)",
+    "Rumtek Monastery visit (₹300 shared taxi)",
+    "Paragliding from Gangtok (₹3000, Oct-Nov)",
+    "Trekking: Goecha La base camp (9 days, Yuksom start)",
+    "White-water rafting on Teesta River (₹600-1500, Mar-May)",
+    "Flower Festival (April/May — see rhododendrons at Temi Tea Garden)",
+    "Cabling car to Tashi Viewpoint (₹55 return)",
+    "North Sikkim circuit (Yumthang, Zero Point — 3 day permit trip)"
+  ],
+  "localFood": [
+    "Momos (steamed/fried dumplings — the Sikkimese version uses different spices)",
+    "Thukpa (hearty noodle soup essential in the cold)",
+    "Chhurpi (dried yak cheese — hard and chewy, a local snack)",
+    "Gundruk (fermented leafy greens soup, unique to Sikkim and Nepal)",
+    "Tongba (warm fermented millet beer served in bamboo mug)",
+    "Sha Phaley (Tibetan fried bread stuffed with meat)",
+    "Sikkimese Thali (at Nimtho Restaurant — multiple local dishes)"
+  ],
+  "shopping": [
+    "Tibetan handicrafts at Lal Bazaar (thangkas, prayer wheels ₹200-5000)",
+    "Sikkimese cardamom (large black cardamom, ₹300-500/100g — among world's finest)",
+    "Organic Sikkim tea from Temi Tea Estate (₹200-800)",
+    "Traditional Thanka paintings from local artists",
+    "Churpi and dried foods from local markets",
+    "Handwoven Sikkimese carpets (₹3000-15000)"
+  ],
+  "culture": "Sikkimese culture is a unique blend of Nepali (dominant), Tibetan (Buddhist heritage), and Lepcha (indigenous) traditions. The Losar and Saga Dawa festivals at Rumtek Monastery are spectacular. Sikkim is India's only fully organic state (since 2016) — a point of immense local pride.",
+  "festivals": [
+    "Losar (Tibetan New Year, Feb/March — Rumtek Monastery celebrations)",
+    "Saga Dawa (May/June — Buddha Purnima, most sacred Buddhist festival, procession from Enchey Monastery)",
+    "Sikkim Flower Festival (April/May — rhododendron season)",
+    "Tihar (October/November — Nepali Diwali)"
+  ],
+  "hotels": [
+    "Elgin Nor-Khill (Heritage, ₹8000-15000, former royal guest house)",
+    "Mayfair Spa Resort (5-star, ₹10000-22000)",
+    "Norbughang Park Hotel (3-star, ₹3000-6000)",
+    "Hotel Sonam Delek (Mid-range, ₹2000-4000)",
+    "Zostel Gangtok (Hostel, ₹400-700)"
+  ],
+  "restaurants": [
+    "Nimtho Restaurant (Best Sikkimese-Nepali cuisine, ₹300-700, MG Marg)",
+    "The Dragon Restaurant (Tibetan-Chinese, ₹200-500)",
+    "Baker's Café (Breakfast, coffee, ₹200-500, MG Marg)",
+    "7 Sisters Restaurant (North-East Indian, ₹300-600)"
+  ],
+  "travelTips": [
+    "Book Nathu La and Tsomgo permits through registered tour operator — 24-48 hrs in advance.",
+    "Foreigners (non-Indian nationals) require Protected Area Permit for most of Sikkim.",
+    "Nathu La is at 4310m — spend 2 nights in Gangtok before attempting it.",
+    "Gangtok is clean — littering is fined heavily.",
+    "Alcohol is available but regulated; many local shops stock Sikkim's own Dansberg beer."
+  ],
+  "packingTips": [
+    "Heavy jacket (cold year-round at altitude)",
+    "Altitude medication (for Nathu La)",
+    "Comfortable walking shoes",
+    "Warm gloves and hat",
+    "Rain poncho"
+  ],
+  "weather": "Spring (Mar-May): 10-22°C, rhododendrons bloom, some rain. Monsoon (Jun-Sep): 15-22°C, very heavy rain. Autumn (Oct-Nov): 10-20°C, best clarity for Kanchenjunga. Winter (Dec-Feb): 5-15°C, cool, some frost.",
+  "transport": "By Air: Pakyong Airport (31km, flights from Kolkata 45 min). By Rail: New Jalpaiguri (148km, shared jeep 4.5 hrs from NJP to Gangtok ₹200-300). By Bus: SNT buses from Siliguri (3.5 hrs, ₹120). Within Gangtok: Walk on MG Marg, shared autos (₹10-30 fixed routes), taxis (₹100-300 for most attractions).",
+  "itineraries": [
+    {
+      "type": "3 Day",
+      "durationDays": 3,
+      "estimatedCost": 9000,
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "10:00 AM",
+              "activity": "MG Marg & city orientation",
+              "description": "Walk the pedestrian street, visit local cafes and shops.",
+              "costEstimate": 0
+            },
+            {
+              "time": "12:00 PM",
+              "activity": "Namgyal Institute of Tibetology",
+              "description": "Buddhist research center with rare thangkas.",
+              "costEstimate": 10
+            },
+            {
+              "time": "02:00 PM",
+              "activity": "Enchey Monastery",
+              "description": "200-year-old Tibetan Buddhist monastery with city views.",
+              "costEstimate": 0
+            },
+            {
+              "time": "04:00 PM",
+              "activity": "Cable car to Tashi Viewpoint",
+              "description": "Best viewpoint for Kanchenjunga (on clear days).",
+              "costEstimate": 55
+            },
+            {
+              "time": "07:00 PM",
+              "activity": "Dinner at Nimtho",
+              "description": "Sikkimese thali with gundruk soup, chhurpi, momos.",
+              "costEstimate": 500
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            {
+              "time": "07:00 AM",
+              "activity": "Tsomgo Lake + Nathu La",
+              "description": "Full day trip. Glacial lake at 3753m, then border pass at 4310m. Yak ride at Tsomgo.",
+              "costEstimate": 4000
+            },
+            {
+              "time": "05:00 PM",
+              "activity": "Return to Gangtok",
+              "description": "Tired but elated. Dinner and rest.",
+              "costEstimate": 400
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "activities": [
+            {
+              "time": "09:00 AM",
+              "activity": "Rumtek Monastery",
+              "description": "24km drive. Largest monastery in Sikkim. Peaceful morning prayers.",
+              "costEstimate": 400
+            },
+            {
+              "time": "12:00 PM",
+              "activity": "Teesta River viewpoint",
+              "description": "En route back, stop at Teesta-Rangit confluence.",
+              "costEstimate": 0
+            },
+            {
+              "time": "02:00 PM",
+              "activity": "Shopping and departure",
+              "description": "Cardamom, Temi tea, Tibetan souvenirs.",
+              "costEstimate": 1000
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

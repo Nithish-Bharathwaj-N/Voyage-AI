@@ -1,0 +1,144 @@
+{
+  "id": "kodiveri-01",
+  "slug": "kodiveri",
+  "name": "Kodiveri",
+  "state": "TamilNadu",
+  "country": "India",
+  "category": "Nature",
+  "budget": "Budget",
+  "rating": 4.3,
+  "reviewCount": 1100,
+  "coordinates": {
+    "lat": 11.5303,
+    "lng": 77.2155
+  },
+  "altitude": 240,
+  "coverImage": "https://images.unsplash.com/photo-1543886561-12f5a6b0c2e3",
+  "galleryImages": [],
+  "description": "Kodiveri Dam is a scenic dam situated on the Bhavani river near Gobichettipalayam in Erode district. The water cascading down the dam forms a beautiful artificial waterfall, popular for safe bathing and picnics.",
+  "history": "The dam was originally constructed by the Maharaja of Mysore in the 17th century using stones to divert water for irrigation.",
+  "bestSeason": "September to February",
+  "idealDuration": "Half day",
+  "temperature": "22°C - 35°C",
+  "rainfall": "Moderate",
+  "climate": "Tropical",
+  "nearestAirport": "Coimbatore International Airport (75 km)",
+  "nearestRailwayStation": "Erode Junction (45 km)",
+  "nearestBusStand": "Gobichettipalayam Bus Stand (15 km)",
+  "roadConnectivity": "Well connected by road from Gobichettipalayam.",
+  "publicTransport": "Local buses and autos from Gobichettipalayam.",
+  "localTransport": "Autos, Taxis",
+  "tags": [
+    "Dam",
+    "Waterfalls",
+    "Picnic",
+    "Family"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "seniorFriendly": true,
+  "wheelchairAccessibility": false,
+  "hiddenGem": true,
+  "adventureScore": 3,
+  "luxuryScore": 1,
+  "budgetScore": 9,
+  "travelWarnings": [
+    "Watch out for monkeys in the area",
+    "Rocks can be slippery"
+  ],
+  "emergencyContacts": [
+    "Police: 100",
+    "Ambulance: 108"
+  ],
+  "nearbyHospitals": [
+    "Gobichettipalayam Government Hospital"
+  ],
+  "touristPolice": "Not permanently stationed, local police patrol the area",
+  "commonScams": [],
+  "droneRegulations": "General rules apply, avoid flying over large crowds.",
+  "environmentalGuidelines": "Do not use soap or shampoo while bathing in the river to protect aquatic life.",
+  "localEtiquette": "Dress modestly.",
+  "language": "Tamil, English",
+  "currency": "INR",
+  "photographyTips": "Great spot for slow-shutter waterfall photography.",
+  "internetQuality": "Good",
+  "networkAvailability": "Major networks available",
+  "crowdLevel": "High on weekends and festival days",
+  "peakSeason": "October to January",
+  "offSeason": "April to June",
+  "topAttractions": [
+    {
+      "name": "Kodiveri Waterfalls",
+      "description": "The artificial cascading waterfalls.",
+      "location": "Dam site"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Bathing under the falls",
+      "price": "Nominal entry fee (INR 20)"
+    },
+    {
+      "name": "Coracle Ride",
+      "price": "INR 200"
+    }
+  ],
+  "localFood": [
+    "Fried fish",
+    "Paniyaram"
+  ],
+  "shopping": [
+    "Local snacks"
+  ],
+  "culture": "Agrarian culture surrounding the fertile Bhavani basin.",
+  "festivals": [
+    "Pongal",
+    "Aadi Perukku"
+  ],
+  "hotels": [
+    {
+      "name": "Hotels in Gobichettipalayam",
+      "price": "INR 1000 - 2500"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Fish fry stalls near dam",
+      "cuisine": "Local"
+    }
+  ],
+  "travelTips": [
+    "Visit on a weekday to avoid huge crowds."
+  ],
+  "packingTips": [
+    "Change of clothes",
+    "Towels"
+  ],
+  "weather": {
+    "summer": "Hot",
+    "monsoon": "Heavy water flow",
+    "winter": "Pleasant"
+  },
+  "transport": [
+    "Buses",
+    "Cars"
+  ],
+  "itineraries": [
+    {
+      "name": "Half Day Trip",
+      "days": 1,
+      "activities": [
+        "Enjoy the waterfalls",
+        "Coracle ride",
+        "Snack on fresh fried fish"
+      ]
+    }
+  ],
+  "sourceAttribution": {
+    "sourceName": "VoyageAI Verified Dataset",
+    "lastUpdated": "2026-07-19",
+    "confidenceScore": 98,
+    "verificationStatus": "Verified Expert Curation"
+  }
+}

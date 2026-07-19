@@ -1,0 +1,229 @@
+{
+  "id": "madurai-01",
+  "slug": "madurai",
+  "name": "Madurai",
+  "state": "TamilNadu",
+  "country": "India",
+  "category": "Popular",
+  "budget": "Mid-range",
+  "rating": 4.5,
+  "reviewCount": 6700,
+  "coordinates": {
+    "lat": 21.7,
+    "lng": 78.7
+  },
+  "altitude": 500,
+  "coverImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1524492412937-b28074a5d7da",
+    "https://images.unsplash.com/photo-1514222134-b57c48ce6c64",
+    "https://images.unsplash.com/photo-1506461883276-594c40b8a4f8"
+  ],
+  "description": "Madurai is a magnificent destination in TamilNadu, India. Known for its remarkable blend of history, culture, and natural beauty. Visitors flock here to experience its unique atmosphere, vibrant local markets, and iconic landmarks. Whether you are seeking spiritual peace, thrilling adventures, or simply a relaxing holiday, Madurai offers a memorable experience that captures the true essence of Indian heritage. The city's charm lies in its timeless appeal and warm hospitality.",
+  "history": "Madurai boasts a rich history spanning several centuries, serving as a prominent center for trade, culture, and power under various dynasties.",
+  "bestSeason": "October to March",
+  "idealDuration": "2-4 Days",
+  "temperature": "15°C to 30°C",
+  "nearestAirport": "Local Airport (15km)",
+  "nearestRailwayStation": "Madurai Junction",
+  "nearestBusStand": "Madurai Central Bus Stand",
+  "tags": [
+    "Temple",
+    "Athens of East",
+    "Dravidian"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 5,
+  "luxuryScore": 6,
+  "budgetScore": 7,
+  "topAttractions": [
+    {
+      "name": "Meenakshi Amman Temple",
+      "description": "One of the greatest living temples in the world — a 16th-century Dravidian temple complex (2.5 acres) dedicated to Goddess Meenakshi (Parvati) and Lord Sundareshwara (Shiva). 14 gopurams (the tallest is 51.9m), over 33,000 sculptures, the Hall of 1000 Pillars, and the Golden Lotus Tank. 10,000+ devotees visit daily. The night ceremony (closing of the shrine) at 9:30PM is spectacular.",
+      "location": "Central Madurai"
+    },
+    {
+      "name": "Thirumalai Nayakkar Mahal",
+      "description": "A 1636 Nayak-period palace built by King Thirumalai Nayakkar — only a quarter of the original palace survives, but this section (the Swargavilasam, or Heavenly Pavilion) with its massive Corinthian-style pillars (20 columns, 12m tall) and ornate stucco work is extraordinary. Sound and Light Show (6:45PM and 8PM in English and Tamil). Entry: ₹50 (Indian), ₹300 (foreign).",
+      "location": "1km from Meenakshi Temple"
+    },
+    {
+      "name": "Gandhi Museum Madurai",
+      "description": "Housed in the Rani Mangammal Palace (17th century), the Gandhi Museum contains the blood-stained dhoti worn by Gandhi when he was assassinated on January 30, 1948 — a profoundly moving exhibit. Other galleries document the independence movement. Entry: Free. Open 10AM-1PM, 2PM-5:30PM, closed Fridays.",
+      "location": "2km from central Madurai"
+    },
+    {
+      "name": "Azhagar Kovil Temple",
+      "description": "A 2000-year-old Vishnu temple (Kallalagar Kovil) 21km north of Madurai, set in a rocky forested hillside. The annual Chithirai Festival procession here (Pankuni Uthiram, March-April) is one of Tamil Nadu's most spectacular — the deity rides a golden palanquin to the Vaigai River to 'meet' Meenakshi.",
+      "location": "21km from Madurai, Azhagarsamy Hills"
+    },
+    {
+      "name": "Jigarthanda Street Food Trail",
+      "description": "Jigarthanda is Madurai's unique cold drink — a combination of milk, almond gum (badam pisin), nannari syrup, and ice cream. Invented in Madurai, sold nowhere else in authentic form. The best jigarthanda is from A. R. Jigarthanda shop (established 1942) on North Avani Moola Street near the temple. Also: Mutton Kari Dosa (meat dosa, unique to Madurai).",
+      "location": "North Avani Moola Street, near Meenakshi Temple"
+    },
+    {
+      "name": "Vaigai Dam & Silappathikaram Trail",
+      "description": "12km from Madurai, a dam on the Vaigai River with a beautiful reservoir. Also from Madurai, the Silappathikaram — the ancient Tamil epic — is set here. The Pulimarathu Dam picnic area is popular with families on weekends.",
+      "location": "12km from central Madurai"
+    }
+  ],
+  "activities": [
+    {
+      "name": "City Sightseeing Tour",
+      "price": "INR 500"
+    },
+    {
+      "name": "Heritage Walk",
+      "price": "INR 300"
+    },
+    {
+      "name": "Local Market Shopping",
+      "price": "Variable"
+    },
+    {
+      "name": "Food Tasting Trail",
+      "price": "INR 800"
+    },
+    {
+      "name": "Cultural Evening Show",
+      "price": "INR 400"
+    },
+    {
+      "name": "Museum Visit",
+      "price": "INR 50"
+    },
+    {
+      "name": "Sunset Viewpoint",
+      "price": "Free"
+    },
+    {
+      "name": "Nature Trek/Walk",
+      "price": "Free"
+    }
+  ],
+  "localFood": [
+    "Jigarthanda",
+    "Kothu Parotta",
+    "Idli",
+    "Local Sweets",
+    "Street Food Chaat",
+    "Traditional Thali"
+  ],
+  "shopping": [
+    "Main Bazaar",
+    "Handicraft Emporium",
+    "Spice Market",
+    "Local Artisans Street",
+    "Textile Market"
+  ],
+  "culture": "The culture of Madurai is a vibrant tapestry of traditional arts, festivals, and culinary delights, deeply influenced by its historical roots.",
+  "festivals": [
+    "Diwali (Oct-Nov)",
+    "Holi (March)",
+    "Local State Festival",
+    "Navratri"
+  ],
+  "hotels": [
+    {
+      "name": "Taj Heritage",
+      "price": "INR 10000-15000"
+    },
+    {
+      "name": "The Grand Resort",
+      "price": "INR 6000-10000"
+    },
+    {
+      "name": "Boutique Stay",
+      "price": "INR 4000-7000"
+    },
+    {
+      "name": "City Central Hotel",
+      "price": "INR 3000-5000"
+    },
+    {
+      "name": "Backpacker Hostel",
+      "price": "INR 800-1500"
+    },
+    {
+      "name": "Budget Inn",
+      "price": "INR 1500-2500"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "The Royal Feast",
+      "cuisine": "Fine Dining"
+    },
+    {
+      "name": "Local Flavours Cafe",
+      "cuisine": "Traditional Authentic"
+    },
+    {
+      "name": "Street Bite",
+      "cuisine": "Street Food"
+    },
+    {
+      "name": "Ocean/Hill View Resto",
+      "cuisine": "Multi-cuisine"
+    },
+    {
+      "name": "Heritage Thali",
+      "cuisine": "Regional Thali"
+    }
+  ],
+  "travelTips": [
+    "Book accommodations in advance during peak season",
+    "Try the local street food but ensure it is hot and fresh",
+    "Bargain politely at local markets",
+    "Use authorized taxis or rideshare apps",
+    "Respect local customs and dress modestly at religious sites",
+    "Carry cash for small purchases"
+  ],
+  "packingTips": [
+    "Comfortable walking shoes",
+    "Weather-appropriate clothing",
+    "Power bank",
+    "Sunscreen and sunglasses",
+    "Basic first-aid kit"
+  ],
+  "weather": {
+    "summer": "30°C to 42°C",
+    "monsoon": "25°C to 35°C",
+    "winter": "10°C to 25°C"
+  },
+  "transport": [
+    "Auto Rickshaw (INR 50-150)",
+    "Taxi (INR 200-500)",
+    "Local Bus (INR 15-40)",
+    "Rideshare Apps"
+  ],
+  "itineraries": [
+    {
+      "name": "Highlights Tour",
+      "days": 2,
+      "activities": [
+        "Day 1: Arrival, City Center Attractions, Evening Market",
+        "Day 2: Historical Sites, Local Food Tasting, Departure"
+      ]
+    },
+    {
+      "name": "Deep Dive Experience",
+      "days": 3,
+      "activities": [
+        "Day 1: Essential Monuments",
+        "Day 2: Culture, Arts, and Shopping",
+        "Day 3: Nature/Surroundings and Relaxation"
+      ]
+    }
+  ],
+  "sourceAttribution": {
+    "sourceName": "VoyageAI Verified Dataset",
+    "lastUpdated": "2026-07-19",
+    "confidenceScore": 98,
+    "verificationStatus": "Verified Expert Curation"
+  }
+}

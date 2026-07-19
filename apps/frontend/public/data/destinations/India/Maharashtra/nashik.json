@@ -1,0 +1,223 @@
+{
+  "id": "nashik-01",
+  "slug": "nashik",
+  "name": "Nashik",
+  "state": "Maharashtra",
+  "country": "India",
+  "category": "Popular",
+  "budget": "Mid-range",
+  "rating": 4.5,
+  "reviewCount": 5200,
+  "coordinates": {
+    "lat": 20.2,
+    "lng": 77.2
+  },
+  "altitude": 500,
+  "coverImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1524492412937-b28074a5d7da",
+    "https://images.unsplash.com/photo-1514222134-b57c48ce6c64",
+    "https://images.unsplash.com/photo-1506461883276-594c40b8a4f8"
+  ],
+  "description": "Nashik is a magnificent destination in Maharashtra, India. Known for its remarkable blend of history, culture, and natural beauty. Visitors flock here to experience its unique atmosphere, vibrant local markets, and iconic landmarks. Whether you are seeking spiritual peace, thrilling adventures, or simply a relaxing holiday, Nashik offers a memorable experience that captures the true essence of Indian heritage. The city's charm lies in its timeless appeal and warm hospitality.",
+  "history": "Nashik boasts a rich history spanning several centuries, serving as a prominent center for trade, culture, and power under various dynasties.",
+  "bestSeason": "October to March",
+  "idealDuration": "2-4 Days",
+  "temperature": "15°C to 30°C",
+  "nearestAirport": "Local Airport (15km)",
+  "nearestRailwayStation": "Nashik Junction",
+  "nearestBusStand": "Nashik Central Bus Stand",
+  "tags": [
+    "Wine",
+    "Pilgrimage",
+    "Vineyards",
+    "Kumbh"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 5,
+  "luxuryScore": 6,
+  "budgetScore": 7,
+  "topAttractions": [
+    {
+      "name": "Trimbakeshwar Temple",
+      "description": "One of India's 12 sacred Jyotirlinga Shiva temples (self-manifested Shiva shrines), 28km from Nashik at the source of the Godavari River. The 18th-century black stone temple is surrounded by the Brahmagiri mountain. The Godavari begins as a small spring at Brahmagiri's peak (6km difficult trek). Kumbh Mela (Simhastha) held here every 12 years.",
+      "location": "28km from Nashik, Trimbak town"
+    },
+    {
+      "name": "Sula Vineyards",
+      "description": "India's most celebrated winery — producing award-winning Dindori Sula Riesling, Sula Shiraz, and other varietals on 2,400 acres. The region's microclimate (similar to Provence) makes the Nashik valley India's Napa Valley. Wine tastings (₹300-800), vineyard tours, the Beyond by Sula resort. Most popular: February harvest season.",
+      "location": "15km from Nashik city, Dindori Road"
+    },
+    {
+      "name": "Pandav Leni Caves (Nashik Caves)",
+      "description": "24 Buddhist rock-cut caves (2nd BCE – 6th CE) carved into a basalt hillside 8km from Nashik, housing 10th-century inscriptions, water cisterns, and Hinayana-era chaitya halls. Entry: ₹25 (Indian), ₹300 (foreign).",
+      "location": "8km from Nashik city"
+    },
+    {
+      "name": "Ramkund (Holy Tank)",
+      "description": "A sacred bathing ghat on the Godavari River where Lord Rama is believed to have bathed during his exile. Hindus scatter ashes of deceased family members here believing it grants moksha. The riverside is lined with ghats, temples, and brahmin priests. Most active during the Simhastha Kumbh Mela.",
+      "location": "Panchavati, Central Nashik"
+    },
+    {
+      "name": "Anjaneri Hill (Hanuman Birthplace)",
+      "description": "A 4489-foot (1369m) hill 16km from Nashik believed to be the birthplace of Lord Hanuman. The 6km trek up passes ancient temples. Clear days offer views of Brahmagiri, Harihar Fort, and the Nashik valley.",
+      "location": "16km from Nashik"
+    },
+    {
+      "name": "Wine Trail — Soma, Vallonne, York Winery",
+      "description": "Apart from Sula, Nashik has 80+ wineries including Soma (award-winning Chenin Blanc), Vallonne (boutique French-style), and York Winery (hillside, luxury). Most offer tastings (₹300-500/session) and farm-to-table lunches. Best visited February-April (harvest season, grapes on the vine).",
+      "location": "Dindori Road wine corridor, 15-25km from Nashik"
+    }
+  ],
+  "activities": [
+    {
+      "name": "City Sightseeing Tour",
+      "price": "INR 500"
+    },
+    {
+      "name": "Heritage Walk",
+      "price": "INR 300"
+    },
+    {
+      "name": "Local Market Shopping",
+      "price": "Variable"
+    },
+    {
+      "name": "Food Tasting Trail",
+      "price": "INR 800"
+    },
+    {
+      "name": "Cultural Evening Show",
+      "price": "INR 400"
+    },
+    {
+      "name": "Museum Visit",
+      "price": "INR 50"
+    },
+    {
+      "name": "Sunset Viewpoint",
+      "price": "Free"
+    },
+    {
+      "name": "Nature Trek/Walk",
+      "price": "Free"
+    }
+  ],
+  "localFood": [
+    "Misal Pav",
+    "Sabudana Vada",
+    "Local Sweets",
+    "Street Food Chaat",
+    "Traditional Thali"
+  ],
+  "shopping": [
+    "Main Bazaar",
+    "Handicraft Emporium",
+    "Spice Market",
+    "Local Artisans Street",
+    "Textile Market"
+  ],
+  "culture": "The culture of Nashik is a vibrant tapestry of traditional arts, festivals, and culinary delights, deeply influenced by its historical roots.",
+  "festivals": [
+    "Diwali (Oct-Nov)",
+    "Holi (March)",
+    "Local State Festival",
+    "Navratri"
+  ],
+  "hotels": [
+    {
+      "name": "Taj Heritage",
+      "price": "INR 10000-15000"
+    },
+    {
+      "name": "The Grand Resort",
+      "price": "INR 6000-10000"
+    },
+    {
+      "name": "Boutique Stay",
+      "price": "INR 4000-7000"
+    },
+    {
+      "name": "City Central Hotel",
+      "price": "INR 3000-5000"
+    },
+    {
+      "name": "Backpacker Hostel",
+      "price": "INR 800-1500"
+    },
+    {
+      "name": "Budget Inn",
+      "price": "INR 1500-2500"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "The Royal Feast",
+      "cuisine": "Fine Dining"
+    },
+    {
+      "name": "Local Flavours Cafe",
+      "cuisine": "Traditional Authentic"
+    },
+    {
+      "name": "Street Bite",
+      "cuisine": "Street Food"
+    },
+    {
+      "name": "Ocean/Hill View Resto",
+      "cuisine": "Multi-cuisine"
+    },
+    {
+      "name": "Heritage Thali",
+      "cuisine": "Regional Thali"
+    }
+  ],
+  "travelTips": [
+    "Book accommodations in advance during peak season",
+    "Try the local street food but ensure it is hot and fresh",
+    "Bargain politely at local markets",
+    "Use authorized taxis or rideshare apps",
+    "Respect local customs and dress modestly at religious sites",
+    "Carry cash for small purchases"
+  ],
+  "packingTips": [
+    "Comfortable walking shoes",
+    "Weather-appropriate clothing",
+    "Power bank",
+    "Sunscreen and sunglasses",
+    "Basic first-aid kit"
+  ],
+  "weather": {
+    "summer": "30°C to 42°C",
+    "monsoon": "25°C to 35°C",
+    "winter": "10°C to 25°C"
+  },
+  "transport": [
+    "Auto Rickshaw (INR 50-150)",
+    "Taxi (INR 200-500)",
+    "Local Bus (INR 15-40)",
+    "Rideshare Apps"
+  ],
+  "itineraries": [
+    {
+      "name": "Highlights Tour",
+      "days": 2,
+      "activities": [
+        "Day 1: Arrival, City Center Attractions, Evening Market",
+        "Day 2: Historical Sites, Local Food Tasting, Departure"
+      ]
+    },
+    {
+      "name": "Deep Dive Experience",
+      "days": 3,
+      "activities": [
+        "Day 1: Essential Monuments",
+        "Day 2: Culture, Arts, and Shopping",
+        "Day 3: Nature/Surroundings and Relaxation"
+      ]
+    }
+  ]
+}

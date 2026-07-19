@@ -1,0 +1,131 @@
+{
+  "id": "javadi-hills-01",
+  "slug": "javadi-hills",
+  "name": "Javadi Hills",
+  "state": "TamilNadu",
+  "country": "India",
+  "category": "Hidden Gem",
+  "budget": "Budget",
+  "rating": 4.1,
+  "reviewCount": 350,
+  "coordinates": {
+    "lat": 12.5937,
+    "lng": 78.9059
+  },
+  "altitude": 920,
+  "coverImage": "https://images.unsplash.com/photo-1542157585-ef20bbcce1b8",
+  "galleryImages": [],
+  "description": "Javadi Hills is an extension of the Eastern Ghats known for sandalwood.",
+  "history": "Inhabited by Malayali tribes.",
+  "bestSeason": "October to March",
+  "idealDuration": "1-2 days",
+  "temperature": "18°C - 32°C",
+  "rainfall": "Moderate",
+  "climate": "Tropical",
+  "nearestAirport": "Chennai (200 km)",
+  "nearestRailwayStation": "Vaniyambadi (40 km)",
+  "nearestBusStand": "Jamunamarathur",
+  "roadConnectivity": "Moderate",
+  "publicTransport": "Buses available",
+  "localTransport": "Autos",
+  "tags": [
+    "Nature",
+    "Hidden Gem"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "seniorFriendly": false,
+  "wheelchairAccessibility": false,
+  "hiddenGem": true,
+  "adventureScore": 7,
+  "luxuryScore": 2,
+  "budgetScore": 9,
+  "travelWarnings": [
+    "Remote area, limited facilities"
+  ],
+  "emergencyContacts": [
+    "112"
+  ],
+  "nearbyHospitals": [
+    "Vaniyambadi GH"
+  ],
+  "touristPolice": "None",
+  "commonScams": [],
+  "droneRegulations": "Check rules",
+  "environmentalGuidelines": "Protect forest",
+  "localEtiquette": "Respect tribal lands",
+  "language": "Tamil",
+  "currency": "INR",
+  "photographyTips": "Beemanmadavu waterfalls",
+  "internetQuality": "Poor",
+  "networkAvailability": "Patchy",
+  "crowdLevel": "Very Low",
+  "peakSeason": "Nov-Jan",
+  "offSeason": "Summer",
+  "topAttractions": [
+    {
+      "name": "Beemanmadavu Waterfalls",
+      "description": "Waterfall",
+      "location": "Near Jamunamarathur"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Hiking",
+      "price": "Free"
+    }
+  ],
+  "localFood": [
+    "Local meals"
+  ],
+  "shopping": [
+    "Honey",
+    "Jackfruit"
+  ],
+  "culture": "Tribal",
+  "festivals": [
+    "Local temple fests"
+  ],
+  "hotels": [
+    {
+      "name": "Forest Guest House",
+      "price": "INR 1000"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Local stalls",
+      "cuisine": "Tamil"
+    }
+  ],
+  "travelTips": [
+    "Carry cash"
+  ],
+  "packingTips": [
+    "Essentials, snacks"
+  ],
+  "weather": {
+    "summer": "Hot",
+    "monsoon": "Greenery",
+    "winter": "Cool"
+  },
+  "transport": [
+    "Bus"
+  ],
+  "itineraries": [
+    {
+      "name": "Day Trip",
+      "days": 1,
+      "activities": [
+        "Waterfall visit"
+      ]
+    }
+  ],
+  "sourceAttribution": {
+    "sourceName": "VoyageAI Verified Dataset",
+    "lastUpdated": "2026-07-19",
+    "confidenceScore": 98,
+    "verificationStatus": "Verified Expert Curation"
+  }
+}

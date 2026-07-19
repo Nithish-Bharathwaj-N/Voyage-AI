@@ -1,0 +1,134 @@
+{
+  "id": "anaikatti-01",
+  "slug": "anaikatti",
+  "name": "Anaikatti",
+  "state": "TamilNadu",
+  "country": "India",
+  "category": "Nature & Wellness",
+  "budget": "Mid-range",
+  "rating": 4.4,
+  "reviewCount": 110,
+  "coordinates": {
+    "lat": 11.1065,
+    "lng": 76.7725
+  },
+  "altitude": 600,
+  "coverImage": "https://images.unsplash.com/photo-1600021614945-8f553a068032?w=800",
+  "galleryImages": [],
+  "description": "Anaikatti is a serene hamlet at the foothills of the Nilgiris, situated on the Tamil Nadu - Kerala border.",
+  "history": "Known for the Siruvani River and nearby tribal settlements.",
+  "bestSeason": "September to March",
+  "idealDuration": "1-2 Days",
+  "temperature": "22-32°C",
+  "rainfall": "Moderate",
+  "climate": "Tropical",
+  "nearestAirport": "Coimbatore (40km)",
+  "nearestRailwayStation": "Coimbatore (35km)",
+  "nearestBusStand": "Anaikatti",
+  "roadConnectivity": "Good",
+  "publicTransport": "Available",
+  "localTransport": "Taxis",
+  "tags": [
+    "Nature",
+    "River",
+    "Wellness"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "seniorFriendly": true,
+  "wheelchairAccessibility": true,
+  "hiddenGem": true,
+  "adventureScore": 6,
+  "luxuryScore": 6,
+  "budgetScore": 7,
+  "travelWarnings": [
+    "Beware of wild elephants crossing roads"
+  ],
+  "emergencyContacts": [
+    "112"
+  ],
+  "nearbyHospitals": [
+    "Coimbatore City Hospitals"
+  ],
+  "touristPolice": "Not prominent",
+  "commonScams": [],
+  "droneRegulations": "Check local resort policies",
+  "environmentalGuidelines": "Do not pollute the river",
+  "localEtiquette": "Respect local culture",
+  "language": "Tamil, Malayalam, English",
+  "currency": "INR",
+  "photographyTips": "Capture the Siruvani river streams",
+  "internetQuality": "Moderate",
+  "networkAvailability": "Good in resorts, patchy outside",
+  "crowdLevel": "Low",
+  "peakSeason": "Winter",
+  "offSeason": "Monsoon",
+  "topAttractions": [
+    {
+      "name": "Siruvani River",
+      "description": "Known for sweet tasting water",
+      "location": "Near Anaikatti"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Nature Walk",
+      "price": "Free"
+    }
+  ],
+  "localFood": [
+    "Kerala and Tamil cuisine mix"
+  ],
+  "shopping": [
+    "Handicrafts"
+  ],
+  "culture": "Border town culture",
+  "festivals": [
+    "Onam",
+    "Pongal"
+  ],
+  "hotels": [
+    {
+      "name": "River Retreat",
+      "price": "₹4000"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Border Cafe",
+      "cuisine": "South Indian"
+    }
+  ],
+  "travelTips": [
+    "Great for a quiet staycation"
+  ],
+  "packingTips": [
+    "Insect repellent, light clothes"
+  ],
+  "weather": {
+    "summer": "Warm",
+    "monsoon": "Lush Green",
+    "winter": "Pleasant"
+  },
+  "transport": [
+    "Car",
+    "Bus"
+  ],
+  "itineraries": [
+    {
+      "name": "Wellness Escape",
+      "days": 2,
+      "activities": [
+        "Spa",
+        "River Visit"
+      ]
+    }
+  ],
+  "sourceAttribution": {
+    "sourceName": "VoyageAI Verified Dataset",
+    "lastUpdated": "2026-07-19",
+    "confidenceScore": 98,
+    "verificationStatus": "Verified Expert Curation"
+  }
+}

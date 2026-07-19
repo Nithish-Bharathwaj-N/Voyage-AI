@@ -1,0 +1,224 @@
+{
+  "id": "pune-01",
+  "slug": "pune",
+  "name": "Pune",
+  "state": "Maharashtra",
+  "country": "India",
+  "category": "Popular",
+  "budget": "Mid-range",
+  "rating": 4.5,
+  "reviewCount": 5400,
+  "coordinates": {
+    "lat": 20.4,
+    "lng": 77.4
+  },
+  "altitude": 500,
+  "coverImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1524492412937-b28074a5d7da",
+    "https://images.unsplash.com/photo-1514222134-b57c48ce6c64",
+    "https://images.unsplash.com/photo-1506461883276-594c40b8a4f8"
+  ],
+  "description": "Pune is a magnificent destination in Maharashtra, India. Known for its remarkable blend of history, culture, and natural beauty. Visitors flock here to experience its unique atmosphere, vibrant local markets, and iconic landmarks. Whether you are seeking spiritual peace, thrilling adventures, or simply a relaxing holiday, Pune offers a memorable experience that captures the true essence of Indian heritage. The city's charm lies in its timeless appeal and warm hospitality.",
+  "history": "Pune boasts a rich history spanning several centuries, serving as a prominent center for trade, culture, and power under various dynasties.",
+  "bestSeason": "October to March",
+  "idealDuration": "2-4 Days",
+  "temperature": "15°C to 30°C",
+  "nearestAirport": "Local Airport (15km)",
+  "nearestRailwayStation": "Pune Junction",
+  "nearestBusStand": "Pune Central Bus Stand",
+  "tags": [
+    "History",
+    "Education",
+    "Maratha",
+    "Forts"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 5,
+  "luxuryScore": 6,
+  "budgetScore": 7,
+  "topAttractions": [
+    {
+      "name": "Aga Khan Palace",
+      "description": "Built in 1892, this majestic palace served as a prison for Mahatma Gandhi and his wife Kasturba Gandhi during the 1942 Quit India Movement. Kasturba died here, and her samadhi is in the palace grounds. It's now a museum of Gandhi's life. Entry: ₹25.",
+      "location": "Kalyani Nagar, Pune"
+    },
+    {
+      "name": "Shaniwar Wada",
+      "description": "The historic 1732 fortification that served as the seat of the Peshwas of the Maratha Empire until 1818. Largely destroyed by an unexplained fire in 1828, the imposing walls, gateways (Dilli Darwaza), and foundations remain. Evening sound and light show. Entry: ₹25.",
+      "location": "Shaniwar Peth, Old Pune"
+    },
+    {
+      "name": "Dagadusheth Halwai Ganapati Temple",
+      "description": "One of the most famous Hindu temples in Maharashtra, dedicated to Lord Ganesha. The idol is adorned with nearly 40 kilos of gold. During the 10-day Ganeshotsav festival, millions of devotees visit. It remains open from 6 AM to 11 PM.",
+      "location": "Budhwar Peth, Old Pune"
+    },
+    {
+      "name": "Osho International Meditation Resort",
+      "description": "A sprawling, lush ashram in Koregaon Park founded by the controversial mystic Rajneesh (Osho). Attracts thousands of international visitors for its meditation programs. The environment is serene with black marble paths and greenery. Entry is restricted (day passes available for ₹1000-2000).",
+      "location": "Koregaon Park, Pune"
+    },
+    {
+      "name": "Sinhagad Fort",
+      "description": "A massive 17th-century hill fort located 30km from Pune at an elevation of 1312m. Famous for the 1670 Battle of Sinhagad fought by Tanaji Malusare. A popular trekking destination offering spectacular views of the Sahyadri mountains and Khadakwasla Dam. The hike takes about 1-2 hours from the base.",
+      "location": "30km from Pune"
+    },
+    {
+      "name": "Raja Dinkar Kelkar Museum",
+      "description": "A fascinating one-man collection by Dr. Dinkar Kelkar, housing over 20,000 artifacts from 18th and 19th-century India. Includes musical instruments, hookahs, writing instruments, and a replica of the Mastani Mahal. Entry: ₹100.",
+      "location": "Shukrawar Peth, Pune"
+    }
+  ],
+  "activities": [
+    {
+      "name": "City Sightseeing Tour",
+      "price": "INR 500"
+    },
+    {
+      "name": "Heritage Walk",
+      "price": "INR 300"
+    },
+    {
+      "name": "Local Market Shopping",
+      "price": "Variable"
+    },
+    {
+      "name": "Food Tasting Trail",
+      "price": "INR 800"
+    },
+    {
+      "name": "Cultural Evening Show",
+      "price": "INR 400"
+    },
+    {
+      "name": "Museum Visit",
+      "price": "INR 50"
+    },
+    {
+      "name": "Sunset Viewpoint",
+      "price": "Free"
+    },
+    {
+      "name": "Nature Trek/Walk",
+      "price": "Free"
+    }
+  ],
+  "localFood": [
+    "Misal Pav",
+    "Bakarwadi",
+    "Mastani",
+    "Local Sweets",
+    "Street Food Chaat",
+    "Traditional Thali"
+  ],
+  "shopping": [
+    "Main Bazaar",
+    "Handicraft Emporium",
+    "Spice Market",
+    "Local Artisans Street",
+    "Textile Market"
+  ],
+  "culture": "The culture of Pune is a vibrant tapestry of traditional arts, festivals, and culinary delights, deeply influenced by its historical roots.",
+  "festivals": [
+    "Diwali (Oct-Nov)",
+    "Holi (March)",
+    "Local State Festival",
+    "Navratri"
+  ],
+  "hotels": [
+    {
+      "name": "Taj Heritage",
+      "price": "INR 10000-15000"
+    },
+    {
+      "name": "The Grand Resort",
+      "price": "INR 6000-10000"
+    },
+    {
+      "name": "Boutique Stay",
+      "price": "INR 4000-7000"
+    },
+    {
+      "name": "City Central Hotel",
+      "price": "INR 3000-5000"
+    },
+    {
+      "name": "Backpacker Hostel",
+      "price": "INR 800-1500"
+    },
+    {
+      "name": "Budget Inn",
+      "price": "INR 1500-2500"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "The Royal Feast",
+      "cuisine": "Fine Dining"
+    },
+    {
+      "name": "Local Flavours Cafe",
+      "cuisine": "Traditional Authentic"
+    },
+    {
+      "name": "Street Bite",
+      "cuisine": "Street Food"
+    },
+    {
+      "name": "Ocean/Hill View Resto",
+      "cuisine": "Multi-cuisine"
+    },
+    {
+      "name": "Heritage Thali",
+      "cuisine": "Regional Thali"
+    }
+  ],
+  "travelTips": [
+    "Book accommodations in advance during peak season",
+    "Try the local street food but ensure it is hot and fresh",
+    "Bargain politely at local markets",
+    "Use authorized taxis or rideshare apps",
+    "Respect local customs and dress modestly at religious sites",
+    "Carry cash for small purchases"
+  ],
+  "packingTips": [
+    "Comfortable walking shoes",
+    "Weather-appropriate clothing",
+    "Power bank",
+    "Sunscreen and sunglasses",
+    "Basic first-aid kit"
+  ],
+  "weather": {
+    "summer": "30°C to 42°C",
+    "monsoon": "25°C to 35°C",
+    "winter": "10°C to 25°C"
+  },
+  "transport": [
+    "Auto Rickshaw (INR 50-150)",
+    "Taxi (INR 200-500)",
+    "Local Bus (INR 15-40)",
+    "Rideshare Apps"
+  ],
+  "itineraries": [
+    {
+      "name": "Highlights Tour",
+      "days": 2,
+      "activities": [
+        "Day 1: Arrival, City Center Attractions, Evening Market",
+        "Day 2: Historical Sites, Local Food Tasting, Departure"
+      ]
+    },
+    {
+      "name": "Deep Dive Experience",
+      "days": 3,
+      "activities": [
+        "Day 1: Essential Monuments",
+        "Day 2: Culture, Arts, and Shopping",
+        "Day 3: Nature/Surroundings and Relaxation"
+      ]
+    }
+  ]
+}

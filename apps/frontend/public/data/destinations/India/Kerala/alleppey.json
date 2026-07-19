@@ -1,0 +1,235 @@
+{
+  "id": "alleppey-01",
+  "slug": "alleppey",
+  "name": "Alleppey",
+  "state": "Kerala",
+  "country": "India",
+  "category": "Nature",
+  "budget": "Mid-range",
+  "rating": 4.7,
+  "reviewCount": 48000,
+  "coordinates": {
+    "lat": 9.4981,
+    "lng": 76.3388
+  },
+  "altitude": 1,
+  "coverImage": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=800&q=80",
+    "https://images.unsplash.com/photo-1559628233-100c798642d6?w=800&q=80",
+    "https://images.unsplash.com/photo-1572363443168-bc0aaffc9e26?w=800&q=80"
+  ],
+  "description": "Alleppey (officially Alappuzha) is Kerala's most iconic backwater destination, built on a network of canals, lagoons, lakes, and rivers that have earned it the title \"Venice of the East.\" The defining experience here is an overnight stay on a traditional kettuvallam (rice boat houseboat) drifting through the emerald waterways of Vembanad Lake and the paddy-fringed canals of Kuttanad — one of the world's few regions where farming happens below sea level. The annual Nehru Trophy Boat Race (August/September) is one of India's most spectacular sporting events.",
+  "history": "Alleppey has been a trading port since ancient times, exporting coir (coconut fiber), spices, and fish. The backwater canal network was developed by the British for transporting goods from the interior. The town was also an early center of the Kerala Socialist movement. The Nehru Trophy Boat Race began in 1952 when Prime Minister Jawaharlal Nehru donated a trophy after being enchanted by the traditional snake boat races during his visit.",
+  "bestSeason": "September to March. Avoid June–August monsoon (risk of flooding, limited houseboat operations). Best: October–February.",
+  "idealDuration": "2–3 days",
+  "temperature": "22°C to 35°C (year-round tropical)",
+  "nearestAirport": "Cochin International Airport (COK) — 83 km from Alleppey (2 hrs)",
+  "nearestRailwayStation": "Alleppey (ALLP) Railway Station — well-connected to Kochi (1.5 hrs), Thiruvananthapuram (4 hrs)",
+  "nearestBusStand": "Alleppey KSRTC Bus Stand (near boat jetty)",
+  "tags": [
+    "Backwaters",
+    "Houseboat",
+    "Kerala",
+    "Lagoon",
+    "Snake Boat Race",
+    "Fishing"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 4,
+  "luxuryScore": 6,
+  "budgetScore": 7,
+  "topAttractions": [
+    {
+      "name": "Vembanad Lake Houseboat Cruise",
+      "description": "The quintessential Kerala experience — an overnight journey on a traditional thatched-roof kettuvallam houseboat through the vast Vembanad Lake and backwater canals. Houseboats include bedroom, living room, and private sun deck. Cook prepares fresh Kerala meals onboard. Book through KTDC or private operators. Cost: ₹6,000–25,000/night for 2 persons.",
+      "location": "Punnamada Lake, Alleppey jetty"
+    },
+    {
+      "name": "Nehru Trophy Boat Race",
+      "description": "Kerala's most spectacular sporting event — held on the second Saturday of August every year since 1952. Over 100 snake boats (chundanvallam), each 30m long rowed by 100 oarsmen chanting \"vanchipattu\" (boatman songs) compete on Punnamada Lake. Viewing from floating platforms (₹150–500). Book months ahead for houseboat viewing (₹15,000+).",
+      "location": "Punnamada Lake, Alleppey"
+    },
+    {
+      "name": "Kuttanad Backwaters (Below Sea Level Farms)",
+      "description": "The \"Rice Bowl of Kerala\" and one of the world's few below-sea-level farming regions. Paddy fields are cultivated below the water table, enclosed by bunds. Take a small canoe tour (₹100/hr) through narrow channels to witness traditional Kerala agrarian life — fishing, coir weaving, toddy tapping from coconut palms.",
+      "location": "20 km south of Alleppey"
+    },
+    {
+      "name": "Marari Beach",
+      "description": "A pristine, uncrowded beach 15 km from Alleppey with golden sand, coconut groves, and a traditional fishing village. Largely undeveloped compared to Kovalam and Varkala. The Marari Beach Resort (CGH Earth) here is one of India's finest eco-resorts. Great for morning walks and sunsets.",
+      "location": "15 km north of Alleppey"
+    },
+    {
+      "name": "Krishnapuram Palace Museum",
+      "description": "A 200-year-old Kerala-style palace (double-roofed, gabled) with murals, antiques, and a fascinating collection of Travancore royal artifacts. The grounds have a beautiful lotus pond. Entry: ₹20. Open 9 AM–5 PM, closed Mondays.",
+      "location": "Kayamkulam, 47 km from Alleppey"
+    },
+    {
+      "name": "St. Andrew's Church (1876)",
+      "description": "A British-era church in the backwater town of Arthunkal, known as the \"Jerusalem of Kerala.\" The January feast of St. Sebastian draws 100,000 pilgrims. Beautiful white structure amidst coconut palms on the backwater edge.",
+      "location": "Arthunkal, 17 km from Alleppey"
+    }
+  ],
+  "activities": [
+    "Overnight houseboat stay on Vembanad Lake (₹6,000–25,000)",
+    "Canoe tour through narrow backwater channels (₹200–500/hr)",
+    "Kayaking on Vembanad Lake (₹300/hr)",
+    "Traditional Kerala cooking class on houseboat",
+    "Ayurvedic treatment and massage (₹1,500–5,000)",
+    "Coir weaving workshop at village cooperative",
+    "Cycling through backwater villages (₹200 bike rental)",
+    "Village walk with local guide (₹500)"
+  ],
+  "localFood": [
+    "Karimeen Pollichathu (pearl spot fish marinated in spices, wrapped in banana leaf and grilled — Alleppey's signature dish)",
+    "Kerala Fish Curry with Tapioca (Kappa-Meen curry — the everyday meal of fishermen)",
+    "Appam with Mutton Stew (Sunday special across Kerala)",
+    "Chembu Curry (taro/yam cooked in coconut milk)",
+    "Nadan Kozhi Varathathu (Kerala-style fried chicken)",
+    "Payasam (sweet rice pudding served at feasts)",
+    "Toddy (fermented coconut palm sap — a local drink)"
+  ],
+  "shopping": [
+    "Coir (coconut fiber) products: mats, baskets, bags (best quality in Alleppey, Kerala Dinesh Beedi Cooperative)",
+    "Handwoven Kerala cotton kasavu sarees (₹500–3,000)",
+    "Kerala spice blends (fish curry masala, sambar powder)",
+    "Cashew nuts — roasted and raw (₹400–600/kg)",
+    "Handmade model houseboats (toy souvenirs)",
+    "Rattan and bamboo furniture and crafts"
+  ],
+  "culture": "Alleppey is the heartland of traditional Kerala culture — the birthplace of Kerala's labor movement, home to its famous Christian communities (St. Thomas Christians, established 52 CE), and the setting for the traditional onam celebrations and snake boat races that define Kerala identity.",
+  "festivals": [
+    "Nehru Trophy Boat Race (2nd Saturday of August — world famous)",
+    "Champakkulam Moolam Boat Race (June/July — older than Nehru Trophy)",
+    "Feast of St. Sebastian, Arthunkal (January — 100,000 pilgrims)",
+    "Onam (August/September — harvest festival, vallam kali boat races in every village)"
+  ],
+  "hotels": [
+    "Marari Beach Resort (CGH Earth) (Eco-luxury, ₹15,000–30,000, best eco-resort in Kerala)",
+    "Pagoda Resort (Boutique, ₹5,000–10,000, authentic Kerala-style cottages)",
+    "Houseboat (Overnight, ₹6,000–25,000 for 2 — the signature accommodation)",
+    "Raheem Residency (Heritage, ₹8,000–15,000, restored British bungalow in Alleppey town)",
+    "Johnson's The Homestay (Budget, ₹2,000–4,000)",
+    "KTDC Punnamada Lake Resort (Government, ₹3,000–6,000)"
+  ],
+  "restaurants": [
+    "Mushroom Restaurant (Best karimeen pollichathu and Kerala seafood, ₹300–700, near jetty)",
+    "Chakara Restaurant at Raheem Residency (Fine dining, ₹800–2,000)",
+    "Hotel Sreekrishna (Local thali, ₹120–200, bus stand area)",
+    "Royal Park Restaurant (Mid-range, multicuisine, ₹300–600)",
+    "Houseboat meals (fresh Kerala fish curry, appam, karimeen — included in houseboat package)"
+  ],
+  "travelTips": [
+    "Book houseboats well in advance (especially for Nehru Trophy race week — months ahead).",
+    "Negotiate houseboat prices — KTDC houseboats have fixed prices and better regulation than private operators.",
+    "Bring mosquito repellent — backwater evenings are mosquito-prone.",
+    "Monsoon (June–August) has flooding risk — some backwaters become inaccessible.",
+    "Go for the canoe/kayak experience over motorboat — quieter canals and more authentic.",
+    "Karimeen (pearl spot) fish is local and fresh — always order it."
+  ],
+  "packingTips": [
+    "Light cotton clothes (very humid)",
+    "Mosquito repellent (essential for evenings)",
+    "Sunscreen",
+    "Waterproof bag",
+    "Modest clothes for church visits",
+    "Sandals/flip-flops"
+  ],
+  "weather": "Year-round tropical: 22–35°C. Southwest Monsoon (Jun–Sep): Heavy rainfall, humidity very high, floods possible. Northeast Monsoon (Oct–Nov): Moderate rain. Best weather: December–March (sunny, 26–32°C, low humidity).",
+  "transport": "By Air: Cochin International Airport (83 km, 2 hrs). By Rail: Alleppey Station — trains from Kochi (1.5 hrs, ₹50–200), Thiruvananthapuram (4 hrs). By Bus: KSRTC from Kochi (2 hrs, ₹80), Thiruvananthapuram (3.5 hrs). Within Alleppey: Autos, cycle rickshaws, bicycles. Ferries connect various backwater towns (₹5–15 per trip).",
+  "itineraries": [
+    {
+      "type": "2 Day",
+      "durationDays": 2,
+      "estimatedCost": 10000,
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "10:00 AM",
+              "activity": "Arrive and board houseboat at Finch Wharf",
+              "description": "Check in to your overnight houseboat by 12 noon. Most check-ins are at the main jetty area.",
+              "costEstimate": 0
+            },
+            {
+              "time": "01:00 PM",
+              "activity": "Lunch on the houseboat",
+              "description": "Traditional Kerala lunch cooked by onboard chef. Karimeen fish curry, rice, sambar, thoran.",
+              "costEstimate": 0
+            },
+            {
+              "time": "02:00 PM",
+              "activity": "Vembanad Lake & village canals",
+              "description": "Drift through Vembanad Lake and narrow canal networks. Spot kingfishers, egrets, and otters.",
+              "costEstimate": 0
+            },
+            {
+              "time": "05:00 PM",
+              "activity": "Village stop at Kuttanad",
+              "description": "Anchor by a coir-weaving or toddy-tapping village. Brief walkabout.",
+              "costEstimate": 0
+            },
+            {
+              "time": "06:30 PM",
+              "activity": "Sunset on the lake",
+              "description": "Kerala sunsets on Vembanad Lake are extraordinary — orange sky reflected in still water.",
+              "costEstimate": 0
+            },
+            {
+              "time": "08:00 PM",
+              "activity": "Dinner and overnight on houseboat",
+              "description": "Kerala dinner: appam with fish curry, prawns, rice. Sleep to the sound of water.",
+              "costEstimate": 0
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            {
+              "time": "06:00 AM",
+              "activity": "Sunrise on Vembanad Lake",
+              "description": "Fishermen casting nets in the morning mist — a classic Kerala image.",
+              "costEstimate": 0
+            },
+            {
+              "time": "08:00 AM",
+              "activity": "Breakfast on houseboat + disembark",
+              "description": "Idli, dosa, coconut chutney. Check-out by 9 AM.",
+              "costEstimate": 0
+            },
+            {
+              "time": "10:00 AM",
+              "activity": "Kayaking on backwaters (2 hrs)",
+              "description": "Self-guided kayaking through narrow mangrove-lined canals — excellent.",
+              "costEstimate": 600
+            },
+            {
+              "time": "01:00 PM",
+              "activity": "Lunch at Mushroom Restaurant",
+              "description": "Best karimeen pollichathu in Alleppey. Open-air, near the jetty.",
+              "costEstimate": 500
+            },
+            {
+              "time": "03:00 PM",
+              "activity": "Marari Beach (15 km)",
+              "description": "Pristine fishing beach. Long walks on the golden sand.",
+              "costEstimate": 300
+            },
+            {
+              "time": "05:30 PM",
+              "activity": "Departure to Kochi or Thiruvananthapuram",
+              "description": "Train or taxi back.",
+              "costEstimate": 500
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

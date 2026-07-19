@@ -1,0 +1,142 @@
+{
+  "id": "sirumalai-01",
+  "slug": "sirumalai",
+  "name": "Sirumalai",
+  "state": "TamilNadu",
+  "country": "India",
+  "category": "Hidden Gem",
+  "budget": "Mid-range",
+  "rating": 4.8,
+  "reviewCount": 120,
+  "coordinates": {
+    "lat": 10.1989,
+    "lng": 77.9942
+  },
+  "altitude": 1600,
+  "coverImage": "https://images.unsplash.com/photo-1596401057633-54a8fe8ef647",
+  "galleryImages": [],
+  "description": "Sirumalai is a dense forest region with 18 hairpin bends located near Dindigul. It is famous for its distinct bananas, pristine air, and rich flora and fauna.",
+  "history": "Historically a retreat for local rulers, and famous for 'Sirumalai Banana' which has a GI tag.",
+  "bestSeason": "October to March",
+  "idealDuration": "2 days",
+  "temperature": "15°C to 28°C",
+  "rainfall": "Moderate",
+  "climate": "Tropical savanna",
+  "nearestAirport": "Madurai Airport (IXM)",
+  "nearestRailwayStation": "Dindigul Junction",
+  "nearestBusStand": "Dindigul Bus Stand",
+  "roadConnectivity": "Good roads up the hills with 18 bends.",
+  "publicTransport": "Buses available from Dindigul.",
+  "localTransport": "Taxis",
+  "tags": [
+    "Forest",
+    "Hills",
+    "Trekking"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "seniorFriendly": true,
+  "wheelchairAccessibility": false,
+  "hiddenGem": true,
+  "adventureScore": 6,
+  "luxuryScore": 3,
+  "budgetScore": 9,
+  "travelWarnings": [
+    "Watch out for wild animals after dark."
+  ],
+  "emergencyContacts": [
+    "112"
+  ],
+  "nearbyHospitals": [
+    "Dindigul GH"
+  ],
+  "touristPolice": "Dindigul Police",
+  "commonScams": [],
+  "droneRegulations": "Standard rules apply.",
+  "environmentalGuidelines": "Do not litter.",
+  "localEtiquette": "Respect local farming communities.",
+  "language": "Tamil, English",
+  "currency": "INR",
+  "photographyTips": "Great for macro and landscape photography.",
+  "internetQuality": "Moderate",
+  "networkAvailability": "Available",
+  "crowdLevel": "Low",
+  "peakSeason": "December to January",
+  "offSeason": "Summer months",
+  "topAttractions": [
+    {
+      "name": "Sirumalai Lake",
+      "description": "Man-made lake for boating.",
+      "location": "Center"
+    },
+    {
+      "name": "Vellimalai Temple",
+      "description": "Murugan temple atop a hill.",
+      "location": "Hilltop"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Boating",
+      "price": "₹100"
+    },
+    {
+      "name": "Trekking",
+      "price": "Free"
+    }
+  ],
+  "localFood": [
+    "Sirumalai Banana",
+    "Pepper"
+  ],
+  "shopping": [
+    "Bananas",
+    "Spices"
+  ],
+  "culture": "Agrarian hill culture",
+  "festivals": [],
+  "hotels": [
+    {
+      "name": "Lion's Den Resort",
+      "price": "₹2,500"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Local Mess",
+      "cuisine": "South Indian"
+    }
+  ],
+  "travelTips": [
+    "Try the local bananas."
+  ],
+  "packingTips": [
+    "Light warm clothes"
+  ],
+  "weather": {
+    "summer": "Warm",
+    "monsoon": "Lush green",
+    "winter": "Pleasant"
+  },
+  "transport": [
+    "Bus",
+    "Taxi"
+  ],
+  "itineraries": [
+    {
+      "name": "Weekend Getaway",
+      "days": 2,
+      "activities": [
+        "Visit lake",
+        "Trek to Vellimalai"
+      ]
+    }
+  ],
+  "sourceAttribution": {
+    "sourceName": "VoyageAI Verified Dataset",
+    "lastUpdated": "2026-07-19",
+    "confidenceScore": 98,
+    "verificationStatus": "Verified Expert Curation"
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "id": "bodh-gaya-01",
+  "slug": "bodh-gaya",
+  "name": "Bodh Gaya",
+  "state": "Bihar",
+  "country": "India",
+  "category": "Pilgrimage",
+  "budget": "Budget",
+  "rating": 4.7,
+  "reviewCount": 32000,
+  "coordinates": {
+    "lat": 24.6961,
+    "lng": 84.9914
+  },
+  "altitude": 112,
+  "coverImage": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1579380838085-ecc32f3c6f04?w=800&q=80"
+  ],
+  "description": "Bodh Gaya is the most sacred site in Buddhism — the place where Siddhartha Gautama (later the Buddha) attained enlightenment under the Bodhi Tree around 528 BCE. Located on the banks of the Falgu River in Bihar, this UNESCO World Heritage Site draws over 1 million pilgrims and tourists annually from every Buddhist nation in the world. The Mahabodhi Temple (55m, built 3rd century BCE, current structure 5th-7th century CE) and the sacred Bodhi Tree (a direct descendant of the original) are Buddhism's most revered monuments.",
+  "history": "The historical Buddha, Siddhartha Gautama, meditated under a Peepal tree (now known as the Bodhi Tree) here until he attained Nirvana. Emperor Ashoka (3rd century BCE) made the first pilgrimage to Bodh Gaya and built the original Mahabodhi shrine. The Chinese pilgrim Xuanzang visited in 637 CE and left detailed accounts. The site was restored from neglect in the 19th century through the efforts of Anagarika Dharmapala, a Sri Lankan Buddhist reformer. It was inscribed as a UNESCO World Heritage Site in 2002.",
+  "bestSeason": "October to March. Avoid April-June (extreme heat, 44°C+).",
+  "idealDuration": "2 days",
+  "temperature": "8°C (winter nights) to 44°C (summer)",
+  "nearestAirport": "Gaya Airport (GAY) 17km from Bodh Gaya — flights from Delhi, Kolkata, and international Buddhist-nation flights (Sri Lanka, Thailand, Bhutan)",
+  "nearestRailwayStation": "Gaya Junction (GAYA) 16km — trains from Delhi (14 hrs), Kolkata (7 hrs)",
+  "nearestBusStand": "Bodh Gaya Bus Stand (near Mahabodhi Temple)",
+  "tags": [
+    "Buddhism",
+    "Enlightenment",
+    "UNESCO",
+    "Bodhi Tree",
+    "Pilgrimage",
+    "Meditation"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 1,
+  "luxuryScore": 4,
+  "budgetScore": 9,
+  "topAttractions": [
+    {
+      "name": "Mahabodhi Temple Complex (UNESCO)",
+      "description": "The pinnacled 55-metre temple marking the site of the Buddha's enlightenment. Built in the 5th-7th century CE on the site of Ashoka's original shrine, it is surrounded by votive stupas, stone railings (2nd century BCE), and the sacred Bodhi Tree. Entry: ₹50 (Indian), ₹200 (foreign). Open 5AM-9PM. Meditation inside the sanctum sanctorum is permitted.",
+      "location": "Bodh Gaya center"
+    },
+    {
+      "name": "The Sacred Bodhi Tree",
+      "description": "A direct descendant of the original Peepal tree under which the Buddha attained enlightenment. The current tree was planted from a cutting sent to Sri Lanka in 288 BCE by Ashoka's daughter Sanghamitta. Located in the Mahabodhi compound just behind the temple. Meditating under this tree is a profound experience for Buddhists and non-Buddhists alike.",
+      "location": "Within Mahabodhi Temple complex"
+    },
+    {
+      "name": "Giant Buddha Statue (80 ft)",
+      "description": "A 20-metre (65.7 foot) monolithic stone statue of the seated Buddha, unveiled in 1989 by the Dalai Lama. Surrounded by 10 smaller bodhisattva statues. Located in the Great Buddha Park, 1km from the Mahabodhi Temple.",
+      "location": "Great Buddha Park, 1km from Mahabodhi Temple"
+    },
+    {
+      "name": "International Buddhist Monasteries",
+      "description": "Bodh Gaya has monasteries from virtually every Buddhist nation — Thai Temple (1957), Japanese Temple (1972), Tibetan Monastery (Tergar Monastery), Bhutanese Monastery, Chinese Buddhist Temple, Sri Lankan Monastery, Korean Temple, Vietnamese Temple. Each is architecturally distinct and represents its nation's Buddhist tradition. All are open to visitors.",
+      "location": "Various locations around Mahabodhi Temple"
+    },
+    {
+      "name": "Sujata Temple & Kiosk (Bakraur village)",
+      "description": "The site where a young girl named Sujata offered rice porridge to the starving Siddhartha before his enlightenment, ending his period of asceticism. A small stupa marks the spot. 1km across the Falgu River from Bodh Gaya.",
+      "location": "Bakraur village, across Falgu River"
+    }
+  ],
+  "activities": [
+    "Meditation at Mahabodhi Temple (dawn and dusk are best, free)",
+    "Visit all international Buddhist monasteries (free)",
+    "Sunrise meditation at the Bodhi Tree (5AM opening)",
+    "Attend evening prayer ceremony at the Tibetan monastery",
+    "Vipassana meditation retreat (7-day and 10-day courses available)",
+    "Visit Rajgir and Nalanda ruins day trip (100km, Buddha taught here)",
+    "Attend Mahabodhi Temple lamp offering ceremony"
+  ],
+  "localFood": [
+    "Simple vegetarian meals at monastery dining halls (often free for pilgrims)",
+    "Tibetan food at cafes near the Tergar Monastery (momos, thukpa, ₹80-200)",
+    "Bihar Litti Chokha (roasted wheat balls with mashed spiced vegetables — Bihar's definitive dish)",
+    "Sattu Paratha (gram flour flatbread — a Bihar staple)",
+    "Khichdi (simple rice and lentil porridge — served at ashrams)",
+    "Chaat at the bazaar near bus stand"
+  ],
+  "shopping": [
+    "Buddhist religious items: prayer beads, singing bowls, thangka paintings from monastery shops",
+    "Bodhi Tree leaf mementos (pressed, laminated, sold at temple gate stalls)",
+    "Buddhist scriptures and books from monastery bookshops",
+    "Tibetan crafts from Tibetan refugee sellers",
+    "Bihar Madhubani painting handicrafts"
+  ],
+  "culture": "Bodh Gaya is a microcosm of world Buddhism — every Asian Buddhist tradition (Theravada, Mahayana, Vajrayana) is represented. The daily circumambulation of the Mahabodhi Temple by thousands of monks in saffron, maroon, and grey robes creates an atmosphere of profound peace.",
+  "festivals": [
+    "Buddha Purnima/Vesak (April/May — the Buddha's birthday, enlightenment, and death all on this full moon; the most important Buddhist festival; Bodh Gaya becomes overwhelming with pilgrims)",
+    "Mahabodhi Society Annual Festival (October/November)",
+    "Tibetan New Year Losar (February/March at Tergar Monastery)"
+  ],
+  "hotels": [
+    "Tergar Monastery Guest House (3-star, ₹2000-5000, peaceful, run by monastery)",
+    "Bodh Gaya Regency (3-star, ₹2500-5000)",
+    "Hotel Bodh Gaya Ashok (Government ITDC, ₹2000-4000)",
+    "Om Guest House (Budget, ₹600-1500, basic)",
+    "Royal Residency (Mid-range, ₹1500-3000)"
+  ],
+  "restaurants": [
+    "Sujata Restaurant (Best food in Bodh Gaya, multicuisine, ₹200-500)",
+    "Be Happy Café (Vegetarian, ₹150-350, Tibetan)",
+    "Pole to Pole (International café, ₹200-500)",
+    "Monastery dining halls (free or very cheap for pilgrims)"
+  ],
+  "travelTips": [
+    "Arrive before 6AM for the magical atmosphere at the Bodhi Tree with monks beginning morning meditation.",
+    "Dress modestly — both temples and the surrounding area require conservative clothing.",
+    "Photography inside the main sanctum is not permitted. Outside is allowed.",
+    "The area around the temple can be very crowded in December-January with international pilgrims.",
+    "Combine with Nalanda University ruins (95km) and Rajgir (80km) for a Buddhist circuit."
+  ],
+  "packingTips": [
+    "Modest conservative clothing",
+    "Cushion or meditation mat (for temple meditation)",
+    "Mosquito repellent (evenings)",
+    "Shawl for cold winter evenings"
+  ],
+  "weather": "Winter (Oct-Feb): 8-22°C, excellent. Spring (Mar-Apr): 25-38°C. Summer (May-Jun): 35-44°C — avoid. Monsoon (Jul-Sep): 28-35°C, hot and humid.",
+  "transport": "By Air: Gaya Airport (17km) — direct flights from Delhi, Kolkata, and Buddhist countries. By Rail: Gaya Junction (16km) — auto-rickshaw to Bodh Gaya ₹100-150. By Bus: State buses from Gaya (₹20). Within Bodh Gaya: Walk (compact area), cycle rickshaws (₹20-50), autos.",
+  "itineraries": [
+    {
+      "type": "2 Day",
+      "durationDays": 2,
+      "estimatedCost": 3500,
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "05:00 AM",
+              "activity": "Dawn at Mahabodhi Temple",
+              "description": "The most peaceful time — monks chanting, oil lamps, the Bodhi Tree in morning mist.",
+              "costEstimate": 50
+            },
+            {
+              "time": "07:00 AM",
+              "activity": "Circumambulation of the temple",
+              "description": "Join the pilgrims circumambulating the temple clockwise, spinning prayer wheels.",
+              "costEstimate": 0
+            },
+            {
+              "time": "09:00 AM",
+              "activity": "Breakfast at Sujata Restaurant",
+              "description": "Simple, good food near the temple.",
+              "costEstimate": 200
+            },
+            {
+              "time": "10:00 AM",
+              "activity": "International monasteries tour",
+              "description": "Thai, Japanese, Tibetan, Bhutanese, Sri Lankan — spend 30 min at each.",
+              "costEstimate": 0
+            },
+            {
+              "time": "01:00 PM",
+              "activity": "Great Buddha Statue",
+              "description": "20m seated Buddha in the park.",
+              "costEstimate": 0
+            },
+            {
+              "time": "06:00 PM",
+              "activity": "Evening ceremony at Mahabodhi",
+              "description": "Priests light oil lamps around the temple. Chanting by monks.",
+              "costEstimate": 0
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            {
+              "time": "06:00 AM",
+              "activity": "Sujata Temple across the river",
+              "description": "Sunrise walk across Falgu River to where a girl fed the starving Buddha.",
+              "costEstimate": 0
+            },
+            {
+              "time": "09:00 AM",
+              "activity": "Meditation at Bodhi Tree",
+              "description": "Sit under the sacred tree for as long as you need.",
+              "costEstimate": 0
+            },
+            {
+              "time": "12:00 PM",
+              "activity": "Depart for Nalanda (95km)",
+              "description": "Visit the ruins of the world's first university (5th century CE). UNESCO site.",
+              "costEstimate": 1500
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

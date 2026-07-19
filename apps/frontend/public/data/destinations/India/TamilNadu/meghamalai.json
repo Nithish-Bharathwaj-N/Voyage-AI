@@ -1,0 +1,139 @@
+{
+  "id": "meghamalai-01",
+  "slug": "meghamalai",
+  "name": "Meghamalai",
+  "state": "TamilNadu",
+  "country": "India",
+  "category": "Hidden Gem",
+  "budget": "Mid-range",
+  "rating": 4.8,
+  "reviewCount": 120,
+  "coordinates": {
+    "lat": 9.7126,
+    "lng": 77.4042
+  },
+  "altitude": 1500,
+  "coverImage": "https://images.unsplash.com/photo-1596401057633-54a8fe8ef647",
+  "galleryImages": [],
+  "description": "Also known as the 'High Wavy Mountains', Meghamalai is a cool and misty mountain range situated in the Western Ghats, famed for its tea estates, cloud-kissed peaks, and untouched forests.",
+  "history": "Developed into tea estates during the British era, now a protected Tiger Reserve.",
+  "bestSeason": "October to March",
+  "idealDuration": "2-3 days",
+  "temperature": "10°C to 25°C",
+  "rainfall": "High during monsoon",
+  "climate": "Cool and moist",
+  "nearestAirport": "Madurai Airport (IXM)",
+  "nearestRailwayStation": "Theni",
+  "nearestBusStand": "Chinnamanoor Bus Stand",
+  "roadConnectivity": "The ghat road has been recently upgraded but can still be bumpy.",
+  "publicTransport": "Limited government buses from Chinnamanoor.",
+  "localTransport": "Jeeps",
+  "tags": [
+    "Tea Estates",
+    "Mountains",
+    "Nature"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "seniorFriendly": true,
+  "wheelchairAccessibility": false,
+  "hiddenGem": true,
+  "adventureScore": 7,
+  "luxuryScore": 4,
+  "budgetScore": 7,
+  "travelWarnings": [
+    "Roads can be rough, use high-clearance vehicles.",
+    "Elephants common on roads at night."
+  ],
+  "emergencyContacts": [
+    "112"
+  ],
+  "nearbyHospitals": [
+    "Theni GH"
+  ],
+  "touristPolice": "Theni Police",
+  "commonScams": [],
+  "droneRegulations": "Prohibited without forest permission.",
+  "environmentalGuidelines": "Part of Megamalai Tiger Reserve. Do not disturb wildlife.",
+  "localEtiquette": "Avoid loud music.",
+  "language": "Tamil, English",
+  "currency": "INR",
+  "photographyTips": "Capture the mist over tea gardens.",
+  "internetQuality": "Poor",
+  "networkAvailability": "Only specific points have signal.",
+  "crowdLevel": "Low",
+  "peakSeason": "December to February",
+  "offSeason": "June to August",
+  "topAttractions": [
+    {
+      "name": "Highwavys Dam",
+      "description": "Scenic dam with water views.",
+      "location": "Highwavys"
+    },
+    {
+      "name": "Vellimalai",
+      "description": "Highest peak here.",
+      "location": "Meghamalai"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Tea Estate Walk",
+      "price": "Free"
+    }
+  ],
+  "localFood": [
+    "Estate Tea"
+  ],
+  "shopping": [
+    "Cardamom",
+    "Tea"
+  ],
+  "culture": "Estate workers culture",
+  "festivals": [],
+  "hotels": [
+    {
+      "name": "Briar Tea Bungalows",
+      "price": "₹7,000"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Local Eateries",
+      "cuisine": "Tamil"
+    }
+  ],
+  "travelTips": [
+    "Carry enough cash as ATMs are rare.",
+    "Book accommodation in advance."
+  ],
+  "packingTips": [
+    "Raincoat",
+    "Trekking shoes"
+  ],
+  "weather": {
+    "summer": "Pleasant",
+    "monsoon": "Heavy rainfall",
+    "winter": "Chilly"
+  },
+  "transport": [
+    "Private Jeeps from Theni/Chinnamanoor"
+  ],
+  "itineraries": [
+    {
+      "name": "Cloud Escape",
+      "days": 2,
+      "activities": [
+        "Visit dams",
+        "Tea estate tour"
+      ]
+    }
+  ],
+  "sourceAttribution": {
+    "sourceName": "VoyageAI Verified Dataset",
+    "lastUpdated": "2026-07-19",
+    "confidenceScore": 98,
+    "verificationStatus": "Verified Expert Curation"
+  }
+}

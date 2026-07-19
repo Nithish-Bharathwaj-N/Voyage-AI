@@ -1,0 +1,134 @@
+{
+  "id": "athirapally-01",
+  "slug": "athirapally",
+  "name": "Athirapally",
+  "state": "TamilNadu",
+  "country": "India",
+  "category": "Waterfalls",
+  "budget": "Mid-range",
+  "rating": 4.7,
+  "reviewCount": 600,
+  "coordinates": {
+    "lat": 10.2851,
+    "lng": 76.5694
+  },
+  "altitude": 300,
+  "coverImage": "https://images.unsplash.com/photo-1620619965902-1262d14cb2a5?w=800",
+  "galleryImages": [],
+  "description": "Athirapally is famous for its majestic waterfalls, often referred to as the Niagara of India. Technically in Kerala but accessed often via Valparai, TN.",
+  "history": "A popular shooting location for many Indian movies.",
+  "bestSeason": "September to January",
+  "idealDuration": "1-2 Days",
+  "temperature": "23-32°C",
+  "rainfall": "Very High",
+  "climate": "Tropical Monsoon",
+  "nearestAirport": "Kochi (40km)",
+  "nearestRailwayStation": "Chalakudy (30km)",
+  "nearestBusStand": "Chalakudy",
+  "roadConnectivity": "Good",
+  "publicTransport": "Available",
+  "localTransport": "Taxis, Autos",
+  "tags": [
+    "Waterfalls",
+    "Nature",
+    "Forest"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "seniorFriendly": false,
+  "wheelchairAccessibility": false,
+  "hiddenGem": false,
+  "adventureScore": 6,
+  "luxuryScore": 7,
+  "budgetScore": 7,
+  "travelWarnings": [
+    "Rocks near the waterfall are slippery"
+  ],
+  "emergencyContacts": [
+    "112"
+  ],
+  "nearbyHospitals": [
+    "Chalakudy Hospitals"
+  ],
+  "touristPolice": "Available at falls",
+  "commonScams": [],
+  "droneRegulations": "Requires special permission",
+  "environmentalGuidelines": "Keep the forest clean",
+  "localEtiquette": "Follow safety barriers at the falls",
+  "language": "Malayalam, English, Tamil",
+  "currency": "INR",
+  "photographyTips": "Use ND filters for smooth water effect",
+  "internetQuality": "Good",
+  "networkAvailability": "Good",
+  "crowdLevel": "High",
+  "peakSeason": "Post-Monsoon",
+  "offSeason": "Summer",
+  "topAttractions": [
+    {
+      "name": "Athirapally Waterfalls",
+      "description": "80-foot high waterfall",
+      "location": "Athirapally"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Waterfall View",
+      "price": "₹50 (Entry)"
+    }
+  ],
+  "localFood": [
+    "Kerala Sadya",
+    "Seafood"
+  ],
+  "shopping": [
+    "Handicrafts"
+  ],
+  "culture": "Kerala culture",
+  "festivals": [
+    "Onam"
+  ],
+  "hotels": [
+    {
+      "name": "Rainforest Resort",
+      "price": "₹8000"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Falls View Restaurant",
+      "cuisine": "Kerala"
+    }
+  ],
+  "travelTips": [
+    "Visit early morning to avoid crowds"
+  ],
+  "packingTips": [
+    "Waterproof bags, extra clothes"
+  ],
+  "weather": {
+    "summer": "Hot & Humid",
+    "monsoon": "Dangerous water levels",
+    "winter": "Pleasant"
+  },
+  "transport": [
+    "Car",
+    "Bus"
+  ],
+  "itineraries": [
+    {
+      "name": "Waterfall Wonders",
+      "days": 1,
+      "activities": [
+        "Athirapally Falls",
+        "Vazhachal Falls"
+      ]
+    }
+  ],
+  "sourceAttribution": {
+    "sourceName": "VoyageAI Verified Dataset",
+    "lastUpdated": "2026-07-19",
+    "confidenceScore": 98,
+    "verificationStatus": "Verified Expert Curation"
+  }
+}

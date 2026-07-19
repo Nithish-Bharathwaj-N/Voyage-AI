@@ -1,0 +1,337 @@
+{
+  "id": "dest_dharamshalamcleodganj",
+  "slug": "dharamshala-mcleodganj",
+  "name": "Dharamshala/McLeodganj",
+  "state": "HimachalPradesh",
+  "country": "India",
+  "category": "General",
+  "budget": "Medium",
+  "rating": 4.5,
+  "reviewCount": 5000,
+  "coordinates": {
+    "lat": 20,
+    "lng": 77
+  },
+  "altitude": 1457,
+  "coverImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1514222134-b57cbf8cece1",
+    "https://images.unsplash.com/photo-1493225457124-a1a2a4af73c0",
+    "https://images.unsplash.com/photo-1548013146-72479768bada"
+  ],
+  "description": "Home of the Dalai Lama, Tibetan government-in-exile. Features Namgyal Monastery, HPCA Cricket Stadium (highest ICC-approved cricket ground 1457m), Bhagsu Waterfall (2km trek), Triund Trek (9km, 2875m), Dal Lake (Dharamshala), Tibet Museum, Library of Tibetan Works and Archives.",
+  "history": "Dharamshala/McLeodganj has a rich and vibrant history spanning centuries.",
+  "bestSeason": "October to March",
+  "idealDuration": "3-4 days",
+  "temperature": "15°C to 30°C",
+  "nearestAirport": {
+    "code": "DHM",
+    "name": "Kangra Airport",
+    "distanceKm": 18
+  },
+  "nearestRailwayStation": {
+    "code": "STN",
+    "name": "Station",
+    "distanceKm": 10
+  },
+  "nearestBusStand": "Main Bus Stand",
+  "tags": [
+    "Culture",
+    "Nature",
+    "Food",
+    "Heritage",
+    "Sightseeing",
+    "Photography"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 5,
+  "luxuryScore": 6,
+  "budgetScore": 7,
+  "topAttractions": [
+    {
+      "name": "Main Square",
+      "description": "The bustling center of the city.",
+      "location": "Center"
+    },
+    {
+      "name": "Old Temple",
+      "description": "An ancient temple of historical significance.",
+      "location": "Old City"
+    },
+    {
+      "name": "Local Museum",
+      "description": "Artifacts from the region.",
+      "location": "Downtown"
+    },
+    {
+      "name": "Viewpoint",
+      "description": "Scenic views of the surrounding area.",
+      "location": "Outskirts"
+    },
+    {
+      "name": "Nature Park",
+      "description": "A peaceful retreat in nature.",
+      "location": "Suburb"
+    }
+  ],
+  "activities": [
+    {
+      "name": "City Tour",
+      "description": "Explore the main attractions.",
+      "price": 1000
+    },
+    {
+      "name": "Food Walk",
+      "description": "Taste the local delicacies.",
+      "price": 800
+    },
+    {
+      "name": "Museum Visit",
+      "description": "Learn about the history.",
+      "price": 200
+    },
+    {
+      "name": "Nature Walk",
+      "description": "Enjoy the scenic beauty.",
+      "price": 0
+    },
+    {
+      "name": "Shopping",
+      "description": "Buy local souvenirs.",
+      "price": 500
+    },
+    {
+      "name": "Photography Tour",
+      "description": "Capture the best spots.",
+      "price": 1500
+    },
+    {
+      "name": "Cultural Show",
+      "description": "Watch traditional performances.",
+      "price": 600
+    },
+    {
+      "name": "Temple Visit",
+      "description": "Experience the local spirituality.",
+      "price": 0
+    }
+  ],
+  "localFood": [
+    {
+      "name": "Thukpa",
+      "description": "A hearty traditional Tibetan noodle soup."
+    },
+    {
+      "name": "Momos",
+      "description": "Steamed or fried Tibetan dumplings."
+    },
+    {
+      "name": "Tsampa",
+      "description": "Roasted barley flour."
+    },
+    {
+      "name": "Tibetan butter tea",
+      "description": "Traditional Tibetan tea."
+    },
+    {
+      "name": "Tingmo",
+      "description": "Steamed Tibetan bread."
+    },
+    {
+      "name": "Bhagsu Cake",
+      "description": "A layered local cake."
+    }
+  ],
+  "shopping": [
+    {
+      "name": "Main Market",
+      "description": "The central shopping hub."
+    },
+    {
+      "name": "Handicraft Emporium",
+      "description": "Buy local crafts."
+    },
+    {
+      "name": "Spice Market",
+      "description": "Buy authentic local spices."
+    },
+    {
+      "name": "Street Market",
+      "description": "Bargain for clothes and accessories."
+    },
+    {
+      "name": "Boutique Shops",
+      "description": "Designer local items."
+    }
+  ],
+  "culture": "The culture here is vibrant and diverse, with a mix of traditional and modern influences.",
+  "festivals": [
+    {
+      "name": "Spring Festival",
+      "month": "March",
+      "description": "Celebrates the onset of spring."
+    },
+    {
+      "name": "Harvest Festival",
+      "month": "October",
+      "description": "Celebrates the local harvest."
+    },
+    {
+      "name": "Cultural Fest",
+      "month": "December",
+      "description": "A showcase of local arts."
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Luxury Palace",
+      "type": "Luxury",
+      "priceRange": "₹15000+",
+      "description": "Premium stay."
+    },
+    {
+      "name": "Boutique Inn",
+      "type": "Mid-Range",
+      "priceRange": "₹5000-8000",
+      "description": "Cozy stay."
+    },
+    {
+      "name": "Heritage Hotel",
+      "type": "Mid-Range",
+      "priceRange": "₹4000-7000",
+      "description": "Stay with a historical vibe."
+    },
+    {
+      "name": "City Center Hotel",
+      "type": "Mid-Range",
+      "priceRange": "₹3000-6000",
+      "description": "Conveniently located."
+    },
+    {
+      "name": "Budget Stay",
+      "type": "Budget",
+      "priceRange": "₹1500-3000",
+      "description": "Affordable and clean."
+    },
+    {
+      "name": "Backpacker Hostel",
+      "type": "Budget",
+      "priceRange": "₹500-1500",
+      "description": "Great for solo travelers."
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Fine Dining Spot",
+      "cuisine": "Multi-cuisine",
+      "priceRange": "₹1500-3000",
+      "description": "Upscale restaurant."
+    },
+    {
+      "name": "Local Eatery",
+      "cuisine": "Local",
+      "priceRange": "₹300-600",
+      "description": "Authentic local food."
+    },
+    {
+      "name": "Cafe Central",
+      "cuisine": "Cafe",
+      "priceRange": "₹400-800",
+      "description": "Great coffee and snacks."
+    },
+    {
+      "name": "Street Food Corner",
+      "cuisine": "Street Food",
+      "priceRange": "₹100-300",
+      "description": "Best street food."
+    },
+    {
+      "name": "Rooftop Restaurant",
+      "cuisine": "Continental",
+      "priceRange": "₹800-1500",
+      "description": "Dinner with a view."
+    }
+  ],
+  "travelTips": [
+    {
+      "tip": "Stay hydrated",
+      "description": "Drink plenty of water."
+    },
+    {
+      "tip": "Respect local customs",
+      "description": "Dress modestly."
+    },
+    {
+      "tip": "Use public transport",
+      "description": "It's cost-effective."
+    },
+    {
+      "tip": "Bargain",
+      "description": "Negotiate prices in markets."
+    },
+    {
+      "tip": "Carry cash",
+      "description": "Not all places accept cards."
+    },
+    {
+      "tip": "Check weather",
+      "description": "Pack accordingly."
+    }
+  ],
+  "packingTips": [
+    {
+      "item": "Comfortable shoes"
+    },
+    {
+      "item": "Light cotton clothes"
+    },
+    {
+      "item": "Sunglasses"
+    },
+    {
+      "item": "Sunscreen"
+    },
+    {
+      "item": "Power bank"
+    },
+    {
+      "item": "Water bottle"
+    }
+  ],
+  "weather": "The weather is generally pleasant, with distinct seasons.",
+  "transport": "Local transport includes buses, auto-rickshaws, and taxis.",
+  "itineraries": [
+    {
+      "type": "Weekend Getaway",
+      "durationDays": 2,
+      "estimatedCost": "₹5000",
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "Morning",
+              "activity": "Sightseeing",
+              "description": "Visit top attractions.",
+              "costEstimate": 500
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            {
+              "time": "Morning",
+              "activity": "Shopping",
+              "description": "Buy souvenirs.",
+              "costEstimate": 1000
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

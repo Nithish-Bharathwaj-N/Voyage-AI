@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  web:
+    image: voyageai-frontend:staging
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: voyageai-frontend-staging
+    restart: always
+    environment:
+      - PORT=3000
+      - NODE_ENV=staging
+    env_file:
+      - .env.staging
+    ports:
+      - "8080:3000"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 512M
+    healthcheck:
+      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost:3000/"]
+      interval: 30s
+      timeout: 5s
+      retries: 3

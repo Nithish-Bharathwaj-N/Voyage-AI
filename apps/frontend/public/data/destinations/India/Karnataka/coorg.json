@@ -1,0 +1,223 @@
+{
+  "id": "coorg-01",
+  "slug": "coorg",
+  "name": "Coorg",
+  "state": "Karnataka",
+  "country": "India",
+  "category": "Nature",
+  "budget": "Mid-range",
+  "rating": 4.7,
+  "reviewCount": 44000,
+  "coordinates": {
+    "lat": 12.3375,
+    "lng": 75.8069
+  },
+  "altitude": 1200,
+  "coverImage": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1590322246756-37d7ae12b736?w=800&q=80",
+    "https://images.unsplash.com/photo-1569144157591-c60f3f82f137?w=800&q=80"
+  ],
+  "description": "Coorg (officially Kodagu) is often called \"Scotland of India\" — a lush, misty district in the Western Ghats of Karnataka, carpeted with the world's finest coffee and pepper plantations, interspersed with orange groves, waterfalls, and some of India's most biodiverse forests. The indigenous Kodava people — known as a warrior community with a distinct culture, cuisine, and language — make this one of India's most culturally unique destinations. Madikeri is the district headquarters and the most convenient base.",
+  "history": "Coorg was an independent princely state under the Kodagu Rajas until it was annexed by the British in 1834 following a brief campaign against Raja Chikka Vira Rajendra. The British developed the coffee industry (introduced in the 1830s). Coffee from Coorg still accounts for a significant portion of India's coffee exports. The Kodavas are the only people in India with an indigenous right to bear arms without a license.",
+  "bestSeason": "October to March. Coffee blossom season (February-March — the aroma of blossom fills the valleys). Avoid June-September monsoon (extremely heavy, 2500mm+).",
+  "idealDuration": "3-4 days",
+  "temperature": "10°C (winter nights) to 30°C (summer)",
+  "nearestAirport": "Mangalore Airport (IXE) 136km; Mysore Airport (MYQ) 117km; Bengaluru (BLR) 248km",
+  "nearestRailwayStation": "Mysore Railway Station (117km); Hassan (80km)",
+  "nearestBusStand": "Madikeri KSRTC Bus Stand",
+  "tags": [
+    "Coffee",
+    "Western Ghats",
+    "Trekking",
+    "Wildlife",
+    "Waterfalls",
+    "Spice Plantations"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 7,
+  "luxuryScore": 6,
+  "budgetScore": 6,
+  "topAttractions": [
+    {
+      "name": "Abbey Falls",
+      "description": "A beautiful 70-foot waterfall 8km from Madikeri, through coffee and spice plantations. A short 1km walk from the road. Best in and just after monsoon (Sep-Nov). Entry: ₹10.",
+      "location": "8km from Madikeri"
+    },
+    {
+      "name": "Namdroling Monastery (Golden Temple, Bylakuppe)",
+      "description": "The largest Tibetan settlement outside Tibet, with the magnificent Namdroling Nyingmapa Monastery — three golden temples with 18-foot gold statues of Buddha, Guru Rinpoche, and Amitayus. The golden interiors are breathtaking. Entry: Free. 64km from Madikeri.",
+      "location": "Bylakuppe, 64km from Madikeri"
+    },
+    {
+      "name": "Raja's Seat",
+      "description": "A beautifully maintained garden on the edge of Madikeri hill, traditionally where the Kodagu rajas would sit and watch the sunset over the valley. Small musical fountain, flowering gardens, and one of the best sunset vantage points in Coorg. Entry: ₹15. Open 5:30AM-7:30PM.",
+      "location": "Madikeri town center"
+    },
+    {
+      "name": "Talakaveri (Source of River Cauvery)",
+      "description": "The sacred source of the Cauvery River, one of South India's holiest rivers, at 1276m. A small tank (kunda) marks the mythological source. Bhagamandala (7km below, Triveni Sangam) is where three rivers meet. During Cauvery Sankramana (October 17 — Virgo Sankranti), water bubbles from the spring.",
+      "location": "48km from Madikeri, Brahmagiri Hills"
+    },
+    {
+      "name": "Dubare Elephant Camp",
+      "description": "A forest department elephant training camp on the banks of the Kaveri River where you can interact with, feed, and bathe the elephants (8-10 AM). Very popular — book in advance through Karnataka Forest Department. Entry: ₹100 + elephant interaction ₹200-400. 34km from Madikeri.",
+      "location": "34km from Madikeri, Kushalnagar"
+    },
+    {
+      "name": "Iruppu Falls (Lakshmana Tirtha Falls)",
+      "description": "A dramatic 60-foot waterfall on the Lakshmana Tirtha River (a Cauvery tributary) inside Brahmagiri Wildlife Sanctuary, considered sacred by Hindus. 52km from Madikeri. Best in and after monsoon. Entry: ₹50.",
+      "location": "52km from Madikeri, Gonikoppal route"
+    }
+  ],
+  "activities": [
+    "Coffee plantation tour with tasting (Coorg Wilderness Resort, ₹300-500)",
+    "Camping in coffee estates (multiple operators, ₹2000-4000 with bonfires)",
+    "Trekking: Brahmagiri Peak (10km, 1608m, excellent views)",
+    "Dubare Elephant Camp morning session (₹200-400)",
+    "Iruppu Falls trip and Nagarhole National Park (tiger reserve, ₹1500-3000)",
+    "River rafting on Barapole River (₹800-1200)",
+    "Coorg to Brahmagiri wildlife trekking (permit required)",
+    "Mountain biking on plantation roads (₹400-700/day rental)"
+  ],
+  "localFood": [
+    "Pandi Curry (Coorg pork curry marinated in Kachampuli vinegar — the most famous Kodava dish, made only here)",
+    "Kadambuttu (round steamed rice dumplings — goes with pandi curry)",
+    "Nool Puttu (rice noodle dumplings)",
+    "Bamboo Shoot Curry (unique ingredient sourced from forests)",
+    "Akki Rotti (rice flatbread, a staple)",
+    "Coorgi Pulao (unique rice preparation)",
+    "Otti (rice-coconut pancake)"
+  ],
+  "shopping": [
+    "Coorg coffee — buy directly from estates for best quality and price (₹200-600 for 250g)",
+    "Coorg honey (forest honey, ₹300-600/bottle)",
+    "Spices: pepper (₹400-800/kg), cardamom (₹2000-3000/kg), nutmeg, cloves",
+    "Coorg wine and liqueur (local specialty at Coorg Cardamom Estate)",
+    "Traditional Kodava weapons — Peechekathi (knife) from souvenir shops",
+    "Handwoven textiles from tribal cooperatives"
+  ],
+  "culture": "Kodava culture is unique in India — a warrior community with matrilineal elements, their own language (Kodava Takk), distinct food, and customs. The Kailpodh harvest festival and Puthari (new rice harvest festival, November/December) involve traditional gun-firing, folk dances (Bolakaat, Kargattu), and the distinctive Coorgi attire (Kodava Kumpu for women).",
+  "festivals": [
+    "Puthari (November/December — new rice harvest festival, folk dances, gun salutes)",
+    "Kailpodh (September — arms-cleaning festival)",
+    "Cauvery Sankramana (October 17 — water bubbles at Talakaveri)",
+    "Puttari (December — new crop celebration in villages)"
+  ],
+  "hotels": [
+    "Orange County Resort (Luxury, ₹15000-35000, all-inclusive plantation resort)",
+    "Evolve Back Coorg (5-star, ₹20000-45000, award-winning resort)",
+    "Amã Stays & Trails Coorg (Heritage bungalow, ₹6000-12000)",
+    "Coorg Cliffs Resort (Mid-range, ₹3000-6000)",
+    "Hotel Coorg International (Budget, ₹1500-3000, Madikeri)"
+  ],
+  "restaurants": [
+    "Hotel East End (Best Coorgi food, pandi curry must-try, ₹200-500, Madikeri)",
+    "Raintree Restaurant (Estate dining, ₹400-900)",
+    "Capitol Hotel (Local thali, ₹150-300, Madikeri)",
+    "Coffee Day Estate Café (Coffee tasting, ₹100-300)"
+  ],
+  "travelTips": [
+    "Rent a self-drive car or hire a local driver with jeep — distances between attractions are 20-60km.",
+    "Best time for elephants: October to May. Monsoon (Jun-Sep): Dubare camp may be closed.",
+    "Book elephant camp sessions in advance through Karnataka Forest Department website.",
+    "Coorg roads are narrow and winding — drive carefully, especially at night.",
+    "Coffee blossom (Feb-March): the valley smells like jasmine. Do not miss."
+  ],
+  "packingTips": [
+    "Leech socks (September-November — leeches in forest after monsoon)",
+    "Waterproof jacket",
+    "Trekking shoes",
+    "Insect repellent",
+    "Light cotton for days, warm layer for evenings"
+  ],
+  "weather": "Post-monsoon (Oct-Nov): 15-25°C, lush, some rain, waterfalls full — excellent. Winter (Dec-Feb): 10-22°C, coffee blossom in Feb — best overall. Summer (Mar-May): 20-30°C. Monsoon (Jun-Sep): 15-22°C, very heavy rain (2500mm), many roads flooded.",
+  "transport": "By Bus: KSRTC from Bengaluru (5.5 hrs, ₹300-600). By Car: Drive from Bengaluru (248km, 5.5 hrs on NH275). From Mysore: 1.5 hrs (117km). Within Coorg: Self-drive or hire local driver with jeep (₹2500-3500/day).",
+  "itineraries": [
+    {
+      "type": "3 Day",
+      "durationDays": 3,
+      "estimatedCost": 9000,
+      "days": [
+        {
+          "day": 1,
+          "activities": [
+            {
+              "time": "11:00 AM",
+              "activity": "Check in + coffee plantation walk",
+              "description": "Walk through the estate, learn to identify coffee plants, cardamom, and pepper.",
+              "costEstimate": 0
+            },
+            {
+              "time": "03:00 PM",
+              "activity": "Abbey Falls",
+              "description": "8km from Madikeri. 70-foot waterfall in lush greenery.",
+              "costEstimate": 10
+            },
+            {
+              "time": "05:30 PM",
+              "activity": "Raja's Seat Sunset",
+              "description": "Watch the valley glow gold from the royal viewpoint.",
+              "costEstimate": 15
+            },
+            {
+              "time": "08:00 PM",
+              "activity": "Dinner at Hotel East End",
+              "description": "Traditional pandi curry and kadambuttu.",
+              "costEstimate": 500
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "activities": [
+            {
+              "time": "08:00 AM",
+              "activity": "Dubare Elephant Camp",
+              "description": "Morning bathing and feeding of elephants. Book in advance.",
+              "costEstimate": 500
+            },
+            {
+              "time": "11:00 AM",
+              "activity": "Namdroling Golden Temple (Bylakuppe)",
+              "description": "64km to the spectacular Tibetan Buddhist temple complex.",
+              "costEstimate": 1500
+            },
+            {
+              "time": "02:00 PM",
+              "activity": "Return via Kushalnagar + coffee shopping",
+              "description": "Buy direct from Kushalnagar market.",
+              "costEstimate": 800
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "activities": [
+            {
+              "time": "08:00 AM",
+              "activity": "Talakaveri (Source of Cauvery)",
+              "description": "Sacred spring at 1276m. Bhagamandala temple at the Triveni Sangam.",
+              "costEstimate": 200
+            },
+            {
+              "time": "12:00 PM",
+              "activity": "Iruppu Falls",
+              "description": "Sacred waterfall inside Brahmagiri sanctuary.",
+              "costEstimate": 100
+            },
+            {
+              "time": "03:00 PM",
+              "activity": "Return + spice shopping",
+              "description": "Buy pepper, cardamom, coorg coffee and honey.",
+              "costEstimate": 1500
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

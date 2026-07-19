@@ -1,0 +1,143 @@
+{
+  "id": "pulicat-lake-01",
+  "slug": "pulicat-lake",
+  "name": "Pulicat Lake",
+  "state": "TamilNadu",
+  "country": "India",
+  "category": "Nature & Bird Watching",
+  "budget": "Budget",
+  "rating": 4.6,
+  "reviewCount": 1800,
+  "coordinates": {
+    "lat": 13.5186,
+    "lng": 80.1917
+  },
+  "altitude": 0,
+  "coverImage": "https://images.unsplash.com/photo-1549488344-c7da49cb93bb",
+  "galleryImages": [],
+  "description": "Pulicat Lake is the second largest brackish water lagoon in India, spanning across Tamil Nadu and Andhra Pradesh. Famous for its bird sanctuary, it hosts thousands of migratory flamingos during the winter months.",
+  "history": "Historically an important port city under the Dutch East India Company. Remnants of a Dutch fort and cemetery can still be found in Pulicat town.",
+  "bestSeason": "October to March",
+  "idealDuration": "1 day",
+  "temperature": "22°C - 34°C",
+  "rainfall": "Moderate to High during NE Monsoon",
+  "climate": "Tropical Coastal",
+  "nearestAirport": "Chennai International Airport (85 km)",
+  "nearestRailwayStation": "Ponneri Railway Station (18 km)",
+  "nearestBusStand": "Ponneri Bus Stand",
+  "roadConnectivity": "Accessible via good roads from Chennai.",
+  "publicTransport": "Suburban trains from Chennai to Ponneri, then local buses/autos.",
+  "localTransport": "Autos, Boats",
+  "tags": [
+    "Lagoon",
+    "Bird Sanctuary",
+    "Flamingos",
+    "Boating"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "seniorFriendly": true,
+  "wheelchairAccessibility": false,
+  "hiddenGem": true,
+  "adventureScore": 4,
+  "luxuryScore": 2,
+  "budgetScore": 9,
+  "travelWarnings": [
+    "Boat safety standard varies",
+    "Mosquitoes in the evening"
+  ],
+  "emergencyContacts": [
+    "Police: 100",
+    "Ambulance: 108"
+  ],
+  "nearbyHospitals": [
+    "Ponneri Government Hospital"
+  ],
+  "touristPolice": "Local police station in Pulicat town",
+  "commonScams": [
+    "Overcharging by private boat operators"
+  ],
+  "droneRegulations": "Restricted over the bird sanctuary.",
+  "environmentalGuidelines": "Do not disturb the birds. Do not litter in the lake.",
+  "localEtiquette": "Respect local fishing communities.",
+  "language": "Tamil, Telugu, English",
+  "currency": "INR",
+  "photographyTips": "Bring a telephoto lens for bird photography.",
+  "internetQuality": "Good",
+  "networkAvailability": "Most major networks work well",
+  "crowdLevel": "Moderate on weekends during flamingo season",
+  "peakSeason": "December to February",
+  "offSeason": "May to July",
+  "topAttractions": [
+    {
+      "name": "Pulicat Bird Sanctuary",
+      "description": "Home to greater flamingos and other migratory birds.",
+      "location": "Across the lake"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Boating",
+      "price": "INR 300 - 500"
+    }
+  ],
+  "localFood": [
+    "Seafood",
+    "Fish fry"
+  ],
+  "shopping": [
+    "Palm leaf handicrafts"
+  ],
+  "culture": "Fishing community culture with historic Dutch influence.",
+  "festivals": [
+    "Flamingo Festival"
+  ],
+  "hotels": [
+    {
+      "name": "Local Guest Houses",
+      "price": "INR 1000"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Seafood stalls",
+      "cuisine": "Tamil Seafood"
+    }
+  ],
+  "travelTips": [
+    "Start early in the morning to spot the most birds."
+  ],
+  "packingTips": [
+    "Binoculars",
+    "Sunscreen",
+    "Mosquito repellent"
+  ],
+  "weather": {
+    "summer": "Hot and humid",
+    "monsoon": "Heavy rains",
+    "winter": "Pleasant"
+  },
+  "transport": [
+    "Buses",
+    "Suburban Trains",
+    "Boats"
+  ],
+  "itineraries": [
+    {
+      "name": "Day Trip from Chennai",
+      "days": 1,
+      "activities": [
+        "Morning bird watching",
+        "Dutch cemetery visit",
+        "Seafood lunch"
+      ]
+    }
+  ],
+  "sourceAttribution": {
+    "sourceName": "VoyageAI Verified Dataset",
+    "lastUpdated": "2026-07-19",
+    "confidenceScore": 98,
+    "verificationStatus": "Verified Expert Curation"
+  }
+}
