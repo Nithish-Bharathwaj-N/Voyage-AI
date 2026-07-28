@@ -1,0 +1,464 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+// ---------------------------------------------------------
+// User & Identity
+// ---------------------------------------------------------
+
+model User {
+  id           String         @id @default(uuid())
+  email        String         @unique
+  profile      Profile?
+  trips        Trip[]
+  reviews      Review[]
+  createdAt    DateTime       @default(now())
+  updatedAt    DateTime       @updatedAt
+  deletedAt    DateTime?
+  Conversation Conversation[]
+  AIUsage      AIUsage[]
+
+  savedDestinations SavedDestination[]
+  collections       Collection[]
+  recentActivities  RecentActivity[]
+  tripStatistics    TripStatistics?
+
+  @@index([email])
+}
+
+model Profile {
+  id                 String   @id @default(uuid())
+  userId             String   @unique
+  user               User     @relation(fields: [userId], references: [id])
+  displayName        String
+  avatarUrl          String?
+  preferredCurrency  String   @default("USD")
+  defaultTravelStyle String   @default("LUXURY") // Maps to TravelStyle ENUM
+  createdAt          DateTime @default(now())
+  updatedAt          DateTime @updatedAt
+}
+
+// ---------------------------------------------------------
+// Knowledge Graph
+// ---------------------------------------------------------
+
+model Destination {
+  id            String   @id @default(uuid())
+  slug          String   @unique @default(uuid())
+  name          String
+  country       String
+  state         String?
+  region        String?
+  city          String?
+  continent     String   @default("Asia")
+  latitude      Float
+  longitude     Float
+  description   String
+  heroImageUrl  String
+  imageUrl      String?
+  thumbnailUrl  String?
+  activeSeasons String[] // Array of strings
+  places        Place[]
+
+  // Fields for Explore UI & Planning
+  averageBudget         String   @default("medium")
+  priceRange            String   @default("medium") // Kept for backward compatibility
+  rating                Float    @default(4.0)
+  reviewsCount          Int      @default(0)
+  categories            String[]
+  travelStyle           String   @default("Cultural")
+  travelDaysRecommended Int      @default(1)
+  durationWeeks         Int      @default(1) // Kept for backward compatibility
+  bestSeason            String   @default("Spring")
+  popularityScore       Int      @default(0)
+  planningScore         Int      @default(80)
+  isFeatured            Boolean  @default(false)
+  isTrending            Boolean  @default(false)
+  isPopular             Boolean  @default(false)
+  isHiddenGem           Boolean  @default(false)
+  isWeekendEscape       Boolean  @default(false)
+  tags                  String[]
+
+  // Rich destination data from reference
+  galleryImages   String[] @default([])
+  history         String   @default("")
+  idealDuration   String   @default("2-3 days")
+  temperature     String   @default("")
+  nearestAirport  String   @default("")
+  nearestRailway  String   @default("")
+  nearestBusStand String   @default("")
+  localFood       String[] @default([])
+  shopping        String[] @default([])
+  culture         String   @default("")
+  festivals       String[] @default([])
+  travelTips      String[] @default([])
+  packingTips     String[] @default([])
+  weatherInfo     String   @default("")
+  transport       String   @default("")
+  familyFriendly  Boolean  @default(true)
+  coupleFriendly  Boolean  @default(true)
+  soloFriendly    Boolean  @default(true)
+  adventureScore  Int      @default(5)
+  luxuryScore     Int      @default(5)
+  budgetScore     Int      @default(5)
+
+  createdAt             DateTime                @default(now())
+  updatedAt             DateTime                @updatedAt
+  SavedDestination      SavedDestination[]
+  CollectionDestination CollectionDestination[]
+
+  @@index([country])
+  @@index([state])
+  @@index([latitude, longitude])
+}
+
+model Place {
+  id            String      @id @default(uuid())
+  destinationId String
+  destination   Destination @relation(fields: [destinationId], references: [id])
+  name          String
+  type          String // Maps to PlaceType (ATTRACTION, RESTAURANT, HOTEL)
+  latitude      Float
+  longitude     Float
+  addressJson   Json // Maps to Address Value Object
+  description   String
+  images        Json // Array of ImageReference Value Objects
+  ratingScore   Float?
+  ratingCount   Int         @default(0)
+
+  // Type-specific fields (Nullable for polymorphism)
+  activityCategories     String[]
+  cuisines               String[]
+  budgetCategory         String?
+  accommodationType      String?
+  tags                   String[]
+  openingHours           String?
+  estimatedVisitDuration String?
+  ticketPrice            String?
+  website                String?
+  phone                  String?
+  imageUrl               String?
+
+  isActive  Boolean   @default(true)
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+  deletedAt DateTime?
+
+  sourceEdges PlaceEdge[] @relation("SourcePlace")
+  targetEdges PlaceEdge[] @relation("TargetPlace")
+
+  reviews Review[]
+
+  @@index([destinationId, type])
+  @@index([latitude, longitude])
+}
+
+model PlaceEdge {
+  id           String @id @default(uuid())
+  sourceId     String
+  source       Place  @relation("SourcePlace", fields: [sourceId], references: [id])
+  targetId     String
+  target       Place  @relation("TargetPlace", fields: [targetId], references: [id])
+  relationship String // e.g., "NEAR", "SIMILAR_TO"
+  weight       Float  @default(1.0)
+
+  @@unique([sourceId, targetId, relationship])
+  @@index([sourceId])
+}
+
+enum TripStatus {
+  DRAFT
+  PLANNING
+  UPCOMING
+  COMPLETED
+  CANCELLED
+}
+
+// ---------------------------------------------------------
+// Trips & Planner
+// ---------------------------------------------------------
+
+model Trip {
+  id            String     @id @default(uuid())
+  ownerId       String
+  owner         User       @relation(fields: [ownerId], references: [id])
+  destinationId String
+  title         String
+  startDate     DateTime
+  endDate       DateTime
+  status        TripStatus @default(DRAFT)
+  companions    Int        @default(1)
+  notes         String?
+  isArchived    Boolean    @default(false)
+  isFavorite    Boolean    @default(false)
+  budget        String
+  travelStyle   String
+
+  dayPlans     DayPlan[]
+  reservations Reservation[]
+
+  version      Int            @default(1) // Optimistic Locking
+  createdAt    DateTime       @default(now())
+  updatedAt    DateTime       @updatedAt
+  deletedAt    DateTime?
+  Conversation Conversation[]
+  TripVersion  TripVersion[]
+
+  @@index([ownerId, status])
+}
+
+model DayPlan {
+  id         String   @id @default(uuid())
+  tripId     String
+  trip       Trip     @relation(fields: [tripId], references: [id])
+  date       DateTime
+  orderIndex Int
+  notes      String?
+
+  activities Activity[]
+
+  version   Int      @default(1)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@unique([tripId, date])
+}
+
+model Activity {
+  id          String  @id @default(uuid())
+  dayPlanId   String
+  dayPlan     DayPlan @relation(fields: [dayPlanId], references: [id])
+  placeId     String? // References Place, but loosely bound to avoid cascading deletes
+  title       String
+  type        String
+  startTime   String?
+  endTime     String?
+  location    String?
+  notes       String?
+  priority    String?
+  status      String?
+  attachments Json?
+  costMin     Int?
+  costMax     Int?
+  currency    String?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Reservation {
+  id               String  @id @default(uuid())
+  tripId           String
+  trip             Trip    @relation(fields: [tripId], references: [id])
+  activityId       String?
+  providerName     String
+  bookingReference String
+  status           String
+  detailsJson      Json
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+// ---------------------------------------------------------
+// Social
+// ---------------------------------------------------------
+
+model Review {
+  id         String   @id @default(uuid())
+  authorId   String
+  author     User     @relation(fields: [authorId], references: [id])
+  placeId    String
+  place      Place    @relation(fields: [placeId], references: [id])
+  rating     Int
+  body       String
+  visibility String   @default("PUBLIC")
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  @@index([placeId])
+  @@index([authorId])
+}
+
+// ---------------------------------------------------------
+// Conversational AI (Sprint 12)
+// ---------------------------------------------------------
+
+model Conversation {
+  id         String    @id @default(uuid())
+  userId     String
+  user       User      @relation(fields: [userId], references: [id])
+  tripId     String?
+  trip       Trip?     @relation(fields: [tripId], references: [id])
+  title      String
+  isPinned   Boolean   @default(false)
+  isArchived Boolean   @default(false)
+  messages   Message[]
+
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+  deletedAt DateTime?
+
+  @@index([userId])
+}
+
+model Message {
+  id             String       @id @default(uuid())
+  conversationId String
+  conversation   Conversation @relation(fields: [conversationId], references: [id])
+  role           String // User, Assistant, System, Tool, Workflow, Error
+  content        String
+  provider       String?
+  status         String       @default("completed")
+  latency        Int?
+  metadata       Json?
+  citations      Json?
+  actions        Json?
+  attachments    Json?
+
+  createdAt DateTime @default(now())
+}
+
+model TripVersion {
+  id       String @id @default(uuid())
+  tripId   String
+  trip     Trip   @relation(fields: [tripId], references: [id])
+  version  Int
+  planJson Json // Full snapshot of AITripPlan
+
+  createdAt DateTime @default(now())
+
+  @@unique([tripId, version])
+}
+
+// ---------------------------------------------------------
+// AI Telemetry & Observability (Sprint 12)
+// ---------------------------------------------------------
+
+model AIUsage {
+  id               String  @id @default(uuid())
+  userId           String
+  user             User    @relation(fields: [userId], references: [id])
+  provider         String
+  model            String
+  tokensPrompt     Int
+  tokensCompletion Int
+  totalTokens      Int
+  latencyMs        Int
+  promptType       String?
+
+  createdAt DateTime @default(now())
+
+  @@index([userId])
+}
+
+model ProviderMetrics {
+  id           String  @id @default(uuid())
+  provider     String
+  endpoint     String
+  statusCode   Int
+  latencyMs    Int
+  isError      Boolean @default(false)
+  errorMessage String?
+
+  createdAt DateTime @default(now())
+}
+
+model WorkflowExecution {
+  id           String @id @default(uuid())
+  workflowName String
+  userId       String
+  status       String
+  durationMs   Int?
+  metadata     Json?
+
+  createdAt DateTime @default(now())
+}
+
+model PromptExecution {
+  id        String @id @default(uuid())
+  promptId  String
+  provider  String
+  model     String
+  status    String
+  latencyMs Int?
+
+  createdAt DateTime @default(now())
+}
+
+model ToolExecution {
+  id        String @id @default(uuid())
+  toolName  String
+  userId    String
+  status    String
+  latencyMs Int?
+
+  createdAt DateTime @default(now())
+}
+
+// ---------------------------------------------------------
+// Saved Places, Collections & Dashboard
+// ---------------------------------------------------------
+
+model SavedDestination {
+  id            String      @id @default(uuid())
+  userId        String
+  user          User        @relation(fields: [userId], references: [id])
+  destinationId String
+  destination   Destination @relation(fields: [destinationId], references: [id])
+  notes         String?
+  createdAt     DateTime    @default(now())
+
+  @@unique([userId, destinationId])
+}
+
+model Collection {
+  id           String                  @id @default(uuid())
+  userId       String
+  user         User                    @relation(fields: [userId], references: [id])
+  title        String
+  isPublic     Boolean                 @default(false)
+  createdAt    DateTime                @default(now())
+  updatedAt    DateTime                @updatedAt
+  destinations CollectionDestination[]
+}
+
+model CollectionDestination {
+  id            String      @id @default(uuid())
+  collectionId  String
+  collection    Collection  @relation(fields: [collectionId], references: [id], onDelete: Cascade)
+  destinationId String
+  destination   Destination @relation(fields: [destinationId], references: [id])
+  addedAt       DateTime    @default(now())
+
+  @@unique([collectionId, destinationId])
+}
+
+model RecentActivity {
+  id        String   @id @default(uuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id])
+  action    String // e.g., 'TRIP_CREATED', 'DESTINATION_SAVED'
+  metadata  Json?
+  createdAt DateTime @default(now())
+}
+
+model TripStatistics {
+  id               String   @id @default(uuid())
+  userId           String   @unique
+  user             User     @relation(fields: [userId], references: [id])
+  countriesCount   Int      @default(0)
+  citiesCount      Int      @default(0)
+  totalTrips       Int      @default(0)
+  budgetSaved      Float    @default(0)
+  daysTraveled     Int      @default(0)
+  savedPlacesCount Int      @default(0)
+  collectionsCount Int      @default(0)
+  updatedAt        DateTime @updatedAt
+}

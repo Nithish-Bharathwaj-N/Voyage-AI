@@ -1,0 +1,17 @@
+{
+  "name": "@voyageai/logger",
+  "version": "0.1.0",
+  "private": true,
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "scripts": {
+    "lint": "eslint src/",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "pino": "^8.20.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}

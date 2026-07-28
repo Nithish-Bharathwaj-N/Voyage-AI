@@ -1,0 +1,108 @@
+export enum TravelStyle {
+  LUXURY = 'LUXURY',
+  BACKPACKER = 'BACKPACKER',
+  FAMILY = 'FAMILY',
+  ROMANTIC = 'ROMANTIC',
+  ADVENTURE = 'ADVENTURE',
+  BUSINESS = 'BUSINESS',
+}
+
+export enum BudgetCategory {
+  BUDGET = 'BUDGET',
+  MODERATE = 'MODERATE',
+  LUXURY = 'LUXURY',
+  NO_LIMIT = 'NO_LIMIT',
+}
+
+export enum AccommodationType {
+  HOTEL = 'HOTEL',
+  HOSTEL = 'HOSTEL',
+  RESORT = 'RESORT',
+  RENTAL = 'RENTAL',
+  CAMPING = 'CAMPING',
+}
+
+export enum ActivityCategory {
+  SIGHTSEEING = 'SIGHTSEEING',
+  DINING = 'DINING',
+  TRANSIT = 'TRANSIT',
+  LEISURE = 'LEISURE',
+  ADVENTURE = 'ADVENTURE',
+  CULTURE = 'CULTURE',
+  NIGHTLIFE = 'NIGHTLIFE',
+}
+
+export enum TransportMode {
+  FLIGHT = 'FLIGHT',
+  TRAIN = 'TRAIN',
+  BUS = 'BUS',
+  TAXI = 'TAXI',
+  WALKING = 'WALKING',
+  RENTAL_CAR = 'RENTAL_CAR',
+}
+
+export enum WeatherCondition {
+  SUNNY = 'SUNNY',
+  CLOUDY = 'CLOUDY',
+  RAIN = 'RAIN',
+  SNOW = 'SNOW',
+  STORMY = 'STORMY',
+  CLEAR_NIGHT = 'CLEAR_NIGHT',
+}
+
+export enum ReservationStatus {
+  PENDING = 'PENDING',
+  CONFIRMED = 'CONFIRMED',
+  CANCELLED = 'CANCELLED',
+  WAITLISTED = 'WAITLISTED',
+}
+
+export enum NotificationType {
+  SYSTEM_ALERT = 'SYSTEM_ALERT',
+  TRIP_UPDATE = 'TRIP_UPDATE',
+  WEATHER_WARNING = 'WEATHER_WARNING',
+  BUDGET_ALERT = 'BUDGET_ALERT',
+  PROMOTIONAL = 'PROMOTIONAL',
+}
+
+export enum TripStatus {
+  DRAFT = 'DRAFT',
+  PLANNING = 'PLANNING',
+  UPCOMING = 'UPCOMING',
+  COMPLETED = 'COMPLETED',
+  CANCELLED = 'CANCELLED',
+}
+
+export enum ReviewVisibility {
+  PUBLIC = 'PUBLIC',
+  FRIENDS_ONLY = 'FRIENDS_ONLY',
+  PRIVATE = 'PRIVATE',
+}
+
+export enum PlannerState {
+  IDLE = 'IDLE',
+  GENERATING = 'GENERATING',
+  REFINING = 'REFINING',
+  ERROR = 'ERROR',
+  SUCCESS = 'SUCCESS',
+}
+
+export enum MapLayer {
+  STREET = 'STREET',
+  SATELLITE = 'SATELLITE',
+  TERRAIN = 'TERRAIN',
+  TRANSIT = 'TRANSIT',
+}
+
+export enum SearchType {
+  DESTINATION = 'DESTINATION',
+  PLACE = 'PLACE',
+  USER = 'USER',
+  TRIP = 'TRIP',
+}
+
+export enum AIReasoningMode {
+  FAST_INTENT = 'FAST_INTENT',
+  DEEP_SYNTHESIS = 'DEEP_SYNTHESIS',
+  SCHEMA_RECOVERY = 'SCHEMA_RECOVERY',
+}

@@ -1,0 +1,24 @@
+{
+  "name": "@voyageai/db",
+  "version": "0.1.0",
+  "private": true,
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "scripts": {
+    "lint": "eslint src/",
+    "typecheck": "tsc --noEmit",
+    "db:generate": "prisma generate",
+    "db:push": "prisma db push",
+    "db:seed": "ts-node src/seed/index.ts"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.17.0",
+    "@voyageai/types": "workspace:*",
+    "@voyageai/shared": "workspace:*"
+  },
+  "devDependencies": {
+    "prisma": "^5.17.0",
+    "typescript": "^5.5.3",
+    "ts-node": "^10.9.2"
+  }
+}

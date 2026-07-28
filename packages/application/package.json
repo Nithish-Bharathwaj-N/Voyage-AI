@@ -1,0 +1,30 @@
+{
+  "name": "@voyageai/application",
+  "version": "0.1.0",
+  "private": true,
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "scripts": {
+    "lint": "eslint src/",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@voyageai/types": "workspace:*",
+    "@voyageai/shared": "workspace:*",
+    "@voyageai/db": "workspace:*",
+    "@voyageai/planner-engine": "workspace:*",
+    "@voyageai/knowledge-engine": "workspace:*",
+    "@voyageai/recommendation-engine": "workspace:*",
+    "@voyageai/search-engine": "workspace:*",
+    "@voyageai/budget-engine": "workspace:*",
+    "@voyageai/routing-engine": "workspace:*",
+    "@voyageai/weather-engine": "workspace:*",
+    "@voyageai/destination-engine": "workspace:*",
+    "@voyageai/preference-engine": "workspace:*",
+    "@voyageai/analytics-engine": "workspace:*",
+    "@voyageai/notification-engine": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}

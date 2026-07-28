@@ -1,0 +1,21 @@
+{
+  "name": "@voyageai/travel-services",
+  "version": "0.1.0",
+  "private": true,
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "scripts": {
+    "lint": "eslint src/",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@voyageai/types": "workspace:*",
+    "@voyageai/utils": "workspace:*",
+    "axios": "^1.7.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.3",
+    "vitest": "^2.0.2"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "@voyageai/ai-orchestrator",
+  "version": "0.1.0",
+  "private": true,
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.112.3",
+    "@google/genai": "^2.12.0",
+    "@voyageai/db": "workspace:*",
+    "@voyageai/knowledge-engine": "workspace:*",
+    "@voyageai/planner-engine": "workspace:*",
+    "openai": "^6.48.0",
+    "zod": "^3.23.8",
+    "zod-to-json-schema": "^3.25.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}
