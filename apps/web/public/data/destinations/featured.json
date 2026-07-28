@@ -1,0 +1,362 @@
+[
+  {
+    "id": "leh-ladakh-01",
+    "slug": "leh-ladakh",
+    "name": "Leh Ladakh",
+    "state": "Ladakh",
+    "country": "India",
+    "category": "Adventure",
+    "description": "Leh Ladakh is a thrilling hub for adventure sports and Himalayan exploration in Ladakh, India. Known for its High Altitude and Monasteries, it offers an unforgettable experience for every type of trav",
+    "rating": 4.9,
+    "reviewCount": 46308,
+    "idealDuration": "3-4 days",
+    "bestSeason": "April to September",
+    "budget": "Mid-range",
+    "coverImage": "https://images.unsplash.com/photo-1568454537842-d933259bb258?w=1200&q=80",
+    "tags": [
+      "High Altitude",
+      "Monasteries",
+      "Lakes",
+      "Motorcycle"
+    ],
+    "familyFriendly": true,
+    "coupleFriendly": true,
+    "soloFriendly": true,
+    "adventureScore": 9,
+    "hiddenGem": false,
+    "coordinates": {
+      "lat": 34.1526,
+      "lng": 77.577
+    }
+  },
+  {
+    "id": "andaman-01",
+    "slug": "andaman",
+    "name": "Andaman",
+    "state": "Andaman & Nicobar",
+    "country": "India",
+    "category": "Beach",
+    "description": "Andaman is a breathtaking coastal paradise known for pristine beaches and azure waters in Andaman & Nicobar, India. Known for its Beach and Snorkeling, it offers an unforgettable experience for every ",
+    "rating": 4.8,
+    "reviewCount": 36416,
+    "idealDuration": "3-4 days",
+    "bestSeason": "October to February",
+    "budget": "Mid-range",
+    "coverImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=80",
+    "tags": [
+      "Beach",
+      "Snorkeling",
+      "Islands",
+      "Diving"
+    ],
+    "familyFriendly": true,
+    "coupleFriendly": true,
+    "soloFriendly": true,
+    "adventureScore": 3,
+    "hiddenGem": false,
+    "coordinates": {
+      "lat": 11.7401,
+      "lng": 92.6586
+    }
+  },
+  {
+    "id": "manali-01",
+    "slug": "manali",
+    "name": "Manali",
+    "state": "Himachal Pradesh",
+    "country": "India",
+    "category": "Adventure",
+    "description": "Manali is a thrilling hub for adventure sports and Himalayan exploration in Himachal Pradesh, India. Known for its Snow and Trekking, it offers an unforgettable experience for every type of traveler.",
+    "rating": 4.7,
+    "reviewCount": 26841,
+    "idealDuration": "3-4 days",
+    "bestSeason": "April to September",
+    "budget": "Mid-range",
+    "coverImage": "https://images.unsplash.com/photo-1613395877344-13d4a8e0d49e?w=1200&q=80",
+    "tags": [
+      "Snow",
+      "Trekking",
+      "Adventure",
+      "Honeymoon"
+    ],
+    "familyFriendly": true,
+    "coupleFriendly": true,
+    "soloFriendly": true,
+    "adventureScore": 9,
+    "hiddenGem": false,
+    "coordinates": {
+      "lat": 32.2396,
+      "lng": 77.1887
+    }
+  },
+  {
+    "id": "lakshadweep-01",
+    "slug": "lakshadweep",
+    "name": "Lakshadweep",
+    "state": "Lakshadweep",
+    "country": "India",
+    "category": "Beach",
+    "description": "Lakshadweep is a breathtaking coastal paradise known for pristine beaches and azure waters in Lakshadweep, India. Known for its Lagoon and Coral, it offers an unforgettable experience for every type o",
+    "rating": 4.7,
+    "reviewCount": 18480,
+    "idealDuration": "3-4 days",
+    "bestSeason": "October to February",
+    "budget": "Luxury",
+    "coverImage": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=1200&q=80",
+    "tags": [
+      "Lagoon",
+      "Coral",
+      "Islands",
+      "Remote"
+    ],
+    "familyFriendly": true,
+    "coupleFriendly": true,
+    "soloFriendly": true,
+    "adventureScore": 3,
+    "hiddenGem": false,
+    "coordinates": {
+      "lat": 10.5667,
+      "lng": 72.6417
+    }
+  },
+  {
+    "id": "udaipur-01",
+    "slug": "udaipur",
+    "name": "Udaipur",
+    "state": "Rajasthan",
+    "country": "India",
+    "category": "Culture",
+    "description": "Udaipur is a culturally rich destination steeped in history, art, and heritage in Rajasthan, India. Known for its Lakes and Palace, it offers an unforgettable experience for every type of traveler.",
+    "rating": 4.7,
+    "reviewCount": 31745,
+    "idealDuration": "3-4 days",
+    "bestSeason": "October to March",
+    "budget": "Mid-range",
+    "coverImage": "https://images.unsplash.com/photo-1588416499018-d8c621e7d2c2?w=1200&q=80",
+    "tags": [
+      "Lakes",
+      "Palace",
+      "Romance",
+      "Rajasthan"
+    ],
+    "familyFriendly": true,
+    "coupleFriendly": true,
+    "soloFriendly": true,
+    "adventureScore": 3,
+    "hiddenGem": false,
+    "coordinates": {
+      "lat": 24.5854,
+      "lng": 73.7125
+    }
+  },
+  {
+    "id": "srinagar-01",
+    "slug": "srinagar",
+    "name": "Srinagar",
+    "state": "Jammu & Kashmir",
+    "country": "India",
+    "category": "Nature",
+    "description": "Srinagar is a serene natural paradise surrounded by lush landscapes and scenic beauty in Jammu & Kashmir, India. Known for its Dal Lake and Houseboats, it offers an unforgettable experience for every ",
+    "rating": 4.7,
+    "reviewCount": 12337,
+    "idealDuration": "3-4 days",
+    "bestSeason": "October to March",
+    "budget": "Mid-range",
+    "coverImage": "https://images.unsplash.com/photo-1566837945700-30057527ade0?w=1200&q=80",
+    "tags": [
+      "Dal Lake",
+      "Houseboats",
+      "Gardens",
+      "Mountains"
+    ],
+    "familyFriendly": true,
+    "coupleFriendly": true,
+    "soloFriendly": true,
+    "adventureScore": 6,
+    "hiddenGem": false,
+    "coordinates": {
+      "lat": 34.0837,
+      "lng": 74.7973
+    }
+  },
+  {
+    "id": "munnar-01",
+    "slug": "munnar",
+    "name": "Munnar",
+    "state": "Kerala",
+    "country": "India",
+    "category": "Nature",
+    "description": "Munnar is a serene natural paradise surrounded by lush landscapes and scenic beauty in Kerala, India. Known for its Tea Gardens and Misty, it offers an unforgettable experience for every type of trave",
+    "rating": 4.7,
+    "reviewCount": 15794,
+    "idealDuration": "3-4 days",
+    "bestSeason": "October to March",
+    "budget": "Mid-range",
+    "coverImage": "https://images.unsplash.com/photo-1590674899484-d5640e854abe?w=1200&q=80",
+    "tags": [
+      "Tea Gardens",
+      "Misty",
+      "Kerala",
+      "Nature"
+    ],
+    "familyFriendly": true,
+    "coupleFriendly": true,
+    "soloFriendly": true,
+    "adventureScore": 6,
+    "hiddenGem": false,
+    "coordinates": {
+      "lat": 10.0889,
+      "lng": 77.0595
+    }
+  },
+  {
+    "id": "rishikesh-01",
+    "slug": "rishikesh",
+    "name": "Rishikesh",
+    "state": "Uttarakhand",
+    "country": "India",
+    "category": "Adventure",
+    "description": "Rishikesh is a thrilling hub for adventure sports and Himalayan exploration in Uttarakhand, India. Known for its Yoga and Rafting, it offers an unforgettable experience for every type of traveler.",
+    "rating": 4.7,
+    "reviewCount": 20048,
+    "idealDuration": "3-4 days",
+    "bestSeason": "April to September",
+    "budget": "Budget",
+    "coverImage": "https://images.unsplash.com/photo-1544635808-c2ef6a8bdc35?w=1200&q=80",
+    "tags": [
+      "Yoga",
+      "Rafting",
+      "Spiritual",
+      "Adventure"
+    ],
+    "familyFriendly": true,
+    "coupleFriendly": true,
+    "soloFriendly": true,
+    "adventureScore": 9,
+    "hiddenGem": false,
+    "coordinates": {
+      "lat": 30.0869,
+      "lng": 78.2676
+    }
+  },
+  {
+    "id": "alleppey-01",
+    "slug": "alleppey",
+    "name": "Alleppey",
+    "state": "Kerala",
+    "country": "India",
+    "category": "Nature",
+    "description": "Alleppey is a serene natural paradise surrounded by lush landscapes and scenic beauty in Kerala, India. Known for its Backwaters and Houseboat, it offers an unforgettable experience for every type of ",
+    "rating": 4.7,
+    "reviewCount": 33580,
+    "idealDuration": "3-4 days",
+    "bestSeason": "October to March",
+    "budget": "Mid-range",
+    "coverImage": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=1200&q=80",
+    "tags": [
+      "Backwaters",
+      "Houseboat",
+      "Kerala",
+      "Lagoon"
+    ],
+    "familyFriendly": true,
+    "coupleFriendly": true,
+    "soloFriendly": true,
+    "adventureScore": 6,
+    "hiddenGem": false,
+    "coordinates": {
+      "lat": 9.4981,
+      "lng": 76.3388
+    }
+  },
+  {
+    "id": "amritsar-01",
+    "slug": "amritsar",
+    "name": "Amritsar",
+    "state": "Punjab",
+    "country": "India",
+    "category": "Pilgrimage",
+    "description": "Amritsar is one of India's most sacred pilgrimage destinations drawing millions of devotees in Punjab, India. Known for its Golden Temple and Sikh, it offers an unforgettable experience for every type",
+    "rating": 4.7,
+    "reviewCount": 30262,
+    "idealDuration": "3-4 days",
+    "bestSeason": "October to March",
+    "budget": "Budget",
+    "coverImage": "https://images.unsplash.com/photo-1518639192441-8fce0a366e2e?w=1200&q=80",
+    "tags": [
+      "Golden Temple",
+      "Sikh",
+      "Wagah Border",
+      "Food"
+    ],
+    "familyFriendly": true,
+    "coupleFriendly": true,
+    "soloFriendly": true,
+    "adventureScore": 3,
+    "hiddenGem": false,
+    "coordinates": {
+      "lat": 31.634,
+      "lng": 74.8723
+    }
+  },
+  {
+    "id": "jaisalmer-01",
+    "slug": "jaisalmer",
+    "name": "Jaisalmer",
+    "state": "Rajasthan",
+    "country": "India",
+    "category": "Adventure",
+    "description": "Jaisalmer is a thrilling hub for adventure sports and Himalayan exploration in Rajasthan, India. Known for its Desert and Sand Dunes, it offers an unforgettable experience for every type of traveler.",
+    "rating": 4.7,
+    "reviewCount": 17834,
+    "idealDuration": "3-4 days",
+    "bestSeason": "April to September",
+    "budget": "Mid-range",
+    "coverImage": "https://images.unsplash.com/photo-1519832979-6fa011b87667?w=1200&q=80",
+    "tags": [
+      "Desert",
+      "Sand Dunes",
+      "Camel",
+      "Fort"
+    ],
+    "familyFriendly": true,
+    "coupleFriendly": true,
+    "soloFriendly": true,
+    "adventureScore": 9,
+    "hiddenGem": false,
+    "coordinates": {
+      "lat": 26.9157,
+      "lng": 70.9083
+    }
+  },
+  {
+    "id": "wayanad-01",
+    "slug": "wayanad",
+    "name": "Wayanad",
+    "state": "Kerala",
+    "country": "India",
+    "category": "Nature",
+    "description": "Wayanad is a serene natural paradise surrounded by lush landscapes and scenic beauty in Kerala, India. Known for its Wildlife and Tea, it offers an unforgettable experience for every type of traveler.",
+    "rating": 4.7,
+    "reviewCount": 47767,
+    "idealDuration": "3-4 days",
+    "bestSeason": "October to March",
+    "budget": "Mid-range",
+    "coverImage": "https://images.unsplash.com/photo-1600680087461-b1f7e8e0a9f0?w=1200&q=80",
+    "tags": [
+      "Wildlife",
+      "Tea",
+      "Kerala",
+      "Waterfalls"
+    ],
+    "familyFriendly": true,
+    "coupleFriendly": true,
+    "soloFriendly": true,
+    "adventureScore": 6,
+    "hiddenGem": false,
+    "coordinates": {
+      "lat": 11.6854,
+      "lng": 76.132
+    }
+  }
+]

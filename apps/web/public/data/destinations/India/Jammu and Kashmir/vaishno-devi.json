@@ -1,0 +1,217 @@
+{
+  "id": "vaishnodevi-01",
+  "slug": "vaishno-devi",
+  "name": "Vaishno Devi",
+  "state": "Jammu and Kashmir",
+  "country": "India",
+  "category": "Pilgrimage",
+  "budget": "Budget",
+  "rating": 4.8,
+  "reviewCount": 45000,
+  "coordinates": {
+    "lat": 33.0298,
+    "lng": 74.9482
+  },
+  "altitude": 1584,
+  "coverImage": "https://images.unsplash.com/photo-1621213076115-cb3e7e22026f",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1621213076115-cb3e7e22026f",
+    "https://images.unsplash.com/photo-1590768997368-20455fb4e2d3",
+    "https://images.unsplash.com/photo-1629824638703-91147a46f5de"
+  ],
+  "description": "Vaishno Devi is one of the most revered and visited Hindu pilgrimage sites in the world, located at an altitude of 5200 feet in the Trikuta Mountains. The holy cave shrine is dedicated to Goddess Shakti (Mata Vaishno Devi), manifested in the form of three natural rock formations called Pindis. The spiritual journey involves a scenic and challenging 12km trek from the base camp at Katra, drawing over 8 million devotees annually who chant \"Jai Mata Di\" throughout the climb, creating a powerful atmosphere of faith and devotion.",
+  "history": "The shrine's origins are shrouded in ancient mythology, linked to the epic Mahabharata. It is believed that the Goddess meditated in the cave to attain spiritual enlightenment and later merged with the astral forms of the three Supreme Energies.",
+  "bestSeason": "March to October",
+  "idealDuration": "2-3 Days",
+  "temperature": "5°C to 25°C",
+  "nearestAirport": "Jammu (IXJ) 50km",
+  "nearestRailwayStation": "Katra Station (SVDK)",
+  "nearestBusStand": "Katra Bus Stand",
+  "tags": [
+    "Pilgrimage",
+    "Trek",
+    "Himalayas",
+    "Shrine",
+    "Devotion"
+  ],
+  "familyFriendly": true,
+  "coupleFriendly": true,
+  "soloFriendly": true,
+  "hiddenGem": false,
+  "adventureScore": 6,
+  "luxuryScore": 3,
+  "budgetScore": 8,
+  "topAttractions": [
+    {
+      "name": "Vaishno Devi Cave (Bhawan)",
+      "description": "The main holy cave containing the three Pindis (Maha Kali, Maha Lakshmi, Maha Saraswati).",
+      "location": "Trikuta Mountains"
+    },
+    {
+      "name": "Bhairavnath Temple",
+      "description": "A temple 2km above Bhawan; the pilgrimage is considered incomplete without visiting here.",
+      "location": "Above Bhawan"
+    },
+    {
+      "name": "Ardhkuwari",
+      "description": "The halfway point of the trek, featuring a narrow cave where the Goddess is said to have meditated for 9 months.",
+      "location": "Midway trek"
+    },
+    {
+      "name": "Ban Ganga",
+      "description": "The starting point of the trek, a sacred river where devotees bathe before starting the climb.",
+      "location": "Katra"
+    },
+    {
+      "name": "Sanjichhat",
+      "description": "A scenic plateau 2km before Bhawan, offering stunning mountain views and the helipad location.",
+      "location": "Trek route"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Trek to Bhawan (12km)",
+      "price": "Free"
+    },
+    {
+      "name": "Helicopter Ride (Katra to Sanjichhat)",
+      "price": "INR 1830 one-way"
+    },
+    {
+      "name": "Ropeway (Bhawan to Bhairavnath)",
+      "price": "INR 100 return"
+    },
+    {
+      "name": "Pony/Palanquin Ride",
+      "price": "INR 1000-3000"
+    },
+    {
+      "name": "Battery Car Ride (Ardhkuwari to Bhawan)",
+      "price": "INR 350"
+    },
+    {
+      "name": "Attend Evening Aarti",
+      "price": "Free/Donation"
+    },
+    {
+      "name": "Take a dip in Ban Ganga",
+      "price": "Free"
+    },
+    {
+      "name": "Enjoy Langar (Free Food)",
+      "price": "Free"
+    }
+  ],
+  "localFood": [
+    "Rajma Chawal",
+    "Kadhi Chawal",
+    "Chole Bhature",
+    "Kashmiri Pulao",
+    "Khatta Meat (Not allowed in Katra/Trek)",
+    "Patisa"
+  ],
+  "shopping": [
+    "Katra Main Bazaar",
+    "Prasad stalls",
+    "Dry fruits (Walnuts, Almonds)",
+    "Kashmiri handicrafts",
+    "Religious souvenirs"
+  ],
+  "culture": "The culture is deeply religious and revolves around the worship of the Goddess. The environment in Katra and on the trek is strictly vegetarian and alcohol-free, filled with chants and hymns.",
+  "festivals": [
+    "Navratri (Mar/Apr & Sep/Oct)",
+    "Diwali (Oct/Nov)",
+    "Lohri (Jan)"
+  ],
+  "hotels": [
+    {
+      "name": "Welcomhotel by ITC Hotels, Katra",
+      "price": "INR 6000-12000"
+    },
+    {
+      "name": "KC Residency Katra",
+      "price": "INR 4000-8000"
+    },
+    {
+      "name": "Hotel The Royal Krishna",
+      "price": "INR 3000-6000"
+    },
+    {
+      "name": "Shri Mata Vaishno Devi Shrine Board (SMVDSB) Accommodations",
+      "price": "INR 500-2000"
+    },
+    {
+      "name": "Hotel Subash International",
+      "price": "INR 2500-5000"
+    },
+    {
+      "name": "Lemon Tree Hotel Katra",
+      "price": "INR 4500-9000"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Prem Vaishno Dhaba",
+      "cuisine": "North Indian/Thali"
+    },
+    {
+      "name": "Manoranjan Dhaba",
+      "cuisine": "North Indian Veg"
+    },
+    {
+      "name": "Sagar Ratna",
+      "cuisine": "South Indian/North Indian"
+    },
+    {
+      "name": "Shrine Board Bhojanalayas",
+      "cuisine": "Basic Veg Meals"
+    },
+    {
+      "name": "Madhuban",
+      "cuisine": "Sattvic Multi-cuisine"
+    }
+  ],
+  "travelTips": [
+    "RFID registration is compulsory before starting the trek at Katra",
+    "Book helicopter tickets 60 days in advance online",
+    "Pack light for the trek, lockers are available",
+    "Wear comfortable walking shoes with good grip",
+    "The trek is steep, consider ponies or battery cars if unfit",
+    "Yatra Parchi (slip) is required for darshan"
+  ],
+  "packingTips": [
+    "Sturdy trekking shoes",
+    "Warm clothes (especially in winter)",
+    "Raincoat/Umbrella",
+    "Walking stick (available on rent)",
+    "Water bottle and light snacks"
+  ],
+  "weather": {
+    "summer": "15°C to 30°C (May to July)",
+    "monsoon": "12°C to 25°C (August to September)",
+    "winter": "-5°C to 15°C (October to April - Snowfall possible)"
+  },
+  "transport": [
+    "Auto Rickshaw in Katra (INR 100-200)",
+    "Ponies (INR 1000-1500)",
+    "Helicopter (INR 1830)",
+    "Battery Car (INR 350)"
+  ],
+  "itineraries": [
+    {
+      "name": "Classic Yatra",
+      "days": 2,
+      "activities": [
+        "Day 1: Arrive in Katra, get RFID, start evening trek, reach Bhawan",
+        "Day 2: Early morning Darshan, Ropeway to Bhairavnath, trek down to Katra"
+      ]
+    },
+    {
+      "name": "Helicopter Pilgrimage",
+      "days": 1,
+      "activities": [
+        "Day 1: Helicopter Katra to Sanjichhat, 2km walk to Bhawan, Darshan, Return helicopter"
+      ]
+    }
+  ]
+}
